@@ -9,7 +9,7 @@ research_images:
     secondary: "/uploads/scraped/cmos-array.jpg"
   auditory:
     main: "/uploads/scraped/lab-visualization.jpg"
-    secondary: "/uploads/scraped/waveform.jpg"
+    secondary: "/uploads/scraped/maxlab.png"
   clinical:
     main: "/uploads/scraped/ecog-electrode.jpg"
     secondary: "/uploads/scraped/microelectrode-arrays.jpg"
