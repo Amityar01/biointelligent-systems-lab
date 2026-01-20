@@ -580,7 +580,7 @@ export default function Home() {
               <article key={book.id} className="card p-10 flex flex-col group bio-pulse bg-gradient-to-br from-[var(--bg-elevated)] to-[var(--bg-alt)]">
                 <div className="aspect-[3/4] mb-8 relative rounded-xl overflow-hidden glass shadow-2xl scale-95 group-hover:scale-100 transition-transform duration-500">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={book.amazon ? `https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&q=80` : labImages.books.lifeIntelligence} alt={book.title} className="w-full h-full object-cover" />
+                  <img src={book.image || labImages.books.lifeIntelligence} alt={book.title} className="w-full h-full object-cover" />
                 </div>
                 <div className="flex items-center gap-4 mb-4">
                   <span className="tag glass-pill text-[10px]">{book.year}</span>

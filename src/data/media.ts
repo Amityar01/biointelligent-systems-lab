@@ -36,6 +36,7 @@ export const books: Book[] = [
     descriptionJa: '生命知能（脳）とAIの違いを知り、AI時代に豊かで幸せな生活を送るためのヒントを提示。池谷裕二氏も「知能の本質、脳の本質を鋭く抉る異次元の一冊」と評価。',
     amazon: 'https://www.amazon.co.jp/dp/B09P88FBLQ',
     publisher_url: 'https://bookclub.kodansha.co.jp/product?item=0000350502',
+    image: '/uploads/scraped/life-intelligence-book.jpg',
   },
   {
     id: 'brain-science-for-engineers-2',
@@ -47,6 +48,7 @@ export const books: Book[] = [
     description: 'The sequel covering memory, learning, and consciousness from an engineering perspective. Continues the approach of reverse engineering the brain for engineers.',
     descriptionJa: '記憶・学習・意識を工学的視点から解説した続編。エンジニアのための脳のリバースエンジニアリングを継続。',
     amazon: 'https://www.amazon.co.jp/dp/4526077712',
+    image: '/uploads/scraped/brain-engineers-2.jpg',
   },
   {
     id: 'brain-science-for-engineers-1',
@@ -58,6 +60,7 @@ export const books: Book[] = [
     description: 'An introduction to neuroscience for engineers, approaching the brain as a system to be reverse engineered. Based on the popular serialization in Machine Design magazine.',
     descriptionJa: 'エンジニアのための脳科学入門書。脳をリバースエンジニアリングするシステムとしてアプローチ。機械設計誌の人気連載を書籍化。',
     amazon: 'https://www.amazon.co.jp/dp/4526076058',
+    image: '/uploads/scraped/brain-engineers-1.jpg',
   },
   {
     id: 'animal-songs-human-songs',
