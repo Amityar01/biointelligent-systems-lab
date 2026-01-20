@@ -2,7 +2,7 @@ backend:
   name: github
   repo: Amityar01/biointelligent-systems-lab
   branch: master
-  base_url: https://biointelligent-systems-lab.vercel.app  # Will update after deployment
+  base_url: https://site-nine-zeta-50.vercel.app
   auth_endpoint: /api/auth
 
 media_folder: public/uploads
