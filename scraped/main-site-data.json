@@ -1,0 +1,141 @@
+{
+  "site": "https://www.ne.t.u-tokyo.ac.jp/",
+  "scraped_date": "2026-01-20",
+  "pages": {
+    "index": {
+      "title": "メカ屋の脳科学-高橋宏知@東大工学部/情報理工",
+      "labName": {
+        "ja": "生命知能システム研究室",
+        "en": "Biointelligent Systems Laboratory"
+      }
+    },
+    "members": {
+      "faculty": [
+        {
+          "name_ja": "高橋宏知",
+          "name_en": "Hirokazu Takahashi",
+          "role_ja": "教授",
+          "role_en": "Professor",
+          "email": "takahashi@i.u-tokyo.ac.jp"
+        },
+        {
+          "name_ja": "白松（磯口）知世",
+          "name_en": "Tomoyo I. Shiramatsu",
+          "role_ja": "准教授",
+          "role_en": "Associate Professor",
+          "email": "t.shiramatsu@ne.t.u-tokyo.ac.jp"
+        }
+      ],
+      "staff": [
+        {
+          "name_ja": "秋田大",
+          "name_en": "Dai Akita",
+          "role_ja": "助教",
+          "role_en": "Assistant Professor",
+          "email": "d.akita@ne.t.u-tokyo.ac.jp"
+        },
+        {
+          "name_ja": "深山理",
+          "name_en": "Osamu Fukayama",
+          "role_ja": "技術専門職員",
+          "role_en": "Technical Specialist",
+          "email": "o.fukayama@ne.t.u-tokyo.ac.jp"
+        },
+        {
+          "name_ja": "Amit Yaron",
+          "name_en": "Amit Yaron",
+          "role_ja": "博士研究員",
+          "role_en": "Postdoctoral Researcher",
+          "email": "a.yaron@ne.t.u-tokyo.ac.jp"
+        }
+      ],
+      "students_d3": [
+        {"name": "Usman Abid Khan", "email": "u.khan@ne.t.u-tokyo.ac.jp"},
+        {"name": "可部泰生", "email": "y.kabe@ne.t.u-tokyo.ac.jp"},
+        {"name": "張倬", "email": "z.zhang@ne.t.u-tokyo.ac.jp"}
+      ],
+      "students_d2": [
+        {"name": "大島果林", "email": "k.oshima@ne.t.u-tokyo.ac.jp"},
+        {"name": "飯塚理子", "email": "r.iizuka@ne.t.u-tokyo.ac.jp"},
+        {"name": "張赫", "email": "h.zhang@ne.t.u-tokyo.ac.jp"}
+      ],
+      "students_d1": [
+        {"name": "許鶴馨", "email": "h.xu@ne.t.u-tokyo.ac.jp"},
+        {"name": "山木凌太朗", "email": "r.yamaki@ne.t.u-tokyo.ac.jp"}
+      ],
+      "students_m2": [
+        {"name": "大沼陽介", "email": "y.onuma@ne.t.u-tokyo.ac.jp"},
+        {"name": "川上航", "email": "w.kawakami@ne.t.u-tokyo.ac.jp"},
+        {"name": "川原佑太", "email": "y.kawahara@ne.t.u-tokyo.ac.jp"},
+        {"name": "清水聡太", "email": "s.shimizu@ne.t.u-tokyo.ac.jp"},
+        {"name": "竹花和志", "email": "k.takehana@ne.t.u-tokyo.ac.jp"},
+        {"name": "星野有佐", "email": "a.hoshino@ne.t.u-tokyo.ac.jp"}
+      ],
+      "students_m1": [
+        {"name": "池谷賢人", "email": "k.iketani@ne.t.u-tokyo.ac.jp"},
+        {"name": "金子俊一郎", "email": "s.kaneko@ne.t.u-tokyo.ac.jp"},
+        {"name": "鎌谷一生", "email": "i.kamatani@ne.t.u-tokyo.ac.jp"},
+        {"name": "間山輝紀", "email": "t.mayama@ne.t.u-tokyo.ac.jp"},
+        {"name": "イムチェヒョン", "email": "c.lim@ne.t.u-tokyo.ac.jp"},
+        {"name": "キムジュンモ", "email": "j.kim@ne.t.u-tokyo.ac.jp", "note": "休学中"}
+      ],
+      "undergraduates_b4": [
+        {"name": "安部飛悠河", "email": "h.abe@ne.t.u-tokyo.ac.jp"},
+        {"name": "生駒ひなた", "email": "h.ikoma@ne.t.u-tokyo.ac.jp"},
+        {"name": "信夫行彦", "email": "y.shinobu@ne.t.u-tokyo.ac.jp"},
+        {"name": "柴崎裕覇", "email": "y.shibasaki@ne.t.u-tokyo.ac.jp"},
+        {"name": "栁沼大輝", "email": "t.yaginuma@ne.t.u-tokyo.ac.jp"}
+      ],
+      "visitors": [
+        {"name": "Thaïs Cantegrel", "affiliation": "CentraleSupelec, Paris-Saclay University", "period": "2025年4月～9月"},
+        {"name": "Montse Flores Garcia", "affiliation": "Universitat de Barcelona", "period": "2025年9月～12月"},
+        {"name": "熊谷真一", "affiliation": "自治医大", "role": "客員研究員"}
+      ],
+      "staff_other": [
+        {"name": "本田奈津江", "role": "技術補佐員", "email": "n.honda@ne.t.u-tokyo.ac.jp"},
+        {"name": "冨永真理子", "role": "秘書", "email": "secretary@ne.t.u-tokyo.ac.jp"}
+      ]
+    },
+    "research": {
+      "description_ja": "生命知能システム研究室は，脳を機械システムのように理解し，脳のような次世代情報処理システムを創成することを目指しています．情報学･工学･神経科学を学際的に融合し，神経細胞の分散培養系からヒトの脳機能イメージングまで，さまざまなスケールの神経回路を研究対象とし，知能や意識，アートなどの創発メカニズムを探求します．",
+      "description_en": "The Biointelligent Systems Laboratory aims to understand the brain as a mechanical system and create next-generation information processing systems like the brain. We interdisciplinarily integrate informatics, engineering, and neuroscience, studying neural circuits at various scales from dissociated neuronal cultures to human brain functional imaging, exploring the emergent mechanisms of intelligence, consciousness, and art.",
+      "groups": [
+        {
+          "name_ja": "in vitroグループ",
+          "name_en": "In Vitro Group",
+          "description_ja": "神経細胞の分散培養系を主な研究対象としています．シャーレ上に神経細胞を播種すると，自発的に神経活動が始まり，自己組織的に神経回路が形成されます．"
+        },
+        {
+          "name_ja": "in vivoグループ",
+          "name_en": "In Vivo Group",
+          "description_ja": "ラットの聴覚系を主な研究対象としています．情報理論や機械学習を駆使して，微小電極アレイで得た神経活動パターンから情報を読み出す技術を開発しています．"
+        },
+        {
+          "name_ja": "humanグループ",
+          "name_en": "Human Group",
+          "description_ja": "ヒトの脳を研究対象としています．脳波やMRIを利用して，ブレイン-マシン・インターフェースの開発や認知科学の研究を進めています．"
+        }
+      ]
+    }
+  },
+  "images": [
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/image3.jpg", "description": "Life Intelligence book cover"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/61Ghjgu90YL._SX352_BO1,204,203,200_[1].jpg", "description": "Brain Science for Engineers 2"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/51prEWgW7AL1._SX353_BO1,204,203,200_[1].jpg", "description": "Brain Science for Engineers 1"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/research6.png", "description": "Research diagram"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/fig92.png", "description": "Figure diagram"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/maxlab1.png", "description": "MaxLab recording"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/_DSF69951.jpg", "description": "Lab photo"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/eng12.jpg", "description": "Lab visualization"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/image1.jpg", "description": "Neuronal culture"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/image.jpg", "description": "CMOS array"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/image4.jpg", "description": "Microelectrode arrays"},
+    {"src": "https://www.ne.t.u-tokyo.ac.jp/image31.jpg", "description": "ECoG electrode"}
+  ],
+  "contact": {
+    "address_ja": "〒113-8656 東京都文京区本郷７－３－１ 工学部２号館 81B",
+    "address_en": "Engineering Bldg. 2, Room 81B, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan",
+    "tel": "03-5841-6318",
+    "email": "takahashi@i.u-tokyo.ac.jp"
+  }
+}

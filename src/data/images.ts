@@ -1,51 +1,54 @@
-// Lab images from official sources
+// Lab images - using locally scraped images from original lab sites
+// These images were downloaded by scripts/import-scraped-to-cms.ts
+// and can be managed via Decap CMS at content/settings/homepage.yaml
+
 export const labImages = {
   // Hero/Banner images
   hero: {
     // Main banner from department page - shows neural network visualization
-    banner: 'https://www.kikaib.t.u-tokyo.ac.jp/wp-content/uploads/2024/03/simei_chino_topimg-scaled.jpg',
-    bannerMobile: 'https://www.kikaib.t.u-tokyo.ac.jp/wp-content/uploads/2024/03/m_seimei_chino_tpimg.jpg',
+    banner: '/uploads/scraped/hero-banner.jpg',
+    bannerMobile: '/uploads/scraped/hero-banner-mobile.jpg',
   },
 
-  // Faculty photos (higher quality alternatives)
+  // Faculty photos
   faculty: {
-    takahashi: 'https://www.kikaib.t.u-tokyo.ac.jp/wp-content/uploads/elementor/thumbs/seimei_takahashi_t-qkjq5n5l2xpr4rmajni215jz7tvzbkr4ffnd7lr8sw.jpg',
-    shiramatsu: 'https://www.kikaib.t.u-tokyo.ac.jp/wp-content/uploads/elementor/thumbs/seimei_shiramatsu_t-qkjq5m7qw3ogt5nnp53fgnsimg0m3vne3azvqbsmz4.jpg',
+    takahashi: '/uploads/scraped/takahashi.jpg',
+    shiramatsu: '/uploads/scraped/shiramatsu.jpg',
   },
 
   // Research equipment and experiments
   research: {
     // Lab overview/visualization
-    labVisualization: 'https://www.ne.t.u-tokyo.ac.jp/eng12.jpg',
+    labVisualization: '/uploads/scraped/lab-visualization.jpg',
 
     // Neural cultures - In Vitro
-    neuronalCulture: 'https://www.ne.t.u-tokyo.ac.jp/image1.jpg',
+    neuronalCulture: '/uploads/scraped/neuronal-culture.jpg',
 
     // CMOS array - key technology
-    cmosArray: 'https://www.ne.t.u-tokyo.ac.jp/image.jpg',
+    cmosArray: '/uploads/scraped/cmos-array.jpg',
 
     // Microelectrode arrays
-    microelectrodeArrays: 'https://www.ne.t.u-tokyo.ac.jp/image4.jpg',
+    microelectrodeArrays: '/uploads/scraped/microelectrode-arrays.jpg',
 
     // ECoG electrode array - Clinical
-    ecogElectrode: 'https://www.ne.t.u-tokyo.ac.jp/image31.jpg',
+    ecogElectrode: '/uploads/scraped/ecog-electrode.jpg',
 
     // Research diagrams
-    researchDiagram: 'https://www.ne.t.u-tokyo.ac.jp/research6.png',
-    figDiagram: 'https://www.ne.t.u-tokyo.ac.jp/fig92.png',
+    researchDiagram: '/uploads/scraped/research-diagram.png',
+    figDiagram: '/uploads/scraped/fig-diagram.png',
 
     // MaxLab recording
-    maxlab: 'https://www.ne.t.u-tokyo.ac.jp/maxlab1.png',
+    maxlab: '/uploads/scraped/maxlab.png',
 
     // Lab photo
-    labPhoto: 'https://www.ne.t.u-tokyo.ac.jp/_DSF69951.jpg',
+    labPhoto: '/uploads/scraped/lab-photo.jpg',
   },
 
   // Books by Takahashi
   books: {
-    lifeIntelligence: 'https://www.ne.t.u-tokyo.ac.jp/image3.jpg',
-    brainForEngineers1: 'https://www.ne.t.u-tokyo.ac.jp/51prEWgW7AL1._SX353_BO1,204,203,200_[1].jpg',
-    brainForEngineers2: 'https://www.ne.t.u-tokyo.ac.jp/61Ghjgu90YL._SX352_BO1,204,203,200_[1].jpg',
+    lifeIntelligence: '/uploads/scraped/life-intelligence-book.jpg',
+    brainForEngineers1: '/uploads/scraped/brain-engineers-1.jpg',
+    brainForEngineers2: '/uploads/scraped/brain-engineers-2.jpg',
   },
 
   // Stock photos for areas that need placeholders

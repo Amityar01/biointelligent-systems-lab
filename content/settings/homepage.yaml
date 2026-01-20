@@ -1,0 +1,24 @@
+# Homepage Settings
+# Managed by Decap CMS
+
+hero_image: "/uploads/scraped/hero-banner.jpg"
+
+research_images:
+  cultures:
+    main: "/uploads/scraped/neuronal-culture.jpg"
+    secondary: "/uploads/scraped/cmos-array.jpg"
+  auditory:
+    main: "/uploads/scraped/lab-visualization.jpg"
+    secondary: "/uploads/scraped/waveform.jpg"
+  clinical:
+    main: "/uploads/scraped/ecog-electrode.jpg"
+    secondary: "/uploads/scraped/microelectrode-arrays.jpg"
+
+lab_images:
+  hero_banner: "/uploads/scraped/hero-banner.jpg"
+  lab_photo: "/uploads/scraped/lab-photo.jpg"
+
+books:
+  life_intelligence: "/uploads/scraped/life-intelligence-book.jpg"
+  brain_for_engineers_1: "/uploads/scraped/brain-engineers-1.jpg"
+  brain_for_engineers_2: "/uploads/scraped/brain-engineers-2.jpg"

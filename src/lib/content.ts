@@ -318,3 +318,34 @@ export const categoryLabels: Record<string, { en: string; ja: string; color: str
 };
 
 export const newsCategories = ['all', 'publication', 'award', 'event', 'media', 'announcement'] as const;
+
+// ========================================
+// HOMEPAGE SETTINGS
+// ========================================
+
+export interface ResearchImageSet {
+  main: string;
+  secondary: string;
+}
+
+export interface HomepageSettings {
+  hero_image: string;
+  research_images: {
+    cultures: ResearchImageSet;
+    auditory: ResearchImageSet;
+    clinical: ResearchImageSet;
+  };
+  lab_images: {
+    hero_banner: string;
+    lab_photo: string;
+  };
+  books: {
+    life_intelligence: string;
+    brain_for_engineers_1: string;
+    brain_for_engineers_2: string;
+  };
+}
+
+export function getHomepageSettings(): HomepageSettings | null {
+  return readYamlFile<HomepageSettings>('settings/homepage.yaml');
+}

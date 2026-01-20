@@ -1,0 +1,63 @@
+{
+  "site": "https://www.kikaib.t.u-tokyo.ac.jp/",
+  "scraped_date": "2026-01-20",
+  "lab_page": {
+    "url": "https://www.kikaib.t.u-tokyo.ac.jp/lab/lab2/",
+    "title": "生命知能システム研究室",
+    "title_en": "Biointelligent Systems Laboratory",
+    "description_ja": "高橋・白松研究室は、脳を機械システムのように理解し、脳のような次世代情報処理システムを創成することを目指しています。情報学･工学･神経科学を学際的に融合し、神経細胞の分散培養系からヒトの脳機能イメージングまで、さまざまなスケールの神経回路を研究対象とし、知能や意識、アートなどの創発メカニズムを探求します。",
+    "description_en": "The Takahashi-Shiramatsu Laboratory aims to understand the brain as a mechanical system and create next-generation information processing systems like the brain. We interdisciplinarily integrate informatics, engineering, and neuroscience, studying neural circuits at various scales from dissociated neuronal cultures to human brain functional imaging, exploring the emergent mechanisms of intelligence, consciousness, and art.",
+    "research_examples": [
+      "脳の情報処理容量による知覚・認知機能の定量化",
+      "深層強化学習による脳活動の制御",
+      "音楽知覚・生成のための神経メカニズム",
+      "次世代補聴技術のためのブレイン・マシン・インターフェースの開発"
+    ],
+    "research_examples_en": [
+      "Quantification of perceptual/cognitive functions through brain information processing capacity",
+      "Control of brain activity through deep reinforcement learning",
+      "Neural mechanisms for music perception and generation",
+      "Development of brain-machine interfaces for next-generation hearing aid technology"
+    ]
+  },
+  "images": [
+    {
+      "src": "https://www.kikaib.t.u-tokyo.ac.jp/wp-content/uploads/2024/03/simei_chino_topimg-scaled.jpg",
+      "description": "Lab hero banner - neural network visualization",
+      "local_path": "/uploads/scraped/hero-banner.jpg"
+    },
+    {
+      "src": "https://www.kikaib.t.u-tokyo.ac.jp/wp-content/uploads/2024/03/m_seimei_chino_tpimg.jpg",
+      "description": "Lab hero banner mobile",
+      "local_path": "/uploads/scraped/hero-banner-mobile.jpg"
+    },
+    {
+      "src": "https://www.kikaib.t.u-tokyo.ac.jp/wp-content/uploads/elementor/thumbs/seimei_takahashi_t-qkjq5n5l2xpr4rmajni215jz7tvzbkr4ffnd7lr8sw.jpg",
+      "description": "Prof. Takahashi photo",
+      "local_path": "/uploads/scraped/takahashi.jpg"
+    },
+    {
+      "src": "https://www.kikaib.t.u-tokyo.ac.jp/wp-content/uploads/elementor/thumbs/seimei_shiramatsu_t-qkjq5m7qw3ogt5nnp53fgnsimg0m3vne3azvqbsmz4.jpg",
+      "description": "Assoc. Prof. Shiramatsu photo",
+      "local_path": "/uploads/scraped/shiramatsu.jpg"
+    }
+  ],
+  "faculty": [
+    {
+      "name_ja": "高橋 宏知",
+      "name_en": "Hirokazu Takahashi",
+      "role_ja": "教授",
+      "role_en": "Professor",
+      "office": "工学部2号館 81D4号室",
+      "email": "takahashi@i.u-tokyo.ac.jp"
+    },
+    {
+      "name_ja": "白松（磯口）知世",
+      "name_en": "Tomoyo I. Shiramatsu",
+      "role_ja": "准教授",
+      "role_en": "Associate Professor",
+      "office": "工学部2号館 81D3号室",
+      "email": "t.shiramatsu@ne.t.u-tokyo.ac.jp"
+    }
+  ]
+}

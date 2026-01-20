@@ -598,3 +598,44 @@ collections:
                 fields:
                   - { name: en, label: English, widget: string }
                   - { name: ja, label: Japanese, widget: string }
+
+      - name: homepage
+        label: "Homepage Settings"
+        file: content/settings/homepage.yaml
+        fields:
+          - { name: hero_image, label: Hero Image, widget: image }
+          - name: research_images
+            label: Research Images
+            widget: object
+            fields:
+              - name: cultures
+                label: In Vitro (Cultures)
+                widget: object
+                fields:
+                  - { name: main, label: Main Image, widget: image }
+                  - { name: secondary, label: Secondary Image, widget: image }
+              - name: auditory
+                label: In Vivo (Auditory)
+                widget: object
+                fields:
+                  - { name: main, label: Main Image, widget: image }
+                  - { name: secondary, label: Secondary Image, widget: image }
+              - name: clinical
+                label: Clinical
+                widget: object
+                fields:
+                  - { name: main, label: Main Image, widget: image }
+                  - { name: secondary, label: Secondary Image, widget: image }
+          - name: lab_images
+            label: Lab Images
+            widget: object
+            fields:
+              - { name: hero_banner, label: Hero Banner, widget: image }
+              - { name: lab_photo, label: Lab Photo, widget: image }
+          - name: books
+            label: Book Covers
+            widget: object
+            fields:
+              - { name: life_intelligence, label: Life Intelligence, widget: image }
+              - { name: brain_for_engineers_1, label: Brain Science for Engineers 1, widget: image }
+              - { name: brain_for_engineers_2, label: Brain Science for Engineers 2, widget: image }
