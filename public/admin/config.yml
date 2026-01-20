@@ -5,6 +5,9 @@ backend:
   base_url: https://site-nine-zeta-50.vercel.app
   auth_endpoint: /api/auth
 
+site_url: https://site-nine-zeta-50.vercel.app
+display_url: https://site-nine-zeta-50.vercel.app
+
 media_folder: public/uploads
 public_folder: /uploads
 
