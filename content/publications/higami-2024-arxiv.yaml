@@ -1,0 +1,17 @@
+id: higami-2024-arxiv
+title: "RatBodyFormer: Rodent Body Surface from Keypoints"
+authors:
+  - Higami A
+  - Oshima K
+  - Shiramatsu TI
+  - Takahashi H
+  - Nobuhara S
+  - Nishino K
+journal: arXiv
+year: 2024
+doi: 10.48550/arXiv.2412.09599
+type: preprint
+tags:
+  - deep learning
+  - behavior
+  - pose estimation

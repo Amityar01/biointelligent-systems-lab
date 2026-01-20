@@ -481,6 +481,61 @@ collections:
           - { name: ja, label: Japanese, widget: text }
 
   # ========================================
+  # PUBLICATIONS COLLECTION
+  # ========================================
+  - name: publications
+    label: "Publications"
+    label_singular: "Publication"
+    folder: content/publications
+    create: true
+    extension: yaml
+    format: yaml
+    slug: "{{id}}"
+    identifier_field: id
+    summary: "{{title}} ({{journal}}, {{year}})"
+    sortable_fields: ['year', 'title', 'journal', 'type']
+    view_filters:
+      - label: Journal Articles
+        field: type
+        pattern: 'journal'
+      - label: Conference Papers
+        field: type
+        pattern: 'conference'
+      - label: Reviews
+        field: type
+        pattern: 'review'
+      - label: Preprints
+        field: type
+        pattern: 'preprint'
+    fields:
+      - { name: id, label: ID, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - { name: title, label: Title, widget: string }
+      - name: authors
+        label: Authors
+        widget: list
+        field: { name: author, label: Author, widget: string }
+      - { name: journal, label: Journal/Venue, widget: string }
+      - { name: year, label: Year, widget: number, value_type: int, min: 1990, max: 2030 }
+      - { name: volume, label: Volume, widget: string, required: false }
+      - { name: pages, label: Pages, widget: string, required: false }
+      - { name: doi, label: DOI, widget: string, required: false }
+      - { name: pubmed, label: PubMed ID, widget: string, required: false }
+      - name: type
+        label: Type
+        widget: select
+        options:
+          - { label: "Journal Article", value: "journal" }
+          - { label: "Conference Paper", value: "conference" }
+          - { label: "Book Chapter", value: "book" }
+          - { label: "Review", value: "review" }
+          - { label: "Preprint", value: "preprint" }
+      - name: tags
+        label: Tags
+        widget: list
+        required: false
+        field: { name: tag, label: Tag, widget: string }
+
+  # ========================================
   # TRANSLATIONS (UI STRINGS)
   # ========================================
   - name: settings

@@ -1,0 +1,18 @@
+id: sawada-2022
+title: Design strategies for controlling neuron-connected robots using reinforcement learning
+authors:
+  - Sawada H
+  - Wake N
+  - Sasabuchi K
+  - Takamatsu J
+  - Takahashi H
+  - Ikeuchi K
+journal: arXiv
+year: 2022
+volume: "2203.15290"
+doi: 10.48550/arXiv.2203.15290
+type: preprint
+tags:
+  - robotics
+  - neural cultures
+  - reinforcement learning

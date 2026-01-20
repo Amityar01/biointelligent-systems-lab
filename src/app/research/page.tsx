@@ -1,143 +1,149 @@
-'use client';
-
 import Link from 'next/link';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
-import { labImages, researchImages } from '@/data/images';
+import { getHomepageSettings } from '@/lib/content';
 
 // Research areas organized by scale
-const researchAreas = [
-  {
-    id: 'emergence',
-    scale: 'In Vitro',
-    color: 'var(--calcium)',
-    title: 'Emergent Computing',
-    titleJa: '創発計算',
-    question: 'How does intelligence emerge from self-organizing neurons?',
-    image: researchImages.cultures.main,
-    description:
-      'We study how living neuronal cultures perform computation. Using high-density CMOS arrays with 10,000+ recording sites, we observe how networks self-organize to the edge of criticality and implement reservoir computing.',
-    findings: [
-      {
-        title: 'Physical Reservoir Computing',
-        desc: 'Implemented FORCE learning in living neuronal cultures, demonstrating that biological neural networks can be trained as computational reservoirs.',
-        paper: 'Applied Physics Letters, 2021',
-      },
-      {
-        title: 'Self-Organized Criticality',
-        desc: 'Discovered that noise combined with spike-timing plasticity is sufficient for neural networks to reach criticality and E/I balance.',
-        paper: 'Applied Physics Letters, 2023',
-      },
-      {
-        title: 'Deviance Detection in Cultures',
-        desc: 'Found that even simple cultures show complex temporal processing—challenging the view that hierarchical networks are required.',
-        paper: 'Frontiers in Neuroscience, 2025',
-      },
-    ],
-    topics: [
-      'Reservoir computing with living neurons',
-      'Self-organized criticality',
-      'Information processing capacity',
-      'Bio-silicon hybrid sensors',
-    ],
-  },
-  {
-    id: 'auditory',
-    scale: 'In Vivo',
-    color: 'var(--voltage)',
-    title: 'Auditory Processing',
-    titleJa: '聴覚情報処理',
-    question: 'How does the brain represent sound, music, and prediction?',
-    image: researchImages.auditory.main,
-    description:
-      'We investigate neural coding in the rodent thalamo-cortical auditory system—from basic tonotopy to complex phenomena like beat synchronization and predictive coding through mismatch negativity.',
-    findings: [
-      {
-        title: 'Beat Synchronization in Rats',
-        desc: 'First evidence of innate beat synchronization in animals. Rats bob their heads to music at 120-140 BPM—the same tempo humans prefer.',
-        paper: 'Science Advances, 2022',
-      },
-      {
-        title: 'Negative Prediction Error Neurons',
-        desc: 'Identified neurons that encode prediction errors when expected sounds are omitted, revealing the neural basis of predictive coding.',
-        paper: 'PLOS Biology, 2025',
-      },
-      {
-        title: 'Brain as Physical Reservoir',
-        desc: 'Quantified the information processing capacity of living auditory cortex, finding optimal computation at 10-18ms timescales.',
-        paper: 'Applied Physics Letters, 2023',
-      },
-    ],
-    topics: [
-      'Mismatch negativity & predictive coding',
-      'Beat synchronization & rhythm',
-      'Tonotopic organization',
-      'Auditory cortex plasticity',
-    ],
-  },
-  {
-    id: 'clinical',
-    scale: 'Clinical',
-    color: 'var(--activity)',
-    title: 'Neuromodulation',
-    titleJa: '神経変調',
-    question: 'Can we modulate brain function to treat disease?',
-    image: researchImages.clinical.main,
-    description:
-      'We develop vagus nerve stimulation (VNS) approaches and study neural dynamics in epilepsy. Our work reveals how neuromodulation affects the balance between feedforward and feedback processing in the brain.',
-    findings: [
-      {
-        title: 'VNS Frequency Effects',
-        desc: 'VNS increases gamma/beta (feedforward) via cholinergic pathways and decreases theta (feedback) via noradrenergic pathways.',
-        paper: 'Brain Stimulation, 2023',
-      },
-      {
-        title: 'Stochastic Resonance',
-        desc: 'Explained the paradox of why awake cortex has more noise but better weak signal detection through stochastic resonance.',
-        paper: 'Cerebral Cortex, 2024',
-      },
-    ],
-    topics: [
-      'Vagus nerve stimulation',
-      'Epilepsy dynamics & prediction',
-      'Feedforward vs feedback processing',
-      'Clinical neural interfaces',
-    ],
-  },
-  {
-    id: 'theory',
-    scale: 'Theoretical',
-    color: 'var(--warm)',
-    title: 'Neural Computation Theory',
-    titleJa: '神経計算理論',
-    question: 'What are the mathematical principles of brain function?',
-    image: researchImages.theory.main,
-    description:
-      'We develop theoretical frameworks to understand how physical neural dynamics translate into information processing. Our work bridges the gap between biological reality and computational theory.',
-    findings: [
-      {
-        title: 'Information Processing Capacity (IPC)',
-        desc: 'Quantified the "memory" and "computation" capacity of living neuronal networks, finding they operate at an optimal edge of chaos.',
-        paper: 'Applied Physics Letters, 2023',
-      },
-      {
-        title: 'Stochastic Resonance',
-        desc: 'Demonstrated how noise in the brain paradoxically improves the detection of weak signals, suggesting a functional role for spontaneous activity.',
-        paper: 'Cerebral Cortex, 2024',
-      },
-      {
-        title: 'Free Energy Principle & Autopoiesis',
-        desc: 'Exploring how neural networks maintain their own organization (autopoiesis) and minimize prediction error (free energy) to survive.',
-        paper: 'Artificial Life, 2020',
-      },
-    ],
-    topics: [
-      'Reservoir Computing Theory',
-      'Information Processing Capacity',
-      'Stochastic Resonance',
-      'Free Energy Principle',
-    ],
-  },
-];
+function getResearchAreas(settings: ReturnType<typeof getHomepageSettings>) {
+  const researchImages = settings?.research_images || {
+    cultures: { main: '/uploads/scraped/neuronal-culture.jpg', secondary: '/uploads/scraped/cmos-array.jpg' },
+    auditory: { main: '/uploads/scraped/lab-visualization.jpg', secondary: '/uploads/scraped/waveform.jpg' },
+    clinical: { main: '/uploads/scraped/ecog-electrode.jpg', secondary: '/uploads/scraped/microelectrode-arrays.jpg' },
+  };
+
+  return [
+    {
+      id: 'emergence',
+      scale: 'In Vitro',
+      color: 'var(--calcium)',
+      title: 'Emergent Computing',
+      titleJa: '創発計算',
+      question: 'How does intelligence emerge from self-organizing neurons?',
+      image: researchImages.cultures.main,
+      description:
+        'We study how living neuronal cultures perform computation. Using high-density CMOS arrays with 10,000+ recording sites, we observe how networks self-organize to the edge of criticality and implement reservoir computing.',
+      findings: [
+        {
+          title: 'Physical Reservoir Computing',
+          desc: 'Implemented FORCE learning in living neuronal cultures, demonstrating that biological neural networks can be trained as computational reservoirs.',
+          paper: 'Applied Physics Letters, 2021',
+        },
+        {
+          title: 'Self-Organized Criticality',
+          desc: 'Discovered that noise combined with spike-timing plasticity is sufficient for neural networks to reach criticality and E/I balance.',
+          paper: 'Applied Physics Letters, 2023',
+        },
+        {
+          title: 'Deviance Detection in Cultures',
+          desc: 'Found that even simple cultures show complex temporal processing—challenging the view that hierarchical networks are required.',
+          paper: 'Frontiers in Neuroscience, 2025',
+        },
+      ],
+      topics: [
+        'Reservoir computing with living neurons',
+        'Self-organized criticality',
+        'Information processing capacity',
+        'Bio-silicon hybrid sensors',
+      ],
+    },
+    {
+      id: 'auditory',
+      scale: 'In Vivo',
+      color: 'var(--voltage)',
+      title: 'Auditory Processing',
+      titleJa: '聴覚情報処理',
+      question: 'How does the brain represent sound, music, and prediction?',
+      image: researchImages.auditory.main,
+      description:
+        'We investigate neural coding in the rodent thalamo-cortical auditory system—from basic tonotopy to complex phenomena like beat synchronization and predictive coding through mismatch negativity.',
+      findings: [
+        {
+          title: 'Beat Synchronization in Rats',
+          desc: 'First evidence of innate beat synchronization in animals. Rats bob their heads to music at 120-140 BPM—the same tempo humans prefer.',
+          paper: 'Science Advances, 2022',
+        },
+        {
+          title: 'Negative Prediction Error Neurons',
+          desc: 'Identified neurons that encode prediction errors when expected sounds are omitted, revealing the neural basis of predictive coding.',
+          paper: 'PLOS Biology, 2025',
+        },
+        {
+          title: 'Brain as Physical Reservoir',
+          desc: 'Quantified the information processing capacity of living auditory cortex, finding optimal computation at 10-18ms timescales.',
+          paper: 'Applied Physics Letters, 2023',
+        },
+      ],
+      topics: [
+        'Mismatch negativity & predictive coding',
+        'Beat synchronization & rhythm',
+        'Tonotopic organization',
+        'Auditory cortex plasticity',
+      ],
+    },
+    {
+      id: 'clinical',
+      scale: 'Clinical',
+      color: 'var(--activity)',
+      title: 'Neuromodulation',
+      titleJa: '神経変調',
+      question: 'Can we modulate brain function to treat disease?',
+      image: researchImages.clinical.main,
+      description:
+        'We develop vagus nerve stimulation (VNS) approaches and study neural dynamics in epilepsy. Our work reveals how neuromodulation affects the balance between feedforward and feedback processing in the brain.',
+      findings: [
+        {
+          title: 'VNS Frequency Effects',
+          desc: 'VNS increases gamma/beta (feedforward) via cholinergic pathways and decreases theta (feedback) via noradrenergic pathways.',
+          paper: 'Brain Stimulation, 2023',
+        },
+        {
+          title: 'Stochastic Resonance',
+          desc: 'Explained the paradox of why awake cortex has more noise but better weak signal detection through stochastic resonance.',
+          paper: 'Cerebral Cortex, 2024',
+        },
+      ],
+      topics: [
+        'Vagus nerve stimulation',
+        'Epilepsy dynamics & prediction',
+        'Feedforward vs feedback processing',
+        'Clinical neural interfaces',
+      ],
+    },
+    {
+      id: 'theory',
+      scale: 'Theoretical',
+      color: 'var(--warm)',
+      title: 'Neural Computation Theory',
+      titleJa: '神経計算理論',
+      question: 'What are the mathematical principles of brain function?',
+      image: '/uploads/scraped/research-diagram.png',
+      description:
+        'We develop theoretical frameworks to understand how physical neural dynamics translate into information processing. Our work bridges the gap between biological reality and computational theory.',
+      findings: [
+        {
+          title: 'Information Processing Capacity (IPC)',
+          desc: 'Quantified the "memory" and "computation" capacity of living neuronal networks, finding they operate at an optimal edge of chaos.',
+          paper: 'Applied Physics Letters, 2023',
+        },
+        {
+          title: 'Stochastic Resonance',
+          desc: 'Demonstrated how noise in the brain paradoxically improves the detection of weak signals, suggesting a functional role for spontaneous activity.',
+          paper: 'Cerebral Cortex, 2024',
+        },
+        {
+          title: 'Free Energy Principle & Autopoiesis',
+          desc: 'Exploring how neural networks maintain their own organization (autopoiesis) and minimize prediction error (free energy) to survive.',
+          paper: 'Artificial Life, 2020',
+        },
+      ],
+      topics: [
+        'Reservoir Computing Theory',
+        'Information Processing Capacity',
+        'Stochastic Resonance',
+        'Free Energy Principle',
+      ],
+    },
+  ];
+}
 
 const methodologies = [
   {
@@ -163,6 +169,9 @@ const methodologies = [
 ];
 
 export default function ResearchPage() {
+  const settings = getHomepageSettings();
+  const researchAreas = getResearchAreas(settings);
+
   return (
     <div className="min-h-screen bg-[var(--bg)]">
       {/* Grid Overlay */}

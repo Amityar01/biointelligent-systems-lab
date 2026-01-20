@@ -1,0 +1,19 @@
+id: emami-2019-neuroimage
+title: Seizure detection by convolutional neural network-based analysis of scalp electroencephalography plot images
+authors:
+  - Emami A
+  - Kunii N
+  - Matsuo T
+  - Shinozaki T
+  - Kawai K
+  - Takahashi H
+journal: "NeuroImage: Clinical"
+year: 2019
+volume: "22"
+pages: "101684"
+doi: 10.1016/j.nicl.2019.101684
+type: journal
+tags:
+  - seizure detection
+  - CNN
+  - EEG

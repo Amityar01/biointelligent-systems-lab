@@ -84,6 +84,20 @@ export interface Serialization {
   description: BilingualText;
 }
 
+export interface Publication {
+  id: string;
+  title: string;
+  authors: string[];
+  journal: string;
+  year: number;
+  volume?: string;
+  pages?: string;
+  doi?: string;
+  pubmed?: string;
+  type: 'journal' | 'conference' | 'book' | 'review' | 'preprint';
+  tags?: string[];
+}
+
 export interface Translations {
   nav: {
     home: BilingualText;
@@ -296,6 +310,44 @@ export function getAllSerializations(): Serialization[] {
 
   return serializations;
 }
+
+// ========================================
+// PUBLICATIONS
+// ========================================
+
+export function getAllPublications(): Publication[] {
+  const dir = 'publications';
+  const files = getFilesFromDirectory(dir, '.yaml');
+
+  const publications: Publication[] = [];
+  for (const file of files) {
+    const data = readYamlFile<Publication>(`${dir}/${file}`);
+    if (data) {
+      publications.push(data);
+    }
+  }
+
+  // Sort by year descending
+  return publications.sort((a, b) => b.year - a.year);
+}
+
+export function getPublicationsByType(type: Publication['type']): Publication[] {
+  return getAllPublications().filter(p => p.type === type);
+}
+
+export function getPublicationsByTag(tag: string): Publication[] {
+  return getAllPublications().filter(p => p.tags?.includes(tag));
+}
+
+export function getAllPublicationTags(): string[] {
+  const allTags = new Set<string>();
+  getAllPublications().forEach(p => {
+    p.tags?.forEach(tag => allTags.add(tag));
+  });
+  return Array.from(allTags).sort();
+}
+
+export const publicationTypes = ['all', 'journal', 'conference', 'book', 'review', 'preprint'] as const;
 
 // ========================================
 // TRANSLATIONS

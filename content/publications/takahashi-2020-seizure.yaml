@@ -1,0 +1,19 @@
+id: takahashi-2020-seizure
+title: Convolutional neural network with autoencoder-assisted multiclass labelling for seizure detection based on scalp electroencephalography
+authors:
+  - Takahashi H
+  - Emami A
+  - Shinozaki T
+  - Kunii N
+  - Matsuo T
+  - Kawai K
+journal: Computers in Biology and Medicine
+year: 2020
+volume: "125"
+pages: "104016"
+doi: 10.1016/j.compbiomed.2020.104016
+type: journal
+tags:
+  - seizure detection
+  - deep learning
+  - EEG

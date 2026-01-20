@@ -9,7 +9,7 @@ role:
 bio:
   en: 'Professor at the Research Center for Advanced Science and Technology (RCAST) and Department of Mechano-Informatics, Graduate School of Information Science and Technology. His research aims to "reverse engineer" the brain, focusing on neural computation in the cerebral cortex using high-density microelectrode arrays. His approach spans multiple scales: dissociated neuronal cultures in petri dishes (in vitro), thalamo-cortical auditory systems in rodents (in vivo), and cerebral cortex in humans (clinical studies). His notable research revealed that rats can move their heads to the beat of music, demonstrating innate beat synchronization in animals.'
   ja: 東京大学先端科学技術研究センター・情報理工学系研究科機械情報学専攻 教授。脳を「逆行設計」することを目指し、高密度マイクロ電極アレイを用いて大脳皮質の神経計算を研究。培養神経回路（in vitro）、げっ歯類の視床-皮質聴覚系（in vivo）、ヒトの大脳皮質（臨床研究）の複数スケールで研究を展開。ラットが音楽のビートに合わせて頭を動かせることを発見し、動物における生得的なビート同期能力を実証した研究で知られる。
-image: https://www.kikaib.t.u-tokyo.ac.jp/wp-content/uploads/elementor/thumbs/seimei_takahashi_t-qkjq5n5l2xpr4rmajni215jz7tvzbkr4ffnd7lr8sw.jpg
+image: /uploads/scraped/takahashi.jpg
 email: takahashi@i.u-tokyo.ac.jp
 links:
   researchmap: https://researchmap.jp/hirokazu_takahashi

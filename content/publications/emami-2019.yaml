@@ -1,0 +1,19 @@
+id: emami-2019
+title: Autoencoding of long-term scalp electroencephalogram to detect epileptic seizure for diagnosis support system
+authors:
+  - Emami A
+  - Kunii N
+  - Matsuo T
+  - Shinozaki T
+  - Kawai K
+  - Takahashi H
+journal: Computers in Biology and Medicine
+year: 2019
+volume: "110"
+pages: 227-233
+doi: 10.1016/j.compbiomed.2019.05.025
+type: journal
+tags:
+  - epilepsy
+  - autoencoder
+  - EEG
