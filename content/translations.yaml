@@ -1,0 +1,274 @@
+nav:
+  home:
+    en: Home
+    ja: ホーム
+  research:
+    en: Research
+    ja: 研究
+  members:
+    en: Members
+    ja: メンバー
+  publications:
+    en: Publications
+    ja: 業績
+  news:
+    en: News
+    ja: ニュース
+  contact:
+    en: Contact
+    ja: アクセス
+home:
+  tagline:
+    en: The University of Tokyo
+    ja: 東京大学
+  labName:
+    en: Takahashi Lab
+    ja: Takahashi Lab
+  subtitle:
+    en: Biointelligent Systems Laboratory
+    ja: 生物知能システム研究室
+  mission:
+    en: Reverse Engineering the Brain
+    ja: 脳を逆行設計する
+  exploreResearch:
+    en: Explore Research
+    ja: 研究を見る
+  viewPublications:
+    en: View Publications
+    ja: 業績一覧
+  researchAreas:
+    en: Research Areas
+    ja: 研究分野
+  researchAreasDesc:
+    en: We approach neuroscience from a mechanical engineering perspective, aiming to extract the design principles of the brain.
+    ja: 機械工学の視点から神経科学にアプローチし、脳の設計原理を抽出することを目指しています。
+  latestNews:
+    en: Latest News
+    ja: 最新ニュース
+  latestNewsDesc:
+    en: Recent updates from our laboratory
+    ja: 研究室からの最新情報
+  viewAllNews:
+    en: View all news
+    ja: すべてのニュースを見る
+  learnMore:
+    en: Learn more about our research
+    ja: 研究についてもっと見る
+  joinResearch:
+    en: Join Our Research
+    ja: 研究に参加する
+  joinResearchDesc:
+    en: We are always looking for motivated students and researchers who are interested in understanding the brain through engineering approaches.
+    ja: 工学的アプローチで脳を理解することに興味のある、意欲的な学生や研究者を常に募集しています。
+  contactUs:
+    en: Contact Us
+    ja: お問い合わせ
+  meetTeam:
+    en: Meet the Team
+    ja: チームを見る
+research:
+  neuralComputation:
+    en: Neural Computation
+    ja: 神経計算
+  neuralComputationDesc:
+    en: Understanding how the cerebral cortex processes information through reverse engineering approaches.
+    ja: 逆行設計アプローチにより、大脳皮質がどのように情報を処理するかを理解します。
+  bci:
+    en: Brain-Computer Interfaces
+    ja: ブレイン・コンピュータ・インタフェース
+  bciDesc:
+    en: Developing neural interfaces for recording and stimulation using high-density microelectrode arrays.
+    ja: 高密度マイクロ電極アレイを用いた記録・刺激のための神経インタフェースを開発しています。
+  auditory:
+    en: Auditory Neuroscience
+    ja: 聴覚神経科学
+  auditoryDesc:
+    en: Investigating sound processing, music perception, and plasticity in the thalamo-cortical auditory system.
+    ja: 視床-皮質聴覚系における音処理、音楽知覚、可塑性を研究しています。
+  reservoir:
+    en: Neural Reservoir Computing
+    ja: 神経リザバーコンピューティング
+  reservoirDesc:
+    en: Exploring the computational capabilities of living neuronal networks as physical reservoirs.
+    ja: 生きた神経ネットワークの物理リザバーとしての計算能力を探求しています。
+stats:
+  publications:
+    en: Journal Publications
+    ja: 学術論文
+  conferences:
+    en: Conference Papers
+    ja: 国際会議論文
+  members:
+    en: Lab Members
+    ja: 研究室メンバー
+  years:
+    en: Years of Research
+    ja: 研究年数
+members:
+  title:
+    en: Lab Members
+    ja: メンバー
+  description:
+    en: Our interdisciplinary team combines expertise in neuroscience, engineering, and computational methods to understand the brain.
+    ja: 神経科学、工学、計算手法の専門知識を組み合わせた学際的なチームで、脳の理解に取り組んでいます。
+  faculty:
+    en: Faculty
+    ja: 教員
+  staff:
+    en: Research & Technical Staff
+    ja: 研究員・技術職員
+  graduateStudents:
+    en: Graduate Students
+    ja: 大学院生
+  undergraduates:
+    en: Undergraduate Students
+    ja: 学部生
+  visitors:
+    en: Visiting Researchers
+    ja: 客員研究員
+  alumni:
+    en: Alumni
+    ja: 卒業生
+  joinUs:
+    en: Interested in Joining?
+    ja: 研究室への参加に興味がありますか？
+  joinUsDesc:
+    en: We welcome students and researchers passionate about understanding the brain through engineering and computational approaches.
+    ja: 工学的・計算論的アプローチで脳を理解することに情熱を持つ学生・研究者を歓迎します。
+  getInTouch:
+    en: Get in Touch
+    ja: お問い合わせ
+  researchInterests:
+    en: Research Interests
+    ja: 研究分野
+  education:
+    en: Education
+    ja: 学歴
+  awards:
+    en: Awards
+    ja: 受賞歴
+publications:
+  title:
+    en: Publications
+    ja: 業績
+  description:
+    en: Our research output spanning neural computation, brain-computer interfaces, and auditory neuroscience.
+    ja: 神経計算、ブレイン・コンピュータ・インタフェース、聴覚神経科学に関する研究成果。
+  searchPlaceholder:
+    en: Search publications...
+    ja: 論文を検索...
+  allTypes:
+    en: All
+    ja: すべて
+  journal:
+    en: Journal Articles
+    ja: 学術論文
+  conference:
+    en: Conference Papers
+    ja: 国際会議
+  book:
+    en: Books
+    ja: 書籍
+  review:
+    en: Reviews
+    ja: 総説
+  allYears:
+    en: All Years
+    ja: すべての年
+  allTopics:
+    en: All Topics
+    ja: すべてのトピック
+  showing:
+    en: Showing
+    ja: 表示中
+  of:
+    en: of
+    ja: /
+  publicationsLabel:
+    en: publications
+    ja: 件
+  publication:
+    en: publication
+    ja: 件
+news:
+  title:
+    en: News & Updates
+    ja: ニュース
+  description:
+    en: Stay updated with our latest research publications, awards, events, and announcements.
+    ja: 最新の研究発表、受賞、イベント、お知らせをお届けします。
+  stayUpdated:
+    en: Stay Updated
+    ja: 最新情報を入手
+  stayUpdatedDesc:
+    en: Follow our research progress and lab activities. Connect with us on YouTube or check back regularly for updates.
+    ja: 研究の進捗や研究室の活動をフォローしてください。YouTubeでつながるか、定期的にチェックしてください。
+contact:
+  title:
+    en: Contact Us
+    ja: お問い合わせ
+  description:
+    en: Interested in our research? Want to join the lab or collaborate? We'd love to hear from you.
+    ja: 研究に興味がありますか？研究室への参加や共同研究をご希望ですか？ご連絡をお待ちしております。
+  address:
+    en: Address
+    ja: 住所
+  email:
+    en: Email
+    ja: メール
+  access:
+    en: Access
+    ja: アクセス
+  byTrain:
+    en: By Train
+    ja: 電車でのアクセス
+  affiliations:
+    en: Affiliations
+    ja: 所属機関
+  forStudents:
+    en: For Prospective Students
+    ja: 入学希望者の方へ
+  forStudentsDesc:
+    en: We are always looking for motivated students interested in neuroscience, engineering, and computation. If you're interested in joining our lab as a graduate student or researcher, please contact us with your CV and a brief description of your research interests.
+    ja: 神経科学、工学、計算論に興味のある意欲的な学生を常に募集しています。大学院生または研究員として研究室への参加に興味がある場合は、履歴書と研究に対する興味の概要をお送りください。
+  sendInquiry:
+    en: Send Inquiry
+    ja: お問い合わせ
+  openLabInfo:
+    en: Open Lab Info
+    ja: オープンラボ情報
+footer:
+  navigation:
+    en: Navigation
+    ja: ナビゲーション
+  affiliations:
+    en: Affiliations
+    ja: 所属機関
+  contact:
+    en: Contact
+    ja: お問い合わせ
+  description:
+    en: Reverse engineering the brain through neural computation, high-density recordings, and brain-computer interfaces.
+    ja: 神経計算、高密度記録、ブレイン・コンピュータ・インタフェースを通じて脳を逆行設計します。
+  rights:
+    en: All rights reserved.
+    ja: All rights reserved.
+categories:
+  publication:
+    en: Publication
+    ja: 論文
+  award:
+    en: Award
+    ja: 受賞
+  event:
+    en: Event
+    ja: イベント
+  media:
+    en: Media
+    ja: メディア
+  announcement:
+    en: Announcement
+    ja: お知らせ
+  all:
+    en: All
+    ja: すべて

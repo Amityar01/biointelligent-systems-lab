@@ -1,0 +1,597 @@
+backend:
+  name: github
+  repo: Amityar01/biointelligent-systems-lab
+  branch: master
+  base_url: https://biointelligent-systems-lab.vercel.app  # Will update after deployment
+  auth_endpoint: /api/auth
+
+media_folder: public/uploads
+public_folder: /uploads
+
+# Slug configuration
+slug:
+  encoding: unicode
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  # ========================================
+  # MEMBERS COLLECTION
+  # ========================================
+  - name: faculty
+    label: "Faculty"
+    label_singular: "Faculty Member"
+    folder: content/members/faculty
+    create: true
+    extension: yaml
+    format: yaml
+    slug: "{{slug}}"
+    identifier_field: id
+    summary: "{{name.en}} ({{role.en}})"
+    fields:
+      - { name: id, label: ID, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - { name: slug, label: Slug, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - name: name
+        label: Name
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: role
+        label: Role
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: bio
+        label: Biography
+        widget: object
+        fields:
+          - { name: en, label: English, widget: text }
+          - { name: ja, label: Japanese, widget: text }
+      - { name: image, label: Photo, widget: image, required: false }
+      - { name: email, label: Email, widget: string, required: false }
+      - name: links
+        label: Links
+        widget: object
+        required: false
+        fields:
+          - { name: researchmap, label: Researchmap, widget: string, required: false }
+          - { name: googleScholar, label: Google Scholar, widget: string, required: false }
+          - { name: orcid, label: ORCID, widget: string, required: false }
+          - { name: website, label: Personal Website, widget: string, required: false }
+          - { name: loop, label: Loop, widget: string, required: false }
+      - name: research
+        label: Research Interests
+        widget: list
+        required: false
+        field: { name: topic, label: Topic, widget: string }
+      - name: education
+        label: Education
+        widget: list
+        required: false
+        field: { name: degree, label: Degree, widget: string }
+      - name: awards
+        label: Awards
+        widget: list
+        required: false
+        field: { name: award, label: Award, widget: string }
+      - name: personalPageContent
+        label: Personal Page Content (Markdown)
+        widget: markdown
+        required: false
+
+  - name: staff
+    label: "Staff"
+    label_singular: "Staff Member"
+    folder: content/members/staff
+    create: true
+    extension: yaml
+    format: yaml
+    slug: "{{slug}}"
+    identifier_field: id
+    summary: "{{name.en}} ({{role.en}})"
+    fields:
+      - { name: id, label: ID, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - { name: slug, label: Slug, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - name: name
+        label: Name
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: role
+        label: Role
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: bio
+        label: Biography
+        widget: object
+        fields:
+          - { name: en, label: English, widget: text }
+          - { name: ja, label: Japanese, widget: text }
+      - { name: image, label: Photo, widget: image, required: false }
+      - { name: email, label: Email, widget: string, required: false }
+      - name: links
+        label: Links
+        widget: object
+        required: false
+        fields:
+          - { name: researchmap, label: Researchmap, widget: string, required: false }
+          - { name: googleScholar, label: Google Scholar, widget: string, required: false }
+          - { name: orcid, label: ORCID, widget: string, required: false }
+          - { name: website, label: Personal Website, widget: string, required: false }
+          - { name: loop, label: Loop, widget: string, required: false }
+      - name: research
+        label: Research Interests
+        widget: list
+        required: false
+        field: { name: topic, label: Topic, widget: string }
+      - name: personalPageContent
+        label: Personal Page Content (Markdown)
+        widget: markdown
+        required: false
+
+  - name: students
+    label: "Graduate Students"
+    label_singular: "Graduate Student"
+    folder: content/members/students
+    create: true
+    extension: yaml
+    format: yaml
+    slug: "{{slug}}"
+    identifier_field: id
+    summary: "{{name.en}} ({{role.en}})"
+    fields:
+      - { name: id, label: ID, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - { name: slug, label: Slug, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - name: name
+        label: Name
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: role
+        label: Role
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: bio
+        label: Biography
+        widget: object
+        fields:
+          - { name: en, label: English, widget: text }
+          - { name: ja, label: Japanese, widget: text }
+      - { name: image, label: Photo, widget: image, required: false }
+      - { name: email, label: Email, widget: string, required: false }
+      - name: links
+        label: Links
+        widget: object
+        required: false
+        fields:
+          - { name: researchmap, label: Researchmap, widget: string, required: false }
+          - { name: googleScholar, label: Google Scholar, widget: string, required: false }
+          - { name: orcid, label: ORCID, widget: string, required: false }
+          - { name: website, label: Personal Website, widget: string, required: false }
+      - name: personalPageContent
+        label: Personal Page Content (Markdown)
+        widget: markdown
+        required: false
+
+  - name: undergraduates
+    label: "Undergraduate Students"
+    label_singular: "Undergraduate Student"
+    folder: content/members/undergraduates
+    create: true
+    extension: yaml
+    format: yaml
+    slug: "{{slug}}"
+    identifier_field: id
+    summary: "{{name.en}} ({{role.en}})"
+    fields:
+      - { name: id, label: ID, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - { name: slug, label: Slug, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - name: name
+        label: Name
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: role
+        label: Role
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: bio
+        label: Biography
+        widget: object
+        fields:
+          - { name: en, label: English, widget: text }
+          - { name: ja, label: Japanese, widget: text }
+      - { name: image, label: Photo, widget: image, required: false }
+      - { name: email, label: Email, widget: string, required: false }
+      - name: personalPageContent
+        label: Personal Page Content (Markdown)
+        widget: markdown
+        required: false
+
+  - name: visitors
+    label: "Visiting Researchers"
+    label_singular: "Visiting Researcher"
+    folder: content/members/visitors
+    create: true
+    extension: yaml
+    format: yaml
+    slug: "{{slug}}"
+    identifier_field: id
+    summary: "{{name.en}} ({{role.en}})"
+    fields:
+      - { name: id, label: ID, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - { name: slug, label: Slug, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - name: name
+        label: Name
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: role
+        label: Role
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: bio
+        label: Biography
+        widget: object
+        fields:
+          - { name: en, label: English, widget: text }
+          - { name: ja, label: Japanese, widget: text }
+      - { name: image, label: Photo, widget: image, required: false }
+      - { name: email, label: Email, widget: string, required: false }
+      - name: personalPageContent
+        label: Personal Page Content (Markdown)
+        widget: markdown
+        required: false
+
+  - name: alumni
+    label: "Alumni"
+    label_singular: "Alumnus/Alumna"
+    folder: content/members/alumni
+    create: true
+    extension: yaml
+    format: yaml
+    slug: "{{slug}}"
+    identifier_field: id
+    summary: "{{name.en}} ({{role.en}})"
+    fields:
+      - { name: id, label: ID, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - { name: slug, label: Slug, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - name: name
+        label: Name
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: role
+        label: Role/Graduation
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: bio
+        label: Research/Notes
+        widget: object
+        fields:
+          - { name: en, label: English, widget: text }
+          - { name: ja, label: Japanese, widget: text }
+      - { name: image, label: Photo, widget: image, required: false }
+      - name: personalPageContent
+        label: Personal Page Content (Markdown)
+        widget: markdown
+        required: false
+
+  # ========================================
+  # NEWS COLLECTION
+  # ========================================
+  - name: news
+    label: "News"
+    label_singular: "News Item"
+    folder: content/news
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    identifier_field: id
+    summary: "{{title.en}} ({{date}})"
+    sortable_fields: ['date', 'title.en', 'category']
+    view_filters:
+      - label: Publications
+        field: category
+        pattern: 'publication'
+      - label: Awards
+        field: category
+        pattern: 'award'
+      - label: Events
+        field: category
+        pattern: 'event'
+      - label: Media
+        field: category
+        pattern: 'media'
+    fields:
+      - { name: id, label: ID, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - name: title
+        label: Title
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - { name: date, label: Date, widget: datetime, format: 'YYYY-MM-DD', date_format: 'YYYY-MM-DD', time_format: false }
+      - name: category
+        label: Category
+        widget: select
+        options:
+          - { label: "Publication", value: "publication" }
+          - { label: "Award", value: "award" }
+          - { label: "Event", value: "event" }
+          - { label: "Media", value: "media" }
+          - { label: "Announcement", value: "announcement" }
+      - name: excerpt
+        label: Excerpt
+        widget: object
+        fields:
+          - { name: en, label: English, widget: text }
+          - { name: ja, label: Japanese, widget: text }
+      - { name: image, label: Image, widget: image, required: false }
+      - { name: link, label: External Link, widget: string, required: false }
+      - { name: body, label: Body (Markdown), widget: markdown, required: false }
+
+  # ========================================
+  # MEDIA COLLECTION
+  # ========================================
+  - name: books
+    label: "Books"
+    label_singular: "Book"
+    folder: content/media/books
+    create: true
+    extension: yaml
+    format: yaml
+    slug: "{{slug}}"
+    identifier_field: id
+    summary: "{{title.en}} ({{year}})"
+    fields:
+      - { name: id, label: ID, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - name: title
+        label: Title
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: publisher
+        label: Publisher
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - { name: year, label: Year, widget: number, value_type: int, min: 1990, max: 2030 }
+      - name: description
+        label: Description
+        widget: object
+        fields:
+          - { name: en, label: English, widget: text }
+          - { name: ja, label: Japanese, widget: text }
+      - { name: image, label: Cover Image, widget: image, required: false }
+      - { name: amazon, label: Amazon Link, widget: string, required: false }
+      - { name: publisher_url, label: Publisher Link, widget: string, required: false }
+
+  - name: media_appearances
+    label: "Media Appearances"
+    label_singular: "Media Appearance"
+    folder: content/media/appearances
+    create: true
+    extension: yaml
+    format: yaml
+    slug: "{{slug}}"
+    identifier_field: id
+    summary: "{{title.en}} - {{outlet}} ({{date}})"
+    fields:
+      - { name: id, label: ID, widget: string, pattern: ['^[a-z0-9-]+$', 'Use lowercase letters, numbers, and hyphens only'] }
+      - name: title
+        label: Title
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - { name: outlet, label: Outlet/Source, widget: string }
+      - { name: date, label: Date, widget: string }
+      - name: type
+        label: Type
+        widget: select
+        options:
+          - { label: "TV", value: "tv" }
+          - { label: "Radio", value: "radio" }
+          - { label: "Newspaper", value: "newspaper" }
+          - { label: "Magazine", value: "magazine" }
+          - { label: "Online", value: "online" }
+          - { label: "International", value: "international" }
+      - name: description
+        label: Description
+        widget: object
+        fields:
+          - { name: en, label: English, widget: text }
+          - { name: ja, label: Japanese, widget: text }
+      - { name: link, label: Link, widget: string, required: false }
+
+  - name: youtube
+    label: "YouTube Channel"
+    files:
+      - name: channel
+        label: "Channel Info"
+        file: content/media/youtube.yaml
+        fields:
+          - name: name
+            label: Channel Name
+            widget: object
+            fields:
+              - { name: en, label: English, widget: string }
+              - { name: ja, label: Japanese, widget: string }
+          - { name: url, label: Channel URL, widget: string }
+          - name: description
+            label: Description
+            widget: object
+            fields:
+              - { name: en, label: English, widget: text }
+              - { name: ja, label: Japanese, widget: text }
+
+  - name: serializations
+    label: "Serializations"
+    label_singular: "Serialization"
+    folder: content/media/serializations
+    create: true
+    extension: yaml
+    format: yaml
+    slug: "{{slug}}"
+    identifier_field: id
+    fields:
+      - { name: id, label: ID, widget: string }
+      - name: title
+        label: Title
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - name: publication
+        label: Publication
+        widget: object
+        fields:
+          - { name: en, label: English, widget: string }
+          - { name: ja, label: Japanese, widget: string }
+      - { name: period, label: Period, widget: string }
+      - name: description
+        label: Description
+        widget: object
+        fields:
+          - { name: en, label: English, widget: text }
+          - { name: ja, label: Japanese, widget: text }
+
+  # ========================================
+  # TRANSLATIONS (UI STRINGS)
+  # ========================================
+  - name: settings
+    label: "Settings"
+    files:
+      - name: translations
+        label: "UI Translations"
+        file: content/translations.yaml
+        fields:
+          - name: nav
+            label: Navigation
+            widget: object
+            fields:
+              - name: home
+                label: Home
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: research
+                label: Research
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: members
+                label: Members
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: publications
+                label: Publications
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: news
+                label: News
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: contact
+                label: Contact
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+          - name: home
+            label: Home Page
+            widget: object
+            fields:
+              - name: tagline
+                label: Tagline
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: labName
+                label: Lab Name
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: subtitle
+                label: Subtitle
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: mission
+                label: Mission
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+          - name: categories
+            label: Categories
+            widget: object
+            fields:
+              - name: publication
+                label: Publication
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: award
+                label: Award
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: event
+                label: Event
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: media
+                label: Media
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: announcement
+                label: Announcement
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
+              - name: all
+                label: All
+                widget: object
+                fields:
+                  - { name: en, label: English, widget: string }
+                  - { name: ja, label: Japanese, widget: string }
