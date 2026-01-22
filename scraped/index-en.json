@@ -1,0 +1,428 @@
+{
+  "title": "Hirokazu TAKAHASHI at the Univ. Tokyo",
+  "sections": [
+    {
+      "level": "H2",
+      "title": "Neuroscience by Mechanical Engineers",
+      "content": []
+    },
+    {
+      "level": "H2",
+      "title": "Profile",
+      "content": [
+        "Hirokazu Takahashi was born in Sendai, Japan, in 1975. He received B.S.,\n                M.S., and Ph.D. degrees in mechanical engineering from the University of\n                Tokyo, Tokyo, Japan, in 1998, 2000, and 2003, respectively. After working\n                as a research associate in Department of Engineering Synthesis, the University\n                of Tokyo, he has joined Department of Mechano-Informatics, the Graduate\n                School of Information Science and Technology, the University of Tokyo,\n                as an assistant professor since 2004. In 2006, he has joined the Research\n                Center for Advanced Science and Technology. In 2019, he has returned to\n                Department of Mechano-Informatics, the Graduate School of Information Science\n                and Technology, as an associate professor, and become a professor in 2023.\n                His current research interests include areas of biomedical engineering\n                ranging from rehabilitation engineering for restoring lost functions to\n                experimental neurophysiology for understanding fundamental brain functions.",
+        "このページの先頭へ"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "Current Research Interests",
+      "content": [
+        "The Bio-Intelligence Systems Lab aims to understand the brain in engineers’\n          manner and to create next-generation brain-like computation systems. Our\n          research field is interdisciplinary, ranging between informatics, engineering,\n          and neuroscience. To reveal how intelligence, consciousness, and fine arts\n          emerge, we investigate neural computation at various scales, ranging from\n          dissociate culture of neurons on a petri dish, the rodent brain, and the\n          human brain. We develop novel experimental methods and equipment, such\n          as high-density microelectrode arrays and behavioral assays, to obtain\n          large-scale experimental data, and make full use of state-of-the-art machine\n          learning and artificial intelligence to characterize and analyze our own\n          data. Based on these experiments, we reveal the dynamics of neural activities\n          and construct mathematical models of the brain."
+      ]
+    },
+    {
+      "level": "H3",
+      "title": "Emergent computing (Dissociate neuronal culture)",
+      "content": [
+        "How does intelligence emerge from a neuronal network in the brain? To address\n                this fundamental question, dissociate neuronal culture may inspire us.\n                In the dissociate culture, neurons seeded onto a petri dish form a network\n                in a self-organizing manner. In addition, this neural network flexibly\n                alters the activities depending on external stimuli and developmental age.\n                Such spatio-temporal activity pattern must be helpful to reveal the design\n                principle of these networks.\n                \n                Various innovative technologies are easily applicable in the dissociate\n                culture. For example, we demonstrated that a high-dense CMOS array with\n                10,000 recording sites within 2 x 2 mm2 is able to track the propagation of action potentials within the network.\n                The dissociate culture can be also genetically modified such that photoreceptors\n                and odorant receptors are extrinsically expressed within the network. Such\n                a network may be used as a bio-silicon hybrid sensor.\n                \n                Inspired by recent theoretical advances in the field of reservoir computing,\n                we also attempt to use the neuronal culture as a reservoir. A robot embodied\n                by reservoir computing sometimes exhibits complex, living-organism-like\n                behaviors.\n                Dissociate neuronal culture\n                High-dense CMOS array"
+      ]
+    },
+    {
+      "level": "H4",
+      "title": "Collaborators",
+      "content": [
+        "link",
+        "link",
+        "link"
+      ]
+    },
+    {
+      "level": "H3",
+      "title": "Auditory system (Cortex & thalamus in rodents)",
+      "content": [
+        "Microelectrode arrays\n                \n                How does the brain differ from computers when representing external world?\n                How does our conscious perception emerge in the brain, but not in computers?\n                Unlike transistors in computers, each neuron exhibits heterogeneous characteristics.\n                Now, the largest missing link is how such heterogeneous information is\n                integrated. To address this question, we gather \"big data\" from\n                the cortex in rats with various microelectrode arrays, and analyze them\n                using information theory and machine learning techniques. We also employ\n                behavior experiments to reveal how subjective information such as ongoing\n                conscious perception, preference, emotion, saliency, valence, etc., are\n                encoded in the neural activity patterns of animals.\n                \n                Owing to cutting-edge, high-density mapping of neural activities, we are\n                able to characterize precise, local synchrony patterns in the auditory\n                cortex, and are able to investigate the thalamo-cortical interaction in\n                terms of information transfer. Such 'state' of the brain emerging from\n                interaction between top-down and bottom-up activities are more informative\n                than we thought, offering a future direction in a research field of sensory\n                computation."
+      ]
+    },
+    {
+      "level": "H4",
+      "title": "Collaborators",
+      "content": [
+        "link",
+        "link",
+        "link"
+      ]
+    },
+    {
+      "level": "H3",
+      "title": "Epilepsy（Cerebral cortex in rats and humans）",
+      "content": [
+        "Epileptic seizure is a disorganized state of the brain. We would like to\n                understand how and why seizures occur, and establish treatments to avoid\n                and control seizures. \n                \n                Taking advantage of intra-cortical, high-density mapping, we are investigating\n                functional networks within the brain of epileptic patients and epileptic\n                model of animals. The network properties exhibit long-term fluctuation,\n                which may be critical to predict seizures and to understand pathological\n                conditions of seizure. Of our particular interest is the vagus nerve stimulation\n                (VNS), which may exert modulation in the cortical synchronous activities.\n                VNS is effective not only for seizure inhibition, but also for enhancement\n                of cognitive performance. Thus, by better understanding the mechanism of\n                actions of VNS as well as the mechanisms of seizure, we may gain insights\n                into cortical computation.\n                \n                Intracortical electrode array for ECoG recording"
+      ]
+    },
+    {
+      "level": "H4",
+      "title": "Collaborators",
+      "content": [
+        "- Prof. Kenske Kawai (Jichi Medical University) (link)\n          - Dr. Naoto Kunii (Univ. Tokyo)",
+        "このページの先頭へ"
+      ]
+    },
+    {
+      "level": "H2",
+      "title": "Selected publication",
+      "content": []
+    },
+    {
+      "level": "H5",
+      "title": "Full publication list sorted by category (link) or by year (link)",
+      "content": [
+        "Auditory and speech rehabilitation\n            \n            \n            \n              \n              Alaryngeal speech\n              Hirokazu Takahashi, Masayuki Nakao, Yataro Kikuchi, and Kimitaka Kaga:\n          “Alaryngeal speech aid using an intra-oral electrolarynx and a miniature\n          fingertip switch.” Auris Nasus Larynx 32 (2): pp. 157-162, 2005 (link)\n              \n              Auditory prosthesis (brainstem implant)\n              Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Accessing ampli-tonotopic\n            organization of rat auditory cortex by microstimulation of cochlear nucleus.”\n            IEEE Transactions on Biomedical Engineering 52 (7): pp. 1333-1344, 2005\n            (link)\n            \n            Neural interface\n            \n            \n              \n              Microelectrode array\n              Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka\n          Kaga, and Thierry Hervé: “Microelectrode array on folding polyimide ribbon\n          for epidural mapping of functional evoked potentials.”IEEE Transactions\n          on Biomedical Engineering 50 (4): pp. 510-516, 2003 (link)\n              \n              Takahiro Noda, and Hirokazu Takahashi: “Anesthetic effects of isoflurane\n            on the topographic map and neuronal population activity in the rat auditory\n            cortex.” European Journal of Neuroscience 42 (6): pp. 2298-2311, 2015 (doi:\n            10.1111/ejn.13007) (link)\n              \n              Tomoyo I. Shiramatsu, Kazusa Takahashi, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahara, and Hirokazu Takahashi: “Microelectrode mapping of tonotopic, laminar, and field-specific organization of thalamo-cortical pathway in rat.” Neuroscience 332: pp. 38-52, 2016 (doi: 10.1016/j.neuroscience.2016.06.024) (link)\n              \n              Light-addressable electrode\n              Jun Suzurikawa, Hirokazu Takahashi, Ryohei Kanzaki, Masayuki Nakao, Yuzo\n          Takayama, and Yasuhiko Jimbo: “Light-addressable electrode with hydrogenated\n          amorphous silicon and low-conductive passivation layer for stimulation\n          of cultured neurons.” Applied Physics Letters 90 (9): Art. No.093901 (3pp),\n          2007 (link)\n              \n              Biosensor: functionalization of neuronal cultrue\n              Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglas J. Bakkum, Ryohei\n          Kanzaki, Hirokazu Takahashi: “Dissociated neuronal culture expressing ionotropic\n          odorant receptors as a hybrid odorant biosensor – proof-of-concept study\n          –.” Analyst 137 (15): pp. 3452-3458, 2012 (link)\n              \n              High-density CMOS array\n              Douglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan\n            Müller, Michele Fiscella, Hirokazu Takahashi, Andreas Hierlemann: “Tracking\n            axonal action potential propagation on a high-density microelectrode array\n            across hundreds of sites.” Nature Communications 4: Art. No. 2181 (12 pp),\n            2013 (doi: 10.1038/ncomms3181) (link)\n              \n              Physical reservoir computing with dissociate culture\n              \n            Yuichiro Yada, Shusaku Yasuda, and Hirokazu Takahashi: “Physical reservoir computing with FORCE learning in a living neuronal culture.” Applied Physics Letters 119 (16): 173701, 2021 (doi: 10.1063/5.0064771) (link)\n            \n            Auditory cortex\n            \n            \n              \n              Neural representation with functional map\n              Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Interfield differences\n          in intensity and frequency representation of evoked potentials in rat auditory\n          cortex.” Hearing Research 210 (1-2): pp. 9-23, 2005 (link)\n              \n              Hirokazu Takahashi, Ryo Yokota, and Ryohei Kanzaki: “Response variance\n            in functional maps: Neural Darwinism revisited.” PLOS ONE 8 (7): e68705\n            (7 pp), 2013 (doi:10.1371/journal.pone.0068705) (link)\n              \n              Learning-induced plasticity\n              Hirokazu Takahashi, Ryo Yokota, Akihiro Funamizu, Hidekazu Kose, Ryohei\n            Kanzaki: “Learning-stage-dependent, field-specific, map plasticity in the\n            rat auditory cortex during appetitive operant conditioning.”Neuroscience\n            199: pp. 243-258, 2011 (link)\n              \n              Akihiro Funamizu, Ryohei Kanzaki, and Hirokazu Takahashi: “Pre-attentive,\n            context-specific representation of fear memory in the auditory cortex of\n            rat.” PLOS ONE 8 (5): e63655 (14 pp), 2013 (link)\n              \n              Auditory streaming\n              Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Stimulus phase\n            locking of cortical oscillation for auditory stream segregation in rats.”\n            PLOS ONE 8 (12): e83544 (14 pp), 2013 (link)\n              \n              Mismatch negativity (MMN)\n              Tomoyo I. Shiramatsu, Ryohei Kanzaki, and Hirokazu Takahashi: “Cortical\n            mapping of mismatch negativity with deviance detection property in rat.”\n            PLOS ONE 8 (12): e82663 (10 pp), 2013 (link)\n              \n              Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Mismatch-negativity (MMN) in\n              animal models: homology of human MMN?” Hearing Research: published online,\n              2020 (link)\n              \n              Music and the brain\n                          Yoshiki Ito, Tomoyo I. Shiramatsu, Naoki Ishida, Karin Oshima, Kaho Magami,\n            and Hirokazu Takahashi: “Spontaneous beat synchronization in rats: Neural\n            dynamics and motor entrainment.” Science Advances 8 (45): eabo7019 (11\n            pp), 2022 (link)\n            \n            Epilepsy\n            \n            \n              \n              Seizure detection\n              Ali Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai,\n              and Hirokazu Takahashi: “Seizuredetection by convolutional neural network-based\n              analysis of scalp electroencephalographyplot images.”NeuroImage: Clinical\n              22: Article #101684 (10 pp.), 2019 (link)\n              \n              Vagus Nerve Stimulation\n              Hirokazu Takahashi, Tomoyo I. Shiramatsu, Rie Hitsuyu, Kenji Ibayashi,\n            and Kensuke Kawai: “Vagus nerve stimulation (VNS)-induced layer-specific\n            modulation of evoked responses in the sensory cortex of rats.” Scientific\n            Reports 10 (1): 8932 (10 pp.), 2020 (link)",
+        "このページの先頭へ"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Alaryngeal speech",
+      "content": [
+        "Hirokazu Takahashi, Masayuki Nakao, Yataro Kikuchi, and Kimitaka Kaga:\n          “Alaryngeal speech aid using an intra-oral electrolarynx and a miniature\n          fingertip switch.” Auris Nasus Larynx 32 (2): pp. 157-162, 2005 (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Auditory prosthesis (brainstem implant)",
+      "content": [
+        "Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Accessing ampli-tonotopic\n            organization of rat auditory cortex by microstimulation of cochlear nucleus.”\n            IEEE Transactions on Biomedical Engineering 52 (7): pp. 1333-1344, 2005\n            (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Microelectrode array",
+      "content": [
+        "Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka\n          Kaga, and Thierry Hervé: “Microelectrode array on folding polyimide ribbon\n          for epidural mapping of functional evoked potentials.”IEEE Transactions\n          on Biomedical Engineering 50 (4): pp. 510-516, 2003 (link)\n              \n              Takahiro Noda, and Hirokazu Takahashi: “Anesthetic effects of isoflurane\n            on the topographic map and neuronal population activity in the rat auditory\n            cortex.” European Journal of Neuroscience 42 (6): pp. 2298-2311, 2015 (doi:\n            10.1111/ejn.13007) (link)\n              \n              Tomoyo I. Shiramatsu, Kazusa Takahashi, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahara, and Hirokazu Takahashi: “Microelectrode mapping of tonotopic, laminar, and field-specific organization of thalamo-cortical pathway in rat.” Neuroscience 332: pp. 38-52, 2016 (doi: 10.1016/j.neuroscience.2016.06.024) (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Light-addressable electrode",
+      "content": [
+        "Jun Suzurikawa, Hirokazu Takahashi, Ryohei Kanzaki, Masayuki Nakao, Yuzo\n          Takayama, and Yasuhiko Jimbo: “Light-addressable electrode with hydrogenated\n          amorphous silicon and low-conductive passivation layer for stimulation\n          of cultured neurons.” Applied Physics Letters 90 (9): Art. No.093901 (3pp),\n          2007 (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Biosensor: functionalization of neuronal cultrue",
+      "content": [
+        "Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglas J. Bakkum, Ryohei\n          Kanzaki, Hirokazu Takahashi: “Dissociated neuronal culture expressing ionotropic\n          odorant receptors as a hybrid odorant biosensor – proof-of-concept study\n          –.” Analyst 137 (15): pp. 3452-3458, 2012 (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "High-density CMOS array",
+      "content": [
+        "Douglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan\n            Müller, Michele Fiscella, Hirokazu Takahashi, Andreas Hierlemann: “Tracking\n            axonal action potential propagation on a high-density microelectrode array\n            across hundreds of sites.” Nature Communications 4: Art. No. 2181 (12 pp),\n            2013 (doi: 10.1038/ncomms3181) (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Physical reservoir computing with dissociate culture",
+      "content": [
+        "Yuichiro Yada, Shusaku Yasuda, and Hirokazu Takahashi: “Physical reservoir computing with FORCE learning in a living neuronal culture.” Applied Physics Letters 119 (16): 173701, 2021 (doi: 10.1063/5.0064771) (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Neural representation with functional map",
+      "content": [
+        "Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Interfield differences\n          in intensity and frequency representation of evoked potentials in rat auditory\n          cortex.” Hearing Research 210 (1-2): pp. 9-23, 2005 (link)\n              \n              Hirokazu Takahashi, Ryo Yokota, and Ryohei Kanzaki: “Response variance\n            in functional maps: Neural Darwinism revisited.” PLOS ONE 8 (7): e68705\n            (7 pp), 2013 (doi:10.1371/journal.pone.0068705) (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Learning-induced plasticity",
+      "content": [
+        "Hirokazu Takahashi, Ryo Yokota, Akihiro Funamizu, Hidekazu Kose, Ryohei\n            Kanzaki: “Learning-stage-dependent, field-specific, map plasticity in the\n            rat auditory cortex during appetitive operant conditioning.”Neuroscience\n            199: pp. 243-258, 2011 (link)\n              \n              Akihiro Funamizu, Ryohei Kanzaki, and Hirokazu Takahashi: “Pre-attentive,\n            context-specific representation of fear memory in the auditory cortex of\n            rat.” PLOS ONE 8 (5): e63655 (14 pp), 2013 (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Auditory streaming",
+      "content": [
+        "Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Stimulus phase\n            locking of cortical oscillation for auditory stream segregation in rats.”\n            PLOS ONE 8 (12): e83544 (14 pp), 2013 (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Mismatch negativity (MMN)",
+      "content": [
+        "Tomoyo I. Shiramatsu, Ryohei Kanzaki, and Hirokazu Takahashi: “Cortical\n            mapping of mismatch negativity with deviance detection property in rat.”\n            PLOS ONE 8 (12): e82663 (10 pp), 2013 (link)\n              \n              Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Mismatch-negativity (MMN) in\n              animal models: homology of human MMN?” Hearing Research: published online,\n              2020 (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Music and the brain",
+      "content": [
+        "Yoshiki Ito, Tomoyo I. Shiramatsu, Naoki Ishida, Karin Oshima, Kaho Magami,\n            and Hirokazu Takahashi: “Spontaneous beat synchronization in rats: Neural\n            dynamics and motor entrainment.” Science Advances 8 (45): eabo7019 (11\n            pp), 2022 (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Seizure detection",
+      "content": [
+        "Ali Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai,\n              and Hirokazu Takahashi: “Seizuredetection by convolutional neural network-based\n              analysis of scalp electroencephalographyplot images.”NeuroImage: Clinical\n              22: Article #101684 (10 pp.), 2019 (link)"
+      ]
+    },
+    {
+      "level": "H5",
+      "title": "Vagus Nerve Stimulation",
+      "content": [
+        "Hirokazu Takahashi, Tomoyo I. Shiramatsu, Rie Hitsuyu, Kenji Ibayashi,\n            and Kensuke Kawai: “Vagus nerve stimulation (VNS)-induced layer-specific\n            modulation of evoked responses in the sensory cortex of rats.” Scientific\n            Reports 10 (1): 8932 (10 pp.), 2020 (link)"
+      ]
+    },
+    {
+      "level": "H3",
+      "title": "ナビゲーション",
+      "content": [
+        "トップページTOP PAGE\n        メンバーMEMBERS\n        研究業績PUBLICATION\n        研究内容RESEARCH\n        オープンラボ\n        YouTubeYOUTUBECOMPANY\n        講義PUBLICATION\n        その他OTHERS\n         EnglishUS"
+      ]
+    },
+    {
+      "level": "H3",
+      "title": "The University of Tokyo\n        Graduate School of Information Science and Technology\n        Department of Mechano-Informatics",
+      "content": [
+        "Hirokazu Takahashi, Ph. D.",
+        "7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan",
+        "Phone +81-3-5841-6318\n        E-mail:"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/myphoto2007.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/eng12.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/image1.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/image.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/image4.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/image31.jpg",
+      "alt": ""
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/button111.gif",
+      "alt": "takahashi@i.u-tokyo.ac.jp"
+    }
+  ],
+  "links": [
+    {
+      "href": "#hpb-title",
+      "text": "本文へスキップ"
+    },
+    {
+      "href": "index.html",
+      "text": "神崎・高橋研究室　高次脳機能研究チーム"
+    },
+    {
+      "href": "#profile",
+      "text": "Profile"
+    },
+    {
+      "href": "#research",
+      "text": "Research"
+    },
+    {
+      "href": "#publication",
+      "text": "Publication"
+    },
+    {
+      "href": "#in vitro",
+      "text": "in vitro study"
+    },
+    {
+      "href": "#in vivo",
+      "text": "in vivo study"
+    },
+    {
+      "href": "#clinical study",
+      "text": "clinical study"
+    },
+    {
+      "href": "#hpb-container",
+      "text": "このページの先頭へ"
+    },
+    {
+      "href": "http://www.bsse.ethz.ch/bel/",
+      "text": "link"
+    },
+    {
+      "href": "https://www.mxwbio.com/amo-team/urs-frey/",
+      "text": "link"
+    },
+    {
+      "href": "http://sacral.c.u-tokyo.ac.jp/",
+      "text": "link"
+    },
+    {
+      "href": "http://www.brl.ntt.co.jp/cs/per/index-j.html",
+      "text": "link"
+    },
+    {
+      "href": "http://users.monash.edu/~naotsugt/Tsuchiya_Labs_Homepage/HOME.html",
+      "text": "link"
+    },
+    {
+      "href": "http://edogawabashi-cl-jibika.com/",
+      "text": "link"
+    },
+    {
+      "href": "http://www.jichi.ac.jp/english/index.html",
+      "text": "link"
+    },
+    {
+      "href": "#hpb-container",
+      "text": "このページの先頭へ"
+    },
+    {
+      "href": "pub.html",
+      "text": "link"
+    },
+    {
+      "href": "pub2.html",
+      "text": "link"
+    },
+    {
+      "href": "http://www.aurisnasuslarynx.com/article/S0385-8146(05)00006-4/abstract",
+      "text": "link"
+    },
+    {
+      "href": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1440612",
+      "text": "link"
+    },
+    {
+      "href": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1193785",
+      "text": "link"
+    },
+    {
+      "href": "http://onlinelibrary.wiley.com/doi/10.1111/ejn.13007/full",
+      "text": "link"
+    },
+    {
+      "href": "http://www.sciencedirect.com/science/article/pii/S0306452216302548",
+      "text": "link"
+    },
+    {
+      "href": "http://apl.aip.org/resource/1/applab/v90/i9/p093901_s1?isAuthorized=no",
+      "text": "link"
+    },
+    {
+      "href": "http://pubs.rsc.org/en/content/articlelanding/2012/an/c2an35058k",
+      "text": "link"
+    },
+    {
+      "href": "http://www.nature.com/ncomms/2013/130719/ncomms3181/full/ncomms3181.html",
+      "text": "link"
+    },
+    {
+      "href": "https://aip.scitation.org/doi/10.1063/5.0064771",
+      "text": "link"
+    },
+    {
+      "href": "http://www.sciencedirect.com/science/article/pii/S0378595505001619",
+      "text": "link"
+    },
+    {
+      "href": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0068705",
+      "text": "link"
+    },
+    {
+      "href": "http://www.sciencedirect.com/science/article/pii/S0306452211011316",
+      "text": "link"
+    },
+    {
+      "href": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0063655",
+      "text": "link"
+    },
+    {
+      "href": "http://dx.plos.org/10.1371/journal.pone.0083544",
+      "text": "link"
+    },
+    {
+      "href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0082663",
+      "text": "link"
+    },
+    {
+      "href": "https://www.sciencedirect.com/science/article/abs/pii/S0378595519304356?via%3Dihub",
+      "text": "link"
+    },
+    {
+      "href": "https://www.science.org/doi/10.1126/sciadv.abo7019",
+      "text": "link"
+    },
+    {
+      "href": "https://www.sciencedirect.com/science/article/pii/S2213158219300348",
+      "text": "link"
+    },
+    {
+      "href": "https://www.nature.com/articles/s41598-020-65745-z",
+      "text": "link"
+    },
+    {
+      "href": "#hpb-container",
+      "text": "このページの先頭へ"
+    },
+    {
+      "href": "index.html",
+      "text": "トップページTOP PAGE"
+    },
+    {
+      "href": "profile.html",
+      "text": "メンバーMEMBERS"
+    },
+    {
+      "href": "pub.html",
+      "text": "研究業績PUBLICATION"
+    },
+    {
+      "href": "research.html",
+      "text": "研究内容RESEARCH"
+    },
+    {
+      "href": "https://sites.google.com/g.ecc.u-tokyo.ac.jp/nelab/%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99?authuser=0",
+      "text": "オープンラボ"
+    },
+    {
+      "href": "https://www.youtube.com/channel/UCuuuZ4ewKDXA-FvTiO4HqNA",
+      "text": "YouTubeYOUTUBE"
+    },
+    {
+      "href": "https://sites.google.com/g.ecc.u-tokyo.ac.jp/nelab/%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99?authuser=0",
+      "text": "COMPANY"
+    },
+    {
+      "href": "lecture.html",
+      "text": "講義PUBLICATION"
+    },
+    {
+      "href": "others.html",
+      "text": "その他OTHERS"
+    },
+    {
+      "href": "index-e.html",
+      "text": "EnglishUS"
+    }
+  ],
+  "fullText": "本文へスキップ\n神崎・高橋研究室　高次脳機能研究チーム\n\n東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科\n\n生命知能システム研究室 (高橋・白松研究室)\n\nNeuroscience by Mechanical Engineers\n\nHirokazu TAKHASHI, Ph. D.\nProfessor (PI)\nProfile, Research, Publication\n\nLet us \"reverse engineer\" the brain!\n\nOf our interest is the neural computation in the cerebral cortex. In particular, we measure neural activities with high-dense microelectrode arrays and analyze the spatio-temporal data. As we belong to the mechanical engineering department, we are enjoying neuroscience in mechanical engineers' manner. Our goal is to conceive and extract the design principle of brain from what we see and what we get in experiments, and to re-produce the brain function based on the extracted information. Toward this goal, we are interested in multiple scales of neural networks, ranging from dissociate neuonal culture in petri dishes (in vitro study), thalamo-cortical auditory system in rodents (in vivo study), and cerebral cortex in humans (clinical study).\n\nKeywords: brain, neuroscience, neural engineering, electrophysiology, cerebral cortex, auditory cortex, neural circuits, spatiotemporal activity pattern, perception, audition, auditory streaming, auditory illusion, tinnitus, mismatch negativity (MMN), intelligence, emotion, learning and memory, plasticity, epilepsy, microelectrode array, imaging, local field potential (LFP), electrocorticogram (ECoG), conditioning, behavioral experiment, embodiment, functional map, phase synchrony, brain-machine interface (BMI), cyborg, machine learning, decoding, information theory, transfer entropy, reservoir computing, etc.\nProfile\n\nHirokazu Takahashi was born in Sendai, Japan, in 1975. He received B.S., M.S., and Ph.D. degrees in mechanical engineering from the University of Tokyo, Tokyo, Japan, in 1998, 2000, and 2003, respectively. After working as a research associate in Department of Engineering Synthesis, the University of Tokyo, he has joined Department of Mechano-Informatics, the Graduate School of Information Science and Technology, the University of Tokyo, as an assistant professor since 2004. In 2006, he has joined the Research Center for Advanced Science and Technology. In 2019, he has returned to Department of Mechano-Informatics, the Graduate School of Information Science and Technology, as an associate professor, and become a professor in 2023. His current research interests include areas of biomedical engineering ranging from rehabilitation engineering for restoring lost functions to experimental neurophysiology for understanding fundamental brain functions.\n\n\t\nこのページの先頭へ\nCurrent Research Interests\n\nThe Bio-Intelligence Systems Lab aims to understand the brain in engineers’ manner and to create next-generation brain-like computation systems. Our research field is interdisciplinary, ranging between informatics, engineering, and neuroscience. To reveal how intelligence, consciousness, and fine arts emerge, we investigate neural computation at various scales, ranging from dissociate culture of neurons on a petri dish, the rodent brain, and the human brain. We develop novel experimental methods and equipment, such as high-density microelectrode arrays and behavioral assays, to obtain large-scale experimental data, and make full use of state-of-the-art machine learning and artificial intelligence to characterize and analyze our own data. Based on these experiments, we reveal the dynamics of neural activities and construct mathematical models of the brain.\n\nEmergent computing (Dissociate neuronal culture)\nHow does intelligence emerge from a neuronal network in the brain? To address this fundamental question, dissociate neuronal culture may inspire us. In the dissociate culture, neurons seeded onto a petri dish form a network in a self-organizing manner. In addition, this neural network flexibly alters the activities depending on external stimuli and developmental age. Such spatio-temporal activity pattern must be helpful to reveal the design principle of these networks.\n\nVarious innovative technologies are easily applicable in the dissociate culture. For example, we demonstrated that a high-dense CMOS array with 10,000 recording sites within 2 x 2 mm2 is able to track the propagation of action potentials within the network. The dissociate culture can be also genetically modified such that photoreceptors and odorant receptors are extrinsically expressed within the network. Such a network may be used as a bio-silicon hybrid sensor.\n\nInspired by recent theoretical advances in the field of reservoir computing, we also attempt to use the neuronal culture as a reservoir. A robot embodied by reservoir computing sometimes exhibits complex, living-organism-like behaviors.\tDissociate neuronal culture\nHigh-dense CMOS array\nCollaborators\n- Prof. Andreas Hierlemann, Dr. Douglas Bakkum (ETH, Zurich) (link)\n- Dr. Urs Frey (Maxwell Biosystems) (link)\n- Prof. Takashi Ikegami (Univ. Tokyo)(link)\nAuditory system (Cortex & thalamus in rodents)\n\nMicroelectrode arrays\n\n\tHow does the brain differ from computers when representing external world? How does our conscious perception emerge in the brain, but not in computers? Unlike transistors in computers, each neuron exhibits heterogeneous characteristics. Now, the largest missing link is how such heterogeneous information is integrated. To address this question, we gather \"big data\" from the cortex in rats with various microelectrode arrays, and analyze them using information theory and machine learning techniques. We also employ behavior experiments to reveal how subjective information such as ongoing conscious perception, preference, emotion, saliency, valence, etc., are encoded in the neural activity patterns of animals.\n\nOwing to cutting-edge, high-density mapping of neural activities, we are able to characterize precise, local synchrony patterns in the auditory cortex, and are able to investigate the thalamo-cortical interaction in terms of information transfer. Such 'state' of the brain emerging from interaction between top-down and bottom-up activities are more informative than we thought, offering a future direction in a research field of sensory computation.\nCollaborators\n- Dr. Shigeto Furukawa, Dr. Makio Kashino (NTT) (link)\n- Prof. Naotsugu Tsuchiya (Monash Univ., Australia) (link)\n- Dr. Haruka Nakahara (Edogawabashi Clinic)(link)\nEpilepsy（Cerebral cortex in rats and humans）\nEpileptic seizure is a disorganized state of the brain. We would like to understand how and why seizures occur, and establish treatments to avoid and control seizures.\n\nTaking advantage of intra-cortical, high-density mapping, we are investigating functional networks within the brain of epileptic patients and epileptic model of animals. The network properties exhibit long-term fluctuation, which may be critical to predict seizures and to understand pathological conditions of seizure. Of our particular interest is the vagus nerve stimulation (VNS), which may exert modulation in the cortical synchronous activities. VNS is effective not only for seizure inhibition, but also for enhancement of cognitive performance. Thus, by better understanding the mechanism of actions of VNS as well as the mechanisms of seizure, we may gain insights into cortical computation.\t\n\nIntracortical electrode array for ECoG recording\n\nCollaborators\n\n- Prof. Kenske Kawai (Jichi Medical University) (link)\n- Dr. Naoto Kunii (Univ. Tokyo)\n\nこのページの先頭へ\nSelected publication\nFull publication list sorted by category (link) or by year (link)\nAuditory and speech rehabilitation\n\nAlaryngeal speech\n\nHirokazu Takahashi, Masayuki Nakao, Yataro Kikuchi, and Kimitaka Kaga: “Alaryngeal speech aid using an intra-oral electrolarynx and a miniature fingertip switch.” Auris Nasus Larynx 32 (2): pp. 157-162, 2005 (link)\n\nAuditory prosthesis (brainstem implant)\n\nHirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Accessing ampli-tonotopic organization of rat auditory cortex by microstimulation of cochlear nucleus.” IEEE Transactions on Biomedical Engineering 52 (7): pp. 1333-1344, 2005 (link)\n\nNeural interface\nMicroelectrode array\n\nHirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka Kaga, and Thierry Hervé: “Microelectrode array on folding polyimide ribbon for epidural mapping of functional evoked potentials.”IEEE Transactions on Biomedical Engineering 50 (4): pp. 510-516, 2003 (link)\n\nTakahiro Noda, and Hirokazu Takahashi: “Anesthetic effects of isoflurane on the topographic map and neuronal population activity in the rat auditory cortex.” European Journal of Neuroscience 42 (6): pp. 2298-2311, 2015 (doi: 10.1111/ejn.13007) (link)\n\nTomoyo I. Shiramatsu, Kazusa Takahashi, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahara, and Hirokazu Takahashi: “Microelectrode mapping of tonotopic, laminar, and field-specific organization of thalamo-cortical pathway in rat.” Neuroscience 332: pp. 38-52, 2016 (doi: 10.1016/j.neuroscience.2016.06.024) (link)\n\nLight-addressable electrode\n\nJun Suzurikawa, Hirokazu Takahashi, Ryohei Kanzaki, Masayuki Nakao, Yuzo Takayama, and Yasuhiko Jimbo: “Light-addressable electrode with hydrogenated amorphous silicon and low-conductive passivation layer for stimulation of cultured neurons.” Applied Physics Letters 90 (9): Art. No.093901 (3pp), 2007 (link)\n\nBiosensor: functionalization of neuronal cultrue\n\nNorio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglas J. Bakkum, Ryohei Kanzaki, Hirokazu Takahashi: “Dissociated neuronal culture expressing ionotropic odorant receptors as a hybrid odorant biosensor – proof-of-concept study –.” Analyst 137 (15): pp. 3452-3458, 2012 (link)\n\nHigh-density CMOS array\n\nDouglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan Müller, Michele Fiscella, Hirokazu Takahashi, Andreas Hierlemann: “Tracking axonal action potential propagation on a high-density microelectrode array across hundreds of sites.” Nature Communications 4: Art. No. 2181 (12 pp), 2013 (doi: 10.1038/ncomms3181) (link)\n\nPhysical reservoir computing with dissociate culture\n\nYuichiro Yada, Shusaku Yasuda, and Hirokazu Takahashi: “Physical reservoir computing with FORCE learning in a living neuronal culture.” Applied Physics Letters 119 (16): 173701, 2021 (doi: 10.1063/5.0064771) (link)\n\nAuditory cortex\nNeural representation with functional map\n\nHirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Interfield differences in intensity and frequency representation of evoked potentials in rat auditory cortex.” Hearing Research 210 (1-2): pp. 9-23, 2005 (link)\n\nHirokazu Takahashi, Ryo Yokota, and Ryohei Kanzaki: “Response variance in functional maps: Neural Darwinism revisited.” PLOS ONE 8 (7): e68705 (7 pp), 2013 (doi:10.1371/journal.pone.0068705) (link)\n\nLearning-induced plasticity\n\nHirokazu Takahashi, Ryo Yokota, Akihiro Funamizu, Hidekazu Kose, Ryohei Kanzaki: “Learning-stage-dependent, field-specific, map plasticity in the rat auditory cortex during appetitive operant conditioning.”Neuroscience 199: pp. 243-258, 2011 (link)\n\nAkihiro Funamizu, Ryohei Kanzaki, and Hirokazu Takahashi: “Pre-attentive, context-specific representation of fear memory in the auditory cortex of rat.” PLOS ONE 8 (5): e63655 (14 pp), 2013 (link)\n\nAuditory streaming\n\nTakahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Stimulus phase locking of cortical oscillation for auditory stream segregation in rats.” PLOS ONE 8 (12): e83544 (14 pp), 2013 (link)\n\nMismatch negativity (MMN)\n\nTomoyo I. Shiramatsu, Ryohei Kanzaki, and Hirokazu Takahashi: “Cortical mapping of mismatch negativity with deviance detection property in rat.” PLOS ONE 8 (12): e82663 (10 pp), 2013 (link)\n\nTomoyo I. Shiramatsu, Hirokazu Takahashi: “Mismatch-negativity (MMN) in animal models: homology of human MMN?” Hearing Research: published online, 2020 (link)\n\nMusic and the brain\n\nYoshiki Ito, Tomoyo I. Shiramatsu, Naoki Ishida, Karin Oshima, Kaho Magami, and Hirokazu Takahashi: “Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment.” Science Advances 8 (45): eabo7019 (11 pp), 2022 (link)\n\nEpilepsy\nSeizure detection\n\nAli Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai, and Hirokazu Takahashi: “Seizuredetection by convolutional neural network-based analysis of scalp electroencephalographyplot images.”NeuroImage: Clinical 22: Article #101684 (10 pp.), 2019 (link)\n\nVagus Nerve Stimulation\n\nHirokazu Takahashi, Tomoyo I. Shiramatsu, Rie Hitsuyu, Kenji Ibayashi, and Kensuke Kawai: “Vagus nerve stimulation (VNS)-induced layer-specific modulation of evoked responses in the sensory cortex of rats.” Scientific Reports 10 (1): 8932 (10 pp.), 2020 (link)\n\nこのページの先頭へ\nナビゲーション\nトップページ\nメンバー\n研究業績\n研究内容\nオープンラボ\nYouTube\n講義\nその他\nEnglish\nThe University of Tokyo\nGraduate School of Information Science and Technology\nDepartment of Mechano-Informatics　\n\nHirokazu Takahashi, Ph. D.\n\n7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan\n\nPhone +81-3-5841-6318\nE-mail:\n\ncopyright©2012 Hirokazu Takahashi all rights reserved."
+}

@@ -1,0 +1,407 @@
+{
+  "batchId": 18,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "parsedAt": "2026-01-22T02:51:38.714Z",
+  "items": [
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学入門－脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2018,
+      "conference": "2017年度 第55期東京エレクトロン株式会社 畑村塾",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(26) 高橋宏知：「メカ屋のための脳科学入門－脳をリバースエンジニアリングする」，2017年度 第55期東京エレクトロン株式会社 畑村塾 (東京，2018年2月16日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2018----390"
+    },
+    {
+      "type": "presentation",
+      "title": "脳をリバースエンジニアリングする　－生命知能 vs. 人工知能－",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "先端研カフェセミナー",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(27) 高橋宏知：「脳をリバースエンジニアリングする　－生命知能 vs. 人工知能－」，先端研カフェセミナー（東京，2018年7月25日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---vs--391"
+    },
+    {
+      "type": "presentation",
+      "title": "脳のリバースエンジニアリング　―知能・芸術・宗教を生み出す脳の仕組み―",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "「科学と宗教―日本哲学の観点から」研究会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(28) 高橋宏知：「脳のリバースエンジニアリング　―知能・芸術・宗教を生み出す脳の仕組み―」，「科学と宗教―日本哲学の観点から」研究会（立正大学 村田純一研究室）（東京，2018年8月29日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----392"
+    },
+    {
+      "type": "presentation",
+      "title": "脳をリバースエンジニアリングする　―意識・宗教編―",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "電子情報技術産業協会感性・身体性センシング技術分科会 第3回 感性・身体性センシング技術分科会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(29) 高橋宏知：「脳をリバースエンジニアリングする　―意識・宗教編―」，電子情報技術産業協会感性・身体性センシング技術分科会 第3回 感性・身体性センシング技術分科会（東京，2018年9月15日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----393"
+    },
+    {
+      "type": "presentation",
+      "title": "脳科学からアプローチ！～脳は美をどう捉えるのか～",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "ブレインアナリスト協会「ブレインラボ」心と脳の勉強会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(30) 高橋宏知：「脳科学からアプローチ！～脳は美をどう捉えるのか～」，ブレインアナリスト協会「ブレインラボ」心と脳の勉強会（東京，2018年12月16日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----394"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学入門－脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2019,
+      "conference": "2018年度 東京エレクトロン株式会社 畑村塾",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(31) 高橋宏知：「メカ屋のための脳科学入門－脳をリバースエンジニアリングする」，2018年度 東京エレクトロン株式会社 畑村塾 (東京，2019年2月20日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2019----395"
+    },
+    {
+      "type": "presentation",
+      "title": "オーダーメイド医療のための耳鳴診断システムの開発",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2019,
+      "conference": "立石科学技術振興財団　研究助成",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(32) 高橋宏知: 「オーダーメイド医療のための耳鳴診断システムの開発」，立石科学技術振興財団　研究助成(S) 成果発表会 (京都，2019年5月20日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2019----396"
+    },
+    {
+      "type": "presentation",
+      "title": "脳科学からアプローチ！脳は美をどう捉えるのか？",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "ブレインアナリスト協会「ブレインラボ」第4回　心と脳の勉強会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(33) 高橋宏知：「脳科学からアプローチ！脳は美をどう捉えるのか？」，ブレインアナリスト協会「ブレインラボ」第4回　心と脳の勉強会（東京，2019年7月13日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----397"
+    },
+    {
+      "type": "presentation",
+      "title": "自己組織化された神経回路による音声信号処理",
+      "authors": [
+        "池田成満",
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "日本学術振興会 分子系の複合電子機能第181委員会 第32回研究会資料: pp. 18-23, 2019",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(34) 池田成満，高橋宏知：「自己組織化された神経回路による音声信号処理」，日本学術振興会 分子系の複合電子機能第181委員会 第32回研究会資料: pp. 18-23, 2019（東京，2019年7月17日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----398"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学　～人工知能vs生命知能～",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "東日本旅客鉄道株式会社",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(35) 高橋宏知：「メカ屋のための脳科学　～人工知能vs生命知能～」，東日本旅客鉄道株式会社（東京，2019年12月20日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---vs--399"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学入門－脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2020,
+      "conference": "2019年度 東京エレクトロン株式会社 畑村塾",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(36) 高橋宏知：「メカ屋のための脳科学入門－脳をリバースエンジニアリングする」，2019年度 東京エレクトロン株式会社 畑村塾 (東京，2020年2月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2020----400"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学　～人工知能vs生命知能～",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "株式会社エクオス・リサーチ",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(37) 高橋宏知：「メカ屋のための脳科学　～人工知能vs生命知能～」，株式会社エクオス・リサーチ（東京 (オンライン)，2020年7月17日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---vs--401"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学　～人工知能vs生命知能～",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "株式会社エクオス・リサーチ",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(38) 高橋宏知：「メカ屋のための脳科学　～人工知能vs生命知能～」，株式会社エクオス・リサーチ（東京 (オンライン)，2020年8月25日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---vs--402"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学入門－脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2021,
+      "conference": "2020年度 東京エレクトロン株式会社 畑村塾",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(39) 高橋宏知：「メカ屋のための脳科学入門－脳をリバースエンジニアリングする」，2020年度 東京エレクトロン株式会社 畑村塾 (オンライン，2021年2月18日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2021----403"
+    },
+    {
+      "type": "presentation",
+      "title": "脳神経系の情報処理について",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2021,
+      "conference": "電子情報技術産業協会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(40) 高橋宏知：「脳神経系の情報処理について」，電子情報技術産業協会（JEITA）非ノイマン型情報処理へ向けたデバイス技術分科会 (オンライン，2021年9月28日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2021----404"
+    },
+    {
+      "type": "presentation",
+      "title": "幸せに生きるための脳のリバースエンジニアリング",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2021,
+      "conference": "第18回機械系セミナー",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(41) 高橋宏知：「幸せに生きるための脳のリバースエンジニアリング」，第18回機械系セミナー (東京大学工学部機械系) (オンライン，2021年11月29日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2021----405"
+    },
+    {
+      "type": "presentation",
+      "title": "脳のリバースエンジニアリング ―知能と芸術の源泉を探求する―",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2021,
+      "conference": "バイオエンジニアリング イブニングセミナー シリーズ 2021-2",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(42) 高橋宏知：「脳のリバースエンジニアリング ―知能と芸術の源泉を探求する―」，バイオエンジニアリング イブニングセミナー シリーズ 2021-2 (東京大学大学院工学系研究科バイオエンジニアリング専攻) (オンライン，2021年11月29日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2021----406"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学入門－脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2022,
+      "conference": "2021年度 東京エレクトロン株式会社 畑村塾",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(43) 高橋宏知：「メカ屋のための脳科学入門－脳をリバースエンジニアリングする」，2021年度 東京エレクトロン株式会社 畑村塾 (オンライン，2022年2月17日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2022----407"
+    },
+    {
+      "type": "presentation",
+      "title": "生命知能と人工知能",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2022,
+      "conference": "技術の創造研究会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(44) 高橋宏知：「生命知能と人工知能」，技術の創造研究会 (軽井沢，2022年7月11日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2022----408"
+    },
+    {
+      "type": "presentation",
+      "title": "私たちの脳（生命知能）とAI（人工知能）の違いを知ったら、どうすればいいのか",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2022,
+      "conference": "日本アカデメイア，2022",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(45) 高橋宏知：「私たちの脳（生命知能）とAI（人工知能）の違いを知ったら、どうすればいいのか」，日本アカデメイア，2022 (オンライン，2022年11月18日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2022---ai--409"
+    },
+    {
+      "type": "presentation",
+      "title": "音楽で脳活動を調整できるか？",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2022,
+      "conference": "第2 回「脳波判読と診断支援のDX」ワークショップ，2022",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(46) 高橋宏知：「音楽で脳活動を調整できるか？」，第2 回「脳波判読と診断支援のDX」ワークショップ，2022 (石垣島/オンライン，2022年12月10日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2022----410"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学入門－脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2022,
+      "conference": "2022年度 東京エレクトロン株式会社 畑村塾",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(47) 高橋宏知：「メカ屋のための脳科学入門－脳をリバースエンジニアリングする」，2022年度 東京エレクトロン株式会社 畑村塾 (オンライン，2022年12月16日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2022----411"
+    },
+    {
+      "type": "presentation",
+      "title": "生命知能と人工知能―AI時代の脳の使い方・育て方―",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2023,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(48) 高橋宏知：「生命知能と人工知能―AI時代の脳の使い方・育て方―」アカデメイア看護研究会，2022 (オンライン，2023年2月3日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2023---ai--412"
+    },
+    {
+      "type": "presentation",
+      "title": "脳と人工知能",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2023,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(49) 高橋宏知：「脳と人工知能」第135回有機デバイス研究会，2023(浜松，2023年10月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2023----413"
+    },
+    {
+      "type": "presentation",
+      "title": "生命知能（脳）と人工知能",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "2024年度応用脳科学アカデミー，2024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(50) 高橋宏知：「生命知能（脳）と人工知能」，2024年度応用脳科学アカデミー，2024（オンライン，2024年7月30日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----414"
+    }
+  ]
+}

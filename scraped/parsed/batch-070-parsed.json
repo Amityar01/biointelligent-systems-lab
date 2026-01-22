@@ -1,0 +1,420 @@
+{
+  "batchId": 70,
+  "category": "media",
+  "categoryTitle": "メディア発表・取材協力等 (Media)",
+  "parsedAt": "2026-01-22T03:11:10.081Z",
+  "items": [
+    {
+      "title": "「声帯失っても声が戻る」",
+      "authors": [
+        "「声帯失っても声が戻る」"
+      ],
+      "year": 2001,
+      "journal": "日本経済新聞 (朝刊，科学面)",
+      "type": "newspaper",
+      "_source": "ollama",
+      "_raw": "(1) 「声帯失っても声が戻る」, 日本経済新聞 (朝刊，科学面), 2001年3月4日掲載",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: newspaper"
+      ],
+      "id": "2001----1618"
+    },
+    {
+      "title": "声に現れる病気",
+      "authors": [],
+      "year": 2003,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(2) 「声に現れる病気」, BS-i 健康DNA (制作：D組-Project), 2003年12月7日放送",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "2003-unknown---1619"
+    },
+    {
+      "title": "「脳に迫る　米国の人工器官研究　②聴覚」",
+      "authors": [
+        "「脳に迫る　米国の人工器官研究　②聴覚」"
+      ],
+      "year": 2004,
+      "type": "newspaper",
+      "_source": "ollama",
+      "_raw": "(3) 「脳に迫る　米国の人工器官研究　②聴覚」, 朝日新聞 (朝刊，科学面), 2004年8月25日掲載",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: newspaper"
+      ],
+      "id": "2004----1620"
+    },
+    {
+      "title": "「脳に迫る　米国の人工器官研究　④神経回路」",
+      "authors": [
+        "「脳に迫る　米国の人工器官研究　④神経回路」"
+      ],
+      "year": 2004,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(4) 「脳に迫る　米国の人工器官研究　④神経回路」, 朝日新聞 (朝刊，科学面), 2004年9月14日掲載",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2004----1621"
+    },
+    {
+      "title": "Focus 知能機械情報学専攻　講師に聞く 『障害のある人の治療に役立つものを作りたい』",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2005,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(5) 「Focus 知能機械情報学専攻　高橋宏知　講師に聞く 『障害のある人の治療に役立つものを作りたい』」, 東大情報理工ARAプログラム メールマガジン 第45号, 2005年2月23日配信",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2005--focus--1622"
+    },
+    {
+      "title": "「News02 音に対する聴覚神経の応答特性を別の刺激で書き換える，高橋講師ら」",
+      "authors": [
+        "「News02 音に対する聴覚神経の応答特性を別の刺激で書き換える，高橋講師ら」"
+      ],
+      "year": 2005,
+      "journal": "東大情報理工ARAプログラム メールマガジン 第50号",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(6) 「News02 音に対する聴覚神経の応答特性を別の刺激で書き換える，高橋講師ら」, 東大情報理工ARAプログラム メールマガジン 第50号, 2005年5月11日配信",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2005-news02--news02--1623"
+    },
+    {
+      "title": "東大情報理工ARAプログラム メールマガジン 第50号",
+      "authors": [
+        "News03 脳幹の電気刺激で聴覚を補助するABI研究に新しい知見，高橋講師ら"
+      ],
+      "year": 2005,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(7) 「News03 脳幹の電気刺激で聴覚を補助するABI研究に新しい知見，高橋講師ら」, 東大情報理工ARAプログラム メールマガジン 第50号, 2005年5月11日配信",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2005-news03abi--ara-50--1624"
+    },
+    {
+      "title": "「超微細電極による脳機能の多点実時間計測」",
+      "authors": [
+        "「超微細電極による脳機能の多点実時間計測」"
+      ],
+      "year": 2004,
+      "journal": "東京大学21世紀COEプログラム機械システムイノベーションNewsletter",
+      "issue": "No. 3",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(8) 「超微細電極による脳機能の多点実時間計測」，東京大学21世紀COEプログラム機械システムイノベーションNewsletter，No. 3，2004年11月1日発行",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2004----1625"
+    },
+    {
+      "title": "サイボーグ技術が人類を変える",
+      "authors": [
+        "立花隆"
+      ],
+      "year": 2005,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(9) 「NHKスペシャル　立花隆　最前線報告　サイボーグ技術が人類を変える」，NHKスペシャル，2005年11月5日放送",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2005----1626"
+    },
+    {
+      "title": "BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第1回体と機械が融合する",
+      "authors": [
+        "立花隆"
+      ],
+      "year": 2005,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(10) 「BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第1回体と機械が融合する」，衛星第一BSドキュメンタリー，2005年12月3日放送",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2005--bs-1--1627"
+    },
+    {
+      "title": "サイボーグ医療”の時代　第2回脳をどこまで変えるのか",
+      "authors": [
+        "立花隆"
+      ],
+      "year": 2005,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(11) 「BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第2回脳をどこまで変えるのか」，衛星第一BSドキュメンタリー，2005年12月10日放送",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2005---2--1628"
+    },
+    {
+      "title": "ハイビジョン特集　サイボーグ革命ロボットと人間の融合",
+      "authors": [
+        "ハイビジョン特集　サイボーグ革命ロボットと人間の融合"
+      ],
+      "year": 2006,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(12) 「ハイビジョン特集　サイボーグ革命ロボットと人間の融合」，衛星ハイビジョン，2006年1月19日放送",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2006----1629"
+    },
+    {
+      "title": "光アドレス電極を応用した細胞-環境系のマルチスケール計測・制御",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2009,
+      "journal": "Newletter 東京大学ナノバイオ・インテグレーション研究拠点 NANOBIO",
+      "volume": "10",
+      "pages": "12",
+      "type": "journal",
+      "_source": "ollama",
+      "_raw": "(13) 「若手研究者から　高橋宏知　『光アドレス電極を応用した細胞-環境系のマルチスケール計測・制御』，Newletter 東京大学ナノバイオ・インテグレーション研究拠点 NANOBIO 10: p. 12, 2009",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2009----1630"
+    },
+    {
+      "title": "東大　神経細胞１つずつ制御",
+      "authors": [
+        "東大　神経細胞１つずつ制御"
+      ],
+      "year": 2009,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(14) 「東大　神経細胞１つずつ制御」，日経産業新聞 (11面)，2009年6月17日掲載",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2009----1631"
+    },
+    {
+      "title": "「学習開始時の脳　神経細胞活発に」",
+      "authors": [
+        "「学習開始時の脳　神経細胞活発に」"
+      ],
+      "year": 2013,
+      "journal": "日本経済新聞 (朝刊11面)",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(15) 「学習開始時の脳　神経細胞活発に」，日本経済新聞 (朝刊11面)，2013年7月16日",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1632"
+    },
+    {
+      "title": "効果的な学習方法解明に一歩前進、学習能力の源泉は『ダーウィニズム』",
+      "authors": [
+        "効果的な学習方法解明に一歩前進、学習能力の源泉は『ダーウィニズム』"
+      ],
+      "year": 2013,
+      "journal": "Yahoo Japan ニュース（ライフ）",
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(16) 「効果的な学習方法解明に一歩前進、学習能力の源泉は『ダーウィニズム』」，Yahoo Japan ニュース（ライフ），2013年7月12日(金)14時10分配信 (リセマム)",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013----1633"
+    },
+    {
+      "title": "大脳皮質の『神経ダーウィニズム仮説』を後押しする証拠を発見",
+      "authors": [
+        "東大",
+        "大脳皮質の『神経ダーウィニズム仮説』を後押しする証拠を発見"
+      ],
+      "year": 2013,
+      "journal": "Yahoo Japanニュース（IT・科学）",
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(17) 「東大、大脳皮質の『神経ダーウィニズム仮説』を後押しする証拠を発見」，Yahoo Japanニュース（IT・科学），2013年7月18日(木)10時12分配信 (マイナビニュース)",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013----1634"
+    },
+    {
+      "title": "「試行錯誤段階，脳が活発　学習時の活動　東大，ラット実験」",
+      "authors": [
+        "「試行錯誤段階，脳が活発　学習時の活動　東大，ラット実験」"
+      ],
+      "year": 2013,
+      "journal": "日経産業新聞 (朝刊9面)",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(18) 「試行錯誤段階，脳が活発　学習時の活動　東大，ラット実験」，日経産業新聞 (朝刊9面)，2013年7月16日",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1635"
+    },
+    {
+      "title": "「脳神経信号の伝わり方　日や部位で速度変化　東大が解明」",
+      "authors": [
+        "「脳神経信号の伝わり方　日や部位で速度変化　東大が解明」"
+      ],
+      "year": 2013,
+      "journal": "日経産業新聞 (朝刊8面)",
+      "type": "newspaper",
+      "_source": "ollama",
+      "_raw": "(19) 「脳神経信号の伝わり方　日や部位で速度変化　東大が解明」，日経産業新聞 (朝刊8面)，2013年7月23日",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: newspaper"
+      ],
+      "id": "2013----1636"
+    },
+    {
+      "title": "神経回路内の複雑な活動電位の伝播の様子を可視化することに成功",
+      "authors": [
+        "東大など"
+      ],
+      "year": 2013,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(20) 「東大など、神経回路内の複雑な活動電位の伝播の様子を可視化することに成功」，Yahoo Japanニュース（IT・科学），2013年7月22日(月)17時9分配信 (マイナビニュース)",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013----1637"
+    },
+    {
+      "title": "脳内の神経信号の伝播速度を可視化",
+      "authors": [
+        "東大他"
+      ],
+      "year": 2013,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(21) 「東大他、脳内の神経信号の伝播速度を可視化」，WEBジャーナル OPTRONICS，2013年7月22日配信",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1638"
+    },
+    {
+      "title": "「東大最前線，神経ダーウィニズム，広い観察で従来説覆す」",
+      "authors": [
+        "「東大最前線，神経ダーウィニズム，広い観察で従来説覆す」"
+      ],
+      "year": 2013,
+      "journal": "東京大学新聞",
+      "pages": "3面",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(22) 「東大最前線，神経ダーウィニズム，広い観察で従来説覆す」，東京大学新聞 (3面)，2013年8月6日",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1639"
+    },
+    {
+      "title": "高感度嗅覚センサー，東大イヌ並み性能めざす，医療用想定",
+      "authors": [
+        "高感度嗅覚センサー，東大イヌ並み性能めざす，医療用想定"
+      ],
+      "year": 2013,
+      "type": "newspaper",
+      "_source": "ollama",
+      "_raw": "(23) 「高感度嗅覚センサー，東大イヌ並み性能めざす，医療用想定」，日本経済新聞 (夕刊3面)，2013年8月21日",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: newspaper"
+      ],
+      "id": "2013----1640"
+    },
+    {
+      "title": "神経信号の速度は変化する",
+      "authors": [
+        "サイエンスポータル編集ニュース"
+      ],
+      "year": 2013,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(24) 「2013年8月22日 神経信号の速度は変化する」，サイエンスポータル編集ニュース，2013年8月22日",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1641"
+    },
+    {
+      "title": "『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』",
+      "authors": [
+        "「脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』」"
+      ],
+      "year": 2016,
+      "type": "book",
+      "_source": "ollama",
+      "_raw": "(25) 「脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』」，HONZ – 読みたい本が、きっと見つかる！，2016年4月5日配信",
+      "language": "ja",
+      "category": "media",
+      "awards": [],
+      "_valid": true,
+      "id": "2016----1642"
+    }
+  ]
+}

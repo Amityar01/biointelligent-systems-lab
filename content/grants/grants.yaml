@@ -1,0 +1,387 @@
+title:
+  ja: "研究費"
+  en: "Research Grants"
+grants:
+  -
+    id: "grant-1"
+    title:
+    ja: "微小多点表面電極を用いた聴神経摘出者用脳幹インプラントシステムの開発"
+    en: "Development of a brainstem implant system for auditory nerve extraction using micro multipoint surface electrodes."
+    funder:
+    ja: "科学研究費補助金 特別研究員奨励費"
+    en: "Research grant special research fellow encouragement fee"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2001
+    endYear: 2002
+  -
+    id: "grant-2"
+    title:
+    ja: "時空間的神経活動パターンの翻訳手法の開発とそれを用いた脳神経系の帰納的研究"
+    en: "Development of a translation method for spatiotemporal neural activity patterns and its application in inductive research on the nervous system"
+    funder:
+    ja: "科学研究費補助金 若手研究(A)"
+    en: "Young Researcher (A) Grant for Scientific Research Expenses"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2004
+    endYear: 2006
+  -
+    id: "grant-3"
+    title:
+    ja: "自己組織的ニューロチップ"
+    en: "Self-organized neuromorphic chip"
+    funder:
+    ja: "科学研究費補助金 萌芽研究"
+    en: "Science research grant seedling research"
+    pi: "高橋宏知"
+    role: "PI"
+  -
+    id: "grant-4"
+    title:
+    ja: "生体－機械融合システムを規範とした適応行動発現アルゴリズムの獲得"
+    en: "Acquisition of an adaptive behavior expression algorithm based on a bio-mechanical fusion system standard"
+    funder:
+    ja: "科学研究費補助金 萌芽研究"
+    en: "Research Grant - Seed Research"
+    pi: "高橋宏知"
+    role: "Co-PI"
+    startYear: 2006
+    endYear: 2007
+  -
+    id: "grant-5"
+    title:
+    ja: "両耳聴により形成される聴空間の脳内階層性と可塑性の研究"
+    en: "The study on the hierarchical and plastic nature of auditory space formed by binomial hearing."
+    funder:
+    ja: "科学研究費補助金 基盤研究 (A)"
+    en: "Science Research Grant - Basic Research (A)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2007
+    endYear: 2010
+  -
+    id: "grant-6"
+    title:
+    ja: "音の認知・認識における聴皮質の役割"
+    en: "The role of the auditory cortex in sound perception and recognition"
+    funder:
+    ja: "科学研究費補助金 特定領域研究（公募）"
+    en: "Research grant for specific field research (open call)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2008
+    endYear: 2009
+  -
+    id: "grant-7"
+    title:
+    ja: "光アドレス電極を応用した細胞-環境系のマルチスケール計測・制御"
+    en: "Multi-scale measurement and control of cell-environment systems using applied optical address electrodes"
+    funder:
+    ja: "東京大学ナノバイオ・インテグレーション拠点 (CNBI)　若手奨励研究"
+    en: "Tokyo University NANOBIOS INTEGRATION CENTER (CNBI) Young Researchers Encouragement Research"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2008
+    endYear: 2009
+  -
+    id: "grant-8"
+    title:
+    ja: "情報理論と情報縮約による適応的デコーディング"
+    en: "Information theory and information compression-based adaptive decoding"
+    funder:
+    ja: "科学技術振興機構(JST) 平成20年度　戦略的創造研究推進事業 「さきがけ」"
+    en: "Science and Technology Promotion Agency (JST) Heisei 20th Year Strategic Creative Research Promotion Project "Sakigake""
+    pi: "高橋宏知"
+    role: "PI"
+  -
+    id: "grant-9"
+    title:
+    ja: "適応行動の神経基盤"
+    en: "Neural basis of adaptive behavior"
+    funder:
+    ja: "科学研究費補助金 挑戦的萌芽研究"
+    en: "Grants for research in challenging seedling studies"
+    pi: "高橋宏知"
+    role: "PI"
+  -
+    id: "grant-10"
+    title:
+    ja: "高密度ＣＭＯＳ電極による培養神経回路のネットワーク構造の解明"
+    en: "Understanding the network structure of cultured neural circuits using high-density CMOS electrodes"
+    funder:
+    ja: "科学研究費補助金 若手研究(A)"
+    en: "Research Grant for Young Researchers (A)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2011
+    endYear: 2013
+  -
+    id: "grant-11"
+    title:
+    ja: "聴皮質における音の質感と情動情報の神経基盤"
+    en: "The neural basis of sound texture and emotional information in the auditory cortex."
+    funder:
+    ja: "科学研究費補助金 新学術領域研究（公募）"
+    en: "Research Grant for Scientific Research - New Academic Field Research (Open Call)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2011
+    endYear: 2012
+  -
+    id: "grant-12"
+    title:
+    ja: "ラットの培養神経細胞に昆虫の嗅覚受容体を発現させた匂いセンサー"
+    en: "Insect olfactory receptors were made to express on rat cultured neurons for a smell sensor."
+    funder:
+    ja: "科学研究費補助金 挑戦的萌芽研究"
+    en: "Research Grant for Challenging Seedling Research"
+    pi: "高橋宏知"
+    role: "PI"
+  -
+    id: "grant-13"
+    title:
+    ja: "真の難治性てんかんに対する非切除的治療法の開発研究"
+    en: "Development research of non-resective treatment for intractable epilepsy."
+    funder:
+    ja: "厚生労働科学研究費補助金 障害者対策総合研究事業"
+    en: "Health, Labor and Welfare Science Research Grant - Comprehensive Disability Countermeasures Research Project"
+    pi: "高橋宏知"
+    role: "Co-PI"
+    startYear: 2011
+    endYear: 2012
+  -
+    id: "grant-14"
+    title:
+    ja: "知覚情報処理時のサブネットワーク構造に注目した神経修飾物質の機能解明"
+    en: "Focusing on the subnetwork structure during perceptual information processing, elucidating the mechanism of neuromodulatory substances"
+    funder:
+    ja: "科学研究費補助金 挑戦的萌芽研究"
+    en: "Research grant for exploratory research projects"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2012
+    endYear: 2013
+  -
+    id: "grant-15"
+    title:
+    ja: "培養神経回路と人工神経回路の身体化によるホメオダイナミクスの研究"
+    en: "Research on homeodynamics through embodying neural circuits and artificial neural circuits"
+    funder:
+    ja: "科学研究費補助金 基盤研究 (B)"
+    en: "Science Research Grant - Basic Research (B)"
+    pi: "高橋宏知"
+    role: "Co-PI"
+    startYear: 2012
+    endYear: 2014
+  -
+    id: "grant-16"
+    title:
+    ja: "聴覚的顕著性の操作に基づく、音響情報の選択的強調技術の創出"
+    en: "The creation of a selective emphasis technique for auditory information based on operation of perceptual distinctiveness."
+    funder:
+    ja: "総務省 戦略的情報通信研究開発推進制度 (SCOPE)　ICTイノベーション創出型研究開発"
+    en: "The Ministry of Internal Affairs and Communications Strategic Information and Communication Research and Development Promotion System (SCOPE) - ICT innovation creating research and development"
+    pi: "高橋宏知"
+    role: "Co-PI"
+    startYear: 2012
+    endYear: 2014
+  -
+    id: "grant-17"
+    title:
+    ja: "音の質感と情動情報の神経基盤"
+    en: "The neural basis of auditory texture and emotional information"
+    funder:
+    ja: "科学研究費補助金 新学術領域研究（公募）"
+    en: "Research Grant: New Academic Field Research (Open Call)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2013
+    endYear: 2014
+  -
+    id: "grant-18"
+    title:
+    ja: "迷走神経刺激療法のトランスレーショナル研究"
+    en: "Study on the transcultural aspects of vagus nerve stimulation therapy"
+    funder:
+    ja: "科学研究費補助金 基盤研究 (A)"
+    en: "Research Grant: Basic Research (A)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2014
+    endYear: 2017
+  -
+    id: "grant-19"
+    title:
+    ja: "混沌から秩序を創発するバイオコンピューティング"
+    en: "Emerging order from chaos in bio-computing"
+    funder:
+    ja: "科学研究費補助金 挑戦的萌芽研究"
+    en: "Research and Development Grant for Challenging Seedling Research"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2014
+    endYear: 2015
+  -
+    id: "grant-20"
+    title:
+    ja: "リザバー・コンピューティングによる神経細胞の分散培養系の身体化"
+    en: "Neurocyte culture system embodied through reservoir computing"
+    funder:
+    ja: "科学研究費補助金 挑戦的萌芽研究"
+    en: "Grants for innovative seed research projects"
+    pi: "高橋宏知"
+    role: "PI"
+  -
+    id: "grant-21"
+    title:
+    ja: "聴知覚を生み出す視床・聴覚野システムの発振現象と情報流"
+    en: "The generation phenomenon of the thalamus and auditory cortex system that produces cognition and perception."
+    funder:
+    ja: "科学研究費補助金 新学術領域研究（公募）"
+    en: "Research Grant for Scientific Research - New Academic Field Research (Open Competition)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2016
+    endYear: 2017
+  -
+    id: "grant-22"
+    title:
+    ja: "脳内ステルス刺激による脳活動制御"
+    en: "Stimulating brain activity through silent stimuli in the brain"
+    funder:
+    ja: "科学研究費補助金 挑戦的研究（萌芽）"
+    en: "Science research grant - Challenge research (seedling)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2017
+    endYear: 2018
+  -
+    id: "grant-23"
+    title:
+    ja: "てんかんと記憶に関わる脳内機能的結合性の特性抽出と外科的及び電気刺激による介入"
+    en: "Characteristics extraction of brain functional connectivity related to epilepsy and memory, and interventions through surgery and electrical stimulation"
+    funder:
+    ja: "科学研究費補助金 基盤研究 (B)"
+    en: "Research Grant, Basic Research (B)"
+    pi: "高橋宏知"
+    role: "Co-PI"
+    startYear: 2017
+    endYear: 2019
+  -
+    id: "grant-24"
+    title:
+    ja: "耳鳴の脳活動の解明と質感制御"
+    en: "Deciphering brain activity associated with tinnitus and controlling texture sensation"
+    funder:
+    ja: "科学研究費補助金 新学術領域研究（公募）"
+    en: "Science research grant New academic field research (open call)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2018
+    endYear: 2019
+  -
+    id: "grant-25"
+    title:
+    ja: "非線形動力学に基づく次世代AIと基盤技術に関する研究開発"
+    en: "Research and development of next-generation AI and foundational technology based on nonlinear dynamics."
+    funder:
+    ja: "国立研究開発法人日本医療研究開発機構　戦略的国際脳科学研究推進プログラム"
+    en: "National Institute of Biomedical Innovation's Strategic International Brain Science Research Promotion Program"
+    pi: "高橋宏知"
+    role: "Co-PI"
+    startYear: 2018
+    endYear: 2023
+  -
+    id: "grant-26"
+    title:
+    ja: "脳組織によるフィジカル・リザバー計算"
+    en: "Physical reservoir calculation based on brain tissue organization"
+    funder:
+    ja: "科学研究費補助金 基盤研究 (B)"
+    en: "Research Grant - Basic Research (B)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2020
+    endYear: 2022
+  -
+    id: "grant-27"
+    title:
+    ja: "Awareness Musicによる「こころの資本"
+    en: "Music for Awareness: Capital of the Heart"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2022
+    endYear: 2026
+  -
+    id: "grant-28"
+    title:
+    ja: "自由エネルギー原理に基づく脳組織を用いた物理リザバー推論"
+    en: "Based on the principle of free energy, using brain tissue for physical reservoir inference"
+    funder:
+    ja: "科学研究費補助金 基盤研究 (B)"
+    en: "Research and Development Fund - Basic Research (B)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2023
+    endYear: 2025
+  -
+    id: "grant-29"
+    title:
+    ja: "臨床応用に向けた視床を介する大脳皮質の上行性調節機構の解明"
+    en: "Understanding the ascending regulatory mechanism of the cerebral cortex via thalamus for clinical applications"
+    funder:
+    ja: "科学研究費補助金 基盤研究 (B)"
+    en: "Science Research Grant Fund - Basic Research (B)"
+    pi: "高橋宏知"
+    role: "Co-PI"
+    startYear: 2023
+    endYear: 2025
+  -
+    id: "grant-30"
+    title:
+    ja: "脳刺激型補聴器の実現に向けた、コミュニケーション音声脳内処理機構の解明"
+    en: "Understanding the brain processing mechanism of communication sound for the realization of a brain stimulation hearing aid"
+    funder:
+    ja: "科学研究費補助金 基盤研究 (B)"
+    en: "Research grant for basic research (B)"
+    pi: "高橋宏知"
+    role: "Co-PI"
+    startYear: 2023
+    endYear: 2027
+  -
+    id: "grant-31"
+    title:
+    ja: "情報処理容量に基づく音楽クオリア構造と聴覚野情報構造の対応付け"
+    en: "Correspondence between music quality structure based on information processing capacity and auditory cortex information structure"
+    funder:
+    ja: "科学研究費補助金 学術変革領域（A）（公募）"
+    en: "Research Grant: Academic Innovation Domain (A) (Public Call)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2024
+    endYear: 2025
+  -
+    id: "grant-32"
+    title:
+    ja: "生成AIを用いた脳情報の逆相関探索と外部デジタル化"
+    en: "Exploration of brain information anti-correlation using generative AI and external digitization"
+    funder:
+    ja: "国立研究開発法人日本医療研究開発機構　脳神経科学統合プログラム（個別重点研究課題）"
+    en: "National Institute of Biomedical Innovation Brain and Neural Science Integrated Program (Individual Key Research Topics)"
+    pi: "高橋宏知"
+    role: "Co-PI"
+    startYear: 2024
+    endYear: 2029
+  -
+    id: "grant-33"
+    title:
+    ja: "自発活動を生かした脳の臨界計算"
+    en: "Leveraging spontaneous activity for brain critical computation"
+    funder:
+    ja: "科学研究費補助金 学術変革領域（A）（公募）"
+    en: "Science Research Grant Academic Transformation Field (A) (Open Call)"
+    pi: "高橋宏知"
+    role: "PI"
+    startYear: 2025
+    endYear: 2026

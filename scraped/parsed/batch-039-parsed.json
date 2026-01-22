@@ -1,0 +1,479 @@
+{
+  "batchId": 39,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "parsedAt": "2026-01-22T02:52:08.671Z",
+  "items": [
+    {
+      "type": "presentation",
+      "title": "Tonotopic, Field-specific and Layer-specific Information Processing of Long-lasting Sustained Activity in Rat Auditory Cortex",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Kenji Ibayashi",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2017,
+      "conference": "Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 318, 2017",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(60) Tomoyo I. Shiramatsu, Kenji Ibayashi, and Hirokazu Takahashi: “Tonotopic, Field-specific and Layer-specific Information Processing of Long-lasting Sustained Activity in Rat Auditory Cortex.” Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 318, 2017 (Baltimore, USA, 2017年2月11日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2017-tomoyoishiramat-tonotopic-field-specific-and-l-915"
+    },
+    {
+      "type": "presentation",
+      "title": "Preference test of sound among multiple alternatives in rats",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Ryo Soga",
+        "Tomoyo I. Shiramatsu"
+      ],
+      "year": 2017,
+      "conference": "Abstract Book of 6th Conference on Auditory Cortex: pp. 32-33, 2017",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(61) Hirokazu Takahashi, Ryo Soga, and Tomoyo I. Shiramatsu: “Preference test of sound among multiple alternatives in rats.” Abstract Book of 6th Conference on Auditory Cortex: pp. 32-33, 2017 (Banff, Canada, 2017年9月10日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2017-hirokazutakahas-preference-test-of-sound-among-916"
+    },
+    {
+      "type": "presentation",
+      "title": "Layer-specific modulation of vagus nerve stimulation on information representation of the sustained activities in rat auditory cortex",
+      "authors": [
+        "Tomoyo Shiramatsu",
+        "Kenji Ibayashi",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2017,
+      "conference": "Abstract Book of 6th Conference on Auditory Cortex: pp. 57-58, 2017",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(62) Tomoyo Shiramatsu, Kenji Ibayashi, Kensuke Kawai, Hirokazu Takahashi: “Layer-specific modulation of vagus nerve stimulation on information representation of the sustained activities in rat auditory cortex.” Abstract Book of 6th Conference on Auditory Cortex: pp. 57-58, 2017 (Banff, Canada, 2017年9月10日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2017-tomoyoshiramats-layer-specific-modulation-of-v-917"
+    },
+    {
+      "type": "presentation",
+      "title": "Mismatch negativity in the rat auditory cortex encodes empirical salience of sounds",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Tomoyo I. Shiramatsu"
+      ],
+      "year": 2018,
+      "conference": "MMN2018: The 8th Mismatch Negativity Conference, 2018",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(63) Hirokazu Takahashi, Tomoyo I. Shiramatsu: “Mismatch negativity in the rat auditory cortex encodes empirical salience of sounds.” MMN2018: The 8th Mismatch Negativity Conference, 2018 (Helsinki, Finland, 2018年6月12日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2018-hirokazutakahas-mismatch-negativity-in-the-rat-918"
+    },
+    {
+      "type": "presentation",
+      "title": "Automatic seizure detection by convolutional neural network and autoencoder",
+      "authors": [
+        "Ali Emami",
+        "Naoto Kunii",
+        "Takeshi Matsuo",
+        "Takashi Shinozaki",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2018,
+      "conference": "American Epilepsy Society Annual Meeting 2018",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(64) Ali Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai, and Hirokazu Takahashi: “Automatic seizure detection by convolutional neural network and autoencoder.” American Epilepsy Society Annual Meeting 2018 (New Orleans, USA, 2018年11月30日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2018-aliemami-automatic-seizure-detection-by-919"
+    },
+    {
+      "type": "presentation",
+      "title": "Synchronized Local Field Potentials Associated with Tinnitus in the Rat Auditory Cortex",
+      "authors": [
+        "Naoki Wake",
+        "Tomoyo I Shiramatsu",
+        "Hirokazu"
+      ],
+      "year": 2019,
+      "conference": "The second meeting of Consciousness Research Network 2019",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(65) Naoki Wake, Tomoyo I Shiramatsu, and Hirokazu: “Synchronized Local Field Potentials Associated with Tinnitus in the Rat Auditory Cortex.” The second meeting of Consciousness Research Network 2019 (CoRN 2019): P-14, 2019 (岡崎, 2019年1月23日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2019-naokiwake-synchronized-local-field-poten-920"
+    },
+    {
+      "type": "presentation",
+      "title": "Neural plasticity underlying dynamic auditory perception: Implications for Adaptive Robotics",
+      "authors": [
+        "Naoki Wake",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2019,
+      "conference": "UTokyo-SNU Workshop on Robotics, 2019",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(66) Naoki Wake, and Hirokazu Takahashi: “Neural plasticity underlying dynamic auditory perception: Implications for Adaptive Robotics.” UTokyo-SNU Workshop on Robotics, 2019 (東京，2019年2月20日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2019-naokiwake-neural-plasticity-underlying-d-921"
+    },
+    {
+      "type": "presentation",
+      "title": "Characterization of neural network by integrated information theory",
+      "authors": [
+        "Takeru Kimura",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2019,
+      "conference": "UTokyo-SNU Workshop on Robotics, 2019",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(67) Takeru Kimura, and Hirokazu Takahashi: “Characterization of neural network by integrated information theory.” UTokyo-SNU Workshop on Robotics, 2019 (東京，2019年2月20日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2019-takerukimura-characterization-of-neural-net-922"
+    },
+    {
+      "type": "presentation",
+      "title": "The optimal beat frequency for the neural activities in the auditory cortex of rats",
+      "authors": [
+        "Yoshiki Ito",
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2021,
+      "conference": "Abstract of 2021 virtual midwinter research meeting, Aoosication for research in otolaryngology: p. 117-118, 2017",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(68) Yoshiki Ito, Tomoyo I. Shiramatsu, and Hirokazu Takahashi: “The optimal beat frequency for the neural activities in the auditory cortex of rats.” Abstract of 2021 virtual midwinter research meeting, Aoosication for research in otolaryngology: p. 117-118, 2017 (Online, 2021年2月20日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2021-yoshikiito-the-optimal-beat-frequency-for-923"
+    },
+    {
+      "type": "presentation",
+      "title": "Sensitivity to Complez Statistical Regularities in Neuronal Culture",
+      "authors": [
+        "Amit Yaron",
+        "Zhuo Zhang",
+        "Tomoyo I. Shiramatsu",
+        "Zenas C. Chao",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2022,
+      "conference": "MMN2022: The 9th Mismatch Negativity Conference, P95, 2022",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(69) Amit Yaron, Zhuo Zhang, Tomoyo I. Shiramatsu, Zenas C. Chao, Hirokazu Takahashi: “Sensitivity to Complez Statistical Regularities in Neuronal Culture.” MMN2022: The 9th Mismatch Negativity Conference, P95, 2022 (福島，2022年9月21日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2022-amityaron-sensitivity-to-complez-statist-924"
+    },
+    {
+      "title": "Deviance Detection Properties in Dissociated Cultures of Neurons",
+      "authors": [
+        "Zhuo Zhang",
+        "Amit Yaron",
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2022,
+      "journal": "MMN2022: The 9th Mismatch Negativity Conference",
+      "pages": "97-98",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(70) Zhuo Zhang, Amit Yaron, Tomoyo I. Shiramatsu, Hirokazu Takahashi:”Deviance Detection Properties in Dissociated Cultures of Neurons.” MMN2022: The 9th Mismatch Negativity Conference, pp.97-98, 2022 (福島，2022年9月21日)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2022-zhuozhang-deviance-detection-properties--925"
+    },
+    {
+      "type": "presentation",
+      "title": " Cortical Oscillations Modulated by Vagus Nerve Stimulation in Auditory Pathways",
+      "authors": [
+        "Shinichi Kumagai",
+        "Tomoyo Siramatsu",
+        "Akane Matsumura",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": null,
+      "conference": "46th Annual ARO MidWinter Meeting：MO195, 2023",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(71) Shinichi Kumagai, Tomoyo Siramatsu, Akane Matsumura, Kensuke Kawai, and Hirokazu Takahashi: “ Cortical Oscillations Modulated by Vagus Nerve Stimulation in Auditory Pathways.” 46th Annual ARO MidWinter Meeting：MO195, 2023 (2023年2月13日, Orland, USA) (Poster presentation)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown-shinichikumagai--cortical-oscillations-modulat-926"
+    },
+    {
+      "type": "presentation",
+      "title": "Self-organized criticality of cultured neurons on HD-MEA",
+      "authors": [
+        "Dai Akita",
+        "Eisuke Suwa",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2023,
+      "conference": "MaxWell Summit 2023,",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(72) Dai Akita, Eisuke Suwa, Hirokazu Takahashi: “Self-organized criticality of cultured neurons on HD-MEA.” MaxWell Summit 2023, (Zurich, Switzerland, 2023年5月15日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2023-daiakita-self-organized-criticality-of--927"
+    },
+    {
+      "type": "presentation",
+      "title": "Information processing in the auditory cortex and music",
+      "authors": [
+        "Dai Akita",
+        "Tomoyo I Shiramatsu",
+        "Naoki Ishida",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2023,
+      "conference": "JST-LIR Collaborative Workshop on human well-being and resilience, 2023",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(73) Dai Akita, Tomoyo I Shiramatsu, Naoki Ishida, Hirokazu Takahashi: “Information processing in the auditory cortex and music.” JST-LIR Collaborative Workshop on human well-being and resilience, 2023(東京，2023年6月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2023-daiakita-information-processing-in-the--928"
+    },
+    {
+      "type": "presentation",
+      "title": "Social bonding through music in animal models",
+      "authors": [
+        "Karin Oshima",
+        "Towa Takagi",
+        "Tomoyo I Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2023,
+      "conference": "JST-LIR Collaborative Workshop on human well-being and resilience, 2023",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(74) Karin Oshima, Towa Takagi, Tomoyo I Shiramatsu, Hirokazu Takahashi: “Social bonding through music in animal models.” JST-LIR Collaborative Workshop on human well-being and resilience, 2023(東京，2023年6月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2023-karinoshima-social-bonding-through-music-i-929"
+    },
+    {
+      "type": "presentation",
+      "title": "VNS-induced modulation of auditory processing",
+      "authors": [
+        "Shinichi Kumagai",
+        "Tomoyo I Shiramatsu",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2023,
+      "conference": "JST-LIR Collaborative Workshop on human well-being and resilience, 2023",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(75) Shinichi Kumagai, Tomoyo I Shiramatsu, Kensuke Kawai, Hirokazu Takahashi: “VNS-induced modulation of auditory processing.” JST-LIR Collaborative Workshop on human well-being and resilience, 2023(東京，2023年6月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2023-shinichikumagai-vns-induced-modulation-of-audi-930"
+    },
+    {
+      "type": "presentation",
+      "title": "Social stimulus generalization in animal models for schizophrenia",
+      "authors": [
+        "Karin Oshima",
+        "Tomoyo Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "Society for Social Neuroscience 2024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(76) Karin Oshima, Tomoyo Shiramatsu, Hirokazu Takahashi: “Social stimulus generalization in animal models for schizophrenia.” Society for Social Neuroscience 2024 (S4SN 2024): , 2024 (2024年3月25日, 筑波) (Poster presentation)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2024-karinoshima-social-stimulus-generalization-931"
+    },
+    {
+      "type": "presentation",
+      "title": "Information Processing Capacity Of Neuronal Reservoir Computing Using HD-MEA",
+      "authors": [
+        "Dai Akita",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "MaxWell Summit 2024,",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(77) Dai Akita, Hirokazu Takahashi: “Information Processing Capacity Of Neuronal Reservoir Computing Using HD-MEA.” MaxWell Summit 2024, (Zurich, Switzerland, 2024年4月9日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2024-daiakita-information-processing-capacit-932"
+    },
+    {
+      "type": "presentation",
+      "title": "Music-exposure-dependent information processing capacity in the rodent brain",
+      "authors": [
+        "Tomoyo I Shiramatsu",
+        "Naoki Ishida",
+        "Tomoyuki Kubota",
+        "Dai Akita",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "WPI SiteVisit2024, 2024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(78) Tomoyo I Shiramatsu, Naoki Ishida, Tomoyuki Kubota, Dai Akita, Hirokazu Takahashi: “Music-exposure-dependent information processing capacity in the rodent brain.” WPI SiteVisit2024, 2024(東京，2024年7月30日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2024-tomoyoishiramat-music-exposure-dependent-infor-933"
+    },
+    {
+      "type": "presentation",
+      "title": "Development- and state-dependent information processing capacity in the dissociate culture of neurons",
+      "authors": [
+        "Dai Akita",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "WPI SiteVisit2024, 2024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(79) Dai Akita, Hirokazu Takahashi: “Development- and state-dependent information processing capacity in the dissociate culture of neurons.” WPI SiteVisit2024, 2024(東京，2024年7月30日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2024-daiakita-development-and-state-dependen-934"
+    },
+    {
+      "type": "presentation",
+      "title": "Negative Prediction-Error Neurons in Rat Auditory Cortex: Response Properties and Implications for Predictive Coding Circuits",
+      "authors": [
+        "Amit Yaron",
+        "Tomoyo I Shiramatsu",
+        "Felix Kern",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "The 10th Mismatch Negativity Conference, p.92, 2024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(80) Amit Yaron, Tomoyo I Shiramatsu, Felix Kern, Hirokazu Takahashi:“Negative Prediction-Error Neurons in Rat Auditory Cortex: Response Properties and Implications for Predictive Coding Circuits.” The 10th Mismatch Negativity Conference, p.92, 2024 (Salamanca, Spain, 2024年9月17日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2024-amityaron-negative-prediction-error-neur-935"
+    },
+    {
+      "type": "presentation",
+      "title": "Response characteristics of the nucleus accumbens dopamine to salient stimuli in rats",
+      "authors": [
+        "Riko Iizuka",
+        "Ryotaro Yamaki",
+        "Tomoyo I Shiramatsu",
+        "Shota Morikawa",
+        "Yuji Ikegaya",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "The 10th Mismatch Negativity Conference, p.105, 2024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(81) Riko Iizuka, Ryotaro Yamaki, Tomoyo I Shiramatsu, Shota Morikawa, Yuji Ikegaya, Hirokazu Takahashi: “Response characteristics of the nucleus accumbens dopamine to salient stimuli in rats.” The 10th Mismatch Negativity Conference, p.105, 2024 (Salamanca, Spain, 2024年9月17日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2024-rikoiizuka-response-characteristics-of-th-936"
+    },
+    {
+      "type": "presentation",
+      "title": "Audiovisual Rabbit Illusion and multimodal Mismatch Negativity: A Dual Approach to Investigate Multisensory Integration",
+      "authors": [
+        "Hexin Xi",
+        "Yiyuan Teresa Huang",
+        "Amit Yaron",
+        "Tomoyo I Shiramatsu",
+        "Zenas Chao",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "The 10th Mismatch Negativity Conference, p.120, 2024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(82) Hexin Xi, Yiyuan Teresa Huang, Amit Yaron, Tomoyo I Shiramatsu, Zenas Chao, Hirokazu Takahashi: “Audiovisual Rabbit Illusion and multimodal Mismatch Negativity: A Dual Approach to Investigate Multisensory Integration.” The 10th Mismatch Negativity Conference, p.120, 2024(Salamanca, Spain, 2024年9月17日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2024-hexinxi-audiovisual-rabbit-illusion-an-937"
+    },
+    {
+      "type": "presentation",
+      "title": "Cortical entrainment to the periodic auditory signals modulated by vagus nerve stimulation",
+      "authors": [
+        "Shinichi Kumagai",
+        "Tomoyo I Shiramatsu",
+        "Karin Oshima",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "Advances and Perspectives in Auditory Neuroscience., 2024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(83) Shinichi Kumagai, Tomoyo I Shiramatsu, Karin Oshima, Kensuke Kawai, Hirokazu Takahashi: “Cortical entrainment to the periodic auditory signals modulated by vagus nerve stimulation.” Advances and Perspectives in Auditory Neuroscience., 2024 (Chicago, USA, 2024年10月4日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2024-shinichikumagai-cortical-entrainment-to-the-pe-938"
+    },
+    {
+      "type": "presentation",
+      "title": "The entrainment to rapid auditory input modulated by vagus nerve stimulation",
+      "authors": [
+        "Shinichi Kumagai",
+        "Tomoyo I Shiramatsu",
+        "Karin Oshima",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "Society for Neuroscience, 2024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(84) Shinichi Kumagai, Tomoyo I Shiramatsu, Karin Oshima, Kensuke Kawai, Hirokazu Takahashi: “The entrainment to rapid auditory input modulated by vagus nerve stimulation.” Society for Neuroscience, 2024 (Chicago, USA, 2024年10月5日)\n\n\n紀要，成果報告書等 (Report)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2024-shinichikumagai-the-entrainment-to-rapid-audit-939"
+    }
+  ]
+}

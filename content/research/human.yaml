@@ -1,0 +1,125 @@
+id: human
+name_ja: humanグループ
+name_en: Human Group
+description_ja: |
+  ヒトの脳を研究対象としています。脳波やMRIを利用して、ブレイン-マシン・インターフェースの開発や認知科学の研究を進めています。また、自治医大の脳神経外科と共同で、てんかん発作の診断や治療方法の研究を進めています。てんかん発作では、神経細胞の集団活動が全く制御できない状態にあります。どうして発作に陥るのか、また、どうすれば、発作を回避できるのかを明らかにすることで、神経細胞の協調的な集団活動の原理を考察します。
+description_en: |
+  Our research focuses on the human brain. Using EEG and MRI, we develop brain-machine interfaces and conduct cognitive science research. In collaboration with the Department of Neurosurgery at Jichi Medical University, we study the diagnosis and treatment of epileptic seizures. During epileptic seizures, the collective activity of neurons becomes completely uncontrollable. By understanding why seizures occur and how they can be avoided, we investigate the principles of coordinated collective neural activity.
+keywords:
+  - human brain
+  - EEG
+  - electroencephalography
+  - MRI
+  - brain-machine interface
+  - BMI
+  - cognitive science
+  - epilepsy
+  - seizure prediction
+  - neurosurgery
+  - cortical EEG
+  - neural synchronization
+  - deep learning
+  - neuronal avalanche
+  - functional network
+  - hearing aid
+  - auditory steady-state response
+  - ASSR
+  - transcutaneous vagus nerve stimulation
+  - tVNS
+  - multisensory integration
+  - auditory processing disorder
+  - APD
+theoretical_frameworks:
+  - name_ja: 深層学習
+    name_en: Deep Learning
+    description_ja: 脳波解析によるてんかん発作検出への応用
+    description_en: Application to epileptic seizure detection through EEG analysis
+  - name_ja: 機能ネットワーク解析
+    name_en: Functional Network Analysis
+    description_ja: 皮質脳波の機能ネットワーク構造によるてんかん発作の事前予測
+    description_en: Prediction of epileptic seizures using functional network structure of cortical EEG
+research_topics:
+  - title_ja: てんかん発作の予測と診断
+    title_en: Epileptic Seizure Prediction and Diagnosis
+  - title_ja: ブレイン-マシン・インターフェースの開発
+    title_en: Development of Brain-Machine Interfaces
+  - title_ja: 聴性定常反応による聴力検査
+    title_en: Hearing Assessment Using Auditory Steady-State Response
+  - title_ja: 補聴器自動調整システム
+    title_en: Automatic Hearing Aid Adjustment System
+  - title_ja: 経皮的迷走神経刺激の効果
+    title_en: Effects of Transcutaneous Vagus Nerve Stimulation
+  - title_ja: 多感覚統合の個人差
+    title_en: Individual Differences in Multisensory Integration
+  - title_ja: 聴覚情報処理障害の評価
+    title_en: Assessment of Auditory Processing Disorders
+representative_dissertations:
+  - year: 2010
+    author_ja: 高橋秀平
+    author_en: Shuhei Takahashi
+    title_ja: 皮質脳波の機能ネットワーク構造によるてんかん発作の事前予測
+    title_en: Prediction of Epileptic Seizures Using Functional Network Structure of Cortical EEG
+    type: master
+  - year: 2019
+    author_ja: 江間見亜利
+    author_en: Ali Emami
+    title_ja: Epileptic seizure detection in scalp EEG by deep learning
+    title_en: Epileptic Seizure Detection in Scalp EEG by Deep Learning
+    type: doctoral
+  - year: 2019
+    author_ja: 石津光太郎
+    author_en: Kotaro Ishizu
+    title_ja: 視床・聴覚野における意識的な聴知覚の神経相関
+    title_en: Neural Correlates of Conscious Auditory Perception in Thalamus and Auditory Cortex
+    type: doctoral
+  - year: 2024
+    author_ja: 金井智美
+    author_en: Tomomi Kanai
+    title_ja: 言語変調音を用いた聴覚情報処理障害の他覚的聴覚評価
+    title_en: Objective Auditory Assessment of Auditory Processing Disorder Using Speech-Modulated Sounds
+    type: master
+  - year: 2024
+    author_ja: 許鶴馨
+    author_en: Hexin Xu
+    title_ja: Individual Difference of Multisensory Integration based on Behavioral and Neural Measures
+    title_en: Individual Difference of Multisensory Integration based on Behavioral and Neural Measures
+    type: master
+jsps_fellowships:
+  - name_ja: Lisandro Kaunitz
+    name_en: Lisandro Kaunitz
+    period: 2015-2017
+    type: PD
+    topic_ja: 意識と無意識状態における脳内の情報伝播
+    topic_en: Information propagation in the brain during conscious and unconscious states
+clinical_applications:
+  - title_ja: てんかん発作検出システム
+    title_en: Epileptic Seizure Detection System
+    description_ja: 深層学習を用いた脳波からのてんかん発作自動検出
+    description_en: Automatic detection of epileptic seizures from EEG using deep learning
+  - title_ja: 補聴器自動調整システム
+    title_en: Automatic Hearing Aid Adjustment System
+    description_ja: 日常使用に適した補聴器の自動調整
+    description_en: Automatic adjustment of hearing aids suitable for daily use
+  - title_ja: 短時間聴力検査
+    title_en: Short-Duration Hearing Test
+    description_ja: 脳波を利用した効率的な聴力検査
+    description_en: Efficient hearing test using EEG
+  - title_ja: 耳鳴馴化支援
+    title_en: Tinnitus Habituation Support
+    description_ja: 耳鳴馴化のためのアプリケーション開発
+    description_en: Development of application for tinnitus habituation
+facilities_ja: |
+  脳波計測用防音室を完備。MRIは学内・学外施設を利用。
+facilities_en: |
+  Equipped with soundproof room for EEG measurement. MRI facilities available at on-campus and off-campus locations.
+collaborators:
+  - name: Kensuke Kawai
+    title: Professor
+    affiliation: Jichi Medical University
+  - name: Naoto Kunii
+    title: Associate Professor
+    affiliation: Jichi Medical University
+  - name: Yoshiyuki Onuki
+    title: Lecturer
+    affiliation: Jichi Medical University
+image: /images/research/human.png

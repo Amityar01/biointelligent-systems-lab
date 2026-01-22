@@ -1,0 +1,227 @@
+courses:
+  # Currently ongoing courses
+  - id: biosystems-engineering
+    name:
+      ja: 生体システム工学
+      en: Biosystems Engineering
+    target:
+      ja: 東京大学工学部4年生
+      en: University of Tokyo, Faculty of Engineering, 4th year
+    years: "2005~present"
+    semester: summer
+    role: shared
+    ongoing: true
+
+  - id: living-body-systems
+    name:
+      ja: 生命体システム
+      en: Living Body Systems
+    target:
+      ja: 東京大学大学院情報理工学系研究科
+      en: University of Tokyo, Graduate School of Information Science and Technology
+    years: "2007~present"
+    semester: summer
+    role: main
+    ongoing: true
+
+  - id: mechano-informatics-exercises
+    name:
+      ja: 知能機械情報学演習
+      en: Exercises in Mechano-Informatics
+    target:
+      ja: 東京大学大学院情報理工学系研究科
+      en: University of Tokyo, Graduate School of Information Science and Technology
+    years: "2005~present"
+    semester: summer
+    role: shared
+    ongoing: true
+
+  - id: brain-science-intro
+    name:
+      ja: 脳科学入門
+      en: Introduction to Brain Science
+    target:
+      ja: 東京大学工学部3年生
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+    years: "2007~present"
+    semester: winter
+    role: shared
+    ongoing: true
+
+  - id: leading-program
+    name:
+      ja: 先導人材育成プログラム（Ⅰ）
+      en: Leading Graduate Program (I)
+    target:
+      ja: 東京大学大学院工学系研究科
+      en: University of Tokyo, Graduate School of Engineering
+    years: "2013~present"
+    semester: summer
+    role: main
+    ongoing: true
+
+  - id: advanced-info-systems
+    name:
+      ja: 先端情報システム学－基礎と応用－
+      en: Advanced Information Systems - Fundamentals and Applications
+    target:
+      ja: 東京大学大学院工学系研究科
+      en: University of Tokyo, Graduate School of Engineering
+    years: "2016~present"
+    semester: summer
+    role: shared
+    ongoing: true
+
+  - id: nerve-and-brain
+    name:
+      ja: 神経と脳
+      en: Nerves and Brain
+    target:
+      ja: 東京大学工学部3年生
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+    years: "2016~present"
+    semester: winter
+    role: main
+    ongoing: true
+    textbook:
+      ja: メカ屋のための脳科学入門（日刊工業新聞社，2016）
+      en: Brain Science for Engineers (Nikkan Kogyo Shimbun, 2016)
+    reference:
+      ja: 続 メカ屋のための脳科学入門 [記憶・学習/意識編]（日刊工業新聞社，2017）
+      en: Brain Science for Engineers Vol. 2 (Nikkan Kogyo Shimbun, 2017)
+
+  - id: meiji-lecture
+    name:
+      ja: 理工学研究科総合講義B
+      en: Comprehensive Lecture B, Graduate School of Science and Technology
+    target:
+      ja: 明治大学理工学研究科
+      en: Meiji University, Graduate School of Science and Technology
+    years: "2017~present"
+    semester: spring
+    role: shared
+    ongoing: true
+    visiting: true
+
+  # Past courses
+  - id: mechatronics-exercises
+    name:
+      ja: メカトロ演習
+      en: Mechatronics Exercises
+    target:
+      ja: 東京大学工学部3年生
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+    years: "2003"
+    semester: winter
+    role: shared
+    ongoing: false
+
+  - id: software-exercises
+    name:
+      ja: ソフトウエア演習
+      en: Software Exercises
+    target:
+      ja: 東京大学工学部3年生
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+    years: "2004~2005"
+    semester: winter
+    role: shared
+    ongoing: false
+
+  - id: mech-eng-seminar
+    name:
+      ja: 機械工学ゼミナール
+      en: Mechanical Engineering Seminar
+    target:
+      ja: 東京大学工学部3年生
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+    years: "2004~2005, 2012~"
+    semester: winter
+    role: main
+    ongoing: true
+
+  - id: computer-exercises
+    name:
+      ja: 計算機演習
+      en: Computer Exercises
+    target:
+      ja: 東京大学工学部3年生
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+    years: "2005"
+    semester: summer
+    role: shared
+    ongoing: false
+
+  - id: advanced-info-theory
+    name:
+      ja: 先端情報システム論
+      en: Advanced Information Systems Theory
+    target:
+      ja: 東京大学大学院工学系研究科
+      en: University of Tokyo, Graduate School of Engineering
+    years: "2007~2009, 2014"
+    semester: summer
+    role: shared
+    ongoing: false
+
+  - id: mechanics-exercises
+    name:
+      ja: 機械力学演習
+      en: Mechanics Exercises
+    target:
+      ja: 東京大学教養学部2年生
+      en: University of Tokyo, College of Arts and Sciences, 2nd year
+    years: "2008~2010, 2015~"
+    semester: winter
+    role: shared
+    ongoing: true
+
+  - id: bioengineering
+    name:
+      ja: バイオエンジニアリング
+      en: Bioengineering
+    target:
+      ja: 東京大学工学部3年生
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+    years: "2010~2015"
+    semester: summer
+    role: shared
+    ongoing: false
+
+  - id: brain-psychology
+    name:
+      ja: 脳と心理の科学
+      en: Science of Brain and Psychology
+    target:
+      ja: 東京大学大学院工学系研究科
+      en: University of Tokyo, Graduate School of Engineering
+    years: "2010~2014"
+    semester: summer
+    role: shared
+    ongoing: false
+
+  - id: toyohashi-lecture
+    name:
+      ja: 情報・知能大学院特別講義II
+      en: Special Lecture on Information and Intelligence II
+    target:
+      ja: 豊橋科学技術大学大学院情報・知能工学系
+      en: Toyohashi University of Technology, Graduate School
+    years: "2013"
+    semester: summer
+    role: shared
+    ongoing: false
+    visiting: true
+
+  - id: kanazawa-lecture
+    name:
+      ja: 機械工学特別講義
+      en: Special Lecture on Mechanical Engineering
+    target:
+      ja: 金沢大学理工研究域
+      en: Kanazawa University, Institute of Science and Engineering
+    years: "2017"
+    semester: summer
+    role: shared
+    ongoing: false
+    visiting: true

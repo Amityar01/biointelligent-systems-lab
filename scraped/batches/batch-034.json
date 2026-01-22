@@ -1,0 +1,33 @@
+{
+  "batchId": 34,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "startIndex": 425,
+  "items": [
+    "(54) Naoki Wake, Tomoyo Shiramatsu-Isoguchi, Ryohei Kanzaki, Hirokazu Takahashi: “Acoustic-trauma-induced changes in phase synchrony of neuron population in rat auditory cortex (音響外傷が聴皮質のニューロン集団の位相同期に及ぼす影響).” 第37回日本神経科学大会 (Neuroscience 2014): P3-138, 2014 (横浜，2014年9月11日)",
+    "(55) Naoki Wake, Tomoyo Shiramatsu-Isoguchi, Ryohei Kanzaki, Hirokazu Takahashi: “Band-specific phase modulation following acoustic trauma in rat auditory cortex.” 脳と心のメカニズム 第15回冬のワークショップ (2015年1月7日，ルスツ)",
+    "(56) Yuichiro Yada, Takeshi Mita, Ryohei Kanzaki, Hirokazu Takahashi: “Age-dependent diversity of spontaneous synchrony in dissociated cortical network.” 脳と心のメカニズム 第15回冬のワークショップ (2015年1月7日，ルスツ)",
+    "(57) 升森敦士，丸山典宏，三田毅，高橋宏知，池上高志：「身体性を持たせた培養神経回路網の原理とダイナミクス」，日本物理学会第70回年次大会，2015 (2015年3月21日，東京)",
+    "(58) 矢田祐一郎，眞田章宏，三田毅，神崎亮平，Douglas Bakkum，高橋宏知：「培養神経回路における神経雪崩現象と同期パターン相関」，生体医工学 53 (特別号): p. 168, 2015 (第54回日本生体医工学会大会，2015年5月7日，名古屋)",
+    "(59) 白松（磯口）知世，高橋和佐，野田貴大，神崎亮平，中原はるか，高橋宏知：「ラット視床への電気刺激による聴皮質の誘発反応の空間分布」，生体医工学 53 (特別号): p. 244, 2015 (第54回日本生体医工学会大会，2015年5月7日，名古屋)",
+    "(60) Kotaro Ishizu, Hiroyuki Nagata, Tomoyo Isoguchi Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi：Causality Evaluation of Signal Transfer between Thalamus and Cortex using Transfer Entropy，第38回日本神経科学大会, : #2P179, 2015 (2015年7月28日，神戸)",
+    "(61) Naoki Wake, Tomoyo Isoguchi Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi: Prediction of acoustic trauma based on the phase synchrony in the rat auditory cortex，第38回日本神経科学大会: #2P178, 2015 (2015年7月28日，神戸)",
+    "(62) Yuichiro Yada, Akihiro Sanada, Ryohei Kanzaki and Hirokazu Takahashi: Functional sub-network of leader neurons in self-organized dissociated cortical network，第38回日本神経科学大会, #2P321, 2015 (2015年7月28日，神戸)",
+    "(63) Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi: Band-specific power in rat auditory cortex modulates the mismatch negativity amplitude in single trial，第38回日本神経科学大会: #1P198, 2015 (2015年7月28日，神戸)",
+    "(64) 矢野隆一，三田毅，矢田祐一郎，Douglas Bakkum，神崎亮平，高橋宏知：「神経細胞の分散培養系における高密度CMOS電極アレイで推定した細胞体位置及び移動量の検証」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 85-87, 2015（2015年9月2日，飯塚，福岡）",
+    "(65) 安田秀策，矢田祐一郎，三田毅，神﨑亮平，高橋宏知：「培養神経回路を用いたFORCE学習による複雑な時系列パターンの生成」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 90-92, 2015（2015年9月2日，飯塚，福岡）",
+    "(66) 安江秀太，安田秀策，矢田祐一郎，三田毅，神崎亮平，高橋宏知：「可塑性のある神経回路モデルの身体化実験」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 100-103, 2015（2015年9月2日，飯塚，福岡）",
+    "(67) 古池香里，矢田祐一郎，三田毅，神崎亮平，ダグラス・バッカム，高橋宏知：「培養神経回路の同期バースト発生を担う細胞群の探索」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 106-107, 2015（2015年9月2日，飯塚，福岡）",
+    "(68) 和家尚希，石津光太郎，神崎亮平，高橋宏知：「ラットの聴覚野における定常的な神経活動パターンへの麻酔の影響」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 112-114, 2015（2015年9月2日，飯塚，福岡）",
+    "(69) 曾我遼，白松(磯口)知世，神崎亮平，高橋宏知：「ラットの音の嗜好性を定量化する実験系の構築」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 125-128, 2015（2015年9月2日，飯塚，福岡）",
+    "(70) 久山貴大，白松（磯口）知世，曾我遼，石津光太郎，神崎亮平，高橋宏知：「感覚野への電気パルス列刺激による知覚の生成の基礎検討」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 132-133, 2015（2015年9月2日，飯塚，福岡）",
+    "(71) 石津光太郎，白松（磯口）知世，永田裕之，神崎亮平，高橋宏知：「ラット視床および聴覚野での信号伝達の因果性評価」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 141-144, 2015（2015年9月2日，飯塚，福岡）",
+    "(72) 日露理英，白松（磯口）知世，石津光太郎，神崎亮平，井林賢志，川合謙介，高橋宏知：「迷走神経刺激がラット視床の刺激選択的順応に及ぼす影響」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 148-151, 2015（2015年9月2日，飯塚，福岡）",
+    "(73) 白松（磯口）知世，曾我遼，高橋宏知：「聴皮質における音の情動的な質感の表現」，質感のつどい 第１回公開フォーラム，2015 (2015年11月25日，東京)",
+    "(74) 升森敦士, 丸山典宏, 三田毅, Douglas Bakkum, Urs Frey, 高橋宏知, 池上高志: 「培養神経細胞の「刺激を避ける原理」による学習」，日本物理学会第71回年次大会，2016 (2016年3月19日，仙台)",
+    "(75) 白松-磯口知世，日露理英，井林賢志，神崎亮平，川合謙介，高橋宏知：「迷走神経刺激がラット聴皮質の刺激選択的順応に及ぼす影響」，第39回日本神経科学大会: #P3-082, 2016 (2016年7月20日，横浜)",
+    "(76) 曾我遼，白松-磯口知世，高橋宏知：「音嗜好性を評価する行動実験」，第39回日本神経科学大会: # P1-218, 2016 (2016年7月20日，横浜)",
+    "(77) Atsushi Kayama, Yuichiro Yada, Takeshi Mita, Ryohei Kanzaki, Hirokazu Takahashi:「Inhibitory neurons increase their firing rate prior to recurring spike sequences in cultured neurons（培養神経ネットワークのスパイクパターン生成における抑制性ニューロンの役割）」，計測自動制御学会ライフエンジニアリング部門シンポジウム2016（第31回生体生理工学シンポジウム）講演論文集：p. 99, 2016 (2016年11月3日，大阪)",
+    "(78) Yusuke Fujita, Yuichiro Yada, Ryohei Kanzaki, Hirokazu Takahashi:「Plasticity of selective adaptation for stimulus in cultured cell（神経細胞の分散培養系における刺激選択的な適応の可塑性）」，計測自動制御学会ライフエンジニアリング部門シンポジウム2016（第31回生体生理工学シンポジウム）講演論文集：p. 101, 2016 (2016年11月3日，大阪)"
+  ]
+}

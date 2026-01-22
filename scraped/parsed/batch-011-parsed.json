@@ -1,0 +1,293 @@
+{
+  "batchId": 11,
+  "category": "book",
+  "categoryTitle": "著書・編書 (Book",
+  "parsedAt": "2026-01-22T02:51:31.243Z",
+  "items": [
+    {
+      "type": "book",
+      "title": "メカ屋のための脳科学入門―脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2016,
+      "publisher": "日刊工業新聞社",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(1) 高橋宏知: 「メカ屋のための脳科学入門―脳をリバースエンジニアリングする」，日刊工業新聞社, 東京, 2016 (全206頁) (ISBN 978-4-526-07536-0)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "2016----242"
+    },
+    {
+      "type": "book",
+      "title": "続 メカ屋のための脳科学入門 [記憶・学習／意識 編]",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2017,
+      "publisher": "日刊工業新聞社",
+      "awards": [
+        "記憶・学習／意識 編"
+      ],
+      "_source": "regex",
+      "_raw": "(2) 高橋宏知: 「続 メカ屋のための脳科学入門 [記憶・学習／意識 編]」，日刊工業新聞社, 東京, 2017 (全217頁) (ISBN 978-4526077258)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "2017----243"
+    },
+    {
+      "type": "book",
+      "title": "生命知能と人工知能　AI時代の脳の使い方・育て方",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2022,
+      "publisher": "講談社",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(3) 高橋宏知：「生命知能と人工知能　AI時代の脳の使い方・育て方」，講談社，東京，2022年 (全322頁) (ISBN 978-4-06-527051-6)\n\n分担執筆",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "2022---ai--244"
+    },
+    {
+      "type": "book",
+      "title": "医学・工学の学際領域で国際共同研究を企画した",
+      "authors": [
+        "高橋宏知 (実際の設計研究会)"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(1) 高橋宏知 (実際の設計研究会): 「医学・工学の学際領域で国際共同研究を企画した」, 畑村洋太郎編, 実際の設計 第5巻 こう企画した, 日刊工業, 東京, 2004, pp. 128-136 (全500頁)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "unknown----245"
+    },
+    {
+      "type": "book",
+      "title": "論文による技術・知識の伝承",
+      "authors": [
+        "高橋宏知 (実際の設計研究会)"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(2) 高橋宏知 (実際の設計研究会): 「論文による技術・知識の伝承」, 畑村洋太郎編, 実際の設計 第6巻 技術を伝える, 日刊工業, 東京, 2006, pp. 214-223 (全402頁)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "unknown----246"
+    },
+    {
+      "type": "book",
+      "title": "第10章　感覚・運動・認知機能の再建",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(3) 高橋宏知: 「第10章　感覚・運動・認知機能の再建」，合原一幸，神崎亮平編，理工学系からの脳科学入門，東京大学出版会，東京，2008, pp. 189-210 (全219頁)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "unknown---10--247"
+    },
+    {
+      "type": "book",
+      "title": "液晶の可能性を信じて実現した液晶テレビ",
+      "authors": [
+        "高橋宏知 (実際の設計研究会)"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(4) 高橋宏知 (実際の設計研究会): 「液晶の可能性を信じて実現した液晶テレビ」, 畑村洋太郎編, 実際の設計 第7巻 成功の視点, 日刊工業, 東京, 2010, pp. 176-192 (全424頁)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "unknown----248"
+    },
+    {
+      "type": "book",
+      "title": "人工内耳（C部門5編生体医工学 1章神経工学 1-3 感覚と運動の再構成 1-3-1）",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(5) 高橋宏知：「人工内耳（C部門5編生体医工学 1章神経工学 1-3 感覚と運動の再構成 1-3-1）」，電気学会125年史 (1888-2013)，一般社団法人電気学会, 東京，2013，pp. 468-469 (全767頁)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "unknown---c-5-1-1-3-1-3-1--249"
+    },
+    {
+      "type": "book",
+      "title": "実際の設計 改訂新版-機械設計の考え方と方法- (実際の設計選書)",
+      "authors": [
+        "畑村洋太郎 (編著)",
+        "実際の設計研究会 (著)"
+      ],
+      "year": 2014,
+      "publisher": "日刊工業",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(6) 畑村洋太郎 (編著)，実際の設計研究会 (著):「実際の設計 改訂新版-機械設計の考え方と方法- (実際の設計選書)」，日刊工業, 東京, 2014 (全416頁)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "2014----250"
+    },
+    {
+      "type": "book",
+      "title": "音刺激に対する聴覚野の神経活動パターン（ラット）",
+      "authors": [
+        "高橋宏知",
+        "野田貴大"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(7) 高橋宏知，野田貴大: 「音刺激に対する聴覚野の神経活動パターン（ラット）」, 尾崎まみこ，村田芳博，藍浩之，定本久世，吉村和也，神崎亮平，日本比較生理生化学会編, 研究者が教える動物実験第2巻 神経・筋, 共立出版, 東京, 2015, pp. 108-111 (全234頁)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "unknown----251"
+    },
+    {
+      "type": "book",
+      "title": "続・実際の設計 改訂新版 機械設計に必要な知識とモデル (実際の設計選書)",
+      "authors": [
+        "畑村洋太郎 (編著)",
+        "実際の設計研究会 (著)"
+      ],
+      "year": 2017,
+      "publisher": "日刊工業",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(8) 畑村洋太郎 (編著)，実際の設計研究会 (著):「続・実際の設計 改訂新版 機械設計に必要な知識とモデル (実際の設計選書)」，日刊工業, 東京, 2017 (全492頁)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "2017----252"
+    },
+    {
+      "type": "book",
+      "title": "2-37 動物の歌，ヒトの歌",
+      "authors": [
+        "白松（磯口）知世",
+        "高橋宏知"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(9) 白松（磯口）知世，高橋宏知：「2-37 動物の歌，ヒトの歌」，一般社団法人生物音響学会編，生き物と音の事典，朝倉書店，東京，2019, pp. 100-101 (全450頁)",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "unknown--2-37--253"
+    },
+    {
+      "type": "book",
+      "title": "神経工学 (第３編医用工学の応用事例 第３章 脳・神経系)",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(10) 高橋宏知：「神経工学 (第３編医用工学の応用事例 第３章 脳・神経系)」，佐久間一郎編，医用工学ハンドブック，エヌ・ティ・エス，東京，pp. 380-389 (全475頁)\n\n英文",
+      "language": "ja",
+      "category": "book",
+      "_valid": true,
+      "id": "unknown----254"
+    },
+    {
+      "title": "The Auditory Brainstem Implant",
+      "authors": [
+        "Hirokzau Takahashi",
+        "Masayuki Nakao",
+        "Kimitaka Kaga"
+      ],
+      "year": 2008,
+      "journal": "Biomechanical Systems Technology",
+      "volume": "4",
+      "issue": "General Anatomy",
+      "pages": "173-216",
+      "type": "book",
+      "_source": "ollama",
+      "_raw": "(1) Hirokzau Takahashi, Masayuki Nakao, and Kimitaka Kaga: “The Auditory Brainstem Implant”, In: Biomechanical Systems Technology, Volume 4: General Anatomy, Cornelius T. Leondes ed., World Scientific Publishing Co. Inc., Hackenzack, N.J., pp. 173-216, 2008 [Invited paper]",
+      "language": "en",
+      "category": "book",
+      "awards": [
+        "Invited paper"
+      ],
+      "_valid": true,
+      "id": "2008-hirokzautakahas-the-auditory-brainstem-implant-255"
+    },
+    {
+      "title": "Cortical map of auditory evoked potentials",
+      "authors": [
+        "Hirokzau Takahashi",
+        "Masayuki Nakao",
+        "Kimitaka Kaga"
+      ],
+      "year": 2008,
+      "type": "book",
+      "_source": "ollama",
+      "_raw": "(2) Hirokzau Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Cortical map of auditory evoked potentials”, In: New Research on Neuronal Networks, Momoka Yoshida and Haruka Sato eds., Nova Science Publishers Inc., Hauppauge, NY, 2008, pp. 109-148 [Invited paper]",
+      "language": "en",
+      "category": "book",
+      "awards": [
+        "Invited paper"
+      ],
+      "_valid": true,
+      "id": "2008-hirokzautakahas-cortical-map-of-auditory-evoke-256"
+    },
+    {
+      "title": "State-dependent feed-forward propagation of neuronal sub-population in spontaneous synchronized bursts",
+      "authors": [
+        "Yuichiro Yada",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2018,
+      "type": "book",
+      "_source": "ollama",
+      "_raw": "(3) Yuichiro Yada, Ryohei Kanzaki, and Hirokazu Takahashi: “State-dependent feed-forward propagation of neuronal sub-population in spontaneous synchronized bursts.” In: Metastable Dynamics of Neural Ensembles., Emili Balaguer-Ballester, Ruben Moreno-Bote, Gustavo Deco and Daniel Durstewitz eds., Frontiers Media, Lausanne, 2018, pp. 122-134 (ISBN 978-2-88945-437-2; DOI 10.3389/978-2-88945-437-2)",
+      "language": "en",
+      "category": "book",
+      "awards": [],
+      "_valid": true,
+      "id": "2018-yuichiroyada-state-dependent-feed-forward-p-257"
+    },
+    {
+      "title": "Auditory, visual, and cross-modal mismatch negativities in the auditory and visual cortex of rat",
+      "authors": [
+        "Tomoyo Isoguchi Shiramatsu",
+        "Kanato Mori",
+        "Kotaro Ishizu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2022,
+      "journal": "Sensing the World Through Predictions and Errors.",
+      "pages": "92-107",
+      "type": "book",
+      "_source": "ollama",
+      "_raw": "(4) Tomoyo Isoguchi Shiramatsu, Kanato Mori, Kotaro Ishizu, Hirokazu Takahashi: “Auditory, visual, and cross-modal mismatch negativities in the auditory and visual cortex of rat.” In: Sensing the World Through Predictions and Errors., Ryszard Auksztulewicz, Marta I. Garrido, Manuel S. Malmierca, Alessandro Tavano, Juanita Todd and István Winkler eds., Frontiers Media SA, 2022, pp. 92-107 (ISBN 978-2-88976-137-1; DOI 10.3389/978-2-88976-137-1)",
+      "language": "en",
+      "category": "book",
+      "awards": [],
+      "_valid": true,
+      "id": "2022-tomoyoisoguchis-auditory-visual-and-cross-moda-258"
+    }
+  ]
+}

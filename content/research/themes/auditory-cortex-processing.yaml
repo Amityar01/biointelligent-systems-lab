@@ -1,0 +1,111 @@
+id: auditory-cortex-processing
+name:
+  en: Auditory Cortex Information Processing
+  ja: 聴覚野の情報処理
+description:
+  en: Understanding information processing in the auditory cortex
+  ja: 聴覚野における情報処理の解明
+subthemes:
+  - id: functional-maps
+    name:
+      en: Functional Maps and Information Representation
+      ja: 機能マップと情報表現
+    selectedPublications:
+      - authors: Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga
+        title: Interfield differences in intensity and frequency representation of evoked potentials in rat auditory cortex
+        journal: Hearing Research
+        volume: 210 (1-2)
+        pages: pp. 9-23
+        year: 2005
+        link: http://www.sciencedirect.com/science/article/pii/S0378595505001619
+      - authors: Hirokazu Takahashi, Ryo Yokota, and Ryohei Kanzaki
+        title: 'Response variance in functional maps: Neural Darwinism revisited'
+        journal: PLOS ONE
+        volume: 8 (7)
+        pages: e68705 (7 pp)
+        year: 2013
+        doi: 10.1371/journal.pone.0068705
+        link: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0068705
+      - authors: 高橋宏知
+        title: 脳の情報表現における集団のなかの個性
+        journal: 日本神経回路学会誌
+        volume: 17 (3)
+        pages: pp. 112-123
+        year: 2010
+        link: https://www.jstage.jst.go.jp/article/jnns/17/3/17_3_112/_article/-char/ja/
+  - id: learning-plasticity
+    name:
+      en: Learning-Induced Plasticity
+      ja: 学習による可塑性
+    selectedPublications:
+      - authors: Hirokazu Takahashi, Ryo Yokota, Akihiro Funamizu, Hidekazu Kose, Ryohei Kanzaki
+        title: Learning-stage-dependent, field-specific, map plasticity in the rat auditory cortex during appetitive operant conditioning
+        journal: Neuroscience
+        volume: '199'
+        pages: pp. 243-258
+        year: 2011
+        link: http://www.sciencedirect.com/science/article/pii/S0306452211011316
+      - authors: Akihiro Funamizu, Ryohei Kanzaki, and Hirokazu Takahashi
+        title: Pre-attentive, context-specific representation of fear memory in the auditory cortex of rat
+        journal: PLOS ONE
+        volume: 8 (5)
+        pages: e63655 (14 pp)
+        year: 2013
+        link: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0063655
+      - authors: 高橋宏知
+        title: 聴皮質の可塑性と聴覚認知リハビリテーション
+        journal: Otology Japan
+        volume: 18 (1)
+        pages: pp. 12-18
+        year: 2008
+        link: https://www.jstage.jst.go.jp/article/otoljpn1991/18/1/18_1_12/_article/-char/ja/
+  - id: sound-perception
+    name:
+      en: Sound Perception
+      ja: 音の知覚
+    selectedPublications:
+      - authors: Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi
+        title: Stimulus phase locking of cortical oscillation for auditory stream segregation in rats
+        journal: PLOS ONE
+        volume: 8 (12)
+        pages: e83544 (14 pp)
+        year: 2013
+        link: http://dx.plos.org/10.1371/journal.pone.0083544
+      - authors: 高橋宏知
+        title: 聴知覚と聴覚野の神経活動の位相同期
+        journal: Audiology Japan
+        volume: 61 (4)
+        pages: pp. 246-253
+        year: 2018
+        link: https://www.jstage.jst.go.jp/article/audiology/61/4/61_245/_article/-char/ja
+  - id: mismatch-negativity
+    name:
+      en: Mismatch Negativity
+      ja: ミスマッチ陰性電位
+    selectedPublications:
+      - authors: Tomoyo I. Shiramatsu, Ryohei Kanzaki, and Hirokazu Takahashi
+        title: Cortical mapping of mismatch negativity with deviance detection property in rat
+        journal: PLOS ONE
+        volume: 8 (12)
+        pages: e82663 (10 pp)
+        year: 2013
+        link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0082663
+      - authors: Tomoyo I. Shiramatsu, Hirokazu Takahashi
+        title: 'Mismatch-negativity (MMN) in animal models: homology of human MMN?'
+        journal: Hearing Research
+        volume: '399'
+        pages: 107936 (11 pp)
+        year: 2021
+        link: https://www.sciencedirect.com/science/article/abs/pii/S0378595519304356?via%3Dihub
+  - id: music-and-brain
+    name:
+      en: Music and the Brain
+      ja: 音楽と脳
+    selectedPublications:
+      - authors: Yoshiki Ito, Tomoyo I. Shiramatsu, Naoki Ishida, Karin Oshima, Kaho Magami, and Hirokazu Takahashi
+        title: 'Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment'
+        journal: Science Advances
+        volume: 8 (45)
+        pages: eabo7019 (11 pp)
+        year: 2022
+        link: https://www.science.org/doi/10.1126/sciadv.abo7019

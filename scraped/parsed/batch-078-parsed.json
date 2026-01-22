@@ -1,0 +1,388 @@
+{
+  "batchId": 78,
+  "category": "thesis",
+  "categoryTitle": "研究・論文指導 (mentoring)",
+  "parsedAt": "2026-01-22T03:16:30.072Z",
+  "items": [
+    {
+      "title": "マイクロRNAが培養神経回路の履歴依存的応答に及ぼす影響",
+      "authors": [
+        "櫻山和浩"
+      ],
+      "year": 2020,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(38)　櫻山和浩：「マイクロRNAが培養神経回路の履歴依存的応答に及ぼす影響」，東京大学大学院情報理工学系研究科修士論文, 2020年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2020---rna--1812"
+    },
+    {
+      "title": "齧歯類におけるビート知覚の神経基盤",
+      "authors": [
+        "伊藤圭基"
+      ],
+      "year": 2021,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(39) 伊藤圭基：「齧歯類におけるビート知覚の神経基盤」，東京大学大学院情報理工学系研究科修士論文, 2021年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2021----1813"
+    },
+    {
+      "title": "リザバー計算の状態空間別情報処理能力",
+      "authors": [
+        "木村武龍"
+      ],
+      "year": 2021,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(40) 木村武龍：「リザバー計算の状態空間別情報処理能力」，東京大学大学院情報理工学系研究科修士論文, 2021年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2021----1814"
+    },
+    {
+      "title": "多感覚情報処理が脳の逸脱検出に及ぼす影響",
+      "authors": [
+        "森叶人"
+      ],
+      "year": 2021,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(41) 森叶人：「多感覚情報処理が脳の逸脱検出に及ぼす影響」，東京大学大学院情報理工学系研究科修士論文, 2021年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2021----1815"
+    },
+    {
+      "title": "耳鳴馴化支援アプリケーションの開発",
+      "authors": [
+        "矢田浩章"
+      ],
+      "year": 2021,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(42) 矢田浩章：「耳鳴馴化支援アプリケーションの開発」，東京大学大学院情報理工学系研究科修士論文, 2021年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2021----1816"
+    },
+    {
+      "title": "機械学習を用いた聴性定常反応の検出",
+      "authors": [
+        "高橋斗威"
+      ],
+      "year": 2022,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(43) 高橋斗威：「機械学習を用いた聴性定常反応の検出」，東京大学大学院情報理工学系研究科修士論文, 2022年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2022----1817"
+    },
+    {
+      "title": "感覚野における迷走神経刺激療法の動作原理の検証",
+      "authors": [
+        "松村茜"
+      ],
+      "year": 2022,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(44) 松村茜：「感覚野における迷走神経刺激療法の動作原理の検証」，東京大学大学院情報理工学系研究科修士論文, 2022年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2022----1818"
+    },
+    {
+      "title": "音楽曝露によるラット聴覚野の情報処理容量の変化",
+      "authors": [
+        "石田直輝"
+      ],
+      "year": 2023,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(45) 石田直輝：「音楽曝露によるラット聴覚野の情報処理容量の変化」東京大学大学院情報理工学系研究科修士論文, 2023年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2023----1819"
+    },
+    {
+      "title": "神経細胞の分散培養系による臨界的物理リザバー計算",
+      "authors": [
+        "諏訪瑛介"
+      ],
+      "year": 2023,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(46) 諏訪瑛介：「神経細胞の分散培養系による臨界的物理リザバー計算」東京大学大学院情報理工学系研究科修士論文, 2023年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2023----1820"
+    },
+    {
+      "title": "統合失調症モデル動物における刺激般化",
+      "authors": [
+        "大島果林"
+      ],
+      "year": 2024,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(47) 大島果林：「統合失調症モデル動物における刺激般化」東京大学大学院情報理工学系研究科修士論文, 2024年2月(指導教員：白松（磯口）知世准教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2024----1821"
+    },
+    {
+      "title": "顕著な刺激に対する側坐核ドーパミンの応答特性",
+      "authors": [
+        "山木崚太郎"
+      ],
+      "year": 2024,
+      "journal": "東京大学大学院情報理工学系研究科修士論文",
+      "pages": null,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(48) 山木崚太郎：「顕著な刺激に対する側坐核ドーパミンの応答特性」東京大学大学院情報理工学系研究科修士論文, 2024年2月(指導教員：白松（磯口）知世准教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2024----1822"
+    },
+    {
+      "title": "聴性定常反応の非定常性",
+      "authors": [
+        "岡田大吾"
+      ],
+      "year": 2024,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(49) 岡田大吾：「聴性定常反応の非定常性」東京大学大学院情報理工学系研究科修士論文, 2024年8月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2024----1823"
+    },
+    {
+      "title": "言語変調音を用いた聴覚情報処理障害の他覚的聴覚評価",
+      "authors": [
+        "金井智美"
+      ],
+      "year": 2025,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(50) 金井智美：「言語変調音を用いた聴覚情報処理障害の他覚的聴覚評価」東京大学大学院情報理工学系研究科修士論文，2025年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2025----1824"
+    },
+    {
+      "title": "Individual Difference of Multisensory Integration based on Behavioral and Neural Measures",
+      "authors": [
+        "許鶴馨"
+      ],
+      "year": 2025,
+      "journal": "東京大学大学院情報理工学系研究科修士論文",
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(51) 許鶴馨：「Individual Difference of Multisensory Integration based on Behavioral and Neural Measures」，東京大学大学院情報理工学系研究科修士論文, 2025年2月(指導教員：白松（磯口）知世准教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2025--individual-difference-of-multi-1825"
+    },
+    {
+      "title": "個別音提示システムを用いたラットの社会性行動の評価",
+      "authors": [
+        "高木永遠"
+      ],
+      "year": 2025,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(52) 高木永遠：「個別音提示システムを用いたラットの社会性行動の評価」，東京大学大学院情報理工学系研究科修士論文, 2025年2月(指導教員：白松（磯口）知世准教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2025----1826"
+    },
+    {
+      "title": "異なる温度環境下での培養神経回路における推論",
+      "authors": [
+        "高野雄基"
+      ],
+      "year": 2025,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(53) 高野雄基：「異なる温度環境下での培養神経回路における推論」，東京大学大学院情報理工学系研究科修士論文，2025年2月 博士論文 主査",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2025----1827"
+    },
+    {
+      "title": "薄膜形光アドレス電極の開発とその応用",
+      "authors": [
+        "硯川潤"
+      ],
+      "year": 2009,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(1) 硯川潤: 「薄膜形光アドレス電極の開発とその応用」, 東京大学大学院情報理工学系研究科学位論文，2009年6月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2009----1828"
+    },
+    {
+      "title": "生体信号のデコーディングによる神経情報処理の解析 (Decoding of Biological Signal for Analyzing Neural Computation)",
+      "authors": [
+        "船水章大"
+      ],
+      "year": 2011,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(2) 船水章大：「生体信号のデコーディングによる神経情報処理の解析 (Decoding of Biological Signal for Analyzing Neural Computation)」, 東京大学大学院情報理工学系研究科学位論文，2011年3月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2011---decoding-of-biological-signal-1829"
+    },
+    {
+      "title": "聴覚野における音脈分凝の神経基盤",
+      "authors": [
+        "野田貴大"
+      ],
+      "year": 2012,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(3) 野田貴大：「聴覚野における音脈分凝の神経基盤」，東京大学大学院情報理工学系研究科学位論文，2012年9月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2012----1830"
+    },
+    {
+      "title": "神経細胞の分散培養系に嗅覚受容体を発現させた匂いセンサーの開発",
+      "authors": [
+        "棚田法男"
+      ],
+      "year": 2012,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(4) 棚田法男：「神経細胞の分散培養系に嗅覚受容体を発現させた匂いセンサーの開発」，東京大学大学院工学系研究科学位論文，2012年9月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2012----1831"
+    },
+    {
+      "title": "神経集団による符号化の多様性と同期性の意義",
+      "authors": [
+        "横田亮"
+      ],
+      "year": 2013,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(5) 横田亮：「神経集団による符号化の多様性と同期性の意義」，東京大学大学院情報理工学系研究科学位論文，2013年3月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1832"
+    },
+    {
+      "title": "聴皮質における音の質感と情動情報の表現",
+      "authors": [
+        "白松（磯口）知世"
+      ],
+      "year": 2014,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(6) 白松（磯口）知世：「聴皮質における音の質感と情動情報の表現」東京大学大学院情報理工学系研究科学位論文，2014年3月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2014----1833"
+    },
+    {
+      "title": "分散培養系で神経集団が創発する時空間ダイナミクス",
+      "authors": [
+        "矢田祐一郎"
+      ],
+      "year": 2017,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(7) 矢田祐一郎：「分散培養系で神経集団が創発する時空間ダイナミクス」，東京大学大学院情報理工学系研究科学位論文，2017年2月 [大学院情報理工学系研究科研究科長賞受賞]",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [
+        "大学院情報理工学系研究科研究科長賞受賞"
+      ],
+      "_valid": true,
+      "id": "2017----1834"
+    },
+    {
+      "title": "聴覚野における耳鳴の神経メカニズム",
+      "authors": [
+        "和家尚希"
+      ],
+      "year": null,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(8) 和家尚希：「聴覚野における耳鳴の神経メカニズム」，東京大学大学院情報理工学系研究科学位論文",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "unknown----1835"
+    },
+    {
+      "title": "Epileptic seizure detection in scalp EEG by deep learning",
+      "authors": [
+        "江間見亜利"
+      ],
+      "year": 2019,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(9)　江間見亜利：「Epileptic seizure detection in scalp EEG by deep learning」，東京大学大学院工学系研究科学位論文，2019年9月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2019--epileptic-seizure-detection-in-1836"
+    }
+  ]
+}

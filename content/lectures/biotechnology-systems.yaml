@@ -1,0 +1,28 @@
+id: biotechnology-systems
+slug: biotechnology-systems
+title:
+  en: Biological Systems Engineering
+  ja: 生体システム工学
+instructor:
+  en: Hirokazu Takahashi (shared)
+  ja: 高橋宏知（分担）
+department:
+  en: Faculty of Engineering
+  ja: 工学部
+level:
+  en: Undergraduate (4th year)
+  ja: 学部4年生
+year: 2023
+semester:
+  en: Summer
+  ja: 夏学期
+description:
+  en: A course on biological systems engineering for undergraduate students in the Faculty of Engineering at the University of Tokyo.
+  ja: 東京大学工学部の学部生を対象とした生体システム工学の講義。
+schedule:
+  dates:
+    - 2023-05-10
+notes:
+  en: Course materials available via ITC-LMS
+  ja: 講義資料はITC-LMSで配布
+active: true

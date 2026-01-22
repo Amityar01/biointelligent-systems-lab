@@ -1,0 +1,39 @@
+id: auditory-language-reconstruction
+name:
+  en: Auditory and Language Function Reconstruction
+  ja: 聴覚・言語機能の再建
+description:
+  en: Development of systems to restore auditory and speech functions
+  ja: 聴覚および言語機能を再建するシステムの開発
+subthemes:
+  - id: electrolarynx
+    name:
+      en: Speech System for Laryngectomy Patients
+      ja: 喉頭摘出者の発声システム
+    selectedPublications:
+      - authors: Hirokazu Takahashi, Masayuki Nakao, Yataro Kikuchi, and Kimitaka Kaga
+        title: Alaryngeal speech aid using an intra-oral electrolarynx and a miniature fingertip switch
+        journal: Auris Nasus Larynx
+        volume: 32 (2)
+        pages: pp. 157-162
+        year: 2005
+        link: http://www.aurisnasuslarynx.com/article/S0385-8146(05)00006-4/abstract
+  - id: auditory-brainstem-implant
+    name:
+      en: Auditory Brainstem Implant
+      ja: 聴性脳幹インプラント（脳幹の電気刺激による聴覚再建）
+    selectedPublications:
+      - authors: Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga
+        title: Accessing ampli-tonotopic organization of rat auditory cortex by microstimulation of cochlear nucleus
+        journal: IEEE Transactions on Biomedical Engineering
+        volume: 52 (7)
+        pages: pp. 1333-1344
+        year: 2005
+        link: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1440612
+      - authors: 高橋宏知
+        title: 脳幹の電気刺激による聴覚機能代行 -聴性人工脳幹インプラント-
+        journal: BME
+        volume: 18 (4)
+        pages: pp. 48-54
+        year: 2004
+        link: https://www.jstage.jst.go.jp/article/jsmbe1987/18/4/18_4_48/_article/-char/ja/

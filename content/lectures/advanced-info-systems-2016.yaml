@@ -1,0 +1,36 @@
+id: advanced-info-systems-2016
+slug: advanced-info-systems-2016
+title:
+  en: "Advanced Information Systems: Fundamentals and Applications"
+  ja: 先端情報システム学－基礎と応用－
+instructor:
+  en: Hirokazu Takahashi (shared)
+  ja: 高橋宏知（分担）
+department:
+  en: Graduate School of Engineering
+  ja: 大学院工学系研究科
+level:
+  en: Graduate
+  ja: 大学院
+year: 2016
+semester:
+  en: Summer
+  ja: 夏学期
+description:
+  en: Graduate course covering advanced information systems with emphasis on brain science applications.
+  ja: 脳科学応用を重視した先端情報システムに関する大学院講義。
+schedule:
+  start_date: "2016-05-17"
+  time: "14:55-18:35"
+  instructor_dates:
+    - "2016-05-17 (Tue)"
+    - "2016-05-24 (Tue)"
+    - "2016-05-31 (Tue)"
+textbook:
+  title:
+    en: "Brain Science for Engineers: Reverse Engineering the Brain"
+    ja: メカ屋のための脳科学入門　脳をリバースエンジニアリングする
+  publisher:
+    en: Nikkan Kogyo Shimbun
+    ja: 日刊工業新聞社
+active: false

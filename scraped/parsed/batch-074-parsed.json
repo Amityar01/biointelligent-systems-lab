@@ -1,0 +1,383 @@
+{
+  "batchId": 74,
+  "category": "thesis",
+  "categoryTitle": "研究・論文指導 (mentoring)",
+  "parsedAt": "2026-01-22T03:14:09.001Z",
+  "items": [
+    {
+      "title": "「脳内で聴覚信号を記録・刺激する微小電極の開発」",
+      "authors": [
+        "江尻貴之"
+      ],
+      "year": 2000,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(1) 江尻貴之: 「脳内で聴覚信号を記録・刺激する微小電極の開発」, 東京大学工学部卒業論文, 2000年2月 (指導教官: 畑村洋太郎教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2000----1712"
+    },
+    {
+      "title": "多接点を有する剣山形脳内電極の開発",
+      "authors": [
+        "間瀬文雄"
+      ],
+      "year": 2001,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(2) 間瀬文雄: 「多接点を有する剣山形脳内電極の開発」, 東京大学工学部卒業論文, 2001年2月 (指導教官: 畑村洋太郎教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2001----1713"
+    },
+    {
+      "title": "喉頭摘出者のための口腔内人工発声システムの開発",
+      "authors": [
+        "滝俊介"
+      ],
+      "year": 2002,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(3) 滝俊介: 「喉頭摘出者のための口腔内人工発声システムの開発」, 東京大学工学部卒業論文, 2002年2月 (指導教官: 中尾政之教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2002----1714"
+    },
+    {
+      "title": "神経細胞を高分解能に刺激する微小多点電極の開発",
+      "authors": [
+        "保田祐介"
+      ],
+      "year": 2002,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(4) 保田祐介: 「神経細胞を高分解能に刺激する微小多点電極の開発」, 東京大学工学部卒業論文, 2002年2月 (指導教官: 鷲津正夫教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2002----1715"
+    },
+    {
+      "title": "「脳深部の神経活動を計測・刺激するための刺入形多点微小電極の開発」",
+      "authors": [
+        "太田哲二"
+      ],
+      "year": 2003,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(5) 太田哲二: 「脳深部の神経活動を計測・刺激するための刺入形多点微小電極の開発」, 東京大学工学部卒業論文, 2003年2月 (指導教官: 濱口哲也助教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2003----1716"
+    },
+    {
+      "title": "「無喉頭者のための口腔内振動子を用いた発声システムの開発」",
+      "authors": [
+        "向笠祐介"
+      ],
+      "year": 2003,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(6) 向笠祐介: 「無喉頭者のための口腔内振動子を用いた発声システムの開発」, 東京大学工学部卒業論文, 2003年2月 (指導教官: 濱口哲也助教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2003----1717"
+    },
+    {
+      "title": "「無喉頭者のための骨伝導形発声システムの開発」",
+      "authors": [
+        "金山陽介"
+      ],
+      "year": 2004,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(7) 金山陽介: 「無喉頭者のための骨伝導形発声システムの開発」, 東京大学工学部卒業論文, 2004年2月 (指導教官: 中尾政之教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2004----1718"
+    },
+    {
+      "title": "「電気刺激で誘発される脳梁の神経活動の計測」",
+      "authors": [
+        "硯川潤"
+      ],
+      "year": 2004,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(8) 硯川潤: 「電気刺激で誘発される脳梁の神経活動の計測」, 東京大学工学部卒業論文, 2004年2月(指導教官: 中尾政之教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2004----1719"
+    },
+    {
+      "title": "ナノワイヤを用いた血管内センサによる神経反応の計測",
+      "authors": [
+        "渡辺裕文"
+      ],
+      "year": 2004,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(9) 渡辺裕文: 「ナノワイヤを用いた血管内センサによる神経反応の計測」, 東京大学工学部卒業論文, 2004年2月 (指導教官: 中尾政之教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2004----1720"
+    },
+    {
+      "title": "「声道形状の変化を検出する磁気センサとそれを応用した発声システムの開発」",
+      "authors": [
+        "津田欣哉"
+      ],
+      "year": 2005,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(10) 津田欣哉: 「声道形状の変化を検出する磁気センサとそれを応用した発声システムの開発」, 東京大学工学部卒業論文, 2005年2月 (指導教員: 濱口哲也助教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2005----1721"
+    },
+    {
+      "title": "学習による聴皮質の時空間的神経活動の状況依存的な可塑性",
+      "authors": [
+        "船水章大"
+      ],
+      "year": 2006,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(11) 船水章大: 「学習による聴皮質の時空間的神経活動の状況依存的な可塑性」, 東京大学工学部卒業論文, 2006年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2006----1722"
+    },
+    {
+      "title": "微小電気刺激による聴皮質の機能構造の書き換え技術の開発",
+      "authors": [
+        "横田亮"
+      ],
+      "year": 2006,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(12) 横田亮: 「微小電気刺激による聴皮質の機能構造の書き換え技術の開発」, 東京大学工学部卒業論文, 2006年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2006----1723"
+    },
+    {
+      "title": "昆虫の感覚―運動系を組み込んだ環境適応型ロボットの構築",
+      "authors": [
+        "江本周平"
+      ],
+      "year": 2006,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(13) 江本周平: 「昆虫の感覚―運動系を組み込んだ環境適応型ロボットの構築」，東京大学工学部卒業論文, 2006年2月 (指導教員: 神崎亮平教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2006----1724"
+    },
+    {
+      "title": "昆虫による実環境下移動ロボットの遠隔制御システムの構築",
+      "authors": [
+        "杉山忠尚"
+      ],
+      "year": 2006,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(14) 杉山忠尚: 「昆虫による実環境下移動ロボットの遠隔制御システムの構築」，東京大学工学部卒業論文, 2006年2月 (指導教員: 神崎亮平教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2006----1725"
+    },
+    {
+      "title": "昆虫の定位行動における複数感覚情報統合アルゴリズムの解明",
+      "authors": [
+        "古瀬秀和"
+      ],
+      "year": 2006,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(15) 古瀬秀和: 「昆虫の定位行動における複数感覚情報統合アルゴリズムの解明」，東京大学工学部卒業論文, 2006年2月 (指導教員: 神崎亮平教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2006----1726"
+    },
+    {
+      "title": "音のオペラント学習による聴皮質の情報表現の変化",
+      "authors": [
+        "三森雄介"
+      ],
+      "year": 2007,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(16) 三森雄介: 「音のオペラント学習による聴皮質の情報表現の変化」，東京大学工学部卒業論文, 2007年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2007----1727"
+    },
+    {
+      "title": "探索行動のための視覚・嗅覚情報統合モデル",
+      "authors": [
+        "山下敦"
+      ],
+      "year": 2007,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(17) 山下敦: 「探索行動のための視覚・嗅覚情報統合モデル」，東京大学工学部卒業論文, 2007年2月 (指導教員: 神崎亮平教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2007----1728"
+    },
+    {
+      "title": "「電気的・薬理的インターフェースによる音学習中の聴皮質の神経活動の解析」",
+      "authors": [
+        "大坪紀子"
+      ],
+      "year": 2008,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(18) 大坪紀子：「電気的・薬理的インターフェースによる音学習中の聴皮質の神経活動の解析」，東京大学工学部卒業論文, 2008年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2008----1729"
+    },
+    {
+      "title": "昆虫の単一神経細胞群のカルシウムイメージング法の開発",
+      "authors": [
+        "藤原輝史"
+      ],
+      "year": 2008,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(19) 藤原輝史：「昆虫の単一神経細胞群のカルシウムイメージング法の開発」，東京大学工学部卒業論文, 2008年2月 (指導教員: 神崎亮平教授)",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2008----1730"
+    },
+    {
+      "title": "てんかん発作の予測のための皮質脳波解析",
+      "authors": [
+        "藤原正道"
+      ],
+      "year": 2008,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(20) 藤原正道：「てんかん発作の予測のための皮質脳波解析」，東京大学工学部卒業論文, 2008年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2008----1731"
+    },
+    {
+      "title": "状況察知のための聴皮質における質感の情報処理",
+      "authors": [
+        "磯口知世"
+      ],
+      "year": 2009,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(21) 磯口知世：「状況察知のための聴皮質における質感の情報処理」，東京大学工学部卒業論文, 2009年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2009----1732"
+    },
+    {
+      "title": "チャネルロドプシンを発現させた光応答型培養神経回路",
+      "authors": [
+        "酒井秀夫"
+      ],
+      "year": 2009,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(22) 酒井秀夫：「チャネルロドプシンを発現させた光応答型培養神経回路」，東京大学工学部卒業論文, 2009年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2009----1733"
+    },
+    {
+      "title": "てんかん患者の多点皮質脳波における神経活動の雪崩現象の検証",
+      "authors": [
+        "李夏栄"
+      ],
+      "year": 2012,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(23) 李夏栄：「てんかん患者の多点皮質脳波における神経活動の雪崩現象の検証」，東京大学工学部卒業論文, 2012年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2012----1734"
+    },
+    {
+      "title": "高密度CMOSアレイと細胞内刺激による神経ネットワークの可視化",
+      "authors": [
+        "石原裕也"
+      ],
+      "year": 2012,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(24) 石原裕也：「高密度CMOSアレイと細胞内刺激による神経ネットワークの可視化」，東京大学工学部卒業論文, 2012年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2012---cmos--1735"
+    },
+    {
+      "title": "音列オブジェクト形成に関わる聴皮質の神経活動",
+      "authors": [
+        "雨宮知樹"
+      ],
+      "year": 2013,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(25) 雨宮知樹：「音列オブジェクト形成に関わる聴皮質の神経活動」，東京大学工学部卒業論文, 2013年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1736"
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+title:
+  ja: 脳科学を勉強しよう
+  en: Study Brain Science - Recommended Reading
+
+categories:
+  - id: general
+    title:
+      ja: 神経科学全般
+      en: General Neuroscience
+    books:
+      - title: 生命知能と人工知能 AI時代の脳の使い方・育て方
+        author: 高橋宏知
+        publisher: 講談社
+        year: 2022
+        amazon: https://www.amazon.co.jp/dp/4065270510
+      - title: メカ屋のための脳科学入門 脳をリバースエンジニアリングする
+        author: 高橋宏知
+        publisher: 日刊工業新聞社
+        year: 2016
+        amazon: https://www.amazon.co.jp/dp/4526075361
+      - title: 続 メカ屋のための脳科学入門 [記憶・学習/意識編]
+        author: 高橋宏知
+        publisher: 日刊工業新聞社
+        year: 2017
+        amazon: https://www.amazon.co.jp/dp/4526077259
+
+  - id: beginner
+    title:
+      ja: 初級者～
+      en: Beginner Level
+    books:
+      - title: 進化しすぎた脳
+        author: 池谷裕二
+        publisher: 講談社ブルーバックス
+        year: 2007
+      - title: 単純な脳、複雑な「私」
+        author: 池谷裕二
+        publisher: 講談社ブルーバックス
+        year: 2013
+      - title: 夢を叶えるために脳はある
+        author: 池谷裕二
+        publisher: 講談社
+        year: 2024
+      - title: 脳のなかの幽霊
+        author: V.S. ラマチャンドラン
+        publisher: 角川書店
+        year: 2011
+        note:
+          ja: 臨床医の経験に基づき，不思議な症例から脳の情報処理方法を考察
+      - title: 脳 回路網のなかの精神
+        author: マンフレート・シュピッツァー
+        publisher: 新曜社
+        year: 2001
+        note:
+          ja: 人工ニューラルネットワークから脳の情報処理を工学的に考察
+
+  - id: intermediate
+    title:
+      ja: 中級者～
+      en: Intermediate Level
+    books:
+      - title: 意識の探求―神経科学からのアプローチ (上)(下)
+        author: クリストフ・コッホ
+        publisher: 岩波書店
+        year: 2006
+        note:
+          ja: 意識研究の必読書その１
+      - title: シナプスが人格をつくる
+        author: ジョセフ・ルドゥー
+        publisher: みすず書房
+        year: 2004
+      - title: 人間らしさとはなにか?
+        author: マイケル・ガザニガ
+        publisher: インターシフト
+        year: 2010
+      - title: 「わたし」はどこにあるのか
+        author: マイケル・ガザニガ
+        publisher: 紀伊国屋書店
+        year: 2014
+      - title: 脳の地図を書き換える
+        author: デイヴィット・イーグルマン
+        publisher: 早川書房
+        year: 2022
+      - title: 脳科学で解く心の病
+        author: エリック・カンデル
+        publisher: 築地書館
+        year: 2024
+
+  - id: complexity
+    title:
+      ja: 複雑系の科学
+      en: Complexity Science
+    books:
+      - title: ガイドツアー 複雑系の世界
+        author: メラニー・ミッチェル
+        publisher: 紀伊国屋書店
+        year: 2011
+        note:
+          ja: 複雑系の素晴らしい入門書
+      - title: 歴史は「べき乗則」で動く
+        author: マーク・ブキャナン
+        publisher: 早川書房
+        year: 2005
+      - title: 新ネットワーク思考
+        author: アルバート・ラズロ・バラバシ
+        publisher: NHK出版
+        year: 2002
+      - title: 複雑な世界，単純な法則
+        author: マーク・ブキャナン
+        publisher: 草思社
+        year: 2005
+      - title: SYNC
+        author: スティーブン・ストロガッツ
+        publisher: 早川書房
+        year: 2005
+      - title: 非線形科学
+        author: 蔵本由紀
+        publisher: 集英社新書
+        year: 2007
+
+  - id: emotion
+    title:
+      ja: 情動・感情
+      en: Emotion
+    books:
+      - title: 快感回路
+        author: デイヴィッド・J・リンデン
+        publisher: 河出書房新社
+        year: 2012
+
+  - id: perception
+    title:
+      ja: 知覚
+      en: Perception
+    books:
+      - title: 錯覚の科学
+        author: クリストファー・チャブリス, ダニエル・シモンズ
+        publisher: 文藝春秋
+        year: 2011
+      - title: 音のイリュージョン
+        author: 柏野牧夫
+        publisher: 岩波書店
+        year: 2010
+
+  - id: decision
+    title:
+      ja: 意志決定
+      en: Decision Making
+    books:
+      - title: ファスト&スロー (上)(下)
+        author: ダニエル・カーネマン
+        publisher: 早川書房
+        year: 2012
+        note:
+          ja: 認知心理学の素晴らしい本．読んで絶対損はない
+      - title: 選択の科学
+        author: シーナ・アイエンガー
+        publisher: 文藝春秋
+        year: 2010
+
+  - id: consciousness
+    title:
+      ja: 意識
+      en: Consciousness
+    books:
+      - title: ユーザーイリュージョン―意識という幻想
+        author: トール・ノーレットランダーシュ
+        publisher: 紀伊国屋書店
+        year: 2002
+      - title: 神々の沈黙―意識の誕生と文明の興亡
+        author: ジュリアン・ジェインズ
+        publisher: 紀伊国屋書店
+        year: 2005
+      - title: 意識はいつ生まれるのか
+        author: マルチェッロ・マッスィミーニ, ジュリオ・トノーニ
+        publisher: 紀伊国屋書店
+        year: 2015
+        note:
+          ja: 意識研究の必読書その２
+      - title: 意識と脳―思考はいかにコード化されるか
+        author: スタニスラス・ドゥアンヌ
+        publisher: 紀伊国屋書店
+        year: 2015
+        note:
+          ja: 意識研究の必読書その３
+      - title: 意識はどこから生まれてくるのか
+        author: マーク・ソームズ
+        publisher: 青土社
+        year: 2021
+        note:
+          ja: 意識研究の必読書その４
+      - title: 動物意識の誕生 (上)(下)
+        author: シモーナ・ギンズバーグ, エヴァ・ヤブロンスカ
+        publisher: 勁草書房
+        year: 2021
+      - title: 世界はありのままに見ることができない
+        author: ドナルド・ホフマン
+        publisher: 青土社
+        year: 2020
+        note:
+          ja: FBT (Fitness beats truth) 定理に感動
+      - title: AIに意識は生まれるか
+        author: 金井良太
+        publisher: イースト・プレス
+        year: 2023
+
+  - id: art
+    title:
+      ja: 芸術
+      en: Art & Music
+    books:
+      - title: 脳は美をいかに感じるか
+        author: セミール・ゼキ
+        publisher: 日本経済新聞出版
+        year: 2002
+        note:
+          ja: 神経美学の幕開け
+      - title: なぜ脳はアートがわかるのか
+        author: エリック・カンデル
+        publisher: 青土社
+        year: 2019
+      - title: 脳と音楽
+        author: 伊藤浩介
+        publisher: 世界文化社
+        year: 2024
+        note:
+          ja: 脳と音楽を学ぶための必読書
+      - title: 創るためのAI
+        author: 徳井直生
+        publisher: ビー・エヌ・エヌ
+        year: 2021
+
+  - id: darwinism
+    title:
+      ja: ダーウィニズム
+      en: Darwinism & Evolution
+    books:
+      - title: 種の起源 (上)(下)
+        author: チャールズ・ダーウィン
+        publisher: 光文社古典新訳文庫
+        year: 2009
+      - title: 利己的な遺伝子
+        author: リチャード・ドーキンス
+        publisher: 紀伊国屋書店
+        year: 2006
+        note:
+          ja: これを読まなきゃモグリ
+      - title: 文化がヒトを進化させた
+        author: ジョセフ・ヘンリック
+        publisher: 白揚社
+        year: 2019
+        note:
+          ja: 文化と遺伝子の共進化．ダーウィニズム＋αの視点が衝撃的
+      - title: 生物進化を考える
+        author: 木村資生
+        publisher: 岩波新書
+        year: 1988

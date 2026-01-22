@@ -1,0 +1,89 @@
+id: mechano-informatics-exercises-2016
+slug: mechano-informatics-exercises-2016
+title:
+  en: Exercises in Mechano-Informatics
+  ja: 知能機械情報学演習
+instructor:
+  en: Hirokazu Takahashi (shared)
+  ja: 高橋宏知（分担）
+department:
+  en: Graduate School of Information Science and Technology
+  ja: 大学院情報理工学系研究科
+level:
+  en: Graduate
+  ja: 大学院
+year: 2016
+semester:
+  en: Winter
+  ja: 冬学期
+description:
+  en: Exercise course for graduate students in Mechano-Informatics, featuring lab tours, lectures, and English writing practice.
+  ja: 知能機械情報学専攻の大学院生を対象とした演習。研究室見学、講義、英語ライティング演習を含む。
+schedule:
+  sessions:
+    - date: "2016-10-21"
+      content:
+        en: Inaba-Okada Lab (meet at 73B2)
+        ja: 稲葉・岡田研究室（73B2集合）
+    - date: "2016-10-28"
+      content:
+        en: Harada-Ushiku Lab (meet at 81C1)
+        ja: 原田・牛久研究室（81C1集合）
+    - date: "2016-11-04"
+      content:
+        en: Kuniyoshi-Niiyama Lab (meet at 82B1)
+        ja: 國吉・新山研究室（82B1集合）
+    - date: "2016-11-11"
+      content:
+        en: Hirose-Tanikawa-Narumi Lab (meet at 83C2)
+        ja: 廣瀬・谷川・鳴海研究室（83C2集合）
+    - date: "2016-11-18"
+      content:
+        en: Shimoyama-Takahata Lab (meet at 81B)
+        ja: 下山・高畑研究室（81B集合）
+    - date: "2016-11-25"
+      content:
+        en: Kanzaki-Takahashi Lab (Komaba II campus, RCAST Bldg. 3-S, 361)
+        ja: 神崎・高橋研究室（駒場IIキャンパス、先端研3号館南棟361）
+    - date: "2016-12-02"
+      content:
+        en: Nakamura-Takano Lab (meet at 12A, cyber behavior studio)
+        ja: 中村・高野研究室（12A集合、サイバー行動スタジオ）
+    - date: "2016-12-09"
+      content:
+        en: |
+          Special lecture and discussion: "Introduction of consciousness science" by Dr. Ryota Kanai (Aaraya Brain Imaging)
+          Location: Komaba II campus, RCAST Bldg. 4, 2F lecture room
+        ja: |
+          特別講義と討論：「意識科学入門」金井良太博士（Aaraya Brain Imaging）
+          場所：駒場IIキャンパス、先端研4号館2階講義室
+    - date: "2016-12-16"
+      content:
+        en: Takeuchi Lab (Komaba II campus, IIS Fw205)
+        ja: 竹内研究室（駒場IIキャンパス、生研Fw205）
+    - date: "2016-12-22"
+      content:
+        en: Deadline of English-writing course assignment
+        ja: 英語ライティング課題締切
+    - date: "2017-01-06"
+      content:
+        en: English-writing course (1) (Rm 231) by Dr. Lisandro Kaunits (Univ. Tokyo)
+        ja: 英語ライティング講座(1)（231号室）Lisandro Kaunits博士（東京大学）
+    - date: "2017-01-20"
+      content:
+        en: English-writing course (2) (Rm 231)
+        ja: 英語ライティング講座(2)（231号室）
+assignments:
+  - type: weekly_report
+    description:
+      en: Submit a report about the overview of event with own opinion and comments
+      ja: イベントの概要と自分の意見・コメントをレポートとして提出
+    deadline:
+      en: "12:30 on the next Friday, submit to Office of Dept. Mechanical Engineering"
+      ja: 翌週金曜日12:30まで、機械系事務室のレポートボックスへ提出
+  - type: english_writing
+    description:
+      en: Submit an abstract of your own work (~250 words) or research proposal (within 1 page)
+      ja: 自身の研究の要約（約250語）または研究提案（1ページ以内）を提出
+    deadline: "2016-12-22"
+active: false

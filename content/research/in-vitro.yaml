@@ -1,0 +1,130 @@
+id: in-vitro
+name_ja: in vitroグループ
+name_en: In Vitro Group
+description_ja: |
+  神経細胞の分散培養系を主な研究対象としています。シャーレ上に神経細胞を播種すると、自発的に神経活動が始まり、自己組織的に神経回路が形成されます。さらに、神経回路は、外部からの刺激に対しても柔軟に変化します。この様子を高密度CMOSアレイの上で詳細に観察し、神経細胞集団の回路形成と可塑性を考察します。これらの実験データに基づいて、脳のような計算機能を実現できる創発コンピュータの開発を目指しています。
+description_en: |
+  Our primary research focuses on dissociated cultures of neuronal cells. When neurons are seeded onto a dish, spontaneous neural activity begins and neural circuits self-organize. Furthermore, neural circuits flexibly adapt to external stimulation. We observe these processes in detail using high-density CMOS arrays, investigating circuit formation and plasticity in neuronal populations. Based on this experimental data, we aim to develop emergent computers capable of brain-like computation.
+keywords:
+  - dissociated neuronal culture
+  - in vitro
+  - CMOS array
+  - neural circuit formation
+  - plasticity
+  - reservoir computing
+  - emergent computing
+  - self-organization
+  - synchronized burst
+  - microelectrode array
+  - neuronal avalanche
+  - free energy principle
+  - integrated information theory
+  - channelrhodopsin
+  - optogenetics
+  - miRNA
+  - functional connectivity
+theoretical_frameworks:
+  - name_ja: リザバー計算
+    name_en: Reservoir Computing
+    description_ja: 培養神経回路の過渡ダイナミクスを計算資源として利用
+    description_en: Utilizing transient dynamics of cultured neural circuits as computational resources
+  - name_ja: 自己組織化臨界現象
+    name_en: Self-Organized Criticality
+    description_ja: 神経雪崩現象を通じた臨界状態の解析
+    description_en: Analysis of critical states through neuronal avalanche phenomena
+  - name_ja: 自由エネルギー原理
+    name_en: Free Energy Principle
+    description_ja: 培養神経回路における推論メカニズムの探求
+    description_en: Exploring inference mechanisms in cultured neural circuits
+  - name_ja: 統合情報理論
+    name_en: Integrated Information Theory
+    description_ja: 培養神経細胞の統合情報量による解析
+    description_en: Analysis of cultured neurons using integrated information
+research_topics:
+  - title_ja: 培養神経回路によるリザバー計算
+    title_en: Reservoir Computing with Cultured Neural Circuits
+  - title_ja: 神経雪崩現象と臨界性
+    title_en: Neuronal Avalanche and Criticality
+  - title_ja: 光遺伝学による神経回路制御
+    title_en: Optogenetic Control of Neural Circuits
+  - title_ja: 電気刺激による機能結合の操作
+    title_en: Manipulation of Functional Connectivity via Electrical Stimulation
+  - title_ja: 自由エネルギー原理に基づく推論
+    title_en: Inference Based on Free Energy Principle
+  - title_ja: 培養神経回路の深層強化学習
+    title_en: Deep Reinforcement Learning with Cultured Neural Circuits
+representative_dissertations:
+  - year: 2015
+    author_ja: 安田秀策
+    author_en: Shusaku Yasuda
+    title_ja: 神経細胞の分散培養系によるリザバー計算
+    title_en: Reservoir Computing with Dissociated Neuronal Cultures
+    type: master
+    award: Graduate School Dean's Award
+  - year: 2016
+    author_ja: 矢田祐一郎
+    author_en: Yuichiro Yada
+    title_ja: 分散培養系で神経集団が創発する時空間ダイナミクス
+    title_en: Spatiotemporal Dynamics Emerging from Neuronal Populations in Dissociated Cultures
+    type: doctoral
+    award: Graduate School Dean's Award
+  - year: 2020
+    author_ja: 窪田智之
+    author_en: Tomoyuki Kubota
+    title_ja: 神経回路の過渡ダイナミクスの情報処理
+    title_en: Information Processing of Transient Dynamics in Neural Circuits
+    type: doctoral
+  - year: 2023
+    author_ja: 池田成満
+    author_en: Narumi Ikeda
+    title_ja: 神経回路の情報表現における自発活動の機能的役割
+    title_en: Functional Role of Spontaneous Activity in Neural Circuit Information Representation
+    type: doctoral
+jsps_fellowships:
+  - name_ja: 硯川潤
+    name_en: Jun Suzurikawa
+    period: 2006-2008
+    type: DC1
+    topic_ja: 培養神経系モデルを用いた脳神経システムの機能化誘導技術の開発
+    topic_en: Development of functional induction technology for brain neural systems using cultured neural models
+  - name_ja: Douglas Bakkum
+    name_en: Douglas Bakkum
+    period: 2008-2009
+    type: PD
+    topic_ja: 培養神経回路のための刺激用光アドレス電極と計測用電極アレイの統合インターフェース
+    topic_en: Integrated interface of light-addressable electrodes for stimulation and electrode arrays for measurement in cultured neural circuits
+  - name_ja: 矢田祐一郎
+    name_en: Yuichiro Yada
+    period: 2014-2016
+    type: DC1
+    topic_ja: 培養神経回路のバイオ・コンピュテーションを実現する高解像度神経インターフェース
+    topic_en: High-resolution neural interface for bio-computation in cultured neural circuits
+facilities_ja: |
+  実験室の様子。細胞培養実験のためにクリーンブース完備。
+  CMOSで1000以上の計測点から同時計測し、ロボット制御を試みた例
+facilities_en: |
+  Laboratory with clean booth for cell culture experiments.
+  Example of simultaneous measurement from over 1000 points using CMOS and robot control experiments.
+collaborators:
+  - name: Andreas Hierlemann
+    title: Professor
+    affiliation: ETH Zurich, Switzerland
+  - name: Douglas Bakkum
+    title: Dr.
+    affiliation: ETH Zurich, Switzerland
+  - name: Urs Frey
+    title: Dr.
+    affiliation: MaxWell Biosystems
+  - name: Takashi Ikegami
+    title: Professor
+    affiliation: The University of Tokyo
+  - name: Kohei Nakajima
+    title: Associate Professor
+    affiliation: The University of Tokyo
+industry_collaborations:
+  - name: Hitachi-UTokyo Laboratory
+    period: 2016-2018
+  - name: DENSO Corporation
+    project: UTokyo Social Collaboration Course - Creation of Future Machine Technology
+    period: 2012-2014
+image: /images/research/in-vitro.png

@@ -6,8 +6,18 @@ publisher:
   en: Nikkan Kogyo Shimbun
   ja: 日刊工業新聞社
 year: 2016
+pages: 206
+isbn: 978-4-526-07536-0
 description:
-  en: An introduction to neuroscience for engineers, approaching the brain as a system to be reverse engineered. Based on the popular serialization in Machine Design magazine.
-  ja: エンジニアのための脳科学入門書。脳をリバースエンジニアリングするシステムとしてアプローチ。機械設計誌の人気連載を書籍化。
+  en: An introduction to neuroscience for engineers, approaching the brain as a system to be reverse engineered. Covers Introduction, Neural Cells, Motor, Perception, and Art sections.
+  ja: エンジニアのための脳科学入門書。脳をリバースエンジニアリングするシステムとしてアプローチ。イントロダクション、神経細胞編、運動編、知覚編、芸術編を収録。
+sections:
+  - イントロダクション
+  - 神経細胞編
+  - 運動編
+  - 知覚編
+  - 芸術編
 image: /uploads/scraped/brain-engineers-1.jpg
-amazon: https://www.amazon.co.jp/dp/4526076058
+amazon: http://www.amazon.co.jp/%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%84%B3%E3%82%92%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B-%E9%AB%98%E6%A9%8B-%E5%AE%8F%E7%9F%A5/dp/4526075361/ref=zg_bsnr_500924_1
+publisher_url: https://pub.nikkan.co.jp/books/detail/00003013
+review_honz: http://honz.jp/articles/-/42626

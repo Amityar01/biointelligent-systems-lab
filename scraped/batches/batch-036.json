@@ -1,0 +1,33 @@
+{
+  "batchId": 36,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "startIndex": 475,
+  "items": [
+    "(104) Hexin Xu, Amit Yaron, Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi：「Direction of Multisensory Illusion is Influenced by Stimulus Detectability」2022年電気学会電子・情報・システム部門大会講演論文集: pp. 1355-1356 (PS1-14), 2022 (広島，2022年8月31日)",
+    "(105) 金井智美，岡田大吾，高橋斗威，可部泰生，岡本秀彦，森本隆司，高橋宏知：「LSTMを用いたギャップ検出閾値の検出精度の向上」，2022年電気学会電子・情報・システム部門大会講演論文集: pp. 1364-1365 (PS1-18), 2022 (広島，2022年8月31日)",
+    "(106) 白松（磯口）知世，熊谷真一，高橋宏知：「ラット大脳皮質における心拍誘発電位の多点計測」，Neruo2023 (第46回日本神経科学大会)：#1Pa-035，2023 (仙台，2023年8月1日)",
+    "(107) 熊谷真一，白松（磯口）知世，川合謙介，高橋宏知：「迷走神経刺激による島皮質の聴覚誘発反応の変化 」，Neruo2023 (第46回日本神経科学大会)：#2Pm-029，2023 (仙台，2023年8月2日)",
+    "(108) 大島果林，白松（磯口）知世，高橋宏知：「統合失調症モデルラットの社会性障害」，Neruo2023 (第46回日本神経科学大会)：#3Pa-113，2023 (仙台，2023年8月3日)",
+    "(109) 山木崚太郎，白松（磯口）知世，石田直輝，高橋宏知：「ドーパミンによるラット聴覚野の情報処理能力への影響」，Neruo2023 (第46回日本神経科学大会)：#2Pm-028，2023 (仙台，2023年8月2日)",
+    "(110) 大島果林，熊谷真一，白松（磯口）知世，高橋宏知：「EGF誘発性統合失調症モデルラットにおける妄想様の弁別障害」，Neuro2024（第47回日本神経科学大会）：#1P-244，2024（福岡，2024年7月24日）",
+    "(111) 金井智美，可部泰生，高橋宏知：「他覚的聴力検査に向けた音声刺激の開発」，Neuro2024（第47回日本神経科学大会）：#1P-088，2024（福岡，2024年7月24日）",
+    "(112) 川原佑太，秋田大，高橋宏知：「神経細胞の分散培養系の情報処理容量の経験的推定」，Neuro2024（第47回日本神経科学大会）：#1P-374，2024（福岡，2024年7月24日）",
+    "(113) Amit Yaron, Tomoyo I Shiramatsu, Hirokazu Takahashi, Chao Zenas:「Neural Dynamics of Predictive Coding in Rat Auditory Cortex: Insights from Omission Responses」Neuro2024（第47回日本神経科学大会）：#2P-097，2024（福岡，2024年7月25日）",
+    "(114) 星野有佐，大島果林，高木永遠，白松（磯口）知世，高橋宏知：「ラットの交流時瞳孔径計測システム」，Neuro2024（第47回日本神経科学大会）：#2P-234，2024（福岡，2024年7月25日）",
+    "(115) 秋田大，川原佑太，高橋宏知：「物理リザバー計算のための培養神経細胞への効果的な刺激手法」，Neuro2024（第47回日本神経科学大会）：#3P-360，2024（福岡，2024年7月26日）",
+    "(116) 山田泰輝，Amit Yaron，秋田大，高橋宏知，藤原寛太郎：「培養神経細胞のデータを用いたエコーステートネットワークのパラメータ推定」， JNNS2024（日本神経回路学会大会第34回全国大会）：#P2-7，2024（北海道，2024年9月12日）",
+    "(117) 池谷賢人，可部泰生，白松（磯口）知世，高橋宏知：「音楽聴取が生体信号と運動の個体間同期に及ぼす影響」，電気学会研究会資料医用・生体工学研究会 MBE-25-043，（東京，2025年3月19日）",
+    "(118) 金子俊一郎，大島果林，白松（磯口）知世，高橋宏知：「ラット大脳皮質における情報処理容量の領野間比較に向けた計測手法の構築」，電気学会研究会資料医用・生体工学研究会 MBE-25-033，（東京，2025年3月19日）",
+    "(119) キムジュンモ，秋田大，高橋宏知：「スパイキングニューラルネットワークにおける臨界性と情報処理能力」，電気学会研究会資料医用・生体工学研究会 MBE-25-040，（東京，2025年3月19日）\n\n\n英文",
+    "(1) Naoya Nakamura, Kimitaka Kaga, Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Yotaro Hatamura, and Thierry Hervé: “New surface electrode for direct recording multiple auditory evoked potentials from the auditory cortex.” The 8th Japan-Korea Joint Meeting of Otorhinolaryngology, Head and Neck Surgery, 2000 (京都, 2000年4月7日)",
+    "(2) Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka Kaga, and Thierry Hervé: “Auditory evoked-potential mappings unravel functional organizations of rat auditory cortex; both the primary auditory field (AI) and anterior auditory field (AAF) show tonotopic organization and the latter has extreme loudness-dependence.” Abstract of 3rd Forum of European Neuroscience: #184.18 (CD-ROM), 2002 (Paris, France, 2002年7月13日)",
+    "(3) Hirokazu Takahashi, Masayuki Nakao, Takayuki Ejiri, and Kimitaka Kaga: “Auditory evoked offset responses of rat auditory cortices reflect synchronous post-stimulus resumption of spontaneous discharges.” Abstracts of 6th IBRO World Congress of Neuroscience: #2197 (CD-ROM) (Prague, Czech Republic, 2003年7月10日)",
+    "(4) Hirokazu Takahashi, Masayuki Nakao, Takayuki Ejiri, and Kimitaka Kaga: “Different strategies for intensity coding in different cortical auditory fields.” Proceedings of the International Conference on Auditory Cortex –Towards a Synthesis of Human and Animal Research: p.67 (Magdeburg, Germany, 2003年9月17日)",
+    "(5) Akihiro Funamizu, Masanobu Uchihara, Ryohei Kanzaki, and Hirokazu Takahashi: “Learning-induced context-dependent spatio-temporal plasticity in the primary, anterior and ventral fields of the rats auditory cortex.” Proceedings of the International Conference on Auditory Cortex – The Listening Brain : p. 65, 2006 (Grantham, UK, 2006年9月17日)",
+    "(6) Hirokazu Takahashi, Masayuki Nakao, Kimitaka Kaga: “Morphological and functional characterization of cortical auditory evoked potentials of rat.” Proceedings of the International Conference on Auditory Cortex – The Listening Brain: p. 92, 2006 (Grantham, UK, 2006年9月17日)",
+    "(7) Jun Suzurikawa, Masayuki Nakao, Ryohei Kanzaki, Yasuhiko Jimbo, Hirokazu Takahashi: “Short-term frequency-dependent plasticity of in-vitro neuronal aggregation responses induced by light-addressed electrical stimulation.” Abstract of 3rd Forum of European Neuroscience: #045.16 (CD-ROM), 2008 (Geneva, Switzerland, July 12-16, 2008)",
+    "(8) Hirokazu Takahashi, Jun Suzurikawa, Ryohei Kanzaki, Masayuki Nakao, Yasuhiko Jimbo: “Light-addressable stimulation to cultured neural circuits.” Abstracts Book of NanoBio-Seoul 2008: P. 159, 2008 (Seoul, Korea, October 30, 2008)",
+    "(9) Ryo Yokota, Hidekazu Kose, Kazuyuki Aihara, Ryohei Kanzaki, Hirokazu Takahashi: “Analysis of auditory cortical representation by using of mutual information.” Society for Neuroscience Abstract: #351.6 (CD-ROM), 2009 (Chicago, USA, 2009年10月17日)"
+  ]
+}

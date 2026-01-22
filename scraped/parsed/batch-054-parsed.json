@@ -1,0 +1,264 @@
+{
+  "batchId": 54,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "parsedAt": "2026-01-22T02:55:52.395Z",
+  "items": [
+    {
+      "type": "presentation",
+      "title": "Uncovering the functional implication of spatiotemporal neural activity patterns",
+      "authors": [
+        "渡辺啓太"
+      ],
+      "year": null,
+      "conference": "東京大学大学院新領域創成科学研究科学位論文，2019年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(20) 渡辺啓太:「Uncovering the functional implication of spatiotemporal neural activity patterns」，東京大学大学院新領域創成科学研究科学位論文，2019年3月（主査：深井朋樹教授）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown--uncovering-the-functional-impl-1290"
+    },
+    {
+      "type": "presentation",
+      "title": "Experimental and Theoretical Analysis of Exogenous and Endogenous Bursts in Honeybee Hives (セイヨウミツバチの外因性および内因性バーストの実験的/理論的解析)",
+      "authors": [
+        "土井樹"
+      ],
+      "year": null,
+      "conference": "東京大学大学院総合文化研究科学位論文，2019年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(21) 土井樹：「Experimental and Theoretical Analysis of Exogenous and Endogenous Bursts in Honeybee Hives (セイヨウミツバチの外因性および内因性バーストの実験的/理論的解析)」，東京大学大学院総合文化研究科学位論文，2019年3月（主査：池上高志教授）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown--experimental-and-theoretical-a-1291"
+    },
+    {
+      "type": "presentation",
+      "title": "High resolution spatiotemporal optogenetic spinal cord stimulation and application to reactivate spinalized body function",
+      "authors": [
+        "張仕穎"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2020年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(22) 張仕穎：「High resolution spatiotemporal optogenetic spinal cord stimulation and application to reactivate spinalized body function」，東京大学大学院情報理工学系研究科学位論文，2020年3月 (主査：國吉康夫教授)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown--high-resolution-spatiotemporal-1292"
+    },
+    {
+      "type": "presentation",
+      "title": "Self-supervised learning models for temporal feature analysis",
+      "authors": [
+        "朝吹俊丈"
+      ],
+      "year": null,
+      "conference": "東京大学大学院新領域創成科学研究科学位論文，2020年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(23) 朝吹俊丈:「Self-supervised learning models for temporal feature analysis」，東京大学大学院新領域創成科学研究科学位論文，2020年3月（主査：深井朋樹教授）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown--self-supervised-learning-model-1293"
+    },
+    {
+      "type": "presentation",
+      "title": "Learning temporal features in a multicompartment model through self-supervision",
+      "authors": [
+        "Milena Menezes Carvalho"
+      ],
+      "year": null,
+      "conference": "東京大学大学院新領域創成科学研究科学位論文，2021年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(24) Milena Menezes Carvalho：「Learning temporal features in a multicompartment model through self-supervision」，東京大学大学院新領域創成科学研究科学位論文，2021年3月（主査：岡田真人教授）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown-milenamenezesca-learning-temporal-features-in--1294"
+    },
+    {
+      "type": "presentation",
+      "title": "物理レザバー計算による形態型計算と脳型計算の数理と実装",
+      "authors": [
+        "明石望洋"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2022年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(25) 明石望洋：「物理レザバー計算による形態型計算と脳型計算の数理と実装」，東京大学大学院情報理工学系研究科学位論文，2022年3月 (主査：國吉康夫教授)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1295"
+    },
+    {
+      "type": "presentation",
+      "title": "自律的に学習する高次元力学系の構成論的研究",
+      "authors": [
+        "井上克馬"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2022年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(26) 井上克馬：「自律的に学習する高次元力学系の構成論的研究」，東京大学大学院情報理工学系研究科学位論文，2022年3月 (主査：國吉康夫教授)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1296"
+    },
+    {
+      "type": "presentation",
+      "title": "真空導入法を用いた3 次元配線電極付きマイクロ流体デバイス",
+      "authors": [
+        "菅原啓亮"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2022年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(27) 菅原啓亮：「真空導入法を用いた3 次元配線電極付きマイクロ流体デバイス」，東京大学大学院情報理工学系研究科学位論文，2022年3月 (主査：竹内昌治教授)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---3--1297"
+    },
+    {
+      "type": "presentation",
+      "title": "記憶に関わる内側側頭葉の頭蓋内脳波を用いたタスク型ニューロフィードバックシステムの開発",
+      "authors": [
+        "小泉光司"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2023年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(28) 小泉光司：「記憶に関わる内側側頭葉の頭蓋内脳波を用いたタスク型ニューロフィードバックシステムの開発」，東京大学大学院情報理工学系研究科学位論文，2023年3月 (主査：中尾政之教授)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1298"
+    },
+    {
+      "type": "presentation",
+      "title": "３次元組織モデルの灌流培養のための磁気駆動式小型遠心ポンプの構築",
+      "authors": [
+        "趙炳郁"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2023年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(29) 趙炳郁：「３次元組織モデルの灌流培養のための磁気駆動式小型遠心ポンプの構築」，東京大学大学院情報理工学系研究科学位論文，2023年3月 (主査：竹内昌治教授)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1299"
+    },
+    {
+      "type": "presentation",
+      "title": "数理モデルを利用した神経細胞集団の状態推定",
+      "authors": [
+        "朝比奈昴洋"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2023年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(30) 朝比奈昴洋：「数理モデルを利用した神経細胞集団の状態推定」，東京大学大学院情報理工学系研究科学位論文，2023年3月 (主査：神保泰彦教授)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1300"
+    },
+    {
+      "type": "presentation",
+      "title": "Firing properties and representation for information of hippocampal neurons（海馬における神経細胞の発火特性と情報表現）",
+      "authors": [
+        "森谷文香"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2023年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(31) 森谷文香：「Firing properties and representation for information of hippocampal neurons（海馬における神経細胞の発火特性と情報表現）」，東京大学大学院情報理工学系研究科学位論文，2023年3月 (主査：神保泰彦教授)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown--firing-properties-and-represen-1301"
+    },
+    {
+      "type": "presentation",
+      "title": "恒常性に基づく自律エージェントの行動創発に関する構成論的研究",
+      "authors": [
+        "吉田尚人"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2024年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(32) 吉田尚人：「恒常性に基づく自律エージェントの行動創発に関する構成論的研究」，東京大学大学院情報理工学系研究科学位論文，2024年3月（主査：國吉康夫教授）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1302"
+    },
+    {
+      "type": "presentation",
+      "title": "Human/machine interface based on the elucidation of motor neurophysiological mechanism for neuro-prosthesis hand control（運動神経生理機構解明に基づく筋電義手制御のためのヒューマンインタフェースの創出）",
+      "authors": [
+        "応振智"
+      ],
+      "year": null,
+      "conference": "東京大学大学院工学系研究科学位論文，2024年7月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(33) 応振智：「Human/machine interface based on the elucidation of motor neurophysiological mechanism for neuro-prosthesis hand control（運動神経生理機構解明に基づく筋電義手制御のためのヒューマンインタフェースの創出）」，東京大学大学院工学系研究科学位論文，2024年7月（主査：杉田直彦教授）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown--human-machine-interface-based--1303"
+    },
+    {
+      "type": "presentation",
+      "title": "Embedded microelectrodes for the selective stimulation of biohybrid actuators（バイオハイブリッドアクチュエータの選択的刺激のための埋め込み型微小電極）",
+      "authors": [
+        "李 婷玉"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2024年9月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(34) 李 婷玉：「Embedded microelectrodes for the selective stimulation of biohybrid actuators（バイオハイブリッドアクチュエータの選択的刺激のための埋め込み型微小電極）」，東京大学大学院情報理工学系研究科学位論文，2024年9月（主査：竹内昌治教授）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown--embedded-microelectrodes-for-t-1304"
+    },
+    {
+      "type": "presentation",
+      "title": "Effect of Virtual Reality Environmental Context on Memory (VRにおける環境的文脈が記憶に与える影響)",
+      "authors": [
+        "瑞穂嵩人"
+      ],
+      "year": null,
+      "conference": "東京大学大学院情報理工学系研究科学位論文，2025年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(35) 瑞穂嵩人：「Effect of Virtual Reality Environmental Context on Memory (VRにおける環境的文脈が記憶に与える影響)」，東京大学大学院情報理工学系研究科学位論文，2025年3月（主査：鳴海拓志准教授）\n\nこのページの先頭へ\nナビゲーション\nトップページ\nメンバー\n研究業績\n研究内容\nオープンラボ\nYouTube\n講義\nその他\nEnglish\n東京大学　\n大学院情報理工学系研究科\n知能機械情報学専攻\n生命知能システム研究室\n\n高橋宏知\n\n〒113-8656\n東京都文京区本郷７－３－１\n工学部２号館 81B\n\nTEL: 03-5841-6318\nE-mail:\n\nアクセス：\n東京大学本郷キャンパス (map)\n工学部2号館(map)\n\n関連学科・専攻：\n\n東京大学\n\n　工学部 機械情報工学科 (機械B)\n　大学院 情報理工学系研究科\n　　　　　　知能機械情報学専攻\n　　　　 工学系研究科\n　　　　　　先端学際工学専攻\n　先端科学技術研究センター\n　　　生命知能システム分野\n　　　（神崎・高橋研究室）\n\ncopyright©2012 Hirokazu Takahashi all rights reserved.",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown--effect-of-virtual-reality-envi-1305"
+    }
+  ]
+}

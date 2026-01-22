@@ -1,0 +1,111 @@
+{
+  "batchId": 16,
+  "category": "oral",
+  "categoryTitle": "口頭発表 (Oral",
+  "parsedAt": "2026-01-22T02:51:38.678Z",
+  "items": [
+    {
+      "type": "presentation",
+      "title": "Beat synchronization in rats",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Yoshiki Ito",
+        "Tomoyo I",
+        "Shiramatsu",
+        "Naoki Ishida",
+        "Karin Oshima",
+        "Kaho Magami"
+      ],
+      "year": 2022,
+      "conference": "9th Mismatch Negativity Conference",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(19) Hirokazu Takahashi, Yoshiki Ito, Tomoyo I, Shiramatsu, Naoki Ishida, Karin Oshima, Kaho Magami: “Beat synchronization in rats.” 9th Mismatch Negativity Conference (MMN 2022): p.58, 2022 (福島, 2022年9月21日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2022-hirokazutakahas-beat-synchronization-in-rats-359"
+    },
+    {
+      "type": "presentation",
+      "title": "A new functional role of MMN-like response beyond simple deviance detection: using animal models to elucidate the underlying neural mechanisms of schizophrenia",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2022,
+      "conference": "9th Mismatch Negativity Conference",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(20) Tomoyo I. Shiramatsu, Hirokazu Takahashi: “A new functional role of MMN-like response beyond simple deviance detection: using animal models to elucidate the underlying neural mechanisms of schizophrenia.” 9th Mismatch Negativity Conference (MMN 2022): pp.89-90, 2022 (福島, 2022年9月21日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2022-tomoyoishiramat-a-new-functional-role-of-mmn-l-360"
+    },
+    {
+      "type": "presentation",
+      "title": "Neural mechanism of beat synchronization in rats",
+      "authors": [
+        "Hirokazu Takahashi"
+      ],
+      "year": 2022,
+      "conference": "9th Annual meeting of the Society for Bioaoustics, 2022",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(21) Hirokazu Takahashi: “Neural mechanism of beat synchronization in rats.” 9th Annual meeting of the Society for Bioaoustics, 2022 (小田原, 2022年12月4日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2022-hirokazutakahas-neural-mechanism-of-beat-synch-361"
+    },
+    {
+      "type": "presentation",
+      "title": "Recording mismatch responses beyond oddball paradigm",
+      "authors": [
+        "Amit Yaron"
+      ],
+      "year": 2022,
+      "conference": "9th Annual meeting of the Society for Bioaoustics, 2022",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(22) Amit Yaron: “Recording mismatch responses beyond oddball paradigm.” 9th Annual meeting of the Society for Bioaoustics, 2022 (小田原, 2022年12月4日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2022-amityaron-recording-mismatch-responses-b-362"
+    },
+    {
+      "type": "presentation",
+      "title": "Beat synchronization and beyond in rats",
+      "authors": [
+        "Hirokazu Takahashi"
+      ],
+      "year": null,
+      "conference": "東京大学AIセンター連続シンポジウム 第16回，2024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(23) Hirokazu Takahashi:“Beat synchronization and beyond in rats.” 東京大学AIセンター連続シンポジウム 第16回，2024（東京, 2024年5月26日）",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "unknown-hirokazutakahas-beat-synchronization-and-beyon-363"
+    },
+    {
+      "type": "presentation",
+      "title": "Negative Prediction-Error Neurons in Rat Auditory Cortex: Response Properties and Implications for Predictive Coding Circuits",
+      "authors": [
+        "Amit Yaron"
+      ],
+      "year": 2024,
+      "conference": "10th Mismatch Negativity Conference",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(24) Amit Yaron:“Negative Prediction-Error Neurons in Rat Auditory Cortex: Response Properties and Implications for Predictive Coding Circuits.” 10th Mismatch Negativity Conference (MMN 2024): pp.79, 2024 (Salamanca, Spain, 2024年9月17日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2024-amityaron-negative-prediction-error-neur-364"
+    }
+  ]
+}

@@ -142,16 +142,20 @@ export function NewsPageClient({ news, categoryLabels, newsCategories }: Props) 
                   </div>
 
                   <h2 className="text-lg font-semibold mb-3 line-clamp-2">
-                    {t(item.title)}
+                    {item.title ? t(item.title) : 'Untitled'}
                   </h2>
 
-                  <p className="text-sm text-[var(--text-secondary)] line-clamp-3 mb-4">
-                    {t(item.excerpt)}
-                  </p>
+                  {item.excerpt && (
+                    <p className="text-sm text-[var(--text-secondary)] line-clamp-3 mb-4">
+                      {t(item.excerpt)}
+                    </p>
+                  )}
 
-                  <p className="text-xs text-[var(--text-muted)] jp line-clamp-1">
-                    {language === 'en' ? item.title.ja : item.title.en}
-                  </p>
+                  {item.title && (
+                    <p className="text-xs text-[var(--text-muted)] jp line-clamp-1">
+                      {language === 'en' ? item.title.ja : item.title.en}
+                    </p>
+                  )}
 
                   {item.link && (
                     <a

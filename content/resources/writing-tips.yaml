@@ -1,0 +1,41 @@
+title:
+  ja: 卒論・修論必勝法
+  en: Thesis Writing Guide
+
+resources:
+  - id: how-to-write
+    title:
+      ja: 論文の書き方
+      en: How to Write Papers
+    description:
+      ja: 研究者として初心者から中級者へのステップアップするために，論文をどう書けばいいかのノウハウをまとめました
+      en: Tips for leveling up from beginner to intermediate researcher through paper writing
+    file: archive/how_to_write.pdf
+    type: pdf
+
+  - id: writing-checklist
+    title:
+      ja: 論文執筆時のチェックリスト
+      en: Paper Writing Checklist
+    description:
+      ja: 論文添削で言い続けてきていることを例文とともにリストアップ
+      en: Common issues found during paper reviews with examples
+    file: writing/index.html
+    type: html
+
+  - id: presentation-tips
+    title:
+      ja: 家訓：発表の心得
+      en: Presentation Tips
+    description:
+      ja: 毎年，発表練習で言い続けてきていることをリストアップ
+      en: Presentation tips emphasized during practice sessions
+    file: archive/presentation.pdf
+    type: pdf
+
+  - id: slide-making
+    title:
+      ja: 発表資料の作り方の例
+      en: How to Make Slides
+    file: makeslides/index.htm
+    type: html

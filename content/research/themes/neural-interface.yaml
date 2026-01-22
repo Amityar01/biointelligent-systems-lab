@@ -1,0 +1,93 @@
+id: neural-interface
+name:
+  en: Neural Interface
+  ja: 神経インターフェース
+description:
+  en: Development of interfaces between neural systems and electronic devices
+  ja: 神経系と電子デバイス間のインターフェース開発
+subthemes:
+  - id: microelectrode-array
+    name:
+      en: Microelectrode Array
+      ja: 微小電極アレイ
+    selectedPublications:
+      - authors: Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka Kaga, and Thierry Hervé
+        title: Microelectrode array on folding polyimide ribbon for epidural mapping of functional evoked potentials
+        journal: IEEE Transactions on Biomedical Engineering
+        volume: 50 (4)
+        pages: pp. 510-516
+        year: 2003
+        link: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1193785
+      - authors: Takahiro Noda, and Hirokazu Takahashi
+        title: Anesthetic effects of isoflurane on the topographic map and neuronal population activity in the rat auditory cortex
+        journal: European Journal of Neuroscience
+        volume: 42 (6)
+        pages: pp. 2298-2311
+        year: 2015
+        doi: 10.1111/ejn.13007
+        link: http://onlinelibrary.wiley.com/doi/10.1111/ejn.13007/full
+      - authors: Tomoyo I. Shiramatsu, Kazusa Takahashi, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahara, and Hirokazu Takahashi
+        title: Microelectrode mapping of tonotopic, laminar, and field-specific organization of thalamo-cortical pathway in rat
+        journal: Neuroscience
+        volume: '332'
+        pages: pp. 38-52
+        year: 2016
+        doi: 10.1016/j.neuroscience.2016.06.024
+        link: http://www.sciencedirect.com/science/article/pii/S0306452216302548
+      - authors: 高橋宏知，神保泰彦
+        title: 神経工学の潮流
+        journal: 電気学会論文誌C
+        volume: 133 (3)
+        pages: pp. 544-549
+        year: 2013
+        link: https://www.jstage.jst.go.jp/article/ieejeiss/133/3/133_544/_article/-char/ja/
+  - id: light-addressable-electrode
+    name:
+      en: Light-Addressable Electrode
+      ja: 光アドレス電極
+    selectedPublications:
+      - authors: Jun Suzurikawa, Hirokazu Takahashi, Ryohei Kanzaki, Masayuki Nakao, Yuzo Takayama, and Yasuhiko Jimbo
+        title: Light-addressable electrode with hydrogenated amorphous silicon and low-conductive passivation layer for stimulation of cultured neurons
+        journal: Applied Physics Letters
+        volume: 90 (9)
+        pages: Art. No.093901 (3pp)
+        year: 2007
+        link: http://apl.aip.org/resource/1/applab/v90/i9/p093901_s1?isAuthorized=no
+  - id: genetic-engineering-neural-culture
+    name:
+      en: Neural Culture Functionalization via Genetic Engineering
+      ja: 遺伝子工学による培養神経回路の機能化
+    selectedPublications:
+      - authors: Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglas J. Bakkum, Ryohei Kanzaki, Hirokazu Takahashi
+        title: Dissociated neuronal culture expressing ionotropic odorant receptors as a hybrid odorant biosensor – proof-of-concept study –
+        journal: Analyst
+        volume: 137 (15)
+        pages: pp. 3452-3458
+        year: 2012
+        link: http://pubs.rsc.org/en/content/articlelanding/2012/an/c2an35058k
+  - id: high-density-cmos-array
+    name:
+      en: High-Density CMOS Electrode Array
+      ja: 高密度CMOS電極アレイ
+    selectedPublications:
+      - authors: Douglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan Müller, Michele Fiscella, Hirokazu Takahashi, Andreas Hierlemann
+        title: Tracking axonal action potential propagation on a high-density microelectrode array across hundreds of sites
+        journal: Nature Communications
+        volume: '4'
+        pages: Art. No. 2181 (12 pp)
+        year: 2013
+        doi: 10.1038/ncomms3181
+        link: http://www.nature.com/ncomms/2013/130719/ncomms3181/full/ncomms3181.html
+  - id: reservoir-computing
+    name:
+      en: Physical Reservoir Computing with Neuronal Culture
+      ja: 神経細胞の分散培養系による物理リザバー計算
+    selectedPublications:
+      - authors: Yuichiro Yada, Shusaku Yasuda, and Hirokazu Takahashi
+        title: Physical reservoir computing with FORCE learning in a living neuronal culture
+        journal: Applied Physics Letters
+        volume: 119 (16)
+        pages: '173701'
+        year: 2021
+        doi: 10.1063/5.0064771
+        link: https://aip.scitation.org/doi/10.1063/5.0064771

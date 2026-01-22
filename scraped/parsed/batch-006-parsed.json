@@ -1,0 +1,555 @@
+{
+  "batchId": 6,
+  "category": "conference",
+  "categoryTitle": "国際会議講演論文 (査読付)",
+  "parsedAt": "2026-01-22T02:51:11.107Z",
+  "items": [
+    {
+      "type": "conference",
+      "title": "Surface multipoint microelectrode for direct recording of auditory evoked potentials on the auditory cortex of a rat",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Takayuki Ejiri",
+        "Masayuki Nakao",
+        "Kiyoshi Matumoto",
+        "Fumio Mase",
+        "Yotaro Hatamura",
+        "Thierry Hervé",
+        "Naoya Nakamura and Kimitaka Kaga"
+      ],
+      "year": 2000,
+      "conference": "Proceedings of 1st Annual International IEEE-EMBS Special Topic Conference on Microtechnologies in Medicine & Biology",
+      "pages": "512-517",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(1) Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Kiyoshi Matumoto, Fumio Mase, Yotaro Hatamura, Thierry Hervé, Naoya Nakamura and Kimitaka Kaga: “Surface multipoint microelectrode for direct recording of auditory evoked potentials on the auditory cortex of a rat.” Proceedings of 1st Annual International IEEE-EMBS Special Topic Conference on Microtechnologies in Medicine & Biology: pp.512-517, 2000 (Lyon, France, 2000年10月12日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2000-hirokazutakahas-surface-multipoint-microelectr-130"
+    },
+    {
+      "type": "conference",
+      "title": "Micro multi-point sheet electrode for auditory brainstem implant",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Takayuki Ejiri",
+        "Masayuki Nakao",
+        "Kiyoshi Matumoto",
+        "Yotaro Hatamura",
+        "Naoya Nakamura",
+        "Kimitaka Kaga",
+        "Thierry Hervé"
+      ],
+      "year": 2000,
+      "conference": "Proceedings of American Society for Precision Engineering 15th Annual Meeting",
+      "pages": "349-352",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(2) Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Kiyoshi Matumoto, Yotaro Hatamura, Naoya Nakamura, Kimitaka Kaga, and Thierry Hervé: “Micro multi-point sheet electrode for auditory brainstem implant.” Proceedings of American Society for Precision Engineering 15th Annual Meeting: pp.349-352, 2000 (Arizona, USA, 2000年10月22日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2000-hirokazutakahas-micro-multi-point-sheet-electr-131"
+    },
+    {
+      "type": "conference",
+      "title": "Selective stimulation and measurement in the cochlear nucleus with the spike microelectrode array",
+      "authors": [
+        "Fumio Mase",
+        "Hirokazu Takahashi",
+        "Takayuki Ejiri",
+        "Masayuki Nakao",
+        "Naoya Nakamura",
+        "Kimitaka Kaga",
+        "Thierry Hervé"
+      ],
+      "year": 2001,
+      "conference": "Proceedings of 23rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "631",
+      "awards": [
+        "IEEE EMBS Student Paper Competition Finalists受賞"
+      ],
+      "_source": "regex",
+      "_raw": "(3) Fumio Mase, Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka Kaga, and Thierry Hervé: “Selective stimulation and measurement in the cochlear nucleus with the spike microelectrode array.” Proceedings of 23rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 631 - 634, 2001 (Istanbul, Turkey, 2001年10月25日) [IEEE EMBS Student Paper Competition Finalists受賞]",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2001-fumiomase-selective-stimulation-and-meas-132"
+    },
+    {
+      "type": "conference",
+      "title": "Model analysis and independent component analysis of cortical data acquired with surface microelectrode",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Masayuki Nakao",
+        "Kimitaka Kaga",
+        "Thierry Hervé"
+      ],
+      "year": 2001,
+      "conference": "Proceedings of 23rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "998",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(4) Hirokazu Takahashi, Masayuki Nakao, Kimitaka Kaga, and Thierry Hervé: “Model analysis and independent component analysis of cortical data acquired with surface microelectrode.” Proceedings of 23rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 998 - 1001, 2001 (Istanbul, Turkey, 2001年10月25日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2001-hirokazutakahas-model-analysis-and-independent-133"
+    },
+    {
+      "type": "conference",
+      "title": "Multiple gating stimulation for selective activation of nerves in between electrodes",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Masayuki Nakao",
+        "Yuichiro Okano",
+        "Yusuke Yasuda",
+        "Sheykholeslami Kianoushi",
+        "Kimitaka Kaga"
+      ],
+      "year": 2002,
+      "conference": "Proceedings of the International Federation for Medical and Biological Engineering, 2nd European Medical & Biological Engineering Conference 3",
+      "pages": "786-787",
+      "awards": [
+        "Young Investigators Award for the Best Oral Presentation受賞"
+      ],
+      "_source": "regex",
+      "_raw": "(5) Hirokazu Takahashi, Masayuki Nakao, Yuichiro Okano, Yusuke Yasuda, Sheykholeslami Kianoushi, and Kimitaka Kaga: “Multiple gating stimulation for selective activation of nerves in between electrodes.” Proceedings of the International Federation for Medical and Biological Engineering, 2nd European Medical & Biological Engineering Conference 3: pp. 786-787, 2002 (Vienna, Austria, 2002年12月4日) [Young Investigators Award for the Best Oral Presentation受賞]",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2002-hirokazutakahas-multiple-gating-stimulation-fo-134"
+    },
+    {
+      "type": "conference",
+      "title": "Accessing cortical tonotopic organization by microstimulation of cochlear nucleus",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Fumio Mase",
+        "Masayuki Nakao",
+        "Takayuki Ejiri",
+        "Tetsuji Ota",
+        "Thierry Hervé",
+        "Sébastien A. Schmerber",
+        "Kimitaka Kaga"
+      ],
+      "year": 2003,
+      "conference": "Proceedings of 1st International IEEE EMBS Conference on Neural Engineering",
+      "pages": "161-164",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(6) Hirokazu Takahashi, Fumio Mase, Masayuki Nakao, Takayuki Ejiri, Tetsuji Ota, Thierry Hervé, Sébastien A. Schmerber, and Kimitaka Kaga: “Accessing cortical tonotopic organization by microstimulation of cochlear nucleus.” Proceedings of 1st International IEEE EMBS Conference on Neural Engineering: pp. 161-164, 2003 (Capri Island, Italy, 2003年3月20日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2003-hirokazutakahas-accessing-cortical-tonotopic-o-135"
+    },
+    {
+      "type": "conference",
+      "title": "Reorganization of Auditory Cortex by Pairing and Anti-Pairing Intracortical Microstimulation",
+      "authors": [
+        "Jun Suzurikawa",
+        "Kohei Hisada",
+        "Masayuki Nakao",
+        "Kimitaka Kaga",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2005,
+      "conference": "Proceedings of 2nd International IEEE EMBS Conference on Neural Engineering",
+      "pages": "594-597",
+      "awards": [
+        "Excellence in Neural Engineering Award受賞"
+      ],
+      "_source": "regex",
+      "_raw": "(7) Jun Suzurikawa, Kohei Hisada, Masayuki Nakao, Kimitaka Kaga, Ryohei Kanzaki, and Hirokazu Takahashi: “Reorganization of Auditory Cortex by Pairing and Anti-Pairing Intracortical Microstimulation.” Proceedings of 2nd International IEEE EMBS Conference on Neural Engineering: pp. 594-597, 2005 (Washington DC, USA, 2005年3月16日) [Excellence in Neural Engineering Award受賞]",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2005-junsuzurikawa-reorganization-of-auditory-cor-136"
+    },
+    {
+      "type": "conference",
+      "title": "Exploring the Brain Vessel: Spreading Nano Wire Electrodes for Intravascular Neural Recording",
+      "authors": [
+        "Hirobumi Watanabe",
+        "Hirokazu Takahashi",
+        "Masayuki Nakao",
+        "Kerry Walton",
+        "Rodolfo R. Llinás"
+      ],
+      "year": 2005,
+      "conference": "Proceedings of the 20th Annual ASPE Meeting (American Society for Precision Engineering) 37",
+      "pages": "146-149",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(8) Hirobumi Watanabe, Hirokazu Takahashi, Masayuki Nakao, Kerry Walton, and Rodolfo R. Llinás: “Exploring the Brain Vessel: Spreading Nano Wire Electrodes for Intravascular Neural Recording.” Proceedings of the 20th Annual ASPE Meeting (American Society for Precision Engineering) 37: pp. 146-149, 2005 (Virginia, USA, 2005年10月9日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2005-hirobumiwatanab-exploring-the-brain-vessel-spr-137"
+    },
+    {
+      "type": "conference",
+      "title": "Separation of subcortical component from cortical auditory evoked potential by independent component analysis",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Masayuki Nakao",
+        "Kimitaka Kaga"
+      ],
+      "year": 2006,
+      "conference": "Proceedings of 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "2284-2287",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(9) Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Separation of subcortical component from cortical auditory evoked potential by independent component analysis.” Proceedings of 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 2284-2287, 2006 (New York, USA, 2006年8月30日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2006-hirokazutakahas-separation-of-subcortical-comp-138"
+    },
+    {
+      "type": "conference",
+      "title": "Light-addressable planar electrode with hydrogenated amorphous silicon and low-conductive passivation layer for stimulation of cultured neurons",
+      "authors": [
+        "Jun Suzurikawa",
+        "Hirokazu Takahashi",
+        "Yuzo Takayama",
+        "Shin’ichi Warisawa",
+        "Mamoru Mitsuishi",
+        "Masayuki Nakao",
+        "Yasuhiko Jimbo"
+      ],
+      "year": 2006,
+      "conference": "Proceedings of 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "648-651",
+      "awards": [
+        "The 3rd Prize of IEEE EMBS Japan Young Investigators Competition for EMBS 2006受賞"
+      ],
+      "_source": "regex",
+      "_raw": "(10) Jun Suzurikawa, Hirokazu Takahashi, Yuzo Takayama, Shin’ichi Warisawa, Mamoru Mitsuishi, Masayuki Nakao, and Yasuhiko Jimbo: “Light-addressable planar electrode with hydrogenated amorphous silicon and low-conductive passivation layer for stimulation of cultured neurons.” Proceedings of 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 648-651, 2006 (New York, USA, 2006年8月30日) [The 3rd Prize of IEEE EMBS Japan Young Investigators Competition for EMBS 2006受賞]",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2006-junsuzurikawa-light-addressable-planar-elect-139"
+    },
+    {
+      "type": "conference",
+      "title": "Auditory cortical plasticity induced by intracortical microstimulation under pharmacological blockage of inhibitory synapses",
+      "authors": [
+        "Ryo Yokota",
+        "Hirokazu Takahashi",
+        "Akihiro Funamizu",
+        "Masanobu Uchihara",
+        "Jun Suzurikawa",
+        "Ryohei Kanzaki"
+      ],
+      "year": 2006,
+      "conference": "Proceedings of 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "4929-4932",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(11) Ryo Yokota, Hirokazu Takahashi, Akihiro Funamizu, Masanobu Uchihara, Jun Suzurikawa, and Ryohei Kanzaki: “Auditory cortical plasticity induced by intracortical microstimulation under pharmacological blockage of inhibitory synapses.” Proceedings of 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 4929-4932, 2006 (New York, USA, 2006年8月30日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2006-ryoyokota-auditory-cortical-plasticity-i-140"
+    },
+    {
+      "type": "conference",
+      "title": "Analysis of spatio-temporal cortical activity with artificial neural network",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Masanobu Uchihara",
+        "Ryo Yokota",
+        "Akihiro Funamizu",
+        "Ryohei Kanzaki"
+      ],
+      "year": 2007,
+      "conference": "Proceedings of 3rd International IEEE EMBS Conference on Neural Engineering",
+      "pages": "623-626",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(12) Hirokazu Takahashi, Masanobu Uchihara, Ryo Yokota, Akihiro Funamizu, and Ryohei Kanzaki: “Analysis of spatio-temporal cortical activity with artificial neural network.” Proceedings of 3rd International IEEE EMBS Conference on Neural Engineering: pp. 623-626, 2007 (Hawaii, USA, 2007年5月2日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2007-hirokazutakahas-analysis-of-spatio-temporal-co-141"
+    },
+    {
+      "type": "conference",
+      "title": "Light-addressed stimulation and simultaneous calcium imaging for probing spatio-temporal activity of cultured neural network",
+      "authors": [
+        "Jun Suzurikawa",
+        "Masayuki Nakao",
+        "Ryohei Kanzaki",
+        "Yasuhiko Jimbo",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2007,
+      "conference": "Proceedings of 3rd International IEEE EMBS Conference on Neural Engineering",
+      "pages": "57-60",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(13) Jun Suzurikawa, Masayuki Nakao, Ryohei Kanzaki, Yasuhiko Jimbo, and Hirokazu Takahashi: “Light-addressed stimulation and simultaneous calcium imaging for probing spatio-temporal activity of cultured neural network” Proceedings of 3rd International IEEE EMBS Conference on Neural Engineering: pp. 57-60, 2007 (Hawaii, USA, 2007年5月2日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2007-junsuzurikawa-light-addressed-stimulation-an-142"
+    },
+    {
+      "type": "conference",
+      "title": "Visual and order integration for high efficacy of odor searching tasks based on the silkmoth",
+      "authors": [
+        "Noriyasu Ando",
+        "Atsushi Yamashita",
+        "Wataru Matsuura",
+        "Hidekazu Kose",
+        "Hirokazu Takahashi",
+        "Ryohei Kanzaki"
+      ],
+      "year": 2007,
+      "conference": "Proceedings of the 2nd International Symposium on Mobiligence",
+      "pages": "227-230",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(14) Noriyasu Ando, Atsushi Yamashita, Wataru Matsuura, Hidekazu Kose, Hirokazu Takahashi, and Ryohei Kanzaki: “Visual and order integration for high efficacy of odor searching tasks based on the silkmoth.” Proceedings of the 2nd International Symposium on Mobiligence: pp. 227-230, 2007 (淡路, 2007年7月18日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2007-noriyasuando-visual-and-order-integration-f-143"
+    },
+    {
+      "type": "conference",
+      "title": "Behavioral responses to unintentional body movements in insects analyzed by an insect-controlled robot",
+      "authors": [
+        "Shuhei Emoto",
+        "Noriyasu Ando",
+        "Hirokazu Takahashi",
+        "Ryohei Kanzaki"
+      ],
+      "year": 2007,
+      "conference": "Proceedings of the 2nd International Symposium on Mobiligence",
+      "pages": "231-234",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(15) Shuhei Emoto, Noriyasu Ando, Hirokazu Takahashi, and Ryohei Kanzaki: “Behavioral responses to unintentional body movements in insects analyzed by an insect-controlled robot.” Proceedings of the 2nd International Symposium on Mobiligence: pp. 231-234, 2007 (淡路, 2007年7月18日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2007-shuheiemoto-behavioral-responses-to-uninte-144"
+    },
+    {
+      "type": "conference",
+      "title": "Characterization of Response Patterns Evoked by Light Addressed Electrical Stimulation in Cultured Neuronal Networks",
+      "authors": [
+        "Jun Suzurikawa",
+        "Masayuki Nakao",
+        "Kanzaki Ryohei",
+        "Yasuhiko Jimbo",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2008,
+      "conference": "Proceedings of the 6th International Meeting on Substrate-Integrated Micro Electrode Arrays",
+      "pages": "243-246",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(16) Jun Suzurikawa, Masayuki Nakao, Kanzaki Ryohei, Yasuhiko Jimbo, Hirokazu Takahashi: “Characterization of Response Patterns Evoked by Light Addressed Electrical Stimulation in Cultured Neuronal Networks.” Proceedings of the 6th International Meeting on Substrate-Integrated Micro Electrode Arrays: pp. 243-246, 2008 (Reutlingen, Germany, 2008年7月8日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2008-junsuzurikawa-characterization-of-response-p-145"
+    },
+    {
+      "type": "conference",
+      "title": "Piezo-driven Vibrating Insertion of dense microelectrode array in cortex",
+      "authors": [
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2008,
+      "conference": "Proceedings of Joint 4th International Conference on Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems",
+      "pages": "257-262",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(17) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Piezo-driven Vibrating Insertion of dense microelectrode array in cortex.” Proceedings of Joint 4th International Conference on Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems: pp. 257-262, 2008 (名古屋, 2008年9月17日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2008-takahironoda-piezo-driven-vibrating-inserti-146"
+    },
+    {
+      "type": "conference",
+      "title": "Different neural activities require different decoders",
+      "authors": [
+        "Akihiro Funamizu",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2009,
+      "conference": "Proceedings of 4th International IEEE EMBS Conference on Neural Engineering",
+      "pages": "287-290",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(18) Akihiro Funamizu, Ryohei Kanzaki, Hirokazu Takahashi: “Different neural activities require different decoders.” Proceedings of 4th International IEEE EMBS Conference on Neural Engineering: pp. 287-290, 2009 (Antalya, Turkey, 2009年4月29日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2009-akihirofunamizu-different-neural-activities-re-147"
+    },
+    {
+      "type": "conference",
+      "title": "Novel neuronal cellular and network measurements enabled by a high-density 11,011-electrode CMOS array",
+      "authors": [
+        "Douglas J Bakkum",
+        "Urs Frey",
+        "Jan Mueller",
+        "Michele Fiscella",
+        "Hirokazu Takahashi",
+        "Andreas Hierlemann"
+      ],
+      "year": 2010,
+      "conference": "Proceedings of the 7th International Meeting on Substrate-Integrated Micro Electrode Arrays",
+      "pages": "324-326",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(19) Douglas J Bakkum, Urs Frey, Jan Mueller, Michele Fiscella, Hirokazu Takahashi, Andreas Hierlemann: “Novel neuronal cellular and network measurements enabled by a high-density 11,011-electrode CMOS array.” Proceedings of the 7th International Meeting on Substrate-Integrated Micro Electrode Arrays: pp. 324-326, 2010 (Reutlingen, Germany, 2010年6月29日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2010-douglasjbakkum-novel-neuronal-cellular-and-ne-148"
+    },
+    {
+      "type": "conference",
+      "title": "Target selection mechanism for collision-free navigation of robots based on antennal tracking strategies of crickets",
+      "authors": [
+        "Daisuke Shiramatsu",
+        "Noriyasu Ando",
+        "Hirokazu Takahashi",
+        "Ryohei Kanzaki",
+        "Susumu Fujita",
+        "Yasuhito Sano and Toshiyuki Andoh"
+      ],
+      "year": 2010,
+      "conference": "Proceedings of the 2010 3rd IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (IEEE BioRob 2010)",
+      "pages": "259-264",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(20) Daisuke Shiramatsu, Noriyasu Ando, Hirokazu Takahashi, Ryohei Kanzaki, Susumu Fujita, Yasuhito Sano and Toshiyuki Andoh: “Target selection mechanism for collision-free navigation of robots based on antennal tracking strategies of crickets.” Proceedings of the 2010 3rd IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (IEEE BioRob 2010): pp. 259-264, 2010 (Tokyo, 2010年9月26日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2010-daisukeshiramat-target-selection-mechanism-for-149"
+    },
+    {
+      "type": "conference",
+      "title": "Capabilities of a High-Density CMOS Microelectrode Array to Identify, Record, and Stimulate Individual Neurons in Cultured Networks",
+      "authors": [
+        "Douglas J Bakkum",
+        "Urs Frey",
+        "Jan Mueller",
+        "Michele Fiscella",
+        "Branka Roscic",
+        "Hirokazu Takahashi",
+        "Andreas Hierlemann"
+      ],
+      "year": 2012,
+      "conference": "Proceedings of the 8th International Meeting on Substrate-Integrated Micro Electrode Arrays",
+      "pages": "206-207",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(21) Douglas J Bakkum, Urs Frey, Jan Mueller, Michele Fiscella, Branka Roscic, Hirokazu Takahashi, Andreas Hierlemann: “Capabilities of a High-Density CMOS Microelectrode Array to Identify, Record, and Stimulate Individual Neurons in Cultured Networks.” Proceedings of the 8th International Meeting on Substrate-Integrated Micro Electrode Arrays: pp. 206-207, 2012 (Reutlingen, Germany, 2012年7月10日)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2012-douglasjbakkum-capabilities-of-a-high-density-150"
+    },
+    {
+      "type": "conference",
+      "title": "Modulation of cortical synchrony by vagus nerve stimulation in adult rats",
+      "authors": [
+        "Kenichi Usami",
+        "Ryuji Kano",
+        "Kensuke Kawai",
+        "Takahiro Noda",
+        "Tomoyo Isoguchi",
+        "Nobuhito Saito",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2013,
+      "conference": "Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "5348-5351",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(22) Kenichi Usami, Ryuji Kano, Kensuke Kawai, Takahiro Noda, Tomoyo Isoguchi, Nobuhito Saito, and Hirokazu Takahashi: “Modulation of cortical synchrony by vagus nerve stimulation in adult rats.” Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 5348-5351, 2013 (大阪, 2013年7月3日) (Oral presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2013-kenichiusami-modulation-of-cortical-synchro-151"
+    },
+    {
+      "type": "conference",
+      "title": "Desynchronized population activity in auditory cortex of the awake rat revealed by recording with dense microelectrode array",
+      "authors": [
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2013,
+      "conference": "Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "1538-1541",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(23) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Desynchronized population activity in auditory cortex of the awake rat revealed by recording with dense microelectrode array.” Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 1538-1541, 2013 (大阪, 2013年7月3日) (Oral presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2013-takahironoda-desynchronized-population-acti-152"
+    },
+    {
+      "type": "conference",
+      "title": "Decoding of the Sound Frequency from the Steady-state Neural Activities in Rat Auditory Cortex",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2013,
+      "conference": "Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "5598-5601",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(24) Tomoyo I. Shiramatsu, Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Decoding of the Sound Frequency from the Steady-state Neural Activities in Rat Auditory Cortex.” Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 5598-5601, 2013 (大阪, 2013年7月3日) (Oral presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2013-tomoyoishiramat-decoding-of-the-sound-frequenc-153"
+    },
+    {
+      "type": "conference",
+      "title": "Analysis of neuronal cells of dissociated primary culture on high-density CMOS electrode array",
+      "authors": [
+        "Eiko Matsuda",
+        "Takeshi Mita",
+        "Julien Hubert",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Andreas Hierlemann",
+        "Hirokazu Takahashi and Takashi Ikegami"
+      ],
+      "year": 2013,
+      "conference": "Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "1045-1048",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(25) Eiko Matsuda, Takeshi Mita, Julien Hubert, Douglas Bakkum, Urs Frey, Andreas Hierlemann, Hirokazu Takahashi and Takashi Ikegami: “Analysis of neuronal cells of dissociated primary culture on high-density CMOS electrode array” Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 1045-1048, 2013 (大阪, 2013年7月3日) (Poster presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2013-eikomatsuda-analysis-of-neuronal-cells-of--154"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "batchId": 31,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "startIndex": 350,
+  "items": [
+    "(3) J. Suzurikawa, M. Nakao, Y. Jimbo, R. Kanzaki, H. Takahashi: “Light-Addressable Electrode for Probing Functional Neuronal Networks in Culture.” Proceedings of 22nd SICE Symposium on Biological and Physiological Engineering: pp. 155-158, 2008 (Harbin, China, 2008年1月14日)",
+    "(4) Noriyasu Ando, Shuhei Emoto, Hirokazu Takahashi, Ryohei Kanzaki: “Adaptability of pheromone tracking behavior of the silkmoth revealed by the insect-controlled robot.” AMAM 2008 conference abstract: pp.60-61, 2008 (Cleveland, USA, 2008年6月3日)",
+    "(5) Akihiro Funamizu, Ryohei Kanzaki, Hirokazu Takahashi: “Learning-induced context-dependent plasticity in a rat auditory cortex.” Society for Neuroscience Abstract: #710.3 (CD-ROM), 2008 (Washington DC, USA, 2008年11月15日)",
+    "(6) Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Bakkum Douglas, Ryohei Kanzaki, Hirokazu Takahashi: “The feasibility study of novel odor biosensor using dissociate neuronal culture expressing ion channel built-in odor receptors.” Neuro2010: O2-8-1-4, 2010 (神戸，2010年9月2日)",
+    "(7) Douglas J. Bakkum, Urs Frey, Takeshi Mita, Jan Mueller, Michele Fiscella, Hirokazu Takahashi: “Neuronal cellular and network analysis using a high-density 11,011-electrode CMOS array.” Neuro2010: O2-10-2-4, 2010 (神戸，2010年9月2日)",
+    "(8) Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno Tanada, Douglas Bakkum, Ryohei Kanzaki, Hirokazu Takahashi: “Odor biosensor using dissociate neuronal culture expressing ion channel built-in odor receptors.” Abstract of 2010 Asia-Pacific Radio Science Conference (AP-RASC '10): #KB1-1 (CD-ROM), 2010 (富山，2010年9月22日)",
+    "(9) T. Isoguchi, R. Kanzaki, H. Takahashi: “Microelectrode Array Mapping of Mismatch Negativity in Rat Auditory Cortex.” Abstract of 2010 Asia-Pacific Radio Science Conference (AP-RASC '10): #KB1-2 (CD-ROM), 2010 (富山，2010年9月22日)",
+    "(10) Akihiro Funamizu, Makoto Ito, Kenji Doya, Ryohei Kanzaki and Hirokazu Takahashi: “Context-dependent uncertainty preference of rats in a free choice task.” Proceedings of the 21st Annual Conference of the Japanese Neural Network Society (JNNS 2011): #P1-13, 2011 (沖縄，2011年12月15日) [平成23年日本神経回路学会大会奨励賞]",
+    "(11) Douglas J Bakkum, Urs Frey, Jan Mueller, Michele Fiscella, Branka Roscic, Hirokazu Takahashi, Andreas Hierlemann: “Capability of an 11,011-electrode CMOS array to study action potential propagation plasticity.” Society for Neuroscience Abstract: # 322.07 (nanosymposium), 2012 (New Orleans, USA, 2012年10月13日)",
+    "(12) Douglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan Muller, Michele Fiscella, Hirokazu Takahashi, Andreas Hierlemann: “Electrical imaging of axon function.” Abstract of 3rd International Symposium on Frontiers in Neurophotonics International Symposium: p. 25 2013 (Bordeaux, France, 2013年10月1日)",
+    "(13) Takeshi Mita, Hirokazu Takahashi: “Tetanic induced network plasticity in dissociate neuronal culture.” NeuroCMOS workshop, 2014 (東京, 2014年5月20日)",
+    "(14) Yuichiro Yada, Hirokazu Takahashi: “Reproducible spatial activity pattern in cortical network burst.” NeuroCMOS workshop, 2014 (東京, 2014年5月20日)",
+    "(15) Akihiro Sanada, Hirokazu Takahashi: “Neuronal avalanches of discharges of dissociated cortical neurons.” NeuroCMOS workshop, 2014 (東京, 2014年5月20日)",
+    "(16) Hirokazu Takahashi: “Introduction of signal detection of neural activity.” Japan-Taiwan Bio-Electronics meeting, 2014 (Chingjing, 台湾, 2014年11月12日)",
+    "(17) Hirokazu Takahashi: “Towards computation with neuronal culture.” 2nd NeuroCMOS workshop (神戸，2015年1月20日)",
+    "(18) Yuichiro Yada, Hirokazu Takahashi：”Characterization of Synchrony Repertory Diversification during Maturation of Cortical Cultures.” 2nd NeuroCMOS workshop (神戸，2015年1月20日)",
+    "(19) Yuichiro Yada, Shusaku Yasuda, Ryohei Kanzaki, Hirokazu Takahashi, “Goal-directed behavior of a cultured neuron robot through reservoir computing,” Abstract of 12th International Workshop Neural Coding Workshop 2016, pp. 102-103 (Cologne, Germany, 2016年8月29日)",
+    "(20) Naoki Wake, Tomoyo I. Shiramatsu, and Hirokazu Takahashi: “Neural Correlates of Tinnitus: Spontaneous Local Synchrony within Rat Auditory Cortex.” Abstract of The 41th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 366-367, 2018 (San Diego, USA, 2018年2月17日)",
+    "(21) Sanato Nagata, Norifumi Kameshiro, Tadashi Okumura, Daigo Terutsuki, Hidefumi Mitsuno, Kohei Nakajima, Hirokazu Takahashi, Ryohei Kanzaki, and Masahiko Ando: “Exploration of biological olfactory mechanism using randomly mixed receptor signals decoded by reservoir computing.” Digital Olfaction Society Annual Meeting 2018 (DOS Annual Meeting 2018), 2018 (東京, 2018年12月3日)",
+    "(22) Zhuo Zhang, Amit Yaron, Dai Akita, Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi：“Deviance Detection in the Dissociated Cultures of Neurons.” MaxWell Biosystems workshop (東京，2022年12月5日)",
+    "(23) Eisuke Suwa, Narumitsu Ikeda, Naoki Ishida, Dai Akita, Hirokazu Takahashi：“Critical-state physical reservoir computating with dissociate culture of computing.” MaxWell Biosystems workshop (東京，2022年12月5日)",
+    "(24) Dai Akita, He Zhang, Yuta Kawahara, Hirokazu Takahashi: “Effect of criticality on living neuronal reservoir computing.” The 13th RIEC International Symposium on Brain Functions and Brain Computer (BFBC2025), 2024 (仙台，2025年2月28日)\n\n\nポスター発表 (Poster Presentation)\n\n\n和文",
+    "(1) 高橋宏知, 中尾政之, 加我君孝: 「蝸牛神経核の腹側部と背側部の微小電気刺激に対する聴皮質反応」，生体医工学 43 (特別号): p. 529, 2005 (つくば，2005年4月25日)",
+    "(2) 硯川潤, 高橋宏知, 久田幸平, 中尾政之, 加我君孝:「発火電位と局所電場電位の同時計測による神経反応の特徴抽出」，生体医工学 43 (特別号): p. 528, 2005 (つくば，2005年4月25日)",
+    "(3) 渡辺裕文, 高橋宏知, 中尾政之, Kerry Walton, Rodolfo R.Llinás: 「極細ワイヤ探針を利用した血管内神経信号計測」，生体医工学 43 (特別号): p. 533, 2005 (つくば，2005年4月25日)"
+  ]
+}

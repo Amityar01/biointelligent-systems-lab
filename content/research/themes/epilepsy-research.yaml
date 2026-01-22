@@ -1,0 +1,30 @@
+id: epilepsy-research
+name:
+  en: Basic Research on Epilepsy Treatment
+  ja: てんかん治療の基礎研究
+description:
+  en: Research on diagnosis and treatment of epilepsy
+  ja: てんかんの診断と治療に関する研究
+subthemes:
+  - id: seizure-diagnosis
+    name:
+      en: Epilepsy Seizure Diagnosis
+      ja: てんかん発作の診断
+    selectedPublications:
+      - authors: Ali Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai, and Hirokazu Takahashi
+        title: Seizure detection by convolutional neural network-based analysis of scalp electroencephalography plot images
+        journal: 'NeuroImage: Clinical'
+        volume: '22'
+        pages: 'Article #101684 (10 pp.)'
+        year: 2019
+        link: https://www.sciencedirect.com/science/article/pii/S2213158219300348
+  - id: vagus-nerve-stimulation
+    name:
+      en: Vagus Nerve Stimulation Therapy
+      ja: 迷走神経刺激療法
+    selectedPublications:
+      - authors: Hirokazu Takahashi, Tomoyo I. Shiramatsu, et al.
+        title: Vagus nerve stimulation research
+        journal: Scientific Reports
+        year: 2020
+        link: https://www.nature.com/articles/s41598-020-65745-z

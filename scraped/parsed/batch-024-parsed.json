@@ -1,0 +1,507 @@
+{
+  "batchId": 24,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "parsedAt": "2026-01-22T02:51:38.819Z",
+  "items": [
+    {
+      "type": "presentation",
+      "title": "音脈形成に関わる聴覚野の機能的ネットワークの特徴と下部構造",
+      "authors": [
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "conference": "平成23年電気学会電子・情報・システム部門大会講演論文集: pp. 1003-1008, 2011",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(91) 野田貴大，神崎亮平，高橋宏知：「音脈形成に関わる聴覚野の機能的ネットワークの特徴と下部構造」，平成23年電気学会電子・情報・システム部門大会講演論文集: pp. 1003-1008, 2011 (富山，2011年9月7日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2011----540"
+    },
+    {
+      "type": "presentation",
+      "title": "分散培養神経細胞の高空間解像度な機能的ネットワーク解析",
+      "authors": [
+        "三田毅",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Andreas Hierlemann",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "conference": "平成23年電気学会電子・情報・システム部門大会講演論文集: pp. 1305-1310, 2011",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(92) 三田毅，Douglas Bakkum，Urs Frey，Andreas Hierlemann，神崎亮平，高橋宏知：「分散培養神経細胞の高空間解像度な機能的ネットワーク解析」，平成23年電気学会電子・情報・システム部門大会講演論文集: pp. 1305-1310, 2011 (富山，2011年9月7日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2011----541"
+    },
+    {
+      "type": "presentation",
+      "title": "Feasibility study of odor biosensor using dissociate neuronal culture with gene expression of ionotropic odorant receptros",
+      "authors": [
+        "Norio Tanada",
+        "Takeshi Sakurai",
+        "Hidefumi Mitsuno",
+        "Douglas Bakkum",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahshi"
+      ],
+      "year": 2011,
+      "conference": "Proceedings of the 26th Symposium on Biological and Physiological Engineering",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(93) Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglas Bakkum, Ryohei Kanzaki, Hirokazu Takahshi: “Feasibility study of odor biosensor using dissociate neuronal culture with gene expression of ionotropic odorant receptros.” Proceedings of the 26th Symposium on Biological and Physiological Engineering (BPES 2011) (第26回生体生理工学シンポジウム講演論文集): pp. 123-127, 2011 (草津，2011年9月20日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2011-noriotanada-feasibility-study-of-odor-bios-542"
+    },
+    {
+      "type": "presentation",
+      "title": "Neural representation for emotional valence of sound in rat auditory cortex",
+      "authors": [
+        "T. Isoguchi",
+        "T. Noda",
+        "R. Kanzaki",
+        "H. Takahashi"
+      ],
+      "year": 2011,
+      "conference": "Proceedings of the 26th Symposium on Biological and Physiological Engineering",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(94) T. Isoguchi, T. Noda, R. Kanzaki, H. Takahashi: “Neural representation for emotional valence of sound in rat auditory cortex.” Proceedings of the 26th Symposium on Biological and Physiological Engineering (BPES 2011) (第26回生体生理工学シンポジウム講演論文集): pp. 376-379, 2011 (草津，2011年9月20日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2011-tisoguchi-neural-representation-for-emot-543"
+    },
+    {
+      "type": "presentation",
+      "title": "音の情動価がラット聴皮質の位相同期に与える影響",
+      "authors": [
+        "磯口知世",
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "conference": "日本音響学会聴覚研究会資料 41",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(95) 磯口知世，野田貴大，神崎亮平，高橋宏知：「音の情動価がラット聴皮質の位相同期に与える影響」，日本音響学会聴覚研究会資料 41 (8), pp. 599-604, 2011 (豊橋，2011年11月25日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2011----544"
+    },
+    {
+      "type": "presentation",
+      "title": "聴皮質における音の周波数情報符号化の領野依存性",
+      "authors": [
+        "高橋宏知",
+        "横田亮",
+        "神崎亮平",
+        "合原一幸"
+      ],
+      "year": 2011,
+      "conference": "日本音響学会聴覚研究会資料 41",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(96) 高橋宏知，横田亮，神崎亮平，合原一幸：「聴皮質における音の周波数情報符号化の領野依存性」，日本音響学会聴覚研究会資料 41 (8), pp. 611-616, 2011 (豊橋，2011年11月25日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2011----545"
+    },
+    {
+      "type": "presentation",
+      "title": "てんかん患者の多点皮質脳波における神経活動の雪崩現象の検証",
+      "authors": [
+        "李夏栄",
+        "川合謙介",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "電気学会研究会資料 医用・生体工学研究会MBE-12-034~049: pp. 41-46, 2012",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(97) 李夏栄，川合謙介，神崎亮平，高橋宏知：「てんかん患者の多点皮質脳波における神経活動の雪崩現象の検証」，電気学会研究会資料 医用・生体工学研究会MBE-12-034~049: pp. 41-46, 2012 (東京，2012年3月20日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012----546"
+    },
+    {
+      "type": "presentation",
+      "title": "聴皮質の定常的な神経活動における音情報のデコーディング",
+      "authors": [
+        "阿久津完",
+        "磯口知世",
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "電気学会研究会資料 医用・生体工学研究会MBE-12-034~049: pp. 51-56, 2012",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(98) 阿久津完，磯口知世，野田貴大，神崎亮平，高橋宏知：「聴皮質の定常的な神経活動における音情報のデコーディング」，電気学会研究会資料 医用・生体工学研究会MBE-12-034~049: pp. 51-56, 2012 (東京，2012年3月20日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012----547"
+    },
+    {
+      "type": "presentation",
+      "title": "神経活動の雪崩現象に基づくてんかん患者の多点皮質脳波の解析",
+      "authors": [
+        "李夏栄",
+        "川合謙介",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "生体医工学 50",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(99) 李夏栄，川合謙介，神崎亮平，高橋宏知：「神経活動の雪崩現象に基づくてんかん患者の多点皮質脳波の解析」，生体医工学 50 (特別号): #O1-08-6 (CD-ROM), 2012 (第51回日本生体医工学会大会，福岡，2012年5月10日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012----548"
+    },
+    {
+      "type": "presentation",
+      "title": "ラット聴皮質における音の情動価の情報表現",
+      "authors": [
+        "磯口知世",
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "生体医工学 50",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(100) 磯口知世，野田貴大，神崎亮平，高橋宏知：「ラット聴皮質における音の情動価の情報表現」，生体医工学 50 (特別号): #O1-08-4 (CD-ROM), 2012 (第51回日本生体医工学会大会，福岡，2012年5月10日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012----549"
+    },
+    {
+      "type": "presentation",
+      "title": "覚醒下のラット聴覚野における神経活動の高密度多点同時計測",
+      "authors": [
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "生体医工学 50",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(101) 野田貴大，神崎亮平，高橋宏知：「覚醒下のラット聴覚野における神経活動の高密度多点同時計測」，生体医工学 50 (特別号): #O3-03-4 (CD-ROM), 2012 (第51回日本生体医工学会大会，福岡，2012年5月10日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012----550"
+    },
+    {
+      "type": "presentation",
+      "title": "高密度CMOSアレイ上での細胞内刺激のための刺激電極誘導法",
+      "authors": [
+        "石原裕也",
+        "三田毅",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Andreas Hierlemann",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "生体医工学 50",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(102) 石原裕也，三田毅， Douglas Bakkum，Urs Frey，Andreas Hierlemann，神崎亮平， 高橋宏知：「高密度CMOSアレイ上での細胞内刺激のための刺激電極誘導法」，生体医工学 50 (特別号): #O3-03-5 (CD-ROM), 2012 (第51回日本生体医工学会大会，福岡，2012年5月10日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012---cmos--551"
+    },
+    {
+      "type": "presentation",
+      "title": "ラット聴覚皮質の局所電場電位における迷走神経刺激による同期度の変化",
+      "authors": [
+        "狩野竜示",
+        "宇佐美研一",
+        "野田貴大",
+        "磯口知世",
+        "川合謙介",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "平成24年電気学会電子・情報・システム部門大会講演論文集: pp. 164-169, 2012",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(103) 狩野竜示，宇佐美研一，野田貴大，磯口知世，川合謙介，神崎亮平，高橋宏知：「ラット聴覚皮質の局所電場電位における迷走神経刺激による同期度の変化」，平成24年電気学会電子・情報・システム部門大会講演論文集: pp. 164-169, 2012 (弘前，2012年9月5日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012----552"
+    },
+    {
+      "type": "presentation",
+      "title": "高密度CMOSアレイの観測電位と神経細胞の生理学的特性",
+      "authors": [
+        "三田毅",
+        "D. Bakkum",
+        "棚田法男",
+        "U. Frey",
+        "A. Hierlemman",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "平成24年電気学会電子・情報・システム部門大会講演論文集: pp. 88-93, 2012",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(104) 三田毅，D. Bakkum，棚田法男，U. Frey，A. Hierlemman，神崎亮平，高橋宏知：「高密度CMOSアレイの観測電位と神経細胞の生理学的特性」，平成24年電気学会電子・情報・システム部門大会講演論文集: pp. 88-93, 2012 (弘前，2012年9月5日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012---cmos--553"
+    },
+    {
+      "type": "presentation",
+      "title": "高密度CMOSアレイ上培養神経細胞の細胞体位置の推定",
+      "authors": [
+        "三田毅",
+        "石原裕也",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Andreas Hierlemann",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "第27回生体生理工学シンポジウム講演論文集: pp. 106-109, 2012",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(105) 三田毅，石原裕也，Douglas Bakkum，Urs Frey，Andreas Hierlemann，神崎亮平， 高橋宏知：「高密度CMOSアレイ上培養神経細胞の細胞体位置の推定」，第27回生体生理工学シンポジウム講演論文集: pp. 106-109, 2012 (札幌，2012年9月18日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012---cmos--554"
+    },
+    {
+      "type": "presentation",
+      "title": "てんかん発作開始に至るまでの高振幅皮質脳波の伝播",
+      "authors": [
+        "李夏栄",
+        "川合謙介",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "第27回生体生理工学シンポジウム講演論文集: pp. 168-171, 2012",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(106) 李夏栄、川合謙介，神崎亮平， 高橋宏知：「てんかん発作開始に至るまでの高振幅皮質脳波の伝播」，第27回生体生理工学シンポジウム講演論文集: pp. 168-171, 2012 (札幌，2012年9月18日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012----555"
+    },
+    {
+      "type": "presentation",
+      "title": "ラット聴覚野の学習過程に伴う時間的コヒーレンスの変化",
+      "authors": [
+        "横田亮",
+        "合原一幸",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "日本音響学会聴覚研究会資料 42",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(107) 横田亮，合原一幸，神崎亮平，高橋宏知：「ラット聴覚野の学習過程に伴う時間的コヒーレンスの変化」，日本音響学会聴覚研究会資料 42(8), pp. 621-626, 2012 (豊橋，2012年11月22日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012----556"
+    },
+    {
+      "type": "presentation",
+      "title": "聴皮質の定常的な神経活動による音情報の表現",
+      "authors": [
+        "磯口知世",
+        "野田貴大",
+        "阿久津完",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "日本音響学会聴覚研究会資料 42",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(108) 磯口知世，野田貴大，阿久津完，神崎亮平，高橋宏知：「聴皮質の定常的な神経活動による音情報の表現」，日本音響学会聴覚研究会資料 42(8), pp. 683-688, 2012 (豊橋，2012年11月22日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012----557"
+    },
+    {
+      "type": "presentation",
+      "title": "成熟した培養神経回路のネットワーク形状と活動の経時変化",
+      "authors": [
+        "大川知",
+        "三田毅",
+        "ダグラス・バッカム",
+        "ウルス・フレイ",
+        "アンドレアス・ヒールマン",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "conference": "電気学会研究会資料 医用・生体工学研究会MBE-13-025~044: pp. 97-102, 2013",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(109) 大川知，三田毅，ダグラス・バッカム，ウルス・フレイ，アンドレアス・ヒールマン，神崎亮平，高橋宏知：「成熟した培養神経回路のネットワーク形状と活動の経時変化」，電気学会研究会資料 医用・生体工学研究会MBE-13-025~044: pp. 97-102, 2013 (東京，2013年3月22日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2013----558"
+    },
+    {
+      "type": "presentation",
+      "title": "迷走神経刺激によるラット大脳皮質の神経活動の同期度の変化",
+      "authors": [
+        "狩野竜示",
+        "宇佐美憲一",
+        "野田貴大",
+        "白松(磯口)知世",
+        "神崎亮平",
+        "川合謙介",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "conference": "電気学会研究会資料 医用・生体工学研究会MBE-13-025~044: pp. 65-70, 2013",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(110) 狩野竜示，宇佐美憲一，野田貴大，白松(磯口)知世，神崎亮平，川合謙介，高橋宏知：「迷走神経刺激によるラット大脳皮質の神経活動の同期度の変化」，電気学会研究会資料 医用・生体工学研究会MBE-13-025~044: pp. 65-70, 2013 (東京，2013年3月22日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2013----559"
+    },
+    {
+      "type": "presentation",
+      "title": "音列オブジェクト形成に関わる聴皮質の神経活動",
+      "authors": [
+        "雨宮知樹",
+        "野田貴大",
+        "白松（磯口）知世",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "conference": "電気学会研究会資料 医用・生体工学研究会MBE-13-025~044: pp. 71-75, 2013",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(111) 雨宮知樹，野田貴大，白松（磯口）知世，神崎亮平，高橋宏知：「音列オブジェクト形成に関わる聴皮質の神経活動」，電気学会研究会資料 医用・生体工学研究会MBE-13-025~044: pp. 71-75, 2013 (東京，2013年3月22日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2013----560"
+    },
+    {
+      "type": "presentation",
+      "title": "ラット聴覚野における音脈分凝に関わる皮質振動の位相固定性",
+      "authors": [
+        "野田貴大",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "conference": "日本聴覚医学会 第8回 ERA・OAE研究会抄録集: p. 12, 2013",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(112) 野田貴大，高橋宏知：「ラット聴覚野における音脈分凝に関わる皮質振動の位相固定性」，日本聴覚医学会 第8回 ERA・OAE研究会抄録集: p. 12, 2013 (東京，2013年7月7日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2013----561"
+    },
+    {
+      "type": "presentation",
+      "title": "音パターン知覚に関わるラット聴皮質の神経活動",
+      "authors": [
+        "雨宮知樹",
+        "野田貴大",
+        "白松（磯口）知世",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "conference": "日本聴覚医学会 第8回 ERA・OAE研究会抄録集: p. 13, 2013",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(113) 雨宮知樹，野田貴大，白松（磯口）知世，神崎亮平，高橋宏知：「音パターン知覚に関わるラット聴皮質の神経活動」，日本聴覚医学会 第8回 ERA・OAE研究会抄録集: p. 13, 2013 (東京，2013年7月7日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2013----562"
+    },
+    {
+      "type": "presentation",
+      "title": "高密度CMOSアレイ上の分散培養神経回路における抑制性神経細胞の電気生理学的特性",
+      "authors": [
+        "三田毅",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Andreas Hierlemman",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "平成25年電気学会 電子・情報・システム部門大会講演論文集: pp. 33-38, 2013",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(114) 三田毅，Douglas Bakkum，Urs Frey，Andreas Hierlemman，神崎亮平，高橋宏知：「高密度CMOSアレイ上の分散培養神経回路における抑制性神経細胞の電気生理学的特性」，平成25年電気学会 電子・情報・システム部門大会講演論文集: pp. 33-38, 2013 (北見，2012年9月4日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012---cmos--563"
+    },
+    {
+      "type": "presentation",
+      "title": "和音の質感が聴皮質の神経活動の位相同期に及ぼす影響",
+      "authors": [
+        "白松（磯口）知世",
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "平成25年電気学会 電子・情報・システム部門大会講演論文集: pp. 75-79, 2013",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(115) 白松（磯口）知世，野田貴大，神崎亮平，高橋宏知：「和音の質感が聴皮質の神経活動の位相同期に及ぼす影響」，平成25年電気学会 電子・情報・システム部門大会講演論文集: pp. 75-79, 2013 (北見，2012年9月4日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2012----564"
+    }
+  ]
+}

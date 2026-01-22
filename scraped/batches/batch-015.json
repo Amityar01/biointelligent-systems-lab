@@ -1,0 +1,33 @@
+{
+  "batchId": 15,
+  "category": "oral",
+  "categoryTitle": "口頭発表 (Oral",
+  "startIndex": 75,
+  "items": [
+    "(73) 高橋宏知：「迷走神経刺激療法が聴覚野の予測符号化に与える影響」，第53回日本臨床神経生理学会学術大会 (サテライトシンポジウム)，2023 (福岡，2023年11月30日)",
+    "(74) 高橋宏知：「視床－大脳皮質の神経活動に対する迷走神経刺激の影響」，第53回日本臨床神経生理学会学術大会 (教育講演)，2023 (福岡，2023年12月2日)",
+    "(75) 高橋宏知：「AI によるてんかん発作の自動診断」，第26回日本ヒト脳機能マッピング学会，2023(宇都宮，2023年2月23日)",
+    "(76) 秋田大，川原佑太，張赫，高橋宏知：「培養神経細胞の情報処理容量評価」，LIFE2024（オーガナイズトセッション），2024（東京，2024年9月13日）",
+    "(77) Hexin Xu, Yiyuan Teresa Huang, Amit Yaron, Tomoyo I Shiramatsu, Zenas Chao, Hirokazu Takahashi: 「The Dominant Sense in Multimodal Integration: An Audiovisual Illusion Test and EEG Study」，第54回日本臨床神経生理学会学術大会（サテライトシンポジウム），2024 (札幌，2024年10月24日)",
+    "(78) 高橋宏知：「予測符号化理論による迷走神経刺激療法の動作原理の考察」，54回日本臨床神経生理学会学術大会（シンポジウム），2024 (札幌，2024年10月26日)",
+    "(79) 高橋宏知：「音楽と脳のダイナミクス」，電子情報通信学会研究会，2024（高知，2024年11月7日）\n\n\n国際会議",
+    "(1) Hirokazu Takahashi, Kimitaka Kaga, Takayuki Ejiri, Fumio Mase, Naoya Nakamura, Masayuki Nakao, and Thierry Hervé: “The auditory brainstem implantation.” The MINATEC Seminar (東京, 2001年12月4日)",
+    "(2) R. Kanzaki, S. Emoto, E. Minegishi, S. Toriihara, D. Kurabayashi, N. Ando and H. Takahashi: “Insect–machine hybrid systems for analyzing adaptive behaviors.” Comparative biochemistry and physiology. Part A, Molecular & Integrative Physiology 148 Suppl. 1: S32, 2007 (17th International Congress of Comparative Physiology and Biochemistry, Salvador, Bahia, Brazil, 2007年8月12日)",
+    "(3) Hirokazu Takahashi: “From NeuroPhysiology, through NeuroEngineering, toward NeuroRehabiliation.” The 4th International Symposium on Biomedical Systems Innovation (東京，2008年2月18日)",
+    "(4) D. Bakkum, U. Frey, H. Takahashi, A. Hierlemann: “Subcellular-Resolution Recording of Electrical Activity Using a CMOS-Microelectrode System.” Proceedings of Advances in Neuroengineering III (2nd Global COE International Symposium EDIS 2009 “Center for Electronic Devices Innovation”): p. 2, 2010 (Osaka, 2010年3月1日)",
+    "(5) Hirokazu Takahashi: Heterogeneity and plasticity on the tonotopic map of the auditory cortex. NIPS International Workshop 2011 Cutting Edge in Synapse Research: p. 8, 2011 (Okazaki, 2011年12月8日)",
+    "(6) Hirokazu Takahashi: “Evolved intelligence from the Darwinian principle.” Tokyo lectures of language evolution, 2015 (東京, 2015年4月2日)",
+    "(7) Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Cortical mapping of mismatch negativity in rat.” Abstract book of Error Signals from the Brain - 7th Mismatch Negativity Conference (MMN 2015): p. 135, 2015 (Leipzig, Germany, 2015年9月8日)",
+    "(8) Hirokazu Takahashi: “Neuronal intelligence emerging from the Darwinian principle.” 2nd Japan-EU Workshop on NeuroRobotics (東京，2016年4月29日)",
+    "(9) Hirokazu Takahashi: “Stimulus Phase Locking of Cortical Oscillation for Perceptual Organization.” The Journal of the Acoustical Society of America 140 (4): p. 3208, 2016 (5th Joint Meeting of the Acoustical Society of America and Acoustical Society of Japan) (Hawaii, USA, 2016年11月28日)",
+    "(10) Hirokazu Takahashi: “Intelligence emerging from neural system.” NICT-NSF Collaborative Workshop on Computation Neuroscience (大阪，2017年1月17日)",
+    "(11) Hirokazu Takahashi: “Neural correlates of perceptual organization in the auditory cortex.” Conference proceedings of the 4th annual meeting of the Society for Bioacoustic: pp. 12-13, 2017 (東京，2017年12月9日)",
+    "(12) Hirokazu Takahashi: “Cortical systems as spontaneously active reservoir” The 3rd Workshop on Bio-inspired Energy-Efficient Information Systems, 2018 (東京，2018年3月12日)",
+    "(13) Hirokazu Takahashi: “Intelligence emerging from spontaneously active neuronal culture (脳の自発活動から創発する知能).” The 41st Annual Meeting of the Japan Neuroscience Society, 2018 (神戸，2018年7月27日)",
+    "(14) Hirokazu Takahashi: “Intelligence emerging from dissociate culture of neurons on MEA.” ASUKA Symposium 2019 (Advanced Science for Future in Kashihara) A New phase of Regenerative Medicine (奈良，2019年6月13日)",
+    "(15) Hirokazu Takahashi: “Decoding of Darwinian neural activities in the auditory cortex.” The 6th CiNet Conference: Brain-Machine Interface – Medical Engineering based on Neuroscience –, 2020 (大阪，2020年2月5日)",
+    "(16) Hirokazu Takahashi and Naoki Wake: “Neural correlates of tinnitus in the auditory cortex of rat.” 第97回日本生理学会大会, 2020 (別府, 2020年3月17日) [開催中止]",
+    "(17) Tomoyuki Kubota, Kohei Nakajima, and Hirokazu Takahashi: “Information processing capacity of neuronal culture.” NOLTA 2020 (2020 International symposium on nonlinear theory and its applications), 2020 (Online, 2020年11月16日)",
+    "(18) Tomoyo I. Shiramatsu, Kanato Mori, Hirokazu Takahashi: “Cortical mapping of auditory, visual, and cross-modal mismatch negativity in rat.” 9th Mismatch Negativity Conference (MMN 2022): pp. 56-57, 2022 (福島, 2022年9月21日)"
+  ]
+}

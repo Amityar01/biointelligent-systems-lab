@@ -1,0 +1,45 @@
+fellows:
+  - type: DC1
+    period: 2006~2008
+    name: 硯川潤
+    topic: 培養神経系モデルを用いた脳神経システムの機能化誘導技術の開発
+  - type: DC1
+    period: 2008~2010
+    name: 船水章大
+    topic: 神経回路の動的なスイッチング機構の解明とその情動センシングBMIへの応用
+  - type: DC1
+    period: 2008~2010
+    name: 横田亮
+    topic: 学習に伴う神経システムの可塑性の評価とそのモデル化
+  - type: PD
+    period: 2008~2009
+    name: Douglas Bakkum
+    topic: 培養神経回路のための刺激用光アドレス電極と計測用電極アレイの統合インターフェース
+  - type: DC1
+    period: 2009~2011
+    name: 野田貴大
+    topic: 聴覚的クラスターを抽出・再構成できる神経基盤の解明とその工学的応用
+  - type: DC1
+    period: 2011~2013
+    name: 磯口知世
+    topic: 音の質感がもつ情動的価値の神経学的解明
+  - type: DC1
+    period: 2014~2016
+    name: 矢田祐一郎
+    topic: 培養神経回路のバイオ・コンピュテーションを実現する高解像度神経インターフェース
+  - type: PD
+    period: 2015~2017
+    name: Lisandro Kaunitz
+    topic: 意識と無意識状態における脳内の情報伝播
+  - type: DC1
+    period: 2016~2018
+    name: 和家尚希
+    topic: 耳鳴知覚の脳活動の同定と診断方法の開発
+  - type: DC1
+    period: 2024~2026
+    name: 大島果林
+    topic: 社会的相互作用における脳の力学的連携状態の解明
+  - type: DC2
+    period: 2025~2026
+    name: 飯塚理子
+    topic: 音楽が社会行動に影響を与える神経ダイナミクスの数理的解明

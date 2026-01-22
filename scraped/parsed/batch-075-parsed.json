@@ -1,0 +1,383 @@
+{
+  "batchId": 75,
+  "category": "thesis",
+  "categoryTitle": "研究・論文指導 (mentoring)",
+  "parsedAt": "2026-01-22T03:14:42.568Z",
+  "items": [
+    {
+      "title": "成熟した培養神経回路のネットワーク形状と活動の経時変化",
+      "authors": [
+        "大川知"
+      ],
+      "year": 2013,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(26) 大川知：「成熟した培養神経回路のネットワーク形状と活動の経時変化」，東京大学工学部卒業論文, 2013年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1737"
+    },
+    {
+      "title": "「瞳孔径に連動した脳活動の変化」",
+      "authors": [
+        "徳茂宏之"
+      ],
+      "year": 2014,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(27) 徳茂宏之：「瞳孔径に連動した脳活動の変化」，東京大学工学部卒業論文, 2014年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2014----1738"
+    },
+    {
+      "title": "迷走神経刺激が聴知覚の神経活動パターンに及ぼす影響",
+      "authors": [
+        "日露理英"
+      ],
+      "year": 2014,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(28) 日露理英：「迷走神経刺激が聴知覚の神経活動パターンに及ぼす影響」，東京大学工学部卒業論文, 2014年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2014----1739"
+    },
+    {
+      "title": "「電場刺激による培養神経回路の時空間的活動パターン制御」",
+      "authors": [
+        "安田秀策"
+      ],
+      "year": 2014,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(29) 安田秀策：「電場刺激による培養神経回路の時空間的活動パターン制御」，東京大学工学部卒業論文, 2014年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2014----1740"
+    },
+    {
+      "title": "ドーパミン報酬系が聴覚野での音情報処理に及ぼす影響",
+      "authors": [
+        "曾我遼"
+      ],
+      "year": 2015,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(30) 曾我遼：「ドーパミン報酬系が聴覚野での音情報処理に及ぼす影響」，東京大学工学部卒業論文, 2015年3月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2015----1741"
+    },
+    {
+      "title": "感覚野への電気パルス列刺激による知覚の生成",
+      "authors": [
+        "久山貴大"
+      ],
+      "year": 2016,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(31) 久山貴大：「感覚野への電気パルス列刺激による知覚の生成」，東京大学工学部卒業論文, 2016年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2016----1742"
+    },
+    {
+      "title": "培養神経回路の同期バースト発生を担う細胞群の探索",
+      "authors": [
+        "古池香里"
+      ],
+      "year": 2016,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(32) 古池香里：「培養神経回路の同期バースト発生を担う細胞群の探索」，東京大学工学部卒業論文, 2016年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2016----1743"
+    },
+    {
+      "title": "リザバー計算に基づく培養神経回路の状態制御",
+      "authors": [
+        "安江秀太"
+      ],
+      "year": 2016,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(33) 安江秀太：「リザバー計算に基づく培養神経回路の状態制御」，東京大学工学部卒業論文, 2016年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2016----1744"
+    },
+    {
+      "title": "繰り返し同期誘発刺激による培養神経回路の記憶の操作",
+      "authors": [
+        "角田颯飛"
+      ],
+      "year": 2017,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(34) 角田颯飛：「繰り返し同期誘発刺激による培養神経回路の記憶の操作」，東京大学工学部卒業論文, 2017年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2017----1745"
+    },
+    {
+      "title": "ラットの自己主体感を調べるための実験系の構築",
+      "authors": [
+        "土井ゆりか"
+      ],
+      "year": 2017,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(35) 土井ゆりか：「ラットの自己主体感を調べるための実験系の構築」，東京大学工学部卒業論文, 2017年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2017----1746"
+    },
+    {
+      "title": "齧歯類における和音知覚の原始的な神経基盤",
+      "authors": [
+        "松竹理匠"
+      ],
+      "year": 2017,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(36) 松竹理匠：「齧歯類における和音知覚の原始的な神経基盤」，東京大学工学部卒業論文, 2017年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2017----1747"
+    },
+    {
+      "title": "パーソナル・モバイル・ロボットを用いた補聴器装用支援システム",
+      "authors": [
+        "可部泰生"
+      ],
+      "year": 2017,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(37) 可部泰生：「パーソナル・モバイル・ロボットを用いた補聴器装用支援システム」，東京大学工学部卒業論文, 2017年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2017----1748"
+    },
+    {
+      "title": "脳の電気刺激による意識にのぼる知覚の創成",
+      "authors": [
+        "阿部泰己"
+      ],
+      "year": 2018,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(38) 阿部泰己：「脳の電気刺激による意識にのぼる知覚の創成」，東京大学工学部卒業論文, 2018年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2018----1749"
+    },
+    {
+      "title": "培養神経細胞の統合情報量による解析",
+      "authors": [
+        "木村武龍"
+      ],
+      "year": 2019,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(39) 木村武龍：「培養神経細胞の統合情報量による解析」，東京大学工学部卒業論文, 2019年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2019----1750"
+    },
+    {
+      "title": "感覚野における視聴覚統合",
+      "authors": [
+        "森叶人"
+      ],
+      "year": 2019,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(40) 森叶人：「感覚野における視聴覚統合」，東京大学工学部卒業論文, 2019年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2019----1751"
+    },
+    {
+      "title": "拡張した情報処理容量によるリザバーコンピューティングの評価",
+      "authors": [
+        "大澤龍太"
+      ],
+      "year": 2020,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(41)　大澤龍太：拡張した情報処理容量によるリザバーコンピューティングの評価，東京大学工学部卒業論文, 2020年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2020----1752"
+    },
+    {
+      "title": "継続的な刺激が培養神経回路の成長にもたらす影響",
+      "authors": [
+        "高橋斗威"
+      ],
+      "year": 2020,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(42)　高橋斗威：継続的な刺激が培養神経回路の成長にもたらす影響，東京大学工学部卒業論文, 2020年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2020----1753"
+    },
+    {
+      "title": "ラット聴覚野における情報処理容量の計測",
+      "authors": [
+        "石田直輝"
+      ],
+      "year": 2021,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(43) 石田直輝：「ラット聴覚野における情報処理容量の計測」，東京大学工学部卒業論文, 2021年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2021----1754"
+    },
+    {
+      "title": "神経細胞の分散培養系の情報処理容量",
+      "authors": [
+        "諏訪瑛介"
+      ],
+      "year": 2021,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(44) 諏訪瑛介：「神経細胞の分散培養系の情報処理容量」，東京大学工学部卒業論文, 2021年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2021----1755"
+    },
+    {
+      "title": "げっ歯類の社会的行動に対する音楽の影響",
+      "authors": [
+        "大島果林"
+      ],
+      "year": 2022,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(45) 大島果林：「げっ歯類の社会的行動に対する音楽の影響」，東京大学工学部卒業論文, 2022年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2022----1756"
+    },
+    {
+      "title": "脳波を利用した短時間聴力検査の開発",
+      "authors": [
+        "岡田大吾"
+      ],
+      "year": 2022,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(46) 岡田大吾：「脳波を利用した短時間聴力検査の開発」，東京大学工学部卒業論文, 2022年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2022----1757"
+    },
+    {
+      "title": "神経細胞の分散培養系の深層強化学習",
+      "authors": [
+        "澤田晴登"
+      ],
+      "year": 2022,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(47) 澤田晴登：「神経細胞の分散培養系の深層強化学習」，東京大学工学部卒業論文, 2022年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2022----1758"
+    },
+    {
+      "title": "情動に対する音楽の影響を動物モデルで調べるための実験系",
+      "authors": [
+        "山木崚太郎"
+      ],
+      "year": 2022,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(48) 山木崚太郎：「情動に対する音楽の影響を動物モデルで調べるための実験系」，東京大学工学部卒業論文, 2022年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2022----1759"
+    },
+    {
+      "title": "日常使用に適した補聴器自動調整システムの開発",
+      "authors": [
+        "金井智美"
+      ],
+      "year": 2023,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(49) 金井智美：「日常使用に適した補聴器自動調整システムの開発」東京大学工学部卒業論文, 2023年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2023----1760"
+    },
+    {
+      "title": "音環境に依存したげっ歯類の超音波コミュニケー ション",
+      "authors": [
+        "高木永遠"
+      ],
+      "year": 2023,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(50) 高木永遠：「音環境に依存したげっ歯類の超音波コミュニケー ション」東京大学工学部卒業論文, 2023年2月",
+      "language": "ja",
+      "category": "thesis",
+      "awards": [],
+      "_valid": true,
+      "id": "2023----1761"
+    }
+  ]
+}

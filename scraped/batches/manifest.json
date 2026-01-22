@@ -1,0 +1,336 @@
+{
+  "totalBatches": 55,
+  "totalItems": 1306,
+  "batches": [
+    {
+      "batch": "batch-000.json",
+      "category": "original_ja",
+      "count": 25,
+      "file": "batch-000.json"
+    },
+    {
+      "batch": "batch-001.json",
+      "category": "original_ja",
+      "count": 14,
+      "file": "batch-001.json"
+    },
+    {
+      "batch": "batch-002.json",
+      "category": "original_en",
+      "count": 25,
+      "file": "batch-002.json"
+    },
+    {
+      "batch": "batch-003.json",
+      "category": "original_en",
+      "count": 25,
+      "file": "batch-003.json"
+    },
+    {
+      "batch": "batch-004.json",
+      "category": "original_en",
+      "count": 25,
+      "file": "batch-004.json"
+    },
+    {
+      "batch": "batch-005.json",
+      "category": "original_en",
+      "count": 16,
+      "file": "batch-005.json"
+    },
+    {
+      "batch": "batch-006.json",
+      "category": "conference",
+      "count": 25,
+      "file": "batch-006.json"
+    },
+    {
+      "batch": "batch-007.json",
+      "category": "conference",
+      "count": 25,
+      "file": "batch-007.json"
+    },
+    {
+      "batch": "batch-008.json",
+      "category": "review",
+      "count": 25,
+      "file": "batch-008.json"
+    },
+    {
+      "batch": "batch-009.json",
+      "category": "review",
+      "count": 25,
+      "file": "batch-009.json"
+    },
+    {
+      "batch": "batch-010.json",
+      "category": "review",
+      "count": 12,
+      "file": "batch-010.json"
+    },
+    {
+      "batch": "batch-011.json",
+      "category": "book",
+      "count": 17,
+      "file": "batch-011.json"
+    },
+    {
+      "batch": "batch-012.json",
+      "category": "oral",
+      "count": 25,
+      "file": "batch-012.json"
+    },
+    {
+      "batch": "batch-013.json",
+      "category": "oral",
+      "count": 25,
+      "file": "batch-013.json"
+    },
+    {
+      "batch": "batch-014.json",
+      "category": "oral",
+      "count": 25,
+      "file": "batch-014.json"
+    },
+    {
+      "batch": "batch-015.json",
+      "category": "oral",
+      "count": 25,
+      "file": "batch-015.json"
+    },
+    {
+      "batch": "batch-016.json",
+      "category": "oral",
+      "count": 6,
+      "file": "batch-016.json"
+    },
+    {
+      "batch": "batch-017.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-017.json"
+    },
+    {
+      "batch": "batch-018.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-018.json"
+    },
+    {
+      "batch": "batch-019.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-019.json"
+    },
+    {
+      "batch": "batch-020.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-020.json"
+    },
+    {
+      "batch": "batch-021.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-021.json"
+    },
+    {
+      "batch": "batch-022.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-022.json"
+    },
+    {
+      "batch": "batch-023.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-023.json"
+    },
+    {
+      "batch": "batch-024.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-024.json"
+    },
+    {
+      "batch": "batch-025.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-025.json"
+    },
+    {
+      "batch": "batch-026.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-026.json"
+    },
+    {
+      "batch": "batch-027.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-027.json"
+    },
+    {
+      "batch": "batch-028.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-028.json"
+    },
+    {
+      "batch": "batch-029.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-029.json"
+    },
+    {
+      "batch": "batch-030.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-030.json"
+    },
+    {
+      "batch": "batch-031.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-031.json"
+    },
+    {
+      "batch": "batch-032.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-032.json"
+    },
+    {
+      "batch": "batch-033.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-033.json"
+    },
+    {
+      "batch": "batch-034.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-034.json"
+    },
+    {
+      "batch": "batch-035.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-035.json"
+    },
+    {
+      "batch": "batch-036.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-036.json"
+    },
+    {
+      "batch": "batch-037.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-037.json"
+    },
+    {
+      "batch": "batch-038.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-038.json"
+    },
+    {
+      "batch": "batch-039.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-039.json"
+    },
+    {
+      "batch": "batch-040.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-040.json"
+    },
+    {
+      "batch": "batch-041.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-041.json"
+    },
+    {
+      "batch": "batch-042.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-042.json"
+    },
+    {
+      "batch": "batch-043.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-043.json"
+    },
+    {
+      "batch": "batch-044.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-044.json"
+    },
+    {
+      "batch": "batch-045.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-045.json"
+    },
+    {
+      "batch": "batch-046.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-046.json"
+    },
+    {
+      "batch": "batch-047.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-047.json"
+    },
+    {
+      "batch": "batch-048.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-048.json"
+    },
+    {
+      "batch": "batch-049.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-049.json"
+    },
+    {
+      "batch": "batch-050.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-050.json"
+    },
+    {
+      "batch": "batch-051.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-051.json"
+    },
+    {
+      "batch": "batch-052.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-052.json"
+    },
+    {
+      "batch": "batch-053.json",
+      "category": "seminars",
+      "count": 25,
+      "file": "batch-053.json"
+    },
+    {
+      "batch": "batch-054.json",
+      "category": "seminars",
+      "count": 16,
+      "file": "batch-054.json"
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+id: teaching-history
+slug: teaching-history
+title:
+  en: Teaching History
+  ja: 担当講義・演習履歴
+instructor:
+  en: Hirokazu Takahashi
+  ja: 高橋宏知
+description:
+  en: Complete teaching history of courses and exercises at the University of Tokyo and visiting positions.
+  ja: 東京大学および非常勤先での担当講義・演習の完全な履歴。
+courses:
+  - years: "2003"
+    semester:
+      en: Winter
+      ja: 冬
+    target:
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+      ja: 東京大学工学部3年生
+    course:
+      en: Mechatronics Exercises (shared)
+      ja: メカトロ演習（分担）
+
+  - years: "2004-2005"
+    semester:
+      en: Winter
+      ja: 冬
+    target:
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+      ja: 東京大学工学部3年生
+    course:
+      en: Software Exercises (shared)
+      ja: ソフトウエア演習（分担）
+
+  - years: "2004-2005, 2012-"
+    semester:
+      en: Winter
+      ja: 冬
+    target:
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+      ja: 東京大学工学部3年生
+    course:
+      en: Mechanical Engineering Seminar
+      ja: 機械工学ゼミナール
+
+  - years: "2005"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+      ja: 東京大学工学部3年生
+    course:
+      en: Computer Exercises (shared)
+      ja: 計算機演習（分担）
+
+  - years: "2005-present"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: University of Tokyo, Faculty of Engineering, 4th year
+      ja: 東京大学工学部4年生
+    course:
+      en: Biological Systems Engineering (shared)
+      ja: 生体システム工学（分担）
+
+  - years: "2005"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: University of Tokyo, Graduate School of Information Science and Technology
+      ja: 東京大学大学院情報理工学系研究科
+    course:
+      en: Living Body Systems (shared)
+      ja: 生命体システム（分担）
+
+  - years: "2007-"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: University of Tokyo, Graduate School of Information Science and Technology
+      ja: 東京大学大学院情報理工学系研究科
+    course:
+      en: Living Body Systems
+      ja: 生命体システム
+
+  - years: "2005-"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: University of Tokyo, Graduate School of Information Science and Technology
+      ja: 東京大学大学院情報理工学系研究科
+    course:
+      en: Mechano-Informatics Exercises (shared)
+      ja: 知能機械情報学演習（分担）
+
+  - years: "2007-2009, 2014"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: University of Tokyo, Graduate School of Engineering
+      ja: 東京大学大学院工学系研究科
+    course:
+      en: Advanced Information Systems Theory (shared)
+      ja: 先端情報システム論（分担）
+
+  - years: "2007-present"
+    semester:
+      en: Winter
+      ja: 冬
+    target:
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+      ja: 東京大学工学部3年生
+    course:
+      en: Introduction to Brain Science (shared)
+      ja: 脳科学入門（分担）
+
+  - years: "2008-2010, 2015-"
+    semester:
+      en: Winter
+      ja: 冬
+    target:
+      en: University of Tokyo, College of Arts and Sciences, 2nd year
+      ja: 東京大学教養学部2年生
+    course:
+      en: Mechanical Dynamics Exercises (shared)
+      ja: 機械力学演習（分担）
+
+  - years: "2010-2015"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+      ja: 東京大学工学部3年生
+    course:
+      en: Bioengineering (shared)
+      ja: バイオエンジニアリング（分担）
+
+  - years: "2010-2014"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: University of Tokyo, Graduate School of Engineering
+      ja: 東京大学大学院工学系研究科
+    course:
+      en: Brain and Psychology Science (shared)
+      ja: 脳と心理の科学（分担）
+
+  - years: "2013-"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: University of Tokyo, Graduate School of Engineering
+      ja: 東京大学大学院工学系研究科
+    course:
+      en: Leading Talent Development Program (I)
+      ja: 先導人材育成プログラム（Ⅰ）
+
+  - years: "2013"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: Toyohashi University of Technology, Graduate School of Computer Science and Engineering (visiting lecturer)
+      ja: 豊橋科学技術大学大学院情報・知能工学系（非常勤講師）
+    course:
+      en: Special Lecture on Computer Science and Engineering II (shared)
+      ja: 情報・知能大学院特別講義II（分担）
+
+  - years: "2016-"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: University of Tokyo, Graduate School of Engineering
+      ja: 東京大学大学院工学系研究科
+    course:
+      en: "Advanced Information Systems: Fundamentals and Applications (shared)"
+      ja: 先端情報システム学－基礎と応用－（分担）
+
+  - years: "2016-"
+    semester:
+      en: Winter
+      ja: 冬
+    target:
+      en: University of Tokyo, Faculty of Engineering, 3rd year
+      ja: 東京大学工学部3年生
+    course:
+      en: Nervous System and Brain
+      ja: 神経と脳
+
+  - years: "2017"
+    semester:
+      en: Summer
+      ja: 夏
+    target:
+      en: Kanazawa University, Institute of Science and Engineering (visiting lecturer)
+      ja: 金沢大学理工研究域（非常勤講師）
+    course:
+      en: Special Lecture on Mechanical Engineering (shared)
+      ja: 機械工学特別講義（分担）
+
+  - years: "2017-"
+    semester:
+      en: Spring
+      ja: 春
+    target:
+      en: Meiji University, Graduate School of Science and Technology (visiting lecturer)
+      ja: 明治大学理工学研究科（非常勤講師）
+    course:
+      en: Graduate School of Science and Technology Comprehensive Lecture B (shared)
+      ja: 理工学研究科総合講義B（分担）
+notes:
+  en: |
+    Course materials for recent courses are distributed via ITC-LMS.
+    For recommended reading on brain science, see the publications page.
+  ja: |
+    最近の講義資料はすべてITC-LMSで配布しています。
+    脳科学に関する推薦図書は出版物ページを参照してください。

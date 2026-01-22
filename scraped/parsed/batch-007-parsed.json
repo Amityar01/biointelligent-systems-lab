@@ -1,0 +1,516 @@
+{
+  "batchId": 7,
+  "category": "conference",
+  "categoryTitle": "国際会議講演論文 (査読付)",
+  "parsedAt": "2026-01-22T02:51:11.124Z",
+  "items": [
+    {
+      "type": "conference",
+      "title": "Multiple Time Scales Observed in Spontaneously Evolved Neurons on High-density CMOS Electrode Array",
+      "authors": [
+        "Eiko Matsuda",
+        "Takeshi Mita",
+        "Julien Hubert",
+        "Mizuki Oka",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Hirokazu Takahashi and Takashi Ikegami"
+      ],
+      "year": 2013,
+      "pages": "1075-1082",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(26) Eiko Matsuda, Takeshi Mita, Julien Hubert, Mizuki Oka, Douglas Bakkum, Urs Frey, Hirokazu Takahashi and Takashi Ikegami: “Multiple Time Scales Observed in Spontaneously Evolved Neurons on High-density CMOS Electrode Array.” Advances in Artificial Life, ECAL 2013 (Proceedings of the Twelfth European Conference on the Synthesis and Simulation of Living Systems): pp. 1075-1082, 2013 (Taormina, Italy, 2013年9月2日) (Oral presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2013-eikomatsuda-multiple-time-scales-observed--155"
+    },
+    {
+      "type": "conference",
+      "title": "Functional Connectivity Estimate from Spontaneous and Stimulus Evoked Activities in Dissociated Cultured Neurons on a High-Density CMOS Microelectrode Array",
+      "authors": [
+        "Takeshi Mita",
+        "Douglas J. Bakkum",
+        "Urs Frey",
+        "Andreas Hierlemann",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2014,
+      "conference": "Proceedings of the 9th International Meeting on Substrate-Integrated Microelectrode Arrays (MEA meeting 2014)",
+      "pages": "147-148",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(27) Takeshi Mita, Douglas J. Bakkum, Urs Frey, Andreas Hierlemann, Ryohei Kanzaki, Hirokazu Takahashi: “Functional Connectivity Estimate from Spontaneous and Stimulus Evoked Activities in Dissociated Cultured Neurons on a High-Density CMOS Microelectrode Array.” Proceedings of the 9th International Meeting on Substrate-Integrated Microelectrode Arrays (MEA meeting 2014): pp. 147-148, 2014 (Reutlingen, Germany, 2014年7月1日) (Oral presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2014-takeshimita-functional-connectivity-estima-156"
+    },
+    {
+      "type": "conference",
+      "title": "3D Finite Element Modeling of Single Neurons and the Microelectrode Array Microenvironment",
+      "authors": [
+        "Douglas J. Bakkum",
+        "Milos Radivojevic",
+        "David Jäckel",
+        "Felix Franke",
+        "Thomas L. Russell",
+        "Urs Frey",
+        "Hirokazu Takahashi",
+        "Andreas Hierlemann"
+      ],
+      "year": 2014,
+      "conference": "Proceedings of the 9th International Meeting on Substrate-Integrated Microelectrode Arrays (MEA meeting 2014)",
+      "pages": "160-161",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(28) Douglas J. Bakkum, Milos Radivojevic, David Jäckel, Felix Franke, Thomas L. Russell, Urs Frey, Hirokazu Takahashi, Andreas Hierlemann: “3D Finite Element Modeling of Single Neurons and the Microelectrode Array Microenvironment.” Proceedings of the 9th International Meeting on Substrate-Integrated Microelectrode Arrays (MEA meeting 2014): pp. 160-161, 2014 (Reutlingen, Germany, 2014年7月1日) (Poster presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2014-douglasjbakkum-3d-finite-element-modeling-of--157"
+    },
+    {
+      "type": "conference",
+      "title": "Neuronal Migration and Activity in Mature Primary Cultures on a High-Density CMOS Array",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Takeshi Mita",
+        "Satoru Okawa",
+        "Ryohei Kanzaki",
+        "Urs Frey",
+        "Andreas Hierlemann",
+        "Douglas Bakkum"
+      ],
+      "year": 2014,
+      "conference": "Proceedings of the 9th International Meeting on Substrate-Integrated Microelectrode Arrays (MEA meeting 2014)",
+      "pages": "166-167",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(29) Hirokazu Takahashi, Takeshi Mita, Satoru Okawa, Ryohei Kanzaki, Urs Frey, Andreas Hierlemann, Douglas Bakkum: “Neuronal Migration and Activity in Mature Primary Cultures on a High-Density CMOS Array.” Proceedings of the 9th International Meeting on Substrate-Integrated Microelectrode Arrays (MEA meeting 2014): pp. 166-167, 2014 (Reutlingen, Germany, 2014年7月1日) (Poster presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2014-hirokazutakahas-neuronal-migration-and-activit-158"
+    },
+    {
+      "type": "conference",
+      "title": "Designing a Robotic Platform Controlled by Cultured Neural Cells",
+      "authors": [
+        "Norihiro Maruyama",
+        "Atsushi Masumori",
+        "Julien Hubert",
+        "Takeshi Mita",
+        "Douglas Bakkum",
+        "Hirokazu Takahashi and Takashi Ikegami"
+      ],
+      "year": 2014,
+      "conference": "Proceedings of Artificial Life 14",
+      "pages": "769-770",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(30) Norihiro Maruyama, Atsushi Masumori, Julien Hubert, Takeshi Mita, Douglas Bakkum, Hirokazu Takahashi and Takashi Ikegami: “Designing a Robotic Platform Controlled by Cultured Neural Cells.” Proceedings of Artificial Life 14: pp. 769-770, 2014 (New York, U.S.A, 2014年7月30日) (Poster Presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2014-norihiromaruyam-designing-a-robotic-platform-c-159"
+    },
+    {
+      "type": "conference",
+      "title": "Simultaneous microelectrode recording of layered structure of cortex and tonotopic structure of thalamus in the auditory pathway",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Tomoyo Shiramatsu",
+        "Kazusa Takahashi",
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Haruka Nakahra"
+      ],
+      "year": 2015,
+      "conference": "Proceedings of the 7th International IEEE EMBS Neural Engineering Conference (NER'15)",
+      "pages": "434-437",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(31) Hirokazu Takahashi, Tomoyo Shiramatsu, Kazusa Takahashi, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahra: “Simultaneous microelectrode recording of layered structure of cortex and tonotopic structure of thalamus in the auditory pathway.” Proceedings of the 7th International IEEE EMBS Neural Engineering Conference (NER'15): pp. 434-437, 2015 (Montpellier, France, 2015年4月22日) (Poster Presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2015-hirokazutakahas-simultaneous-microelectrode-re-160"
+    },
+    {
+      "type": "conference",
+      "title": "Combined neural measurement with surface and depth microelectrode array for topographic and layer-specific characterization in the auditory cortex and thalamus",
+      "authors": [
+        "Tomoyo Shiramatsu",
+        "Kazusa Takahashi",
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Haruka Nakahra",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2015,
+      "conference": "Proceedings of the 7th International IEEE EMBS Neural Engineering Conference (NER'15)",
+      "pages": "446-449",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(32) Tomoyo Shiramatsu, Kazusa Takahashi, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahra, Hirokazu Takahashi: “Combined neural measurement with surface and depth microelectrode array for topographic and layer-specific characterization in the auditory cortex and thalamus.” Proceedings of the 7th International IEEE EMBS Neural Engineering Conference (NER'15): pp. 446-449, 2015 (Montpellier, France, 2015年4月22日) (Poster Presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2015-tomoyoshiramats-combined-neural-measurement-wi-161"
+    },
+    {
+      "type": "conference",
+      "title": "Identification of diverse synchrony pattern in dissociated cortical culture using Bayesian non-negative matrix factorization",
+      "authors": [
+        "Yuichro Yada",
+        "Takeshi Mita",
+        "Ryohei Kanzaki",
+        "Douglas Bakkum",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2015,
+      "conference": "Proceedings of the 7th International IEEE EMBS Neural Engineering Conference (NER'15)",
+      "pages": "344-347",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(33) Yuichro Yada, Takeshi Mita, Ryohei Kanzaki, Douglas Bakkum, Hirokazu Takahashi: “Identification of diverse synchrony pattern in dissociated cortical culture using Bayesian non-negative matrix factorization.” Proceedings of the 7th International IEEE EMBS Neural Engineering Conference (NER'15): pp. 344-347, 2015 (Montpellier, France, 2015年4月22日) (Poster Presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2015-yuichroyada-identification-of-diverse-sync-162"
+    },
+    {
+      "type": "conference",
+      "title": "Emergence of Sense-Making Behavior by the Stimulus Avoidance Principle: Experiments on a Robot Behavior Controlled by Cultured Neuronal Cells.",
+      "authors": [
+        "Atsushi Masumori",
+        "Norihiro Maruyama",
+        "Julien Hubert",
+        "Takeshi Mita",
+        "Douglas Bakkum",
+        "Hirokazu Takahashi and Takashi Ikegami"
+      ],
+      "year": 2015,
+      "conference": "Proceedings of the European Conference on Artificial Life 2015",
+      "pages": "373-380",
+      "doi": "10.7551/978-0-262-33027-5-ch067",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(34) Atsushi Masumori, Norihiro Maruyama, Julien Hubert, Takeshi Mita, Douglas Bakkum, Hirokazu Takahashi and Takashi Ikegami: “Emergence of Sense-Making Behavior by the Stimulus Avoidance Principle: Experiments on a Robot Behavior Controlled by Cultured Neuronal Cells..” Proceedings of the European Conference on Artificial Life 2015: pp. 373-380, 2013 (York, United Kingdom, 2015年7月20日) (Oral presentation) (DOI: 10.7551/978-0-262-33027-5-ch067)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2015-atsushimasumori-emergence-of-sense-making-beha-163"
+    },
+    {
+      "type": "conference",
+      "title": "Dimensionality reduction of massively recorded activity reveals sequential structure and state-dependency in dissociated neurons",
+      "authors": [
+        "Y. Yada",
+        "R. Kanzaki and H. Takahashi"
+      ],
+      "year": null,
+      "doi": "10.3389/conf.fnins.2016.93.00042",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(35) Y. Yada, R. Kanzaki and H. Takahashi: “Dimensionality reduction of massively recorded activity reveals sequential structure and state-dependency in dissociated neurons.” Front. Neurosci. Conference Abstract: MEA Meeting 2016 | 10th International Meeting on Substrate-Integrated Electrode Arrays: 2016 (doi: 10.3389/conf.fnins.2016.93.00042)",
+      "language": "en",
+      "category": "conference",
+      "_valid": true,
+      "id": "unknown-yyada-dimensionality-reduction-of-ma-164"
+    },
+    {
+      "type": "conference",
+      "title": "Reservoir computing with dissociated neuronal culture",
+      "authors": [
+        "H. Takahashi",
+        "S. Yasuda",
+        "Y. Yada and R. Kanzaki"
+      ],
+      "year": null,
+      "doi": "10.3389/conf.fnins.2016.93.00027",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(36) H. Takahashi, S. Yasuda, Y. Yada and R. Kanzaki: “Reservoir computing with dissociated neuronal culture.” Front. Neurosci. Conference Abstract: MEA Meeting 2016 | 10th International Meeting on Substrate-Integrated Electrode Arrays: 2016 (doi: 10.3389/conf.fnins.2016.93.00027)",
+      "language": "en",
+      "category": "conference",
+      "_valid": true,
+      "id": "unknown-htakahashi-reservoir-computing-with-disso-165"
+    },
+    {
+      "type": "conference",
+      "title": "Sound Preference Test in Animal Models of Addicts and Phobias",
+      "authors": [
+        "Ryo Soga",
+        "Tomoyo I. Shiramatsu",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": null,
+      "conference": "Proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "2925-2928",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(37) Ryo Soga, Tomoyo I. Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi: “Sound Preference Test in Animal Models of Addicts and Phobias.” Proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 2925-2928, 2016",
+      "language": "en",
+      "category": "conference",
+      "_valid": true,
+      "id": "unknown-ryosoga-sound-preference-test-in-anima-166"
+    },
+    {
+      "type": "conference",
+      "title": "Effect of Vagus Nerve Stimulation on Neural Adaptation in Thalamo-Cortical System in Rats",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Rie Hitsuyu",
+        "Kenji Ibayashi",
+        "Ryohei Kanzaki",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": null,
+      "conference": "Proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "pages": "1834-1837",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(38) Tomoyo I. Shiramatsu, Rie Hitsuyu, Kenji Ibayashi, Ryohei Kanzaki, Kensuke Kawai, Hirokazu Takahashi: “Effect of Vagus Nerve Stimulation on Neural Adaptation in Thalamo-Cortical System in Rats.” Proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 1834-1837, 2016",
+      "language": "en",
+      "category": "conference",
+      "_valid": true,
+      "id": "unknown-tomoyoishiramat-effect-of-vagus-nerve-stimulat-167"
+    },
+    {
+      "type": "conference",
+      "title": "Learning by Stimulation Avoidance in Cultured Neuronal Cells",
+      "authors": [
+        "Atsushi Masumori",
+        "Norihiro Maruyama",
+        "Takeshi Mita",
+        "Douglas Bakkum",
+        "Hirokazu Takahashi and Takashi Ikegami"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(39) Atsushi Masumori, Norihiro Maruyama, Takeshi Mita, Douglas Bakkum, Hirokazu Takahashi and Takashi Ikegami: “Learning by Stimulation Avoidance in Cultured Neuronal Cells.” SWARM 2017: The 2nd International Symposium on Swarm Behavior and Bio-Inspired Robotics: TuP2b-3 (8 pp.), 2017 (2017年10月30日，京都)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "unknown-atsushimasumori-learning-by-stimulation-avoida-168"
+    },
+    {
+      "type": "conference",
+      "title": "Information processing using a single Izhikevich neuron",
+      "authors": [
+        "Tomoyuki Kubota",
+        "Kohei Nakajima and Hirokazu Takahashi"
+      ],
+      "year": null,
+      "conference": "Proceedings of the 2018 Conference on Artificial Life",
+      "pages": "550-557",
+      "doi": "10.1162/isal_a_00103",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(40) Tomoyuki Kubota, Kohei Nakajima and Hirokazu Takahashi: “Information processing using a single Izhikevich neuron.” Proceedings of the 2018 Conference on Artificial Life: A Hybrid of the European Conference on Artificial Life (ECAL) and the International Conference on the Synthesis and Simulation of Living Systems (ALIFE): pp. 550-557, 2018 (2018年7月23日, 東京) (doi: 10.1162/isal_a_00103)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "unknown-tomoyukikubota-information-processing-using-a-169"
+    },
+    {
+      "type": "conference",
+      "title": "Autonomous Regulation of Self and Non-Self in Embodied Neural Networks by Stimulation Avoidance Principle",
+      "authors": [
+        "Atsushi Masumori",
+        "Lana Sinapayen",
+        "Norihiro Maruyama",
+        "Takeshi Mita",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Hirokazu Takahashi and Takashi Ikegami"
+      ],
+      "year": null,
+      "conference": "Proceedings of the 2018 Conference on Artificial Life",
+      "pages": "163-170",
+      "doi": "10.1162/isal_a_00037",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(41) Atsushi Masumori, Lana Sinapayen, Norihiro Maruyama, Takeshi Mita, Douglas Bakkum, Urs Frey, Hirokazu Takahashi and Takashi Ikegami: “Autonomous Regulation of Self and Non-Self in Embodied Neural Networks by Stimulation Avoidance Principle.” Proceedings of the 2018 Conference on Artificial Life: A Hybrid of the European Conference on Artificial Life (ECAL) and the International Conference on the Synthesis and Simulation of Living Systems (ALIFE): pp. 163-170, 2018 (2018年7月23日, 東京) (doi: 10.1162/isal_a_00037)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "unknown-atsushimasumori-autonomous-regulation-of-self--170"
+    },
+    {
+      "type": "conference",
+      "title": "Short utterance speaker recognition by reservoir with self-organized mapping",
+      "authors": [
+        "Narumitsu Ikeda",
+        "Yoshinao Sato",
+        "Hirokazu Takahashi"
+      ],
+      "year": null,
+      "conference": "Proceedings of IEEE SLT 2018 Workshop on Spoken Language Technology",
+      "pages": "1073-1077",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(42) Narumitsu Ikeda, Yoshinao Sato, and Hirokazu Takahashi: “Short utterance speaker recognition by reservoir with self-organized mapping” Proceedings of IEEE SLT 2018 Workshop on Spoken Language Technology: pp. 1073-1077, 2018 (2018年12月18日, Athens, Greece)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "unknown-narumitsuikeda-short-utterance-speaker-recogn-171"
+    },
+    {
+      "type": "conference",
+      "title": "Integrated information in neural network",
+      "authors": [
+        "T. Kimura",
+        "M. Oizumi",
+        "J. Kitazono",
+        "Y. Yada",
+        "H. Takahashi"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(43) T. Kimura, M. Oizumi, J. Kitazono, Y. Yada, H. Takahashi: “Integrated information in neural network.” SICE Life Engineering Symposium 2019 and ECTI Biomedical Engineering: 2A2-5 (6 pp.), 2019 (2019年8月23日, Bangkok, Thailand)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "unknown-tkimura-integrated-information-in-neur-172"
+    },
+    {
+      "type": "conference",
+      "title": "Echo State Property of Neuronal Cell Culture",
+      "authors": [
+        "Tomoyuki Kubota",
+        "Kohei Nakajima",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2019,
+      "pages": "137-148",
+      "doi": "10.1007/978-3-030-30493-5_13",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(44) Tomoyuki Kubota, Kohei Nakajima, Hirokazu Takahashi: “Echo State Property of Neuronal Cell Culture.” Lecture Notes in Computer Science 11731 (Artificial Neural Networks and Machine Learning – ICANN 2019: Workshop and Special Sessions. ICANN 2019): pp. 137-148, 2019 (2019年9月17日, Munich, Germany) (https://doi.org/10.1007/978-3-030-30493-5_13)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2019-tomoyukikubota-echo-state-property-of-neurona-173"
+    },
+    {
+      "type": "conference",
+      "title": "Shuffle augment: A data augmentation method using time shuffling",
+      "authors": [
+        "Yoshinao Sato",
+        "Narumitsu Ikeda",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2023,
+      "doi": "10.1109/ICASSP49357.2023.10096927",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(45) Yoshinao Sato, Narumitsu Ikeda, and Hirokazu Takahashi: “Shuffle augment: A data augmentation method using time shuffling.” 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (IEEE ICASP 2023): 5pp., 2023 (2023年6月4日, Rhodes Island, Greece) (Poster presentation) (DOI: 10.1109/ICASSP49357.2023.10096927)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2023-yoshinaosato-shuffle-augment-a-data-augment-174"
+    },
+    {
+      "type": "conference",
+      "title": "Neural Activity and Information Processing Capacity in Neural Culture",
+      "authors": [
+        "Dai Akita",
+        "Eisuke Suwa",
+        "Narumitsu Ikeda",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2023,
+      "conference": "Proceedings of 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(46) Dai Akita, Eisuke Suwa, Narumitsu Ikeda, and Hirokazu Takahashi: “Neural Activity and Information Processing Capacity in Neural Culture.” Proceedings of 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: #T6-O1.Th_1330 654，2023 (Sydney, Australia, 2023年7月27日) (Oral presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2023-daiakita-neural-activity-and-informatio-175"
+    },
+    {
+      "type": "conference",
+      "title": "The effect of 4-weeks exposure to music on social bonding between rats",
+      "authors": [
+        "Karin Oshima",
+        "Tomoyo Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2023,
+      "conference": "Proceedings of 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society：#T6-PH.Th_1100 444，2023 (Sydney, Australia, 2023年7月27日) (Poster presentation)",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(47) Karin Oshima, Tomoyo Shiramatsu, Hirokazu Takahashi: “The effect of 4-weeks exposure to music on social bonding between rats.” Proceedings of 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society：#T6-PH.Th_1100 444，2023 (Sydney, Australia, 2023年7月27日) (Poster presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2023-karinoshima-the-effect-of-4-weeks-exposure-176"
+    },
+    {
+      "type": "conference",
+      "title": "Common Mechanism Underlying Multimodal Integration",
+      "authors": [
+        "Hexin Xu",
+        "Amit Yaron",
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(48) Hexin Xu, Amit Yaron, Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Common Mechanism Underlying Multimodal Integration.” The 2023 Biomedical Engineering International Conference (BMEiCON-2023): 1570940400 (5 pp.), 2023",
+      "language": "en",
+      "category": "conference",
+      "_valid": true,
+      "id": "unknown-hexinxu-common-mechanism-underlying-mu-177"
+    },
+    {
+      "type": "conference",
+      "title": "Putative heartbeat-evoked potentials in rats and its spatial distribution in the temporal cortex",
+      "authors": [
+        "Tomoyo I.Shiramatsu",
+        "Shinichi Kumagai",
+        "Karin Oshima",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "Proceedings of 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society：#B5P-24-144, 2024（Orland, USA, 2024年7月15日) (Poster presentation)",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(49) Tomoyo I.Shiramatsu, Shinichi Kumagai, Karin Oshima, Hirokazu Takahashi: “Putative heartbeat-evoked potentials in rats and its spatial distribution in the temporal cortex.” Proceedings of 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society：#B5P-24-144, 2024（Orland, USA, 2024年7月15日) (Poster presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2024-tomoyoishiramat-putative-heartbeat-evoked-pote-178"
+    },
+    {
+      "type": "conference",
+      "title": "Latent inhibition improves discriminative fear conditioning in rat model for schizophrenia",
+      "authors": [
+        "Karin Oshima",
+        "Shinichi Kumagai",
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "Proceedings of 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society：#A4P-25-168, 2024（Orland, USA, 2024年7月15日) (Poster presentation)",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(50) Karin Oshima, Shinichi Kumagai, Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Latent inhibition improves discriminative fear conditioning in rat model for schizophrenia.” Proceedings of 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society：#A4P-25-168, 2024（Orland, USA, 2024年7月15日) (Poster presentation)",
+      "language": "ja",
+      "category": "conference",
+      "_valid": true,
+      "id": "2024-karinoshima-latent-inhibition-improves-dis-179"
+    }
+  ]
+}

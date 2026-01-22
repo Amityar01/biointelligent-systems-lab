@@ -1,0 +1,882 @@
+{
+  "category": "media",
+  "parsedAt": "2026-01-21T14:33:59.243Z",
+  "items": [
+    {
+      "id": "media-1",
+      "title": "声帯失っても声が戻る",
+      "source": "",
+      "year": 2001,
+      "month": 3,
+      "day": 4,
+      "type": "newspaper",
+      "_raw": "(1) 「声帯失っても声が戻る」, 日本経済新聞 (朝刊，科学面), 2001年3月4日掲載",
+      "_valid": true
+    },
+    {
+      "id": "media-2",
+      "title": "声に現れる病気",
+      "source": "BS-i 健康DNA (制作：D組-Project)",
+      "year": 2003,
+      "month": 12,
+      "day": 7,
+      "type": "tv",
+      "_raw": "(2) 「声に現れる病気」, BS-i 健康DNA (制作：D組-Project), 2003年12月7日放送",
+      "_valid": true
+    },
+    {
+      "id": "media-3",
+      "title": "脳に迫る　米国の人工器官研究　②聴覚",
+      "source": "",
+      "year": 2004,
+      "month": 8,
+      "day": 25,
+      "type": "newspaper",
+      "_raw": "(3) 「脳に迫る　米国の人工器官研究　②聴覚」, 朝日新聞 (朝刊，科学面), 2004年8月25日掲載",
+      "_valid": true
+    },
+    {
+      "id": "media-4",
+      "title": "脳に迫る　米国の人工器官研究　④神経回路",
+      "source": "",
+      "year": 2004,
+      "month": 9,
+      "day": 14,
+      "type": "newspaper",
+      "_raw": "(4) 「脳に迫る　米国の人工器官研究　④神経回路」, 朝日新聞 (朝刊，科学面), 2004年9月14日掲載",
+      "_valid": true
+    },
+    {
+      "id": "media-5",
+      "title": "Focus 知能機械情報学専攻　高橋宏知　講師に聞く 『障害のある人の治療に役立つものを作りたい』",
+      "source": "東大情報理工ARAプログラム メールマガジン 第45号",
+      "year": 2005,
+      "month": 2,
+      "day": 23,
+      "type": "web",
+      "_raw": "(5) 「Focus 知能機械情報学専攻　高橋宏知　講師に聞く 『障害のある人の治療に役立つものを作りたい』」, 東大情報理工ARAプログラム メールマガジン 第45号, 2005年2月23日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-6",
+      "title": "News02 音に対する聴覚神経の応答特性を別の刺激で書き換える，高橋講師ら",
+      "source": "東大情報理工ARAプログラム メールマガジン 第50号",
+      "year": 2005,
+      "month": 5,
+      "day": 11,
+      "type": "web",
+      "_raw": "(6) 「News02 音に対する聴覚神経の応答特性を別の刺激で書き換える，高橋講師ら」, 東大情報理工ARAプログラム メールマガジン 第50号, 2005年5月11日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-7",
+      "title": "News03 脳幹の電気刺激で聴覚を補助するABI研究に新しい知見，高橋講師ら",
+      "source": "東大情報理工ARAプログラム メールマガジン 第50号",
+      "year": 2005,
+      "month": 5,
+      "day": 11,
+      "type": "web",
+      "_raw": "(7) 「News03 脳幹の電気刺激で聴覚を補助するABI研究に新しい知見，高橋講師ら」, 東大情報理工ARAプログラム メールマガジン 第50号, 2005年5月11日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-8",
+      "title": "超微細電極による脳機能の多点実時間計測",
+      "source": "",
+      "year": 2004,
+      "month": 11,
+      "day": 1,
+      "type": "other",
+      "_raw": "(8) 「超微細電極による脳機能の多点実時間計測」，東京大学21世紀COEプログラム機械システムイノベーションNewsletter，No. 3，2004年11月1日発行",
+      "_valid": true
+    },
+    {
+      "id": "media-9",
+      "title": "NHKスペシャル　立花隆　最前線報告　サイボーグ技術が人類を変える",
+      "source": "NHKスペシャル",
+      "year": 2005,
+      "month": 11,
+      "day": 5,
+      "type": "tv",
+      "_raw": "(9) 「NHKスペシャル　立花隆　最前線報告　サイボーグ技術が人類を変える」，NHKスペシャル，2005年11月5日放送",
+      "_valid": true
+    },
+    {
+      "id": "media-10",
+      "title": "BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第1回体と機械が融合する",
+      "source": "衛星第一BSドキュメンタリー",
+      "year": 2005,
+      "month": 12,
+      "day": 3,
+      "type": "tv",
+      "_raw": "(10) 「BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第1回体と機械が融合する」，衛星第一BSドキュメンタリー，2005年12月3日放送",
+      "_valid": true
+    },
+    {
+      "id": "media-11",
+      "title": "BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第2回脳をどこまで変えるのか",
+      "source": "衛星第一BSドキュメンタリー",
+      "year": 2005,
+      "month": 12,
+      "day": 10,
+      "type": "tv",
+      "_raw": "(11) 「BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第2回脳をどこまで変えるのか」，衛星第一BSドキュメンタリー，2005年12月10日放送",
+      "_valid": true
+    },
+    {
+      "id": "media-12",
+      "title": "ハイビジョン特集　サイボーグ革命ロボットと人間の融合",
+      "source": "衛星ハイビジョン",
+      "year": 2006,
+      "month": 1,
+      "day": 19,
+      "type": "tv",
+      "_raw": "(12) 「ハイビジョン特集　サイボーグ革命ロボットと人間の融合」，衛星ハイビジョン，2006年1月19日放送",
+      "_valid": true
+    },
+    {
+      "id": "media-13",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(13) 「若手研究者から　高橋宏知　『光アドレス電極を応用した細胞-環境系のマルチスケール計測・制御』，Newletter 東京大学ナノバイオ・インテグレーション研究拠点 NANOBIO 10: p. 12, 2009",
+      "_valid": false
+    },
+    {
+      "id": "media-14",
+      "title": "東大　神経細胞１つずつ制御",
+      "source": "日経産業新聞 (11面)",
+      "year": 2009,
+      "month": 6,
+      "day": 17,
+      "type": "newspaper",
+      "_raw": "(14) 「東大　神経細胞１つずつ制御」，日経産業新聞 (11面)，2009年6月17日掲載",
+      "_valid": true
+    },
+    {
+      "id": "media-15",
+      "title": "学習開始時の脳　神経細胞活発に",
+      "source": "日本経済新聞 (朝刊11面)",
+      "year": 2013,
+      "month": 7,
+      "day": 16,
+      "type": "newspaper",
+      "_raw": "(15) 「学習開始時の脳　神経細胞活発に」，日本経済新聞 (朝刊11面)，2013年7月16日",
+      "_valid": true
+    },
+    {
+      "id": "media-16",
+      "title": "効果的な学習方法解明に一歩前進、学習能力の源泉は『ダーウィニズム』",
+      "source": "Yahoo Japan ニュース（ライフ）",
+      "type": "web",
+      "_raw": "(16) 「効果的な学習方法解明に一歩前進、学習能力の源泉は『ダーウィニズム』」，Yahoo Japan ニュース（ライフ），2013年7月12日(金)14時10分配信 (リセマム)",
+      "_valid": true
+    },
+    {
+      "id": "media-17",
+      "title": "東大、大脳皮質の『神経ダーウィニズム仮説』を後押しする証拠を発見",
+      "source": "Yahoo Japanニュース（IT・科学）",
+      "type": "web",
+      "_raw": "(17) 「東大、大脳皮質の『神経ダーウィニズム仮説』を後押しする証拠を発見」，Yahoo Japanニュース（IT・科学），2013年7月18日(木)10時12分配信 (マイナビニュース)",
+      "_valid": true
+    },
+    {
+      "id": "media-18",
+      "title": "試行錯誤段階，脳が活発　学習時の活動　東大，ラット実験",
+      "source": "日経産業新聞 (朝刊9面)",
+      "year": 2013,
+      "month": 7,
+      "day": 16,
+      "type": "newspaper",
+      "_raw": "(18) 「試行錯誤段階，脳が活発　学習時の活動　東大，ラット実験」，日経産業新聞 (朝刊9面)，2013年7月16日",
+      "_valid": true
+    },
+    {
+      "id": "media-19",
+      "title": "脳神経信号の伝わり方　日や部位で速度変化　東大が解明",
+      "source": "日経産業新聞 (朝刊8面)",
+      "year": 2013,
+      "month": 7,
+      "day": 23,
+      "type": "newspaper",
+      "_raw": "(19) 「脳神経信号の伝わり方　日や部位で速度変化　東大が解明」，日経産業新聞 (朝刊8面)，2013年7月23日",
+      "_valid": true
+    },
+    {
+      "id": "media-20",
+      "title": "東大など、神経回路内の複雑な活動電位の伝播の様子を可視化することに成功",
+      "source": "Yahoo Japanニュース（IT・科学）",
+      "type": "web",
+      "_raw": "(20) 「東大など、神経回路内の複雑な活動電位の伝播の様子を可視化することに成功」，Yahoo Japanニュース（IT・科学），2013年7月22日(月)17時9分配信 (マイナビニュース)",
+      "_valid": true
+    },
+    {
+      "id": "media-21",
+      "title": "東大他、脳内の神経信号の伝播速度を可視化",
+      "source": "WEBジャーナル OPTRONICS",
+      "year": 2013,
+      "month": 7,
+      "day": 22,
+      "type": "web",
+      "_raw": "(21) 「東大他、脳内の神経信号の伝播速度を可視化」，WEBジャーナル OPTRONICS，2013年7月22日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-22",
+      "title": "東大最前線，神経ダーウィニズム，広い観察で従来説覆す",
+      "source": "東京大学新聞 (3面)",
+      "year": 2013,
+      "month": 8,
+      "day": 6,
+      "type": "newspaper",
+      "_raw": "(22) 「東大最前線，神経ダーウィニズム，広い観察で従来説覆す」，東京大学新聞 (3面)，2013年8月6日",
+      "_valid": true
+    },
+    {
+      "id": "media-23",
+      "title": "高感度嗅覚センサー，東大イヌ並み性能めざす，医療用想定",
+      "source": "日本経済新聞 (夕刊3面)",
+      "year": 2013,
+      "month": 8,
+      "day": 21,
+      "type": "newspaper",
+      "_raw": "(23) 「高感度嗅覚センサー，東大イヌ並み性能めざす，医療用想定」，日本経済新聞 (夕刊3面)，2013年8月21日",
+      "_valid": true
+    },
+    {
+      "id": "media-24",
+      "title": "2013年8月22日 神経信号の速度は変化する",
+      "source": "サイエンスポータル編集ニュース",
+      "year": 2013,
+      "month": 8,
+      "day": 22,
+      "type": "other",
+      "_raw": "(24) 「2013年8月22日 神経信号の速度は変化する」，サイエンスポータル編集ニュース，2013年8月22日",
+      "_valid": true
+    },
+    {
+      "id": "media-25",
+      "title": "脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』",
+      "source": "HONZ – 読みたい本が、きっと見つかる！",
+      "year": 2016,
+      "month": 4,
+      "day": 5,
+      "type": "web",
+      "_raw": "(25) 「脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』」，HONZ – 読みたい本が、きっと見つかる！，2016年4月5日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-26",
+      "title": "脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』",
+      "source": "Yahoo Japan ニュース（ライフ）",
+      "year": 2016,
+      "month": 4,
+      "day": 5,
+      "type": "web",
+      "_raw": "(26) 「脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』」，Yahoo Japan ニュース（ライフ），2016年4月5日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-27",
+      "title": "物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』",
+      "source": "JB Press (Japan Buisiness Press)",
+      "year": 2016,
+      "month": 4,
+      "day": 12,
+      "type": "web",
+      "_raw": "(27) 「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」，JB Press (Japan Buisiness Press)，2016年4月12日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-28",
+      "title": "物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』",
+      "source": "@nifty ニュース",
+      "year": 2016,
+      "month": 4,
+      "day": 12,
+      "type": "web",
+      "_raw": "(28) 「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」，@nifty ニュース，2016年4月12日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-29",
+      "title": "物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』",
+      "source": "goo ニュース",
+      "year": 2016,
+      "month": 4,
+      "day": 12,
+      "type": "web",
+      "_raw": "(29) 「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」，goo ニュース，2016年4月12日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-30",
+      "title": "物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』",
+      "source": "Yahoo ニュース（ビジネス）",
+      "year": 2016,
+      "month": 4,
+      "day": 12,
+      "type": "web",
+      "_raw": "(30) 「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」，Yahoo ニュース（ビジネス），2016年4月12日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-31",
+      "title": "森山和道の読書日記",
+      "source": "",
+      "type": "other",
+      "_raw": "(31) 日経サイエンス2016年7月号「森山和道の読書日記」(pp. 126-127) で「メカ屋のための脳科学入門-脳をリバースエンジニアリングする」の紹介記事",
+      "_valid": true
+    },
+    {
+      "id": "media-32",
+      "title": "神は雲の中にあらわれる第188回　人間機械論2016　人も，ロボットも，コンピューターも，工場や，社会も，みんなひとつになぁれ（遠藤諭）",
+      "source": "",
+      "type": "other",
+      "_raw": "(32) 週刊アスキー2016年12月号「神は雲の中にあらわれる第188回　人間機械論2016　人も，ロボットも，コンピューターも，工場や，社会も，みんなひとつになぁれ（遠藤諭）」(pp. 13-15) で「メカ屋のための脳科学入門-脳をリバースエンジニアリングする」の紹介記事",
+      "_valid": true
+    },
+    {
+      "id": "media-33",
+      "title": "てんかん発作の予測に期待-理研と東大、神経の自発同期バーストの予兆検出",
+      "source": "",
+      "type": "web",
+      "_raw": "(33) 「てんかん発作の予測に期待-理研と東大、神経の自発同期バーストの予兆検出」，マイナビニュース (2017年8月23日（水）9時55分配信)",
+      "_valid": true
+    },
+    {
+      "id": "media-34",
+      "title": "理研と東大，神経ネットワークの大規模な「バースト",
+      "source": "日本経済新聞電子版",
+      "year": 2017,
+      "month": 8,
+      "day": 22,
+      "type": "newspaper",
+      "_raw": "(34) 「理研と東大，神経ネットワークの大規模な「バースト」発生を予測する技術を開発」，日本経済新聞電子版，2017年8月22日",
+      "_valid": true
+    },
+    {
+      "id": "media-35",
+      "title": "産官学諤　機械工学的なアプローチが脳研究を進める",
+      "source": "",
+      "type": "other",
+      "_raw": "(35) 「産官学諤　機械工学的なアプローチが脳研究を進める」，研究応援 7 (2017.09): pp. 12-13, 2017",
+      "_valid": true
+    },
+    {
+      "id": "media-36",
+      "title": "AIよりももっとスゴい脳を意識してみる－続 メカ屋のための脳科学入門-記憶・学習/意識 編（推薦：鈴木健一）",
+      "source": "ビジネスを面白くするナレッジライブラリGLOBIS 知見禄（冬休みに読んでおきたいビジネス書5選－グロービス経営大学院教員が選ぶ）",
+      "type": "web",
+      "_raw": "(36) 「AIよりももっとスゴい脳を意識してみる－続 メカ屋のための脳科学入門-記憶・学習/意識 編（推薦：鈴木健一）」，ビジネスを面白くするナレッジライブラリGLOBIS 知見禄（冬休みに読んでおきたいビジネス書5選－グロービス経営大学院教員が選ぶ），2017年12月29日配信(https://globis.jp/article/6085)",
+      "_valid": true
+    },
+    {
+      "id": "media-37",
+      "title": "脳科学を，もっと深く（松村正人）",
+      "source": "",
+      "type": "other",
+      "_raw": "(37) 「脳科学を，もっと深く（松村正人）」，花椿 No. 818 SPRING ISSUE 2018, pp. 26-27, 2018 (2018年1月15日発行，資生堂)",
+      "_valid": true
+    },
+    {
+      "id": "media-38",
+      "title": "N高等学校、社会で必要とされるAI人材の育成を目指して ドワンゴ人工知能研究所提供の動画教材『脳神経科学と汎用人工知能』 を10月15日にN予備校にて公開",
+      "source": "",
+      "type": "other",
+      "_raw": "(38) 「N高等学校、社会で必要とされるAI人材の育成を目指して ドワンゴ人工知能研究所提供の動画教材『脳神経科学と汎用人工知能』 を10月15日にN予備校にて公開」，学校法人角川ドワンゴ学園N高等学校(2018年10月15日) (https://nnn.ed.jp/news/blog/archives/5872.html)",
+      "_valid": true
+    },
+    {
+      "id": "media-39",
+      "title": "東大・自治医科大・NICT、人工知能で脳波からてんかん発作を自動検出",
+      "source": "",
+      "type": "newspaper",
+      "_raw": "(39) 「東大・自治医科大・NICT、人工知能で脳波からてんかん発作を自動検出」，日本経済新聞電子版（2019年1月31日配信）",
+      "_valid": true
+    },
+    {
+      "id": "media-40",
+      "title": "てんかん発作、脳波から自動検出できるAI開発 - 東大などの研究班、専門医不足地域でも診断可能に",
+      "source": "",
+      "type": "web",
+      "_raw": "(40) 「てんかん発作、脳波から自動検出できるAI開発 - 東大などの研究班、専門医不足地域でも診断可能に」，医療・介護CBニュース（2019年2月4日(月) 16:10配信）",
+      "_valid": true
+    },
+    {
+      "id": "media-41",
+      "title": "脳波からてんかん発作を自動検出する人工知能を開発－東大ら",
+      "source": "",
+      "type": "web",
+      "_raw": "(41) 「脳波からてんかん発作を自動検出する人工知能を開発－東大ら」，QLifePro医療ニュース（2019年2月3日配信）",
+      "_valid": true
+    },
+    {
+      "id": "media-42",
+      "title": "てんかん発作を自動検出するAIの開発に成功、検出精度は最大100%",
+      "source": "",
+      "type": "web",
+      "_raw": "(42) 「てんかん発作を自動検出するAIの開発に成功、検出精度は最大100%」，医療ITをドライブするメディア Med IT Tech（2019年1月31日配信）",
+      "_valid": true
+    },
+    {
+      "id": "media-43",
+      "title": "東京大学医学部附属病院、てんかん発作を自動検出できる人工知能の開発に成功",
+      "source": "",
+      "type": "web",
+      "_raw": "(43) 「東京大学医学部附属病院、てんかん発作を自動検出できる人工知能の開発に成功」，ナスコミニュース（2019年2月2日配信）",
+      "_valid": true
+    },
+    {
+      "id": "media-44",
+      "title": "機械学習で脳波の状態からてんかん発作を検出",
+      "source": "",
+      "type": "web",
+      "_raw": "(44) 「機械学習で脳波の状態からてんかん発作を検出」，AI-Scholar.Tech (2019年2月15日配信)",
+      "_valid": true
+    },
+    {
+      "id": "media-45",
+      "title": "NICTと東京大学　てんかん発作を脳波から自動検出するAI開発に成功",
+      "source": "",
+      "type": "newspaper",
+      "_raw": "(45) 「NICTと東京大学　てんかん発作を脳波から自動検出するAI開発に成功」，電波新聞 (2019年2月6日)",
+      "_valid": true
+    },
+    {
+      "id": "media-46",
+      "title": "てんかん専門医にも勝るとも劣らない人工知能",
+      "source": "",
+      "type": "other",
+      "_raw": "(46) 「てんかん専門医にも勝るとも劣らない人工知能」，365カレッジ",
+      "_valid": true
+    },
+    {
+      "id": "media-47",
+      "title": "AI，脳により近く",
+      "source": "日本経済新聞 (朝刊9面)",
+      "year": 2019,
+      "month": 6,
+      "day": 17,
+      "type": "newspaper",
+      "_raw": "(47) 「AI，脳により近く」，日本経済新聞 (朝刊9面)，2019年6月17日",
+      "_valid": true
+    },
+    {
+      "id": "media-48",
+      "title": "青春の一冊：畑村洋太郎編著『実際の設計　機械設計の考え方と方法』　高橋宏知准教授（情報理工学系研究科）",
+      "source": "",
+      "type": "newspaper",
+      "_raw": "(48) 「青春の一冊：畑村洋太郎編著『実際の設計　機械設計の考え方と方法』　高橋宏知准教授（情報理工学系研究科）」，東京大学新聞2020年1月14日号",
+      "_valid": true
+    },
+    {
+      "id": "media-49",
+      "title": "計算機に意識は宿るか",
+      "source": "日本経済新聞 (朝刊26面 (サイエンス))",
+      "year": 2021,
+      "month": 6,
+      "day": 7,
+      "type": "newspaper",
+      "_raw": "(49) 「計算機に意識は宿るか」，日本経済新聞 (朝刊26面 (サイエンス))，2021年6月7日",
+      "_valid": true
+    },
+    {
+      "id": "media-50",
+      "title": "【受験生応援】高橋宏知准教授に聞く、受験勉強と音楽の関係",
+      "source": "東京大学新聞",
+      "year": 2021,
+      "month": 12,
+      "day": 21,
+      "type": "newspaper",
+      "_raw": "(50) 「【受験生応援】高橋宏知准教授に聞く、受験勉強と音楽の関係」，東京大学新聞，2021年12月21日",
+      "_valid": true
+    },
+    {
+      "id": "media-51",
+      "title": "生命知能と人工知能 (1)　人工知能と苦手分野が一致!?　“人工知能化”する若者たち",
+      "source": "",
+      "type": "web",
+      "_raw": "(51) 「生命知能と人工知能 (1)　人工知能と苦手分野が一致!?　“人工知能化”する若者たち」，現代ビジネス　社会　2022年1月12日配信 (https://gendai.ismedia.jp/articles/-/91200)",
+      "_valid": true
+    },
+    {
+      "id": "media-52",
+      "title": "生命知能と人工知能 (2)　人工知能が人間をダメにする?　人間と人工知能の”脳”を分析",
+      "source": "",
+      "type": "web",
+      "_raw": "(52) 「生命知能と人工知能 (2)　人工知能が人間をダメにする?　人間と人工知能の”脳”を分析」，現代ビジネス　社会　2022年1月13日配信 (https://gendai.ismedia.jp/articles/-/91201)",
+      "_valid": true
+    },
+    {
+      "id": "media-53",
+      "title": "生命知能と人工知能 (3)　米国に倣ってきた日本が，決められない社会になったワケ",
+      "source": "",
+      "type": "web",
+      "_raw": "(53) 「生命知能と人工知能 (3)　米国に倣ってきた日本が，決められない社会になったワケ」，現代ビジネス　社会　2022年1月14日配信 (https://gendai.ismedia.jp/articles/-/91405)",
+      "_valid": true
+    },
+    {
+      "id": "media-54",
+      "title": "『生命知能と人工知能　AI時代の脳の使い方・育て方』高橋宏知著（講談社）　自律化と自動化を対比 (評・西成活裕)",
+      "source": "読売新聞 (朝刊13面)",
+      "year": 2022,
+      "month": 2,
+      "day": 20,
+      "type": "newspaper",
+      "_raw": "(54) 本よみうり堂「『生命知能と人工知能　AI時代の脳の使い方・育て方』高橋宏知著（講談社）　自律化と自動化を対比 (評・西成活裕)」，読売新聞 (朝刊13面)，2022年2月20日",
+      "_valid": true
+    },
+    {
+      "id": "media-55",
+      "title": "人工知能と生命知能　高橋宏知著　共存の鍵は人間の意識に（サイエンス作家　竹内薫）",
+      "source": "日本経済新聞（夕刊12面）",
+      "year": 2022,
+      "month": 3,
+      "day": 3,
+      "type": "newspaper",
+      "_raw": "(55) 目利きが選ぶ３冊「人工知能と生命知能　高橋宏知著　共存の鍵は人間の意識に（サイエンス作家　竹内薫）」，日本経済新聞（夕刊12面），2022年3月3日",
+      "_valid": true
+    },
+    {
+      "id": "media-56",
+      "title": "",
+      "source": "",
+      "year": 2022,
+      "month": 5,
+      "day": 5,
+      "type": "other",
+      "_raw": "(56) 「高橋宏知著『生命知能と人工知能―AI時代の脳の使い方・育て方』(泊次郎)，東京大学出版会，2022年5月5日",
+      "_valid": false
+    },
+    {
+      "id": "media-57",
+      "title": "生命知能と人工知能",
+      "source": "",
+      "type": "other",
+      "_raw": "(57) ブックガイド「生命知能と人工知能」 (成相裕幸 評)，Newsがわかるオンライン，2022年7月20日 (https://www.newsgawakaru.com/books-selection/19619/)",
+      "_valid": true
+    },
+    {
+      "id": "media-58",
+      "title": "プレスリリース　ネズミも音楽に合わせて身体を動かすことを発見―音楽やダンスの起源は，動物種共通の脳のダイナミクスか？",
+      "source": "",
+      "type": "other",
+      "_raw": "(58) 「プレスリリース　ネズミも音楽に合わせて身体を動かすことを発見―音楽やダンスの起源は，動物種共通の脳のダイナミクスか？」，2022年11月12日，東京大学大学院情報理工学系研究科(https://www.i.u-tokyo.ac.jp/news/press/2022/202211122136.shtml)",
+      "_valid": true
+    },
+    {
+      "id": "media-59",
+      "title": "ラットもビートに合わせて体を動かす現象を確認…東京大の研究チーム",
+      "source": "読売新聞 (オンライン)",
+      "type": "newspaper",
+      "_raw": "(59) 「ラットもビートに合わせて体を動かす現象を確認…東京大の研究チーム」，読売新聞 (オンライン)，2022年11月12日 (https://www.yomiuri.co.jp/science/20221111-OYT1T50213/)",
+      "_valid": true
+    },
+    {
+      "id": "media-60",
+      "title": "東大、ラットも音楽のビートに合わせて身体を動かすことを発見",
+      "source": "日本経済新聞 (オンライン)",
+      "type": "newspaper",
+      "_raw": "(60) 「東大、ラットも音楽のビートに合わせて身体を動かすことを発見」，日本経済新聞 (オンライン)，2022年11月12日 (https://www.nikkei.com/article/DGXZRSP643561_X01C22A1000000/)",
+      "_valid": true
+    },
+    {
+      "id": "media-61",
+      "title": "ラットも音楽を聞いて体を動かす。モーツァルトに反応することが東大研究で明らかに",
+      "source": "ハフポスト",
+      "type": "other",
+      "_raw": "(61) 「ラットも音楽を聞いて体を動かす。モーツァルトに反応することが東大研究で明らかに」，ハフポスト，2022年11月16日 (https://www.huffingtonpost.jp/entry/rats-bop-to-the-beat_jp_63748194e4b0184e84dc6ff2)",
+      "_valid": true
+    },
+    {
+      "id": "media-62",
+      "title": "＜フロンティア発＞音楽で、ラットもノリノリ　東大チームが反応確認",
+      "source": "東京新聞",
+      "type": "newspaper",
+      "_raw": "(62) 「＜フロンティア発＞音楽で、ラットもノリノリ　東大チームが反応確認」，東京新聞，2022年11月27日 (https://www.tokyo-np.co.jp/article/216395)",
+      "_valid": true
+    },
+    {
+      "id": "media-63",
+      "title": "",
+      "source": "",
+      "type": "newspaper",
+      "_raw": "(63) 日経バイオテク，News Picks，財形新聞，Business Insider, News Collect，Exciteニュース，とれまがニュース，msn，gooニュース，Yahoo! ニュースなど，“Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment”に関する国内メディア掲載多数",
+      "_valid": false
+    },
+    {
+      "id": "media-64",
+      "title": "最新脳科学と応用(4)～人間の認知機能～(pp.42-46)で「5.2.　国立大学法人　東京大学",
+      "source": "",
+      "type": "other",
+      "_raw": "(64) Yano E plus 2023年3月号＜＜注目市場フォーカス＞＞「最新脳科学と応用(4)～人間の認知機能～(pp.42-46)で「5.2.　国立大学法人　東京大学」（生命知能システム研究室）の紹介記事",
+      "_valid": true
+    },
+    {
+      "id": "media-65",
+      "title": "最新科学でみえてきた『かしこさの招待』知能とは何か",
+      "source": "Newton2024年8月号",
+      "type": "other",
+      "_raw": "(65) 「最新科学でみえてきた『かしこさの招待』知能とは何か」，Newton2024年8月号，2024年6月26日 英文",
+      "_valid": true
+    },
+    {
+      "id": "media-66",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(1) “Hirokazu Takahashi. The winner of the best oral presentation at EMBEC’02 (YIC). Topic: Functional Electrostimulation.” IFMBE News Number 59, March 2003, p. 15 (International Federation for Medical & Biological Engineering)",
+      "_valid": false
+    },
+    {
+      "id": "media-67",
+      "title": "",
+      "source": "",
+      "year": 2004,
+      "month": 11,
+      "day": 1,
+      "type": "other",
+      "_raw": "(2) “Real-time multipoint measurement of brain functions using ultra-precise electrodes: Development of auditory function recovering technology.” The 21st century COE program mechanical system innovation, Newsletter No. 3E, 2004年11月1日発行",
+      "_valid": false
+    },
+    {
+      "id": "media-68",
+      "title": "Neuroscience Research Collaboration between ETHZ, University of Tokyo and RIKEN",
+      "source": "",
+      "year": 2013,
+      "month": 7,
+      "day": 18,
+      "type": "web",
+      "_raw": "(3) 「Neuroscience Research Collaboration between ETHZ, University of Tokyo and RIKEN」，スイス大使館，科学技術部，2013年7月18日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-69",
+      "title": "Haste and waste on neuronal pathways",
+      "source": "ETH Life (Science)",
+      "year": 2013,
+      "month": 7,
+      "day": 19,
+      "type": "web",
+      "_raw": "(4) 「Haste and waste on neuronal pathways」，ETH Life (Science)，2013年7月19日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-70",
+      "title": "Haste and waste on neuronal pathways",
+      "source": "MedicalXpress",
+      "year": 2013,
+      "month": 7,
+      "day": 19,
+      "type": "web",
+      "_raw": "(5) 「Haste and waste on neuronal pathways」，MedicalXpress，2013年7月19日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-71",
+      "title": "Haste and waste on neuronal pathways",
+      "source": "Science Daily",
+      "year": 2013,
+      "month": 7,
+      "day": 19,
+      "type": "web",
+      "_raw": "(6) 「Haste and waste on neuronal pathways」，Science Daily，2013年7月19日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-72",
+      "title": "11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level (By John Hewitt)",
+      "source": "Extreme Tech",
+      "type": "web",
+      "_raw": "(7) 「11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level (By John Hewitt)」, Extreme Tech，2013年7月22日配信 (http://www.extremetech.com/extreme/161902-11000-electrode-reprogrammable-chip-takes-brain-computer-interfaces-to-a-new-level#disqus_thread)",
+      "_valid": true
+    },
+    {
+      "id": "media-73",
+      "title": "Reizweiterleitung, Kein Tempolimit im Kopf, Neurone leiten Signale mit unterschiedlicher Geschwindigkeit",
+      "source": "GGeshwindikeit",
+      "year": 2013,
+      "month": 7,
+      "day": 23,
+      "type": "web",
+      "_raw": "(8) 「Reizweiterleitung, Kein Tempolimit im Kopf, Neurone leiten Signale mit unterschiedlicher Geschwindigkeit」，GGeshwindikeit，2013年7月23日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-74",
+      "title": "Measuring neuronal signal conduction reveals haste and waste",
+      "source": "Medical News Today",
+      "year": 2013,
+      "month": 7,
+      "day": 23,
+      "type": "web",
+      "_raw": "(9) 「Measuring neuronal signal conduction reveals haste and waste」，Medical News Today，2013年7月23日配信",
+      "_valid": true
+    },
+    {
+      "id": "media-75",
+      "title": "11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level",
+      "source": "2045 Strategitic Social Initiative",
+      "type": "web",
+      "_raw": "(10) 「11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level」, 2045 Strategitic Social Initiative, 2013年7月23日配信 (http://2045.com/news/31776.html)",
+      "_valid": true
+    },
+    {
+      "id": "media-76",
+      "title": "Teaching Robots to Think Like Us",
+      "source": "AIP publishing",
+      "type": "other",
+      "_raw": "(11) 「Teaching Robots to Think Like Us」，AIP publishing, 2021年10月26日 (https://publishing.aip.org/publications/latest-content/teaching-robots-to-think-like-us/ )",
+      "_valid": true
+    },
+    {
+      "id": "media-77",
+      "title": "'Thinking' robot with neurons grown in a lab from living brain cells is taught to steer its way around walls and obstacles (By JONATHAN CHADWICK FOR MAILONLINE)",
+      "source": "Mail Online Science ＆Tech",
+      "type": "web",
+      "_raw": "(12) 「'Thinking' robot with neurons grown in a lab from living brain cells is taught to steer its way around walls and obstacles (By JONATHAN CHADWICK FOR MAILONLINE)」，Mail Online Science ＆Tech, 2021年10月27日配信 (https://www.dailymail.co.uk/sciencetech/article-10132249/Japanese-robot-uses-neurons-grown-lab-avoid-obstacles.html)",
+      "_valid": true
+    },
+    {
+      "id": "media-78",
+      "title": "Scientists raise alarm as world’s first ‘thinking’ robot with BRAIN created (By SEBASTIAN KETTLEY)",
+      "source": "Express",
+      "type": "web",
+      "_raw": "(13) 「Scientists raise alarm as world’s first ‘thinking’ robot with BRAIN created (By SEBASTIAN KETTLEY)」, Express, 2021年10月27日配信(https://www.express.co.uk/news/science/1513193/science-news-world-first-thinking-robot-brain-neurons-japan-artificial-intelligence-ai)",
+      "_valid": true
+    },
+    {
+      "id": "media-79",
+      "title": "Teaching robots to think like us (by Staff Writers)",
+      "source": "Space Daily",
+      "type": "web",
+      "_raw": "(14) 「Teaching robots to think like us (by Staff Writers)」, Space Daily, 2021年10月27日配信 (https://www.spacedaily.com/reports/Teaching_robots_to_think_like_us_999.html)",
+      "_valid": true
+    },
+    {
+      "id": "media-80",
+      "title": "Japan Develops 'Thinking Robot' Through Physical Reservoir Computing; Learns and Moves by Artifical Neurons (Ron Jefferson)",
+      "source": "The Science Times",
+      "type": "web",
+      "_raw": "(15) 「Japan Develops 'Thinking Robot' Through Physical Reservoir Computing; Learns and Moves by Artifical Neurons (Ron Jefferson)」，The Science Times, 2021年10月27日配信 (https://www.sciencetimes.com/articles/34184/20211027/japan-develops-thinking-robot-through-physical-reservoir-computing-learns-moves.htm)",
+      "_valid": true
+    },
+    {
+      "id": "media-81",
+      "title": "FORCE Physical Reservoir Computing Uses Living Neurons to Teach Robots to \"Think\" Like Humans Do (Gareth Halfacree)",
+      "source": "Hackster.io",
+      "type": "web",
+      "_raw": "(16) 「FORCE Physical Reservoir Computing Uses Living Neurons to Teach Robots to \"Think\" Like Humans Do (Gareth Halfacree)」, Hackster.io, 2021年10月27日配信 (https://www.hackster.io/news/force-physical-reservoir-computing-uses-living-neurons-to-teach-robots-to-think-like-humans-do-bff76497c01b)",
+      "_valid": true
+    },
+    {
+      "id": "media-82",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(17) “Rats bop to the beat” EurekAlert (AAAS) , 2022年11月11日 (https://www.eurekalert.org/news-releases/970876)",
+      "_valid": false
+    },
+    {
+      "id": "media-83",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(18) “Rats bop to the beat of music including Lady Gaga and Queen like humans, study says” ABC NEWS, 2022年11月14日 (https://www.abc.net.au/news/2022-11-14/rats-bop-to-the-beat-like-humans-study-says/101649744)，",
+      "_valid": false
+    },
+    {
+      "id": "media-84",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(19) “Rats bop to the beat of Lady Gaga, Queeen and Mozart, just like humans” New Scientist, 2022年11月14日 (https://www.youtube.com/watch?v=sUjzbwv1FW0)",
+      "_valid": false
+    },
+    {
+      "id": "media-85",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(20) “Slaves to the rhythm: rats can’t resist a good beat, researchers say” The Guardian, 2022年11月14日(https://www.theguardian.com/science/2022/nov/11/rat-instictively-move-time-music-ability-previously-thought-uniquely-human-study)",
+      "_valid": false
+    },
+    {
+      "id": "media-86",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(21) “Rats have rhythm like humans and like music like Lady Gaga, Queen: Study” New York Post, 2022年11月14日 (https://nypost.com/2022/11/13/rats-have-rhythm-like-humans-and-like-music-like-lady-gaga-queen-study/)",
+      "_valid": false
+    },
+    {
+      "id": "media-87",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(22) “Rats 'have rhythm and can dance to Lady Gaga' The rodent has innate tempo in the brain, scientists discover” The Telegraph, 2022年11月14日 (https://www.telegraph.co.uk/news/2022/11/11/rats-have-rhythm-can-dance-lady-gaga/)",
+      "_valid": false
+    },
+    {
+      "id": "media-88",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(23) “Rats also ‘bop their heads’ when they listen to Queen” El Pais, 2022年11月16日 (https://english.elpais.com/science-tech/2022-11-16/rats-also-bop-their-heads-when-they-listen-to-queen.html)",
+      "_valid": false
+    },
+    {
+      "id": "media-89",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(24) “Rats Move to Musical Beat as Humans Do, New Study Suggests” The Wall Street Journal, 2022年11月11日 (https://www.wsj.com/articles/rats-move-music-beat-11668186204)",
+      "_valid": false
+    },
+    {
+      "id": "media-90",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(25) “Researchers played Lady Gaga for rats. They bopped their heads like humans.” USA Today, 2022年11月14日 (https://www.usatoday.com/story/news/nation/2022/11/14/rats-music-study-lady-gaga-michael-jackson/10692876002/)",
+      "_valid": false
+    },
+    {
+      "id": "media-91",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(26) “Born this way: rats move to beat of Lady Gaga, study says” AFP, 2022年11月15日 (https://www.france24.com/en/live-news/20221115-born-this-way-rats-move-to-beat-of-lady-gaga-study-says)",
+      "_valid": false
+    },
+    {
+      "id": "media-92",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(27) “Rats get a bad rep - but it turns out they appreciate Mozart!” BBC World News, 2022年11月25日, (https://twitter.com/TomBrada1991/status/1591636063176589313?cxt=HHwWgoC81aGk0JYsAAA)",
+      "_valid": false
+    },
+    {
+      "id": "media-93",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(28) Altmetricによる“Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment”に関する海外メディア掲載一覧：https://scienceadvances.altmetric.com/details/138298082/news",
+      "_valid": false
+    },
+    {
+      "id": "media-94",
+      "title": "",
+      "source": "",
+      "type": "other",
+      "_raw": "(29) “12 weird and fascinating things scientists caught animals doing in 2022, in pictures and videos” Business Insider, 2022年12月26日 (https://www.businessinsider.com/weird-things-animals-seen-doing-according-to-science-2022-12),",
+      "_valid": false
+    }
+  ],
+  "stats": {
+    "total": 94,
+    "valid": 76
+  }
+}

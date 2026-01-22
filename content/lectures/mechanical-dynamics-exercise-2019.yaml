@@ -1,0 +1,31 @@
+id: mechanical-dynamics-exercise-2019
+slug: mechanical-dynamics-exercise-2019
+title:
+  en: Mechanical Dynamics Exercises
+  ja: 機械力学演習
+instructor:
+  en: Hirokazu Takahashi (shared)
+  ja: 高橋宏知（分担）
+department:
+  en: College of Arts and Sciences
+  ja: 教養学部
+level:
+  en: Undergraduate (2nd year)
+  ja: 学部2年生
+year: 2019
+semester:
+  en: Winter
+  ja: 冬学期
+description:
+  en: Exercise sessions for mechanical dynamics course for second-year undergraduate students.
+  ja: 学部2年生を対象とした機械力学の演習。
+schedule:
+  instructor_dates:
+    - "2019-10-15 (Tue)"
+    - "2019-10-29 (Tue)"
+    - "2019-11-12 (Tue)"
+  midterm_exam: "2019-11-19 (Tue)"
+notes:
+  en: Course materials and announcements via ITC-LMS
+  ja: 講義資料や連絡事項はITC-LMS
+active: false

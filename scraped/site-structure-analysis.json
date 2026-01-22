@@ -1,0 +1,1777 @@
+{
+  "analyzedAt": "2026-01-20T15:55:22.547Z",
+  "baseUrl": "https://www.ne.t.u-tokyo.ac.jp",
+  "pages": {
+    "index": {
+      "url": "/",
+      "tagCounts": {
+        "DIV": 20,
+        "A": 456,
+        "P": 11,
+        "BR": 1188,
+        "H2": 1,
+        "SPAN": 20,
+        "FONT": 7,
+        "H4": 3,
+        "IMG": 14,
+        "HR": 3,
+        "H3": 4,
+        "DL": 1,
+        "DT": 427,
+        "DD": 427,
+        "B": 9,
+        "UL": 2,
+        "LI": 13
+      },
+      "headers": [
+        {
+          "tag": "H2",
+          "text": "メカ屋の脳科学@東大工学部/情報理工工学的な視点で脳を科学しよう",
+          "position": 14
+        },
+        {
+          "tag": "H4",
+          "text": "2022/1/14 一般書に初挑戦",
+          "position": 19
+        },
+        {
+          "tag": "H4",
+          "text": "2017/7/19 続編登場！",
+          "position": 28
+        },
+        {
+          "tag": "H4",
+          "text": "2016/3/25 待望の書籍化！",
+          "position": 32
+        },
+        {
+          "tag": "H3",
+          "text": "NEWS",
+          "position": 66
+        },
+        {
+          "tag": "H3",
+          "text": "ナビゲーション",
+          "position": 2525
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学　\n        大学院情報理工学系研究科\n        知能機械情報学専攻\n        生命知能システム研究室\n        (高橋・白松研究室)",
+          "position": 2565
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学",
+          "position": 2584
+        }
+      ],
+      "tables": [],
+      "lists": [
+        {
+          "type": "UL",
+          "itemCount": 4,
+          "sampleItems": [
+            "窪田智之，櫻山和浩，白松（磯口）知世，高橋宏知：「神経細胞の分散培養系の逸脱検出特性」，電気学会論文誌C電子情報システム部門誌 141 (5):\n              pp. 661-667, ",
+            "池田成満，高橋宏知：「低頻度刺激による神経細胞の分散培養系の学習」，電気学会論文誌C電子情報システム部門誌 141 (5): pp. 654-660,\n              2021 (DOI:",
+            "白松（磯口）知世，阿部泰己，石津光太郎，高橋宏知：「視床刺激が聴知覚に及ぼす影響を評価する実験系の構築」，電気学会論文誌C電子情報システム部門誌\n              141 (5): pp. "
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 9,
+          "sampleItems": [
+            "トップページTOP PAGE",
+            "メンバーMEMBERS",
+            "研究業績PUBLICATION"
+          ]
+        }
+      ],
+      "linksCount": 456,
+      "images": [
+        {
+          "src": "image3.jpg",
+          "alt": ""
+        },
+        {
+          "src": "61Ghjgu90YL._SX352_BO1,204,203,200_[1].jpg",
+          "alt": ""
+        },
+        {
+          "src": "51prEWgW7AL1._SX353_BO1,204,203,200_[1].jpg",
+          "alt": ""
+        },
+        {
+          "src": "2025-04-11 0838351.png",
+          "alt": ""
+        },
+        {
+          "src": "20240807144858.png",
+          "alt": ""
+        },
+        {
+          "src": "202408cover[1]1.jpg",
+          "alt": ""
+        },
+        {
+          "src": "Newton202408_068-069[2].jpg",
+          "alt": ""
+        },
+        {
+          "src": "image8.jpg",
+          "alt": ""
+        },
+        {
+          "src": "image3.jpg",
+          "alt": ""
+        },
+        {
+          "src": "image2.jpg",
+          "alt": ""
+        },
+        {
+          "src": "image11.jpg",
+          "alt": ""
+        },
+        {
+          "src": "image41.jpg",
+          "alt": ""
+        },
+        {
+          "src": "image41.jpg",
+          "alt": ""
+        },
+        {
+          "src": "button111.gif",
+          "alt": "takahashi@i.u-tokyo.ac.jp"
+        }
+      ],
+      "textLength": 68518,
+      "textPreview": "本文へスキップ\n生命知能システム研究室@東大工学部/情報理工\n\n東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科\n\n生命知能システム研究室 (高橋・白松研究室)\n\nメカ屋の脳科学@東大工学部/情報理工工学的な視点で脳を科学しよう\n2022/1/14 一般書に初挑戦\nYouTube解説動画 (link)，読売新聞の書評 (link)，日経新聞の書評 (link)，Honzの書評 (link)\n\n\n2017/7/19 続編登場！\n\n\n2016/3/25 待望の書籍化！\nHonzの書評 (link)\n\n東京大学　大学院情報理工学系研究科\n知能機械情報学専攻\n生命知能システム研究室\n教授　高橋　宏知\n\n動画で研究紹介 (link) / 機械情報工学科ホームページでの研究室紹介 (link)\n主要な発表論文 (link)，研究紹介 (link)，卒論・修論テーマ (link)\n\n\n研究キーワード：神経工学，神経科学，脳科学，電気生理学，大脳皮質，聴覚皮質，聴覚野，神経回路，神経活動パターン，知覚，聴覚，音脈分凝，錯聴，知能，情動，感情，記憶，学習，てんかん，微小電極ア",
+      "sectionMarkers": [
+        {
+          "marker": "研究",
+          "position": 16
+        },
+        {
+          "marker": "Lecture",
+          "position": 2739
+        },
+        {
+          "marker": "Research",
+          "position": 3846
+        },
+        {
+          "marker": "講義",
+          "position": 20070
+        },
+        {
+          "marker": "Review",
+          "position": 23185
+        },
+        {
+          "marker": "総説",
+          "position": 27970
+        },
+        {
+          "marker": "Proceedings",
+          "position": 37897
+        },
+        {
+          "marker": "メンバー",
+          "position": 68124
+        },
+        {
+          "marker": "その他",
+          "position": 68157
+        }
+      ]
+    },
+    "index-en": {
+      "url": "/index-e.html",
+      "tagCounts": {
+        "DIV": 19,
+        "A": 55,
+        "P": 27,
+        "BR": 35,
+        "H2": 4,
+        "SPAN": 23,
+        "FONT": 33,
+        "B": 1,
+        "HR": 5,
+        "TABLE": 4,
+        "TBODY": 4,
+        "TR": 4,
+        "TD": 8,
+        "IMG": 7,
+        "H3": 5,
+        "SUP": 1,
+        "H4": 3,
+        "H5": 15,
+        "DL": 1,
+        "DT": 4,
+        "DD": 4,
+        "UL": 5,
+        "LI": 23
+      },
+      "headers": [
+        {
+          "tag": "H2",
+          "text": "Neuroscience by Mechanical Engineers",
+          "position": 14
+        },
+        {
+          "tag": "H2",
+          "text": "Profile",
+          "position": 36
+        },
+        {
+          "tag": "H2",
+          "text": "Current Research Interests",
+          "position": 50
+        },
+        {
+          "tag": "H3",
+          "text": "Emergent computing (Dissociate neuronal culture)",
+          "position": 56
+        },
+        {
+          "tag": "H4",
+          "text": "Collaborators",
+          "position": 71
+        },
+        {
+          "tag": "H3",
+          "text": "Auditory system (Cortex & thalamus in rodents)",
+          "position": 78
+        },
+        {
+          "tag": "H4",
+          "text": "Collaborators",
+          "position": 89
+        },
+        {
+          "tag": "H3",
+          "text": "Epilepsy（Cerebral cortex in rats and humans）",
+          "position": 96
+        },
+        {
+          "tag": "H4",
+          "text": "Collaborators",
+          "position": 107
+        },
+        {
+          "tag": "H2",
+          "text": "Selected publication",
+          "position": 115
+        },
+        {
+          "tag": "H5",
+          "text": "Full publication list sorted by category (link) or by year (link)",
+          "position": 118
+        },
+        {
+          "tag": "H5",
+          "text": "Alaryngeal speech",
+          "position": 128
+        },
+        {
+          "tag": "H5",
+          "text": "Auditory prosthesis (brainstem implant)",
+          "position": 134
+        },
+        {
+          "tag": "H5",
+          "text": "Microelectrode array",
+          "position": 144
+        },
+        {
+          "tag": "H5",
+          "text": "Light-addressable electrode",
+          "position": 156
+        },
+        {
+          "tag": "H5",
+          "text": "Biosensor: functionalization of neuronal cultrue",
+          "position": 162
+        },
+        {
+          "tag": "H5",
+          "text": "High-density CMOS array",
+          "position": 168
+        },
+        {
+          "tag": "H5",
+          "text": "Physical reservoir computing with dissociate culture",
+          "position": 174
+        },
+        {
+          "tag": "H5",
+          "text": "Neural representation with functional map",
+          "position": 183
+        },
+        {
+          "tag": "H5",
+          "text": "Learning-induced plasticity",
+          "position": 192
+        },
+        {
+          "tag": "H5",
+          "text": "Auditory streaming",
+          "position": 201
+        },
+        {
+          "tag": "H5",
+          "text": "Mismatch negativity (MMN)",
+          "position": 207
+        },
+        {
+          "tag": "H5",
+          "text": "Music and the brain",
+          "position": 215
+        },
+        {
+          "tag": "H5",
+          "text": "Seizure detection",
+          "position": 224
+        },
+        {
+          "tag": "H5",
+          "text": "Vagus Nerve Stimulation",
+          "position": 230
+        },
+        {
+          "tag": "H3",
+          "text": "ナビゲーション",
+          "position": 238
+        },
+        {
+          "tag": "H3",
+          "text": "The University of Tokyo\n        Graduate School of Information Science and Technology\n        Depart",
+          "position": 279
+        }
+      ],
+      "tables": [
+        {
+          "rows": 1,
+          "cols": 2,
+          "headerText": []
+        },
+        {
+          "rows": 1,
+          "cols": 2,
+          "headerText": []
+        },
+        {
+          "rows": 1,
+          "cols": 2,
+          "headerText": []
+        },
+        {
+          "rows": 1,
+          "cols": 2,
+          "headerText": []
+        }
+      ],
+      "lists": [
+        {
+          "type": "UL",
+          "itemCount": 2,
+          "sampleItems": [
+            "Alaryngeal speech\n              Hirokazu Takahashi, Masayuki Nakao, Yataro Kikuchi, and Kimitaka Kag",
+            "Auditory prosthesis (brainstem implant)\n              Hirokazu Takahashi, Masayuki Nakao, and Kimita"
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 5,
+          "sampleItems": [
+            "Microelectrode array\n              Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamur",
+            "Light-addressable electrode\n              Jun Suzurikawa, Hirokazu Takahashi, Ryohei Kanzaki, Masayu",
+            "Biosensor: functionalization of neuronal cultrue\n              Norio Tanada, Takeshi Sakurai, Hidefu"
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 5,
+          "sampleItems": [
+            "Neural representation with functional map\n              Hirokazu Takahashi, Masayuki Nakao, and Kimi",
+            "Learning-induced plasticity\n              Hirokazu Takahashi, Ryo Yokota, Akihiro Funamizu, Hidekazu",
+            "Auditory streaming\n              Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Stimulus ph"
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 2,
+          "sampleItems": [
+            "Seizure detection\n              Ali Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke K",
+            "Vagus Nerve Stimulation\n              Hirokazu Takahashi, Tomoyo I. Shiramatsu, Rie Hitsuyu, Kenji I"
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 9,
+          "sampleItems": [
+            "トップページTOP PAGE",
+            "メンバーMEMBERS",
+            "研究業績PUBLICATION"
+          ]
+        }
+      ],
+      "linksCount": 49,
+      "images": [
+        {
+          "src": "myphoto2007.jpg",
+          "alt": ""
+        },
+        {
+          "src": "eng12.jpg",
+          "alt": ""
+        },
+        {
+          "src": "image1.jpg",
+          "alt": ""
+        },
+        {
+          "src": "image.jpg",
+          "alt": ""
+        },
+        {
+          "src": "image4.jpg",
+          "alt": ""
+        },
+        {
+          "src": "image31.jpg",
+          "alt": ""
+        },
+        {
+          "src": "button111.gif",
+          "alt": "takahashi@i.u-tokyo.ac.jp"
+        }
+      ],
+      "textLength": 12993,
+      "textPreview": "本文へスキップ\n神崎・高橋研究室　高次脳機能研究チーム\n\n東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科\n\n生命知能システム研究室 (高橋・白松研究室)\n\nNeuroscience by Mechanical Engineers\n\nHirokazu TAKHASHI, Ph. D.\nProfessor (PI)\nProfile, Research, Publication\n\nLet us \"reverse engineer\" the brain!\n\nOf our interest is the neural computation in the cerebral cortex. In particular, we measure neural activities with high-dense microelectrode arrays and analyze the spatio-temporal data. As we belong to the mechanical engineering department, we are enjoying n",
+      "sectionMarkers": [
+        {
+          "marker": "研究",
+          "position": 13
+        },
+        {
+          "marker": "Profile",
+          "position": 172
+        },
+        {
+          "marker": "Research",
+          "position": 181
+        },
+        {
+          "marker": "メンバー",
+          "position": 12673
+        },
+        {
+          "marker": "講義",
+          "position": 12703
+        },
+        {
+          "marker": "その他",
+          "position": 12706
+        }
+      ]
+    },
+    "publications": {
+      "url": "/pub.html",
+      "tagCounts": {
+        "DIV": 16,
+        "A": 29,
+        "P": 9,
+        "BR": 1433,
+        "H2": 1,
+        "SPAN": 20,
+        "H3": 15,
+        "FONT": 12,
+        "H4": 16,
+        "H5": 16,
+        "UL": 1,
+        "LI": 9,
+        "IMG": 1,
+        "HR": 2
+      },
+      "headers": [
+        {
+          "tag": "H2",
+          "text": "研究業績Publication",
+          "position": 14
+        },
+        {
+          "tag": "H3",
+          "text": "原著論文 (Original Article)",
+          "position": 25
+        },
+        {
+          "tag": "H4",
+          "text": "和文",
+          "position": 28
+        },
+        {
+          "tag": "H4",
+          "text": "英文",
+          "position": 70
+        },
+        {
+          "tag": "H3",
+          "text": "国際会議講演論文 (査読付) (Peer-reviewed Proceedings)",
+          "position": 164
+        },
+        {
+          "tag": "H3",
+          "text": "解説論文，総合報告等 (Review)",
+          "position": 218
+        },
+        {
+          "tag": "H4",
+          "text": "和文",
+          "position": 221
+        },
+        {
+          "tag": "H4",
+          "text": "英文",
+          "position": 281
+        },
+        {
+          "tag": "H3",
+          "text": "著書・編書 (Book Chaper)",
+          "position": 288
+        },
+        {
+          "tag": "H4",
+          "text": "和文",
+          "position": 291
+        },
+        {
+          "tag": "H5",
+          "text": "単行本",
+          "position": 292
+        },
+        {
+          "tag": "H5",
+          "text": "分担執筆",
+          "position": 296
+        },
+        {
+          "tag": "H4",
+          "text": "英文",
+          "position": 307
+        },
+        {
+          "tag": "H3",
+          "text": "口頭発表 (Oral Presentation)",
+          "position": 314
+        },
+        {
+          "tag": "H4",
+          "text": "招待講演",
+          "position": 317
+        },
+        {
+          "tag": "H5",
+          "text": "基調講演\n        国内会議",
+          "position": 318
+        },
+        {
+          "tag": "H5",
+          "text": "国際会議",
+          "position": 321
+        },
+        {
+          "tag": "H5",
+          "text": "シンポジウム講演・招待講演\n        国内会議",
+          "position": 325
+        },
+        {
+          "tag": "H5",
+          "text": "国際会議",
+          "position": 409
+        },
+        {
+          "tag": "H5",
+          "text": "国際学会講習会・セミナー等",
+          "position": 436
+        },
+        {
+          "tag": "H5",
+          "text": "和文",
+          "position": 438
+        },
+        {
+          "tag": "H5",
+          "text": "英文",
+          "position": 492
+        },
+        {
+          "tag": "H5",
+          "text": "その他",
+          "position": 505
+        },
+        {
+          "tag": "H4",
+          "text": "学会発表",
+          "position": 532
+        },
+        {
+          "tag": "H5",
+          "text": "和文",
+          "position": 534
+        },
+        {
+          "tag": "H5",
+          "text": "英文",
+          "position": 801
+        },
+        {
+          "tag": "H3",
+          "text": "ポスター発表 (Poster Presentation)",
+          "position": 828
+        },
+        {
+          "tag": "H5",
+          "text": "和文",
+          "position": 831
+        },
+        {
+          "tag": "H5",
+          "text": "英文",
+          "position": 954
+        },
+        {
+          "tag": "H3",
+          "text": "紀要，成果報告書等 (Report)",
+          "position": 1041
+        },
+        {
+          "tag": "H3",
+          "text": "創造的活動 (Creative Activity)",
+          "position": 1068
+        },
+        {
+          "tag": "H4",
+          "text": "特許",
+          "position": 1071
+        },
+        {
+          "tag": "H3",
+          "text": "受賞 (Award)",
+          "position": 1080
+        },
+        {
+          "tag": "H4",
+          "text": "論文・研究奨励賞",
+          "position": 1083
+        },
+        {
+          "tag": "H4",
+          "text": "研究助成",
+          "position": 1157
+        },
+        {
+          "tag": "H3",
+          "text": "競争的資金 (grants)",
+          "position": 1173
+        },
+        {
+          "tag": "H3",
+          "text": "メディア発表・取材協力等 (Media)",
+          "position": 1209
+        },
+        {
+          "tag": "H4",
+          "text": "和文",
+          "position": 1212
+        },
+        {
+          "tag": "H4",
+          "text": "英文",
+          "position": 1281
+        },
+        {
+          "tag": "H3",
+          "text": "研究・論文指導 (mentoring)",
+          "position": 1321
+        },
+        {
+          "tag": "H4",
+          "text": "卒業論文",
+          "position": 1323
+        },
+        {
+          "tag": "H4",
+          "text": "修士論文",
+          "position": 1388
+        },
+        {
+          "tag": "H4",
+          "text": "博士論文",
+          "position": 1443
+        },
+        {
+          "tag": "H5",
+          "text": "主査",
+          "position": 1444
+        },
+        {
+          "tag": "H5",
+          "text": "副査",
+          "position": 1458
+        },
+        {
+          "tag": "H3",
+          "text": "ナビゲーション",
+          "position": 1497
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学　\n        大学院情報理工学系研究科\n        知能機械情報学専攻\n        生命知能システム研究室",
+          "position": 1539
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学",
+          "position": 1558
+        }
+      ],
+      "tables": [],
+      "lists": [
+        {
+          "type": "UL",
+          "itemCount": 9,
+          "sampleItems": [
+            "トップページTOP PAGE",
+            "メンバーMEMBERS",
+            "研究業績PUBLICATION"
+          ]
+        }
+      ],
+      "linksCount": 29,
+      "images": [
+        {
+          "src": "button111.gif",
+          "alt": "takahashi@i.u-tokyo.ac.jp"
+        }
+      ],
+      "textLength": 197877,
+      "textPreview": "本文へスキップ\n神崎・高橋研究室　高次脳機能研究チーム\n\n東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科\n\n生命知能システム研究室 (高橋・白松研究室)\n\n研究業績Publication\n項目ごとの業績リスト (→ 年度ごとの業績リスト)\nList sorted by category(→ sorted by year)\n\nこれまでの主な研究テーマと論文はプロフィールのページ (link); Selected publication is here.\n\nLast update on March 23, 2025\n原著論文 (Original Article)\n\n\n和文\n\n(1) 高橋宏知, 中尾政之, 大草武徳, 畑村洋太郎, 菊池彌太郎, 加我君孝:「口腔内原音発生振動子を用いた無喉頭者の発声システムの開発とそれの代用原音を口腔内圧で制御する試み」, 音声言語医学41 (2): pp.130-138, 2000 (doi: 10.5112/jjlp.41.130)\n(2) 高橋宏知, 中尾政之, 大草武徳, 畑村洋太郎, 菊池彌太郎, 加我君孝:「電気式",
+      "sectionMarkers": [
+        {
+          "marker": "研究",
+          "position": 13
+        },
+        {
+          "marker": "プロフィール",
+          "position": 194
+        },
+        {
+          "marker": "原著論文",
+          "position": 274
+        },
+        {
+          "marker": "Original",
+          "position": 280
+        },
+        {
+          "marker": "和文",
+          "position": 300
+        },
+        {
+          "marker": "英文",
+          "position": 5982
+        },
+        {
+          "marker": "Research",
+          "position": 8125
+        },
+        {
+          "marker": "Proceedings",
+          "position": 20969
+        },
+        {
+          "marker": "Review",
+          "position": 26372
+        },
+        {
+          "marker": "国際会議",
+          "position": 30324
+        },
+        {
+          "marker": "Lecture",
+          "position": 46103
+        },
+        {
+          "marker": "著書",
+          "position": 54669
+        },
+        {
+          "marker": "Book",
+          "position": 54676
+        },
+        {
+          "marker": "口頭発表",
+          "position": 57381
+        },
+        {
+          "marker": "講義",
+          "position": 71957
+        },
+        {
+          "marker": "その他",
+          "position": 76978
+        },
+        {
+          "marker": "学会発表",
+          "position": 78901
+        },
+        {
+          "marker": "メンバー",
+          "position": 197494
+        }
+      ]
+    },
+    "research": {
+      "url": "/research.html",
+      "tagCounts": {
+        "DIV": 18,
+        "A": 154,
+        "P": 20,
+        "BR": 50,
+        "H2": 3,
+        "SPAN": 22,
+        "B": 15,
+        "IMG": 21,
+        "HR": 8,
+        "H3": 7,
+        "H4": 8,
+        "TABLE": 4,
+        "TBODY": 4,
+        "TR": 121,
+        "TH": 13,
+        "TD": 307,
+        "UL": 1,
+        "LI": 9
+      },
+      "headers": [
+        {
+          "tag": "H2",
+          "text": "研究内容Research",
+          "position": 14
+        },
+        {
+          "tag": "H3",
+          "text": "in vitroグループ",
+          "position": 68
+        },
+        {
+          "tag": "H4",
+          "text": "共同研究者",
+          "position": 78
+        },
+        {
+          "tag": "H3",
+          "text": "in vivoグループ",
+          "position": 89
+        },
+        {
+          "tag": "H4",
+          "text": "共同研究者",
+          "position": 95
+        },
+        {
+          "tag": "H3",
+          "text": "humanグループ",
+          "position": 105
+        },
+        {
+          "tag": "H4",
+          "text": "共同研究者",
+          "position": 111
+        },
+        {
+          "tag": "H3",
+          "text": "研究室行事",
+          "position": 117
+        },
+        {
+          "tag": "H4",
+          "text": "合宿",
+          "position": 118
+        },
+        {
+          "tag": "H4",
+          "text": "学会発表，オープンキャンパス，研究室の日常",
+          "position": 127
+        },
+        {
+          "tag": "H2",
+          "text": "卒業論文，修士論文，学位論文の題目Dissertation",
+          "position": 135
+        },
+        {
+          "tag": "H4",
+          "text": "卒業論文",
+          "position": 138
+        },
+        {
+          "tag": "H4",
+          "text": "修士論文",
+          "position": 357
+        },
+        {
+          "tag": "H4",
+          "text": "学位論文",
+          "position": 571
+        },
+        {
+          "tag": "H2",
+          "text": "日本学術振興会特別研究員の受入JSPS fellowships",
+          "position": 634
+        },
+        {
+          "tag": "H3",
+          "text": "ナビゲーション",
+          "position": 702
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学　\n        大学院情報理工学系研究科\n        知能機械情報学専攻\n        生命知能システム研究室",
+          "position": 744
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学",
+          "position": 763
+        }
+      ],
+      "tables": [
+        {
+          "rows": 49,
+          "cols": 3,
+          "headerText": [
+            "年度",
+            "学生氏名",
+            "論文題目"
+          ]
+        },
+        {
+          "rows": 47,
+          "cols": 3,
+          "headerText": [
+            "年度",
+            "学生氏名",
+            "論文題目"
+          ]
+        },
+        {
+          "rows": 13,
+          "cols": 3,
+          "headerText": [
+            "年度",
+            "学生氏名",
+            "論文題目"
+          ]
+        },
+        {
+          "rows": 12,
+          "cols": 4,
+          "headerText": [
+            "制度",
+            "期間",
+            "研究員氏名",
+            "研究課題"
+          ]
+        }
+      ],
+      "lists": [
+        {
+          "type": "UL",
+          "itemCount": 9,
+          "sampleItems": [
+            "トップページTOP PAGE",
+            "メンバーMEMBERS",
+            "研究業績PUBLICATION"
+          ]
+        }
+      ],
+      "linksCount": 153,
+      "images": [
+        {
+          "src": "research6.png",
+          "alt": ""
+        },
+        {
+          "src": "fig92.png",
+          "alt": ""
+        },
+        {
+          "src": "2024-07-09 131.39.36.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-07-09 13.40.14.jpg",
+          "alt": ""
+        },
+        {
+          "src": "maxlab1.png",
+          "alt": ""
+        },
+        {
+          "src": "_DSF69951.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-07-09 13.49.14.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-07-09 13.50.04.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-07-09 13.45.31.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-04-19 18.30.42.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-04-20 16.25.41.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-04-20 21.36.38.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-04-21 14.07.06.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-04-21 10.38.32.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-04-20 23.29.41-1.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-04-21 00.08.21.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2024-04-09 111.10.23.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2023-05-20 16.29.28.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2023-11-21 132.17.32.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2023-11-24 222.02.13.jpg",
+          "alt": ""
+        },
+        {
+          "src": "button111.gif",
+          "alt": "takahashi@i.u-tokyo.ac.jp"
+        }
+      ],
+      "textLength": 7913,
+      "textPreview": "本文へスキップ\n神崎・高橋研究室　高次脳機能研究チーム\n\n東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科\n\n生命知能システム研究室 (高橋・白松研究室)\n\n研究内容Research\n\n　生命知能システム研究室は，脳を機械システムのように理解し，脳のような次世代情報処理システムを創成することを目指しています．情報学･工学･神経科学を学際的に融合し，神経細胞の分散培養系からヒトの脳機能イメージングまで，さまざまなスケールの神経回路を研究対象とし，知能や意識，アートなどの創発メカニズムを探求します．脳から大規模な神経活動データを計測するために，高密度な電極アレイをはじめ，独自の新しい実験手法・装置を開発します (図１～図3)．行動実験データの取得や脳活動データの解析には、最先端の機械学習・人工知能を駆使します (図4～図6)．これらの実験データから脳活動のダイナミクスを明らかにし，脳の数理モデルを構築します．また，最新の脳科学の知見に基づき，ブレイン-マシン・インターフェースを開発し，実生活や医療での応用を目指します (図7～8)．\n　目的や神経回路のスケールに",
+      "sectionMarkers": [
+        {
+          "marker": "研究",
+          "position": 13
+        },
+        {
+          "marker": "Research",
+          "position": 97
+        },
+        {
+          "marker": "学会発表",
+          "position": 2611
+        },
+        {
+          "marker": "メンバー",
+          "position": 7530
+        },
+        {
+          "marker": "講義",
+          "position": 7560
+        },
+        {
+          "marker": "その他",
+          "position": 7563
+        }
+      ]
+    },
+    "others": {
+      "url": "/others.html",
+      "tagCounts": {
+        "DIV": 17,
+        "A": 39,
+        "P": 9,
+        "BR": 54,
+        "H2": 1,
+        "SPAN": 20,
+        "H3": 5,
+        "DL": 2,
+        "DT": 6,
+        "DD": 6,
+        "HR": 3,
+        "UL": 4,
+        "LI": 46,
+        "H5": 14,
+        "IMG": 1
+      },
+      "headers": [
+        {
+          "tag": "H2",
+          "text": "その他Others",
+          "position": 14
+        },
+        {
+          "tag": "H3",
+          "text": "卒論・修論必勝法",
+          "position": 17
+        },
+        {
+          "tag": "H3",
+          "text": "脳科学を勉強しよう",
+          "position": 33
+        },
+        {
+          "tag": "H5",
+          "text": "生命知能と人工知能　AI時代の脳の使い方・育て方（講談社） (amazon) (目次) (YouTube)",
+          "position": 40
+        },
+        {
+          "tag": "H5",
+          "text": "メカ屋のための脳科学入門　脳をリバースエンジニアリングする（日刊工業新聞社）(HONZの書評) (amazon) (目次)",
+          "position": 44
+        },
+        {
+          "tag": "H5",
+          "text": "続 メカ屋のための脳科学入門　[記憶・学習/ 意識編]（日刊工業新聞社） (amazon) (目次)",
+          "position": 48
+        },
+        {
+          "tag": "H5",
+          "text": "初級者～",
+          "position": 52
+        },
+        {
+          "tag": "H5",
+          "text": "中級者～",
+          "position": 64
+        },
+        {
+          "tag": "H5",
+          "text": "脳の情報処理システムは複雑系",
+          "position": 82
+        },
+        {
+          "tag": "H5",
+          "text": "脳は複雑ネットワーク",
+          "position": 86
+        },
+        {
+          "tag": "H5",
+          "text": "集団的な神経活動の本質は同期現象",
+          "position": 90
+        },
+        {
+          "tag": "H5",
+          "text": "情動・感情",
+          "position": 96
+        },
+        {
+          "tag": "H5",
+          "text": "知覚",
+          "position": 98
+        },
+        {
+          "tag": "H5",
+          "text": "意志決定",
+          "position": 101
+        },
+        {
+          "tag": "H5",
+          "text": "意識",
+          "position": 105
+        },
+        {
+          "tag": "H5",
+          "text": "芸術",
+          "position": 122
+        },
+        {
+          "tag": "H5",
+          "text": "ダーウィニズム（生物学の基本的な考え方）",
+          "position": 130
+        },
+        {
+          "tag": "H3",
+          "text": "ナビゲーション",
+          "position": 144
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学　\n        大学院情報理工学系研究科\n        知能機械情報学専攻\n        生命知能システム研究室",
+          "position": 186
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学",
+          "position": 205
+        }
+      ],
+      "tables": [],
+      "lists": [
+        {
+          "type": "UL",
+          "itemCount": 9,
+          "sampleItems": [
+            "生命知能と人工知能　AI時代の脳の使い方・育て方（講談社） (amazon) (目次) (YouTube)\n            メカ屋のための脳科学入門　脳をリバースエンジニアリングする（日刊工業",
+            "初級者～\n            池谷裕二さんの著作 (link)\n            ・進化しすぎた脳 ― 中学・高校生と語る大脳生理学の最前線，講談社（講談社ブルーバックス），2007\n   ",
+            "V. S. ラマチャンドラン，脳のなかの幽霊，角川書店 (2011)\n            　　臨床医の経験に基づき，不思議な症例から脳の情報処理方法を考察"
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 6,
+          "sampleItems": [
+            "脳の情報処理システムは複雑系\n            メラニー・ミッチェル，ガイドツアー　複雑系の世界: サンタフェ研究所講義ノートから，紀伊国屋書店 (2011)\n            　　複雑系",
+            "マーク・ブキャナン，歴史は「べき乗則」で動く―種の絶滅から戦争までを読み解く複雑系科学 (ハヤカワ文庫NF―数理を愉しむシリーズ)，早川書房（2005）",
+            "脳は複雑ネットワーク\n            アルバート・ラズロ・バラバシ，新ネットワーク思考 - 世界のしくみを読み解く，NHK出版（2002）\n            脳とは関係ないけど，バラバシ"
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 22,
+          "sampleItems": [
+            "情動・感情\n            デイヴィッド・Ｊ・リンデン，快感回路---なぜ気持ちいいのか なぜやめられないのか，河出書房新社 (2012)",
+            "知覚\n            クリストファー・チャブリス, ダニエル・シモンズ，錯覚の科学，文藝春秋 (2011)",
+            "柏野牧夫，音のイリュージョン――知覚を生み出す脳の戦略 (岩波科学ライブラリー 168)，岩波書店 (2010)"
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 9,
+          "sampleItems": [
+            "トップページTOP PAGE",
+            "メンバーMEMBERS",
+            "研究業績PUBLICATION"
+          ]
+        }
+      ],
+      "linksCount": 38,
+      "images": [
+        {
+          "src": "button111.gif",
+          "alt": "takahashi@i.u-tokyo.ac.jp"
+        }
+      ],
+      "textLength": 4108,
+      "textPreview": "本文へスキップ\n神崎・高橋研究室　高次脳機能研究チーム\n\n東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科\n\n生命知能システム研究室 (高橋・白松研究室)\n\nその他Others\n卒論・修論必勝法\n論文の書き方\n「論文を書こう！」と意を決したものの，初めての論文執筆では序論や考察で何を論じていいかわからないもの．研究者として初心者から中級者へのステップアップするために，論文をどう書けばいいかのノウハウを私見としてまとめました (link)．\n\n出典：高橋宏知 (実際の設計研究会): 「論文による技術・知識の伝承」, 畑村洋太郎編, 実際の設計 第6巻 技術を伝える, 日刊工業, 東京, 2006, pp. 214-223 (全402頁)\n論文執筆時のチェックリスト\n論文添削で言い続けてきていることを例文とともにリストアップしました．論文が書きあがったと思ったときに，チェックしてみましょう．きっと，まだ推敲の余地があるはず (link)．\n家訓：発表の心得\n毎年，発表練習で言い続けてきていることをリストアップしました (link)．\n発表資料の作り方の例 (li",
+      "sectionMarkers": [
+        {
+          "marker": "研究",
+          "position": 13
+        },
+        {
+          "marker": "その他",
+          "position": 93
+        },
+        {
+          "marker": "Others",
+          "position": 96
+        },
+        {
+          "marker": "講義",
+          "position": 1784
+        },
+        {
+          "marker": "メンバー",
+          "position": 3725
+        }
+      ]
+    },
+    "lectures": {
+      "url": "/lecture.html",
+      "tagCounts": {
+        "DIV": 18,
+        "A": 69,
+        "P": 10,
+        "BR": 46,
+        "H2": 2,
+        "SPAN": 21,
+        "H3": 13,
+        "DL": 5,
+        "DT": 31,
+        "DD": 31,
+        "TABLE": 9,
+        "TBODY": 9,
+        "TR": 36,
+        "TD": 92,
+        "HR": 12,
+        "FONT": 2,
+        "TH": 4,
+        "UL": 1,
+        "LI": 9,
+        "IMG": 1
+      },
+      "headers": [
+        {
+          "tag": "H2",
+          "text": "講義Lecture",
+          "position": 14
+        },
+        {
+          "tag": "H3",
+          "text": "生体システム工学（工学部　2023年度夏学期）",
+          "position": 17
+        },
+        {
+          "tag": "H3",
+          "text": "神経と脳（工学部　2019年度冬学期）",
+          "position": 29
+        },
+        {
+          "tag": "H3",
+          "text": "脳科学入門（工学部　2019年度冬学期）",
+          "position": 46
+        },
+        {
+          "tag": "H3",
+          "text": "機械力学演習（工学部　2019年度冬学期）",
+          "position": 62
+        },
+        {
+          "tag": "H3",
+          "text": "知能機械情報学特別講義（大学院情報理工学系研究科　2019年度冬学期）",
+          "position": 73
+        },
+        {
+          "tag": "H3",
+          "text": "理工学研究科総合講義B（明治大学　2019年度春学期集中）",
+          "position": 82
+        },
+        {
+          "tag": "H3",
+          "text": "生命体システム（大学院情報理工学系研究科　2018年度夏学期）",
+          "position": 88
+        },
+        {
+          "tag": "H3",
+          "text": "知能機械情報学演習（大学院情報理工学系研究科　2016年度冬学期）",
+          "position": 150
+        },
+        {
+          "tag": "H3",
+          "text": "Exercises in Mechano-Informatics（Winter Semester in 2016）",
+          "position": 152
+        },
+        {
+          "tag": "H3",
+          "text": "先端情報システム学－基礎と応用－（大学院工学系研究科　2016年度夏学期）",
+          "position": 204
+        },
+        {
+          "tag": "H2",
+          "text": "担当講義・演習",
+          "position": 229
+        },
+        {
+          "tag": "H3",
+          "text": "ナビゲーション",
+          "position": 337
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学　\n        大学院情報理工学系研究科\n        知能機械情報学専攻\n        生命知能システム研究室",
+          "position": 380
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学",
+          "position": 399
+        }
+      ],
+      "tables": [
+        {
+          "rows": 2,
+          "cols": 1,
+          "headerText": []
+        },
+        {
+          "rows": 2,
+          "cols": 1,
+          "headerText": []
+        },
+        {
+          "rows": 2,
+          "cols": 1,
+          "headerText": []
+        },
+        {
+          "rows": 2,
+          "cols": 1,
+          "headerText": []
+        },
+        {
+          "rows": 2,
+          "cols": 1,
+          "headerText": []
+        },
+        {
+          "rows": 2,
+          "cols": 1,
+          "headerText": []
+        },
+        {
+          "rows": 2,
+          "cols": 1,
+          "headerText": []
+        },
+        {
+          "rows": 2,
+          "cols": 1,
+          "headerText": []
+        },
+        {
+          "rows": 20,
+          "cols": 4,
+          "headerText": [
+            "年度",
+            "学期",
+            "対象",
+            "講義"
+          ]
+        }
+      ],
+      "lists": [
+        {
+          "type": "UL",
+          "itemCount": 9,
+          "sampleItems": [
+            "トップページTOP PAGE",
+            "メンバーMEMBERS",
+            "研究業績PUBLICATION"
+          ]
+        }
+      ],
+      "linksCount": 68,
+      "images": [
+        {
+          "src": "button111.gif",
+          "alt": "takahashi@i.u-tokyo.ac.jp"
+        }
+      ],
+      "textLength": 4244,
+      "textPreview": "本文へスキップ\n神崎・高橋研究室　高次脳機能研究チーム\n\n東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科\n\n生命知能システム研究室 (高橋・白松研究室)\n\n講義Lecture\n講義に関する情報は，このページにアップロードします．最近の学内の講義は，すべてITC-LMSを利用しています．\n生体システム工学（工学部　2023年度夏学期）\n2023年5月10日\n講義資料\nお知らせ\n\n神経と脳（工学部　2019年度冬学期）\nお知らせ\n・高橋担当日：2019年9月30日から11月13日（全7回）．\n・講義資料や連絡事項はITC-LMS\n・期末試験：2020年1月27日\n・教科書：「メカ屋のための脳科学入門」（日刊工業新聞社，2016）(amazon)\n・参考書：「続 メカ屋のための脳科学入門 [記憶・学習/ 意識編]」（日刊工業新聞社，2017）(amazon)\n・脳科学に関する推薦図書はこちら．\n脳科学入門（工学部　2019年度冬学期）\nお知らせ\n・高橋担当日：2019年10月2日（水），2018年10月9日（水）．\n・講義資料や連絡事項はITC-LMS．\n・参考",
+      "sectionMarkers": [
+        {
+          "marker": "研究",
+          "position": 13
+        },
+        {
+          "marker": "講義",
+          "position": 93
+        },
+        {
+          "marker": "Lecture",
+          "position": 95
+        },
+        {
+          "marker": "Review",
+          "position": 1104
+        },
+        {
+          "marker": "メンバー",
+          "position": 3861
+        },
+        {
+          "marker": "その他",
+          "position": 3894
+        }
+      ]
+    },
+    "profile": {
+      "url": "/profile.html",
+      "tagCounts": {
+        "DIV": 18,
+        "A": 58,
+        "P": 16,
+        "BR": 83,
+        "H2": 3,
+        "SPAN": 23,
+        "DL": 2,
+        "DT": 22,
+        "DD": 22,
+        "IMG": 6,
+        "H3": 4,
+        "FONT": 1,
+        "TABLE": 1,
+        "TBODY": 1,
+        "TR": 1,
+        "TD": 2,
+        "H4": 4,
+        "UL": 5,
+        "LI": 23,
+        "H5": 14,
+        "HR": 2
+      },
+      "headers": [
+        {
+          "tag": "H2",
+          "text": "メンバーMembers",
+          "position": 13
+        },
+        {
+          "tag": "H2",
+          "text": "プロフィールProfile",
+          "position": 70
+        },
+        {
+          "tag": "H3",
+          "text": "高橋 宏知　　Hirokazu TAKAHASHI",
+          "position": 73
+        },
+        {
+          "tag": "H4",
+          "text": "学歴",
+          "position": 84
+        },
+        {
+          "tag": "H4",
+          "text": "職歴",
+          "position": 97
+        },
+        {
+          "tag": "H4",
+          "text": "学位",
+          "position": 108
+        },
+        {
+          "tag": "H4",
+          "text": "所属学会および団体",
+          "position": 115
+        },
+        {
+          "tag": "H2",
+          "text": "これまでの研究テーマと主要な発表論文Selected publication",
+          "position": 131
+        },
+        {
+          "tag": "H5",
+          "text": "喉頭摘出者の発声システム",
+          "position": 139
+        },
+        {
+          "tag": "H5",
+          "text": "聴性脳幹インプラント（脳幹の電気刺激による聴覚再建）",
+          "position": 142
+        },
+        {
+          "tag": "H5",
+          "text": "微小電極アレイ",
+          "position": 151
+        },
+        {
+          "tag": "H5",
+          "text": "光アドレス電極",
+          "position": 165
+        },
+        {
+          "tag": "H5",
+          "text": "遺伝子工学による培養神経回路の機能化",
+          "position": 168
+        },
+        {
+          "tag": "H5",
+          "text": "高密度CMOS電極アレイ",
+          "position": 171
+        },
+        {
+          "tag": "H5",
+          "text": "神経細胞の分散培養系による物理リザバー計算",
+          "position": 174
+        },
+        {
+          "tag": "H5",
+          "text": "機能マップと情報表現",
+          "position": 180
+        },
+        {
+          "tag": "H5",
+          "text": "学習による可塑性",
+          "position": 189
+        },
+        {
+          "tag": "H5",
+          "text": "音の知覚",
+          "position": 198
+        },
+        {
+          "tag": "H5",
+          "text": "ミスマッチ陰性電位",
+          "position": 204
+        },
+        {
+          "tag": "H5",
+          "text": "音楽と脳",
+          "position": 210
+        },
+        {
+          "tag": "H5",
+          "text": "てんかん発作の診断",
+          "position": 216
+        },
+        {
+          "tag": "H5",
+          "text": "迷走神経刺激療法",
+          "position": 219
+        },
+        {
+          "tag": "H3",
+          "text": "ナビゲーション",
+          "position": 228
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学　\n        大学院情報理工学系研究科\n        知能機械情報学専攻\n        生命知能システム研究室",
+          "position": 270
+        },
+        {
+          "tag": "H3",
+          "text": "東京大学",
+          "position": 289
+        }
+      ],
+      "tables": [
+        {
+          "rows": 1,
+          "cols": 2,
+          "headerText": []
+        }
+      ],
+      "lists": [
+        {
+          "type": "UL",
+          "itemCount": 2,
+          "sampleItems": [
+            "喉頭摘出者の発声システム\n            Hirokazu Takahashi, Masayuki Nakao, Yataro Kikuchi, and Kimitaka Kaga:\n    ",
+            "聴性脳幹インプラント（脳幹の電気刺激による聴覚再建）\n            Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Acces"
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 5,
+          "sampleItems": [
+            "微小電極アレイ\n            Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka\n   ",
+            "光アドレス電極\n            Jun Suzurikawa, Hirokazu Takahashi, Ryohei Kanzaki, Masayuki Nakao, Yuzo\n       ",
+            "遺伝子工学による培養神経回路の機能化\n            Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglas J. Bakkum, R"
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 5,
+          "sampleItems": [
+            "機能マップと情報表現\n            Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Interfield difference",
+            "学習による可塑性\n            Hirokazu Takahashi, Ryo Yokota, Akihiro Funamizu, Hidekazu Kose, Ryohei\n       ",
+            "音の知覚\n            Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Stimulus phase\n            "
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 2,
+          "sampleItems": [
+            "てんかん発作の診断\n            Ali Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai,\n    ",
+            "迷走神経刺激療法\n            Hirokazu Takahashi, Tomoyo I. Shiramatsu, Rie Hitsuyu, Kenji Ibayashi,\n        "
+          ]
+        },
+        {
+          "type": "UL",
+          "itemCount": 9,
+          "sampleItems": [
+            "トップページTOP PAGE",
+            "メンバーMEMBERS",
+            "研究業績PUBLICATION"
+          ]
+        }
+      ],
+      "linksCount": 56,
+      "images": [
+        {
+          "src": "2025-02-15 16.15.55.jpg",
+          "alt": ""
+        },
+        {
+          "src": "PXL_20250401_0848325462.jpg",
+          "alt": ""
+        },
+        {
+          "src": "PXL_20250401_0925195291.jpg",
+          "alt": ""
+        },
+        {
+          "src": "2025-04-20 13.34.22.jpg",
+          "alt": ""
+        },
+        {
+          "src": "photo2019.jpg",
+          "alt": ""
+        },
+        {
+          "src": "button111.gif",
+          "alt": "takahashi@i.u-tokyo.ac.jp"
+        }
+      ],
+      "textLength": 9120,
+      "textPreview": "本文へスキップ\n神崎・高橋研究室　高次脳機能研究チーム\n\n東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科\n\n生命知能システム研究室 (高橋・白松研究室)\n\nメンバーMembers\nLast update on April 1, 2025; カッコ内はメールアカウント (...@ne.t.u-tokyo.ac.jp)\n教授\n高橋宏知 (takahashi)\n准教授\n白松（磯口）知世 (t.shiramatsu)\n助教\n秋田大 (d.akita)\n技術専門職員\n深山理 (o.fukayama)\n博士研究員\nAmit Yaron (a.yaron)\n博士課程　　D3\nUsman Abid Khan (u.khan)，可部泰生 (y.kabe)，張倬 (z.zhang)　\n　　　　　　D2\n大島果林 (k.oshima)，飯塚理子 (r.iizuka)，張赫 (h.zhang)　　　\n　　　　　　D1\n許鶴馨 (h.xu), 山木凌太朗 (r.yamaki)\n修士課程　　M2\n大沼陽介 (y.onuma)，川上航 (w.kawakami)，川原佑太 (y.kawa",
+      "sectionMarkers": [
+        {
+          "marker": "研究",
+          "position": 13
+        },
+        {
+          "marker": "メンバー",
+          "position": 93
+        },
+        {
+          "marker": "Member",
+          "position": 97
+        },
+        {
+          "marker": "プロフィール",
+          "position": 1123
+        },
+        {
+          "marker": "Profile",
+          "position": 1129
+        },
+        {
+          "marker": "Research",
+          "position": 3070
+        },
+        {
+          "marker": "講義",
+          "position": 8767
+        },
+        {
+          "marker": "その他",
+          "position": 8770
+        }
+      ]
+    }
+  }
+}

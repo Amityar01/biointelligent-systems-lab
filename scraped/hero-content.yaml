@@ -1,0 +1,7 @@
+hero:
+  title:
+    ja: 高橋研究室
+    en: Takahashi Laboratory
+  description:
+    ja: 研究キーワード：神経工学，神経科学，脳科学，電気生理学，大脳皮質，聴覚皮質，聴覚野，神経回路，神経活動パターン，知覚，聴覚，音脈分凝，錯聴，知能，情動，感情，記憶，学習，てんかん，微小電極アレイ，イメージング，皮質脳波(ECoG)，多点同時計測，LFP，生体信号，条件付け，行動実験，機能マップ，位相同期，可塑性，ブレイン-マシン・インターフェース (BMI)，サイボーグ，機械学習，デコーディング，情報理論
+    en: The Bio-Intelligence Systems Lab aims to understand the brain in engineers’ manner and to create next-generation brain-like computation systems. Our research field is interdisciplinary, ranging between informatics, engineering, and neuroscience. To reveal how intelligence, consciousness, and fine arts emerge, we investigate neural computation at various scales, ranging from dissociate culture of neurons on a petri dish, the rodent brain, and the human brain. We develop novel experimental methods and equipment, such as high-density microelectrode arrays and behavioral assays, to obtain large-scale experimental data, and make full use of state-of-the-art machine learning and artificial intelligence to characterize and analyze our own data. Based on these experiments, we reveal the dynamics of neural activities and construct mathematical models of the brain.

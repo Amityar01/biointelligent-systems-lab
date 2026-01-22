@@ -1,0 +1,406 @@
+{
+  "batchId": 49,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "parsedAt": "2026-01-22T02:55:52.304Z",
+  "items": [
+    {
+      "type": "presentation",
+      "title": "てんかん患者の多点皮質脳波における神経活動の雪崩現象の検証",
+      "authors": [
+        "李夏栄"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2012年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(23) 李夏栄：「てんかん患者の多点皮質脳波における神経活動の雪崩現象の検証」，東京大学工学部卒業論文, 2012年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1165"
+    },
+    {
+      "type": "presentation",
+      "title": "高密度CMOSアレイと細胞内刺激による神経ネットワークの可視化",
+      "authors": [
+        "石原裕也"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2012年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(24) 石原裕也：「高密度CMOSアレイと細胞内刺激による神経ネットワークの可視化」，東京大学工学部卒業論文, 2012年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---cmos--1166"
+    },
+    {
+      "type": "presentation",
+      "title": "音列オブジェクト形成に関わる聴皮質の神経活動",
+      "authors": [
+        "雨宮知樹"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2013年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(25) 雨宮知樹：「音列オブジェクト形成に関わる聴皮質の神経活動」，東京大学工学部卒業論文, 2013年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1167"
+    },
+    {
+      "type": "presentation",
+      "title": "成熟した培養神経回路のネットワーク形状と活動の経時変化",
+      "authors": [
+        "大川知"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2013年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(26) 大川知：「成熟した培養神経回路のネットワーク形状と活動の経時変化」，東京大学工学部卒業論文, 2013年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1168"
+    },
+    {
+      "type": "presentation",
+      "title": "瞳孔径に連動した脳活動の変化",
+      "authors": [
+        "徳茂宏之"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2014年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(27) 徳茂宏之：「瞳孔径に連動した脳活動の変化」，東京大学工学部卒業論文, 2014年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1169"
+    },
+    {
+      "type": "presentation",
+      "title": "迷走神経刺激が聴知覚の神経活動パターンに及ぼす影響",
+      "authors": [
+        "日露理英"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2014年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(28) 日露理英：「迷走神経刺激が聴知覚の神経活動パターンに及ぼす影響」，東京大学工学部卒業論文, 2014年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1170"
+    },
+    {
+      "type": "presentation",
+      "title": "電場刺激による培養神経回路の時空間的活動パターン制御",
+      "authors": [
+        "安田秀策"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2014年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(29) 安田秀策：「電場刺激による培養神経回路の時空間的活動パターン制御」，東京大学工学部卒業論文, 2014年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1171"
+    },
+    {
+      "type": "presentation",
+      "title": "ドーパミン報酬系が聴覚野での音情報処理に及ぼす影響",
+      "authors": [
+        "曾我遼"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2015年3月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(30) 曾我遼：「ドーパミン報酬系が聴覚野での音情報処理に及ぼす影響」，東京大学工学部卒業論文, 2015年3月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1172"
+    },
+    {
+      "type": "presentation",
+      "title": "感覚野への電気パルス列刺激による知覚の生成",
+      "authors": [
+        "久山貴大"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2016年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(31) 久山貴大：「感覚野への電気パルス列刺激による知覚の生成」，東京大学工学部卒業論文, 2016年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1173"
+    },
+    {
+      "type": "presentation",
+      "title": "培養神経回路の同期バースト発生を担う細胞群の探索",
+      "authors": [
+        "古池香里"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2016年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(32) 古池香里：「培養神経回路の同期バースト発生を担う細胞群の探索」，東京大学工学部卒業論文, 2016年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1174"
+    },
+    {
+      "type": "presentation",
+      "title": "リザバー計算に基づく培養神経回路の状態制御",
+      "authors": [
+        "安江秀太"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2016年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(33) 安江秀太：「リザバー計算に基づく培養神経回路の状態制御」，東京大学工学部卒業論文, 2016年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1175"
+    },
+    {
+      "type": "presentation",
+      "title": "繰り返し同期誘発刺激による培養神経回路の記憶の操作",
+      "authors": [
+        "角田颯飛"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2017年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(34) 角田颯飛：「繰り返し同期誘発刺激による培養神経回路の記憶の操作」，東京大学工学部卒業論文, 2017年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1176"
+    },
+    {
+      "type": "presentation",
+      "title": "ラットの自己主体感を調べるための実験系の構築",
+      "authors": [
+        "土井ゆりか"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2017年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(35) 土井ゆりか：「ラットの自己主体感を調べるための実験系の構築」，東京大学工学部卒業論文, 2017年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1177"
+    },
+    {
+      "type": "presentation",
+      "title": "齧歯類における和音知覚の原始的な神経基盤",
+      "authors": [
+        "松竹理匠"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2017年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(36) 松竹理匠：「齧歯類における和音知覚の原始的な神経基盤」，東京大学工学部卒業論文, 2017年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1178"
+    },
+    {
+      "type": "presentation",
+      "title": "パーソナル・モバイル・ロボットを用いた補聴器装用支援システム",
+      "authors": [
+        "可部泰生"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2017年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(37) 可部泰生：「パーソナル・モバイル・ロボットを用いた補聴器装用支援システム」，東京大学工学部卒業論文, 2017年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1179"
+    },
+    {
+      "type": "presentation",
+      "title": "脳の電気刺激による意識にのぼる知覚の創成",
+      "authors": [
+        "阿部泰己"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2018年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(38) 阿部泰己：「脳の電気刺激による意識にのぼる知覚の創成」，東京大学工学部卒業論文, 2018年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1180"
+    },
+    {
+      "type": "presentation",
+      "title": "培養神経細胞の統合情報量による解析",
+      "authors": [
+        "木村武龍"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2019年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(39) 木村武龍：「培養神経細胞の統合情報量による解析」，東京大学工学部卒業論文, 2019年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1181"
+    },
+    {
+      "type": "presentation",
+      "title": "感覚野における視聴覚統合",
+      "authors": [
+        "森叶人"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2019年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(40) 森叶人：「感覚野における視聴覚統合」，東京大学工学部卒業論文, 2019年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1182"
+    },
+    {
+      "title": "拡張した情報処理容量によるリザバーコンピューティングの評価",
+      "authors": [
+        "大澤龍太"
+      ],
+      "year": 2020,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(41) 大澤龍太：拡張した情報処理容量によるリザバーコンピューティングの評価，東京大学工学部卒業論文, 2020年2月",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2020----1183"
+    },
+    {
+      "title": "継続的な刺激が培養神経回路の成長にもたらす影響",
+      "authors": [
+        "高橋斗威"
+      ],
+      "year": 2020,
+      "type": "thesis",
+      "_source": "ollama",
+      "_raw": "(42) 高橋斗威：継続的な刺激が培養神経回路の成長にもたらす影響，東京大学工学部卒業論文, 2020年2月",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2020----1184"
+    },
+    {
+      "type": "presentation",
+      "title": "ラット聴覚野における情報処理容量の計測",
+      "authors": [
+        "石田直輝"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2021年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(43) 石田直輝：「ラット聴覚野における情報処理容量の計測」，東京大学工学部卒業論文, 2021年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1185"
+    },
+    {
+      "type": "presentation",
+      "title": "神経細胞の分散培養系の情報処理容量",
+      "authors": [
+        "諏訪瑛介"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2021年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(44) 諏訪瑛介：「神経細胞の分散培養系の情報処理容量」，東京大学工学部卒業論文, 2021年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1186"
+    },
+    {
+      "type": "presentation",
+      "title": "げっ歯類の社会的行動に対する音楽の影響",
+      "authors": [
+        "大島果林"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2022年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(45) 大島果林：「げっ歯類の社会的行動に対する音楽の影響」，東京大学工学部卒業論文, 2022年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1187"
+    },
+    {
+      "type": "presentation",
+      "title": "脳波を利用した短時間聴力検査の開発",
+      "authors": [
+        "岡田大吾"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2022年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(46) 岡田大吾：「脳波を利用した短時間聴力検査の開発」，東京大学工学部卒業論文, 2022年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1188"
+    },
+    {
+      "type": "presentation",
+      "title": "神経細胞の分散培養系の深層強化学習",
+      "authors": [
+        "澤田晴登"
+      ],
+      "year": null,
+      "conference": "東京大学工学部卒業論文, 2022年2月",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(47) 澤田晴登：「神経細胞の分散培養系の深層強化学習」，東京大学工学部卒業論文, 2022年2月",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1189"
+    }
+  ]
+}

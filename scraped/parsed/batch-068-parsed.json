@@ -1,0 +1,466 @@
+{
+  "batchId": 68,
+  "category": "grant",
+  "categoryTitle": "競争的資金 (grants)",
+  "parsedAt": "2026-01-22T03:10:01.073Z",
+  "items": [
+    {
+      "title": "微小多点表面電極を用いた聴神経摘出者用脳幹インプラントシステムの開発",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2001,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(1) 高橋宏知 (代表者)：「微小多点表面電極を用いた聴神経摘出者用脳幹インプラントシステムの開発」，科学研究費補助金 特別研究員奨励費，2001年度～2002年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2001----1585"
+    },
+    {
+      "title": "時空間的神経活動パターンの翻訳手法の開発とそれを用いた脳神経系の帰納的研究",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2004,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(2) 高橋宏知 (代表者)：「時空間的神経活動パターンの翻訳手法の開発とそれを用いた脳神経系の帰納的研究」，科学研究費補助金 若手研究(A)，2004年度～2006年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2004----1586"
+    },
+    {
+      "title": "自己組織のニューロチップ",
+      "authors": [
+        "高橋宏知",
+        "神崎亮平",
+        "中尾政之",
+        "神保泰彦"
+      ],
+      "year": 2006,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(3) 高橋宏知 (代表者)，神崎亮平，中尾政之，神保泰彦：「自己組織的ニューロチップ」，科学研究費補助金 萌芽研究，2006年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2006----1587"
+    },
+    {
+      "title": "生体－機械融合システムを規範とした適応行動発現アルゴリズムの獲得",
+      "authors": [
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2006,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(4) 神崎亮平，高橋宏知 (分担研究者)：「生体－機械融合システムを規範とした適応行動発現アルゴリズムの獲得」，科学研究費補助金 萌芽研究，2006年度～2007年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2006----1588"
+    },
+    {
+      "title": "両耳聴により形成される聴空間の脳内階層性と可塑性の研究",
+      "authors": [
+        "加我君孝",
+        "山岨 達也",
+        "伊藤健",
+        "近藤健二",
+        "狩野章太郎",
+        "高橋宏知 (研究分担者)"
+      ],
+      "year": 2007,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(5) 加我君孝，山岨 達也，伊藤健，近藤健二，狩野章太郎，高橋宏知 (研究分担者)：「両耳聴により形成される聴空間の脳内階層性と可塑性の研究」，科学研究費補助金 基盤研究 (A)，2007年度～2010年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2007----1589"
+    },
+    {
+      "title": "音の認知・認識における聴皮質の役割",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2008,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(6) 高橋宏知 (代表者): 「音の認知・認識における聴皮質の役割」，科学研究費補助金 特定領域研究（公募），2008年度～2009年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2008----1590"
+    },
+    {
+      "title": "光アドレス電極を応用した細胞-環境系のマルチスケール計測・制御",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2008,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(7) 高橋宏知 (代表者): 「光アドレス電極を応用した細胞-環境系のマルチスケール計測・制御」，東京大学ナノバイオ・インテグレーション拠点 (CNBI)　若手奨励研究，2008年度～2009年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": true,
+      "id": "2008----1591"
+    },
+    {
+      "title": "情報理論と情報縮約による適応的デコーディング",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2008,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(8) 高橋宏知 (代表者): 「情報理論と情報縮約による適応的デコーディング」，科学技術振興機構(JST) 平成20年度　戦略的創造研究推進事業 「さきがけ」，2008年10月～2011年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": true,
+      "id": "2008----1592"
+    },
+    {
+      "title": "適応行動の神経基盤",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2010,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(9) 高橋宏知 (代表者)：「適応行動の神経基盤」，科学研究費補助金 挑戦的萌芽研究，2010年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": true,
+      "id": "2010----1593"
+    },
+    {
+      "title": "高密度ＣＭＯＳ電極による培養神経回路のネットワーク構造の解明",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(10) 高橋宏知 (代表者)：「高密度ＣＭＯＳ電極による培養神経回路のネットワーク構造の解明」，科学研究費補助金 若手研究(A)，2011年度～2013年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2011----1594"
+    },
+    {
+      "title": "聴皮質における音の質感と情動情報の神経基盤",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(11) 高橋宏知 (代表者): 「聴皮質における音の質感と情動情報の神経基盤」，科学研究費補助金 新学術領域研究（公募），2011年度～2012年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2011----1595"
+    },
+    {
+      "title": "ラットの培養神経細胞に昆虫の嗅覚受容体を発現させた匂いセンサー",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(12) 高橋宏知 (代表者)：「ラットの培養神経細胞に昆虫の嗅覚受容体を発現させた匂いセンサー」，科学研究費補助金 挑戦的萌芽研究，2011年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2011----1596"
+    },
+    {
+      "title": "真の難治性てんかんに対する非切除的治療法の開発研究",
+      "authors": [
+        "川合謙介",
+        "長谷川功",
+        "鎌田恭輔",
+        "藤井正美",
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(13) 川合謙介，長谷川功，鎌田恭輔，藤井正美，高橋宏知 (分担者)：「真の難治性てんかんに対する非切除的治療法の開発研究」，厚生労働科学研究費補助金 障害者対策総合研究事業，2011年度～2012年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2011----1597"
+    },
+    {
+      "title": "知覚情報処理時のサブネットワーク構造に注目した神経修飾物質の機能解明",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(14) 高橋宏知 (代表者)：「知覚情報処理時のサブネットワーク構造に注目した神経修飾物質の機能解明」，科学研究費補助金 挑戦的萌芽研究，2012年度～2013年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2012----1598"
+    },
+    {
+      "title": "培養神経回路と人工神経回路の身体化によるホメオダイナミクスの研究",
+      "authors": [
+        "池上高志",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(15) 池上高志，高橋宏知 (分担者)：「培養神経回路と人工神経回路の身体化によるホメオダイナミクスの研究」，科学研究費補助金 基盤研究 (B)，2012年度～2014年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2012----1599"
+    },
+    {
+      "title": "聴覚的顕著性の操作に基づく、音響情報の選択的強調技術の創出",
+      "authors": [
+        "古川茂人",
+        "柏野牧夫",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(16) 古川茂人，柏野牧夫，高橋宏知 (分担者)：「聴覚的顕著性の操作に基づく、音響情報の選択的強調技術の創出」，総務省 戦略的情報通信研究開発推進制度 (SCOPE)　ICTイノベーション創出型研究開発，2012年度～2014年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": true,
+      "id": "2012----1600"
+    },
+    {
+      "title": "音の質感と情動情報の神経基盤",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(17) 高橋宏知 (代表者): 「音の質感と情動情報の神経基盤」，科学研究費補助金 新学術領域研究（公募），2013年度～2014年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2013----1601"
+    },
+    {
+      "title": "迷走神経刺激療法のトランスレーショナル研究",
+      "authors": [
+        "高橋宏知",
+        "川合謙介",
+        "國井尚人"
+      ],
+      "year": 2014,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(18) 高橋宏知 (代表者)，川合謙介，國井尚人：「迷走神経刺激療法のトランスレーショナル研究」，科学研究費補助金 基盤研究 (A)，2014年度～2017年度)",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2014----1602"
+    },
+    {
+      "title": "混沌から秩序を創発するバイオコンピューティング",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2014,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(19) 高橋宏知 (代表者): 「混沌から秩序を創発するバイオコンピューティング」，科学研究費補助金 挑戦的萌芽研究，2014年度～2015年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2014----1603"
+    },
+    {
+      "title": "リザバー・コンピューティングによる神経細胞の分散培養系の身体化",
+      "authors": [
+        "高橋宏知 (代表者)"
+      ],
+      "year": 2016,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(20) 高橋宏知 (代表者):「リザバー・コンピューティングによる神経細胞の分散培養系の身体化」，科学研究費補助金 挑戦的萌芽研究，2016年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2016----1604"
+    },
+    {
+      "title": "聴知覚を生み出す視床・聴覚野システムの発振現象と情報流",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2016,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(21) 高橋宏知 (代表者):「聴知覚を生み出す視床・聴覚野システムの発振現象と情報流」，科学研究費補助金 新学術領域研究（公募），2016年度～2017年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2016----1605"
+    },
+    {
+      "title": "脳内ステルス刺激による脳活動制御",
+      "authors": [
+        "高橋宏知 (代表者)"
+      ],
+      "year": 2017,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(22) 高橋宏知 (代表者):「脳内ステルス刺激による脳活動制御」，科学研究費補助金 挑戦的研究（萌芽），2017年度～2018年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2017----1606"
+    },
+    {
+      "title": "てんかんと記憶に関わる脳内機能的結合性の特性抽出と外科的及び電気刺激による介入",
+      "authors": [
+        "川合謙介",
+        "高橋宏知",
+        "宇佐美憲一"
+      ],
+      "year": 2017,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(23) 川合謙介，高橋宏知 (分担者) ，宇佐美憲一：「てんかんと記憶に関わる脳内機能的結合性の特性抽出と外科的及び電気刺激による介入」，科学研究費補助金 基盤研究 (B)，2017年度～2019年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2017----1607"
+    },
+    {
+      "title": "耳鳴の脳活動の解明と質感制御",
+      "authors": [
+        "高橋宏知 (代表者)"
+      ],
+      "year": 2018,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(24) 高橋宏知 (代表者):「耳鳴の脳活動の解明と質感制御」，科学研究費補助金 新学術領域研究（公募），2018年度～2019年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2018----1608"
+    },
+    {
+      "title": "非線形動力学に基づく次世代AIと基盤技術に関する研究開発",
+      "authors": [
+        "合原一幸",
+        "高橋宏知",
+        "上田修功",
+        "川鍋一晃"
+      ],
+      "year": 2018,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(25) 合原一幸，高橋宏知 (分担者) ，上田修功，川鍋一晃：「非線形動力学に基づく次世代AIと基盤技術に関する研究開発」，国立研究開発法人日本医療研究開発機構　戦略的国際脳科学研究推進プログラム，2018年度～2023年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": true,
+      "id": "2018---ai--1609"
+    }
+  ]
+}

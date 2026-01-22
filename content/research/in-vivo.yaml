@@ -1,0 +1,156 @@
+id: in-vivo
+name_ja: in vivoグループ
+name_en: In Vivo Group
+description_ja: |
+  ラットの聴覚系を主な研究対象としています。情報理論や機械学習を駆使して、微小電極アレイで得た神経活動パターンから情報を読み出す技術を開発しています。また、行動実験を駆使して、知覚、質感、情動、嗜好など、主観的な情報が、どのように神経活動パターンに表現されているかを考察します。臨床研究と連携しながら、耳鳴や聴覚過敏の脳内メカニズムと治療方法を探求してきました。最近の研究では、ラットも音楽に反応することを見出し、音楽の起源や音楽知覚のメカニズムを脳科学的に探求しています。
+description_en: |
+  Our primary research focuses on the rat auditory system. Using information theory and machine learning, we develop techniques to decode information from neural activity patterns obtained with microelectrode arrays. Through behavioral experiments, we investigate how subjective information such as perception, texture, emotion, and preference is represented in neural activity patterns. In collaboration with clinical research, we have explored the brain mechanisms and treatments for tinnitus and hyperacusis. Recent research has revealed that rats also respond to music, and we are exploring the origins of music and the mechanisms of music perception from a neuroscientific perspective.
+keywords:
+  - auditory cortex
+  - rat
+  - in vivo
+  - microelectrode array
+  - neural decoding
+  - information theory
+  - machine learning
+  - perception
+  - emotion
+  - tinnitus
+  - hyperacusis
+  - music perception
+  - behavioral experiment
+  - auditory stream segregation
+  - vagus nerve stimulation
+  - dopamine reward system
+  - beat perception
+  - chord perception
+  - ultrasonic communication
+  - social behavior
+  - pupil diameter
+  - thalamus
+  - auditory processing capacity
+theoretical_frameworks:
+  - name_ja: リザバー計算
+    name_en: Reservoir Computing
+    description_ja: 聴覚野の情報処理容量の計測と評価
+    description_en: Measurement and evaluation of information processing capacity in auditory cortex
+  - name_ja: 迷走神経刺激療法
+    name_en: Vagus Nerve Stimulation Therapy
+    description_ja: 感覚野における迷走神経刺激の作用原理の検証
+    description_en: Verification of vagus nerve stimulation mechanisms in sensory cortex
+research_topics:
+  - title_ja: 音楽知覚の神経基盤
+    title_en: Neural Basis of Music Perception
+  - title_ja: 耳鳴の神経メカニズムと治療
+    title_en: Neural Mechanisms and Treatment of Tinnitus
+  - title_ja: 聴覚野における情報処理容量
+    title_en: Information Processing Capacity in Auditory Cortex
+  - title_ja: 音脈分凝の神経基盤
+    title_en: Neural Basis of Auditory Stream Segregation
+  - title_ja: 迷走神経刺激による知覚変調
+    title_en: Perceptual Modulation via Vagus Nerve Stimulation
+  - title_ja: 齧歯類の社会行動と超音波コミュニケーション
+    title_en: Social Behavior and Ultrasonic Communication in Rodents
+  - title_ja: ドーパミン報酬系と聴覚情報処理
+    title_en: Dopamine Reward System and Auditory Information Processing
+  - title_ja: ビート知覚と和音知覚
+    title_en: Beat Perception and Chord Perception
+representative_dissertations:
+  - year: 2010
+    author_ja: 磯口知世
+    author_en: Tomoyo Isoguchi
+    title_ja: 音の情動的価値に対する聴皮質の情報処理
+    title_en: Auditory Cortex Information Processing for Emotional Value of Sound
+    type: master
+    award: Graduate School Dean's Award
+  - year: 2012
+    author_ja: 野田貴大
+    author_en: Takahiro Noda
+    title_ja: 聴覚野における音脈分凝の神経基盤
+    title_en: Neural Basis of Auditory Stream Segregation in Auditory Cortex
+    type: doctoral
+  - year: 2013
+    author_ja: 白松（磯口）知世
+    author_en: Tomoyo Shiramatsu (Isoguchi)
+    title_ja: 聴皮質における音の質感と情動情報の表現
+    title_en: Representation of Sound Texture and Emotional Information in Auditory Cortex
+    type: doctoral
+  - year: 2018
+    author_ja: 和家尚希
+    author_en: Naoki Wake
+    title_ja: 聴覚野における耳鳴の神経メカニズム
+    title_en: Neural Mechanisms of Tinnitus in Auditory Cortex
+    type: doctoral
+  - year: 2020
+    author_ja: 伊藤圭基
+    author_en: Keiki Ito
+    title_ja: 齧歯類におけるビート知覚の神経基盤
+    title_en: Neural Basis of Beat Perception in Rodents
+    type: master
+jsps_fellowships:
+  - name_ja: 船水章大
+    name_en: Akihiro Funamizu
+    period: 2008-2010
+    type: DC1
+    topic_ja: 神経回路の動的なスイッチング機構の解明とその情動センシングBMIへの応用
+    topic_en: Elucidation of dynamic switching mechanisms in neural circuits and application to emotion-sensing BMI
+  - name_ja: 横田亮
+    name_en: Ryo Yokota
+    period: 2008-2010
+    type: DC1
+    topic_ja: 学習に伴う神経システムの可塑性の評価とそのモデル化
+    topic_en: Evaluation and modeling of neural system plasticity accompanying learning
+  - name_ja: 野田貴大
+    name_en: Takahiro Noda
+    period: 2009-2011
+    type: DC1
+    topic_ja: 聴覚的クラスターを抽出・再構成できる神経基盤の解明とその工学的応用
+    topic_en: Elucidation of neural basis for auditory cluster extraction and reconstruction and its engineering applications
+  - name_ja: 磯口知世
+    name_en: Tomoyo Isoguchi
+    period: 2011-2013
+    type: DC1
+    topic_ja: 音の質感がもつ情動的価値の神経学的解明
+    topic_en: Neurological elucidation of emotional value of sound texture
+  - name_ja: 和家尚希
+    name_en: Naoki Wake
+    period: 2016-2018
+    type: DC1
+    topic_ja: 耳鳴知覚の脳活動の同定と診断方法の開発
+    topic_en: Identification of brain activity for tinnitus perception and development of diagnostic methods
+  - name_ja: 大島果林
+    name_en: Karin Oshima
+    period: 2024-2026
+    type: DC1
+    topic_ja: 社会的相互作用における脳の力学的連携状態の解明
+    topic_en: Elucidation of dynamic coordination states of the brain in social interactions
+  - name_ja: 飯塚理子
+    name_en: Riko Iizuka
+    period: 2025-2026
+    type: DC2
+    topic_ja: 音楽が社会行動に影響を与える神経ダイナミクスの数理的解明
+    topic_en: Mathematical elucidation of neural dynamics through which music influences social behavior
+facilities_ja: |
+  防音室4部屋、防音箱5個を完備。
+facilities_en: |
+  Equipped with 4 soundproof rooms and 5 soundproof boxes.
+collaborators:
+  - name: Yuji Ikegaya
+    title: Professor
+    affiliation: Graduate School of Pharmaceutical Sciences, The University of Tokyo
+  - name: Hisayuki Nishino
+    title: Professor
+    affiliation: Graduate School of Informatics, Kyoto University
+  - name: Shigeto Furukawa
+    title: Dr.
+    affiliation: NTT Communication Science Laboratories
+  - name: Makio Kashino
+    title: Dr.
+    affiliation: NTT Communication Science Laboratories
+  - name: Haruka Nakahara
+    title: Dr.
+    affiliation: Edogawabashi Clinic, Otolaryngology
+  - name: Akira Kanzaki
+    title: Lecturer
+    affiliation: Department of Otolaryngology, Keio University School of Medicine
+image: /images/research/in-vivo.png

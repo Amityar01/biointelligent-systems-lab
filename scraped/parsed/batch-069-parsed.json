@@ -1,0 +1,157 @@
+{
+  "batchId": 69,
+  "category": "grant",
+  "categoryTitle": "競争的資金 (grants)",
+  "parsedAt": "2026-01-22T03:10:17.843Z",
+  "items": [
+    {
+      "title": "脳組織によるフィジカル・リザバー計算",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2020,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(26) 高橋宏知：「脳組織によるフィジカル・リザバー計算」，科学研究費補助金 基盤研究 (B)，2020年度～2022年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2020----1610"
+    },
+    {
+      "title": "Awareness Musicによる「こころの資本」イノベーションと新リベラルアーツの創出",
+      "authors": [
+        "山脇成人",
+        "高橋宏知"
+      ],
+      "year": 2022,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(27) 山脇成人（プロジェクトマネージャー），高橋宏知（課題推進者）：「Awareness Musicによる「こころの資本」イノベーションと新リベラルアーツの創出」，ムーンショット型研究開発制度(内閣府)，2022年度～2026年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": true,
+      "id": "2022--awareness-music--1611"
+    },
+    {
+      "title": "自由エネルギー原理に基づく脳組織を用いた物理リザバー推論",
+      "authors": [
+        "高橋宏知（代表者）"
+      ],
+      "year": 2023,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(28) 高橋宏知（代表者）：「自由エネルギー原理に基づく脳組織を用いた物理リザバー推論」，科学研究費補助金 基盤研究 (B)，2023年度～2025年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2023----1612"
+    },
+    {
+      "title": "臨床応用に向けた視床を介する大脳皮質の上行性調節機構の解明",
+      "authors": [
+        "川合謙介",
+        "高橋宏知"
+      ],
+      "year": 2023,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(29) 川合謙介，高橋宏知 (分担者) ，大貫良幸：「臨床応用に向けた視床を介する大脳皮質の上行性調節機構の解明」，科学研究費補助金 基盤研究 (B)，2023年度～2025年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2023----1613"
+    },
+    {
+      "title": "脳刺激型補聴器の実現に向けた、コミュニケーション音声脳内処理機構の解明",
+      "authors": [
+        "伊藤哲史",
+        "高橋宏知",
+        "小野宗範"
+      ],
+      "year": 2023,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(30) 伊藤哲史，高橋宏知 (分担者) ，小野宗範：「脳刺激型補聴器の実現に向けた、コミュニケーション音声脳内処理機構の解明」，科学研究費補助金 基盤研究 (B)，2023年度～2027年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2023----1614"
+    },
+    {
+      "title": "情報処理容量に基づく音楽クオリア構造と聴覚野情報構造の対応付け",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2024,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(31) 高橋宏知（代表者）：「情報処理容量に基づく音楽クオリア構造と聴覚野情報構造の対応付け」，科学研究費補助金 学術変革領域（A）（公募），2024年度～2025年度，",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2024----1615"
+    },
+    {
+      "title": "生成AIを用いた脳情報の逆相関探索と外部デジタル化",
+      "authors": [
+        "池谷裕二",
+        "高橋宏知（分担者）",
+        "山下宙人"
+      ],
+      "year": 2024,
+      "journal": "国立研究開発法人日本医療研究開発機構　脳神経科学統合プログラム（個別重点研究課題）",
+      "pages": null,
+      "type": "research",
+      "_source": "ollama",
+      "_raw": "(32) 池谷裕二，高橋宏知（分担者），山下宙人：「生成AIを用いた脳情報の逆相関探索と外部デジタル化」，国立研究開発法人日本医療研究開発機構　脳神経科学統合プログラム（個別重点研究課題），2024年度～2029年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: research"
+      ],
+      "id": "2024---ai--1616"
+    },
+    {
+      "title": "自発活動を生かした脳の臨界計算",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2025,
+      "type": "grant",
+      "_source": "ollama",
+      "_raw": "(33) 高橋宏知（代表者）：「自発活動を生かした脳の臨界計算」，科学研究費補助金 学術変革領域（A）（公募），2025年度～2026年度",
+      "language": "ja",
+      "category": "grant",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: grant"
+      ],
+      "id": "2025----1617"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+title: Hirokazu TAKAHASHI at the University of Tokyo
+tagline: Neuroscience by Mechanical Engineers
+
+profile:
+  name: Hirokazu Takahashi
+  title: Professor
+  affiliation:
+    - Department of Mechano-Informatics
+    - Graduate School of Information Science and Technology
+    - The University of Tokyo
+  bio: |
+    Hirokazu Takahashi was born in Sendai, Japan, in 1975. He received B.S., M.S., and Ph.D. degrees in mechanical engineering from the University of Tokyo, Tokyo, Japan, in 1998, 2000, and 2003, respectively. After working as a research associate in Department of Engineering Synthesis, the University of Tokyo, he has joined Department of Mechano-Informatics, the Graduate School of Information Science and Technology, the University of Tokyo, as an assistant professor since 2004. In 2006, he has joined the Research Center for Advanced Science and Technology. In 2019, he has returned to Department of Mechano-Informatics, the Graduate School of Information Science and Technology, as an associate professor, and become a professor in 2023. His current research interests include areas of biomedical engineering ranging from rehabilitation engineering for restoring lost functions to experimental neurophysiology for understanding fundamental brain functions.
+  education:
+    - degree: Ph.D.
+      field: Mechanical Engineering
+      institution: University of Tokyo
+      year: 2003
+    - degree: M.S.
+      field: Mechanical Engineering
+      institution: University of Tokyo
+      year: 2000
+    - degree: B.S.
+      field: Mechanical Engineering
+      institution: University of Tokyo
+      year: 1998
+  positions:
+    - title: Professor
+      department: Department of Mechano-Informatics
+      institution: University of Tokyo
+      period: 2023-present
+    - title: Associate Professor
+      department: Department of Mechano-Informatics
+      institution: University of Tokyo
+      period: 2019-2023
+    - title: Associate Professor
+      department: Research Center for Advanced Science and Technology
+      institution: University of Tokyo
+      period: 2006-2019
+    - title: Assistant Professor
+      department: Department of Mechano-Informatics
+      institution: University of Tokyo
+      period: 2004-2006
+
+lab:
+  name: Bio-Intelligence Systems Lab
+  description: |
+    The Bio-Intelligence Systems Lab aims to understand the brain in engineers' manner and to create next-generation brain-like computation systems. Our research field is interdisciplinary, ranging between informatics, engineering, and neuroscience. To reveal how intelligence, consciousness, and fine arts emerge, we investigate neural computation at various scales, ranging from dissociate culture of neurons on a petri dish, the rodent brain, and the human brain. We develop novel experimental methods and equipment, such as high-density microelectrode arrays and behavioral assays, to obtain large-scale experimental data, and make full use of state-of-the-art machine learning and artificial intelligence to characterize and analyze our own data. Based on these experiments, we reveal the dynamics of neural activities and construct mathematical models of the brain.
+
+research:
+  - id: emergent-computing
+    title: Emergent Computing
+    subtitle: Dissociate neuronal culture
+    description: |
+      How does intelligence emerge from a neuronal network in the brain? To address this fundamental question, dissociate neuronal culture may inspire us. In the dissociate culture, neurons seeded onto a petri dish form a network in a self-organizing manner. In addition, this neural network flexibly alters the activities depending on external stimuli and developmental age. Such spatio-temporal activity pattern must be helpful to reveal the design principle of these networks.
+
+      Various innovative technologies are easily applicable in the dissociate culture. For example, we demonstrated that a high-dense CMOS array with 10,000 recording sites within 2 x 2 mm² is able to track the propagation of action potentials within the network. The dissociate culture can be also genetically modified such that photoreceptors and odorant receptors are extrinsically expressed within the network. Such a network may be used as a bio-silicon hybrid sensor.
+
+      Inspired by recent theoretical advances in the field of reservoir computing, we also attempt to use the neuronal culture as a reservoir. A robot embodied by reservoir computing sometimes exhibits complex, living-organism-like behaviors.
+    collaborators:
+      - name: ETH Zurich BEL Lab
+        url: http://www.bsse.ethz.ch/bel/
+      - name: MaxWell Biosystems
+        url: https://www.mxwbio.com/
+      - name: Kohei Nakajima Lab
+        url: https://www.kohei-nakajima.com/
+
+  - id: auditory-system
+    title: Auditory System
+    subtitle: Cortex & thalamus in rodents
+    description: |
+      How does the brain differ from computers when representing external world? How does our conscious perception emerge in the brain, but not in computers? Unlike transistors in computers, each neuron exhibits heterogeneous characteristics. Now, the largest missing link is how such heterogeneous information is integrated. To address this question, we gather "big data" from the cortex in rats with various microelectrode arrays, and analyze them using information theory and machine learning techniques. We also employ behavior experiments to reveal how subjective information such as ongoing conscious perception, preference, emotion, saliency, valence, etc., are encoded in the neural activity patterns of animals.
+
+      Owing to cutting-edge, high-density mapping of neural activities, we are able to characterize precise, local synchrony patterns in the auditory cortex, and are able to investigate the thalamo-cortical interaction in terms of information transfer. Such 'state' of the brain emerging from interaction between top-down and bottom-up activities are more informative than we thought, offering a future direction in a research field of sensory computation.
+    collaborators:
+      - name: NTT Communication Science Labs
+        url: http://www.brl.ntt.co.jp/cs/per/index-j.html
+      - name: Kyoto University Vision Lab
+        url: https://vision.ist.i.kyoto-u.ac.jp/
+
+  - id: epilepsy
+    title: Epilepsy
+    subtitle: Cerebral cortex in rats and humans
+    description: |
+      Epileptic seizure is a disorganized state of the brain. We would like to understand how and why seizures occur, and establish treatments to avoid and control seizures.
+
+      Taking advantage of intra-cortical, high-density mapping, we are investigating functional networks within the brain of epileptic patients and epileptic model of animals. The network properties exhibit long-term fluctuation, which may be critical to predict seizures and to understand pathological conditions of seizure. Of our particular interest is the vagus nerve stimulation (VNS), which may exert modulation in the cortical synchronous activities. VNS is effective not only for seizure inhibition, but also for enhancement of cognitive performance. Thus, by better understanding the mechanism of actions of VNS as well as the mechanisms of seizure, we may gain insights into cortical computation.
+    collaborators:
+      - name: Prof. Kensuke Kawai
+        affiliation: Jichi Medical University
+        url: http://www.jichi.ac.jp/brain/aboutUs/index.html
+      - name: Dr. Naoto Kunii
+        affiliation: University of Tokyo
+
+contact:
+  address:
+    - Engineering Building 2, Room 81B
+    - 7-3-1 Hongo, Bunkyo-ku
+    - Tokyo 113-8656, Japan
+  tel: "+81-3-5841-6318"
+  email: takahashi@i.u-tokyo.ac.jp

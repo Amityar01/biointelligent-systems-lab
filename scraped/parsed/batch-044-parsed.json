@@ -1,0 +1,423 @@
+{
+  "batchId": 44,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "parsedAt": "2026-01-22T02:53:02.040Z",
+  "items": [
+    {
+      "type": "presentation",
+      "title": "非線形動力学に基づく次世代AIと基盤技術に関する研究開発",
+      "authors": [
+        "合原一幸",
+        "高橋宏知 (分担者)",
+        "上田修功",
+        "川鍋一晃"
+      ],
+      "year": null,
+      "conference": "国立研究開発法人日本医療研究開発機構　戦略的国際脳科学研究推進プログラム，2018年度～2023年度",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(25) 合原一幸，高橋宏知 (分担者) ，上田修功，川鍋一晃：「非線形動力学に基づく次世代AIと基盤技術に関する研究開発」，国立研究開発法人日本医療研究開発機構　戦略的国際脳科学研究推進プログラム，2018年度～2023年度",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---ai--1040"
+    },
+    {
+      "type": "presentation",
+      "title": "脳組織によるフィジカル・リザバー計算",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "科学研究費補助金 基盤研究",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(26) 高橋宏知：「脳組織によるフィジカル・リザバー計算」，科学研究費補助金 基盤研究 (B)，2020年度～2022年度",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1041"
+    },
+    {
+      "type": "presentation",
+      "title": "Awareness Musicによる「こころの資本",
+      "authors": [
+        "山脇成人（プロジェクトマネージャー）",
+        "高橋宏知（課題推進者）"
+      ],
+      "year": null,
+      "conference": "ムーンショット型研究開発制度",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(27) 山脇成人（プロジェクトマネージャー），高橋宏知（課題推進者）：「Awareness Musicによる「こころの資本」イノベーションと新リベラルアーツの創出」，ムーンショット型研究開発制度(内閣府)，2022年度～2026年度",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown--awareness-music--1042"
+    },
+    {
+      "type": "presentation",
+      "title": "自由エネルギー原理に基づく脳組織を用いた物理リザバー推論",
+      "authors": [
+        "高橋宏知（代表者）"
+      ],
+      "year": null,
+      "conference": "科学研究費補助金 基盤研究",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(28) 高橋宏知（代表者）：「自由エネルギー原理に基づく脳組織を用いた物理リザバー推論」，科学研究費補助金 基盤研究 (B)，2023年度～2025年度",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1043"
+    },
+    {
+      "type": "presentation",
+      "title": "臨床応用に向けた視床を介する大脳皮質の上行性調節機構の解明",
+      "authors": [
+        "川合謙介",
+        "高橋宏知 (分担者)",
+        "大貫良幸"
+      ],
+      "year": null,
+      "conference": "科学研究費補助金 基盤研究",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(29) 川合謙介，高橋宏知 (分担者) ，大貫良幸：「臨床応用に向けた視床を介する大脳皮質の上行性調節機構の解明」，科学研究費補助金 基盤研究 (B)，2023年度～2025年度",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1044"
+    },
+    {
+      "type": "presentation",
+      "title": "脳刺激型補聴器の実現に向けた、コミュニケーション音声脳内処理機構の解明",
+      "authors": [
+        "伊藤哲史",
+        "高橋宏知 (分担者)",
+        "小野宗範"
+      ],
+      "year": null,
+      "conference": "科学研究費補助金 基盤研究",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(30) 伊藤哲史，高橋宏知 (分担者) ，小野宗範：「脳刺激型補聴器の実現に向けた、コミュニケーション音声脳内処理機構の解明」，科学研究費補助金 基盤研究 (B)，2023年度～2027年度",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1045"
+    },
+    {
+      "type": "presentation",
+      "title": "情報処理容量に基づく音楽クオリア構造と聴覚野情報構造の対応付け",
+      "authors": [
+        "高橋宏知（代表者）"
+      ],
+      "year": null,
+      "conference": "科学研究費補助金 学術変革領域",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(31) 高橋宏知（代表者）：「情報処理容量に基づく音楽クオリア構造と聴覚野情報構造の対応付け」，科学研究費補助金 学術変革領域（A）（公募），2024年度～2025年度，",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1046"
+    },
+    {
+      "type": "presentation",
+      "title": "生成AIを用いた脳情報の逆相関探索と外部デジタル化",
+      "authors": [
+        "池谷裕二",
+        "高橋宏知（分担者）",
+        "山下宙人"
+      ],
+      "year": null,
+      "conference": "国立研究開発法人日本医療研究開発機構　脳神経科学統合プログラム",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(32) 池谷裕二，高橋宏知（分担者），山下宙人：「生成AIを用いた脳情報の逆相関探索と外部デジタル化」，国立研究開発法人日本医療研究開発機構　脳神経科学統合プログラム（個別重点研究課題），2024年度～2029年度",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---ai--1047"
+    },
+    {
+      "type": "presentation",
+      "title": "自発活動を生かした脳の臨界計算",
+      "authors": [
+        "高橋宏知（代表者）"
+      ],
+      "year": null,
+      "conference": "科学研究費補助金 学術変革領域",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(33) 高橋宏知（代表者）：「自発活動を生かした脳の臨界計算」，科学研究費補助金 学術変革領域（A）（公募），2025年度～2026年度\n\n\nメディア発表・取材協力等 (Media)\n\n\n和文",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----1048"
+    },
+    {
+      "title": "「声帯失っても声が戻る」",
+      "authors": [
+        "「声帯失っても声が戻る」"
+      ],
+      "year": 2001,
+      "journal": "日本経済新聞 (朝刊，科学面)",
+      "type": "newspaper",
+      "_source": "ollama",
+      "_raw": "(1) 「声帯失っても声が戻る」, 日本経済新聞 (朝刊，科学面), 2001年3月4日掲載",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: newspaper"
+      ],
+      "id": "2001----1049"
+    },
+    {
+      "title": "声に現れる病気",
+      "authors": [],
+      "year": 2003,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(2) 「声に現れる病気」, BS-i 健康DNA (制作：D組-Project), 2003年12月7日放送",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "2003-unknown---1050"
+    },
+    {
+      "title": "「脳に迫る　米国の人工器官研究　②聴覚」",
+      "authors": [
+        "「脳に迫る　米国の人工器官研究　②聴覚」"
+      ],
+      "year": 2004,
+      "type": "newspaper",
+      "_source": "ollama",
+      "_raw": "(3) 「脳に迫る　米国の人工器官研究　②聴覚」, 朝日新聞 (朝刊，科学面), 2004年8月25日掲載",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: newspaper"
+      ],
+      "id": "2004----1051"
+    },
+    {
+      "title": "「脳に迫る　米国の人工器官研究　④神経回路」",
+      "authors": [
+        "「脳に迫る　米国の人工器官研究　④神経回路」"
+      ],
+      "year": 2004,
+      "journal": "朝日新聞 (朝刊，科学面)",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(4) 「脳に迫る　米国の人工器官研究　④神経回路」, 朝日新聞 (朝刊，科学面), 2004年9月14日掲載",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2004----1052"
+    },
+    {
+      "title": "Focus 知能機械情報学専攻　講師に聞く 『障害のある人の治療に役立つものを作りたい』",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2005,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(5) 「Focus 知能機械情報学専攻　高橋宏知　講師に聞く 『障害のある人の治療に役立つものを作りたい』」, 東大情報理工ARAプログラム メールマガジン 第45号, 2005年2月23日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2005--focus--1053"
+    },
+    {
+      "title": "「News02 音に対する聴覚神経の応答特性を別の刺激で書き換える，高橋講師ら」",
+      "authors": [
+        "「News02 音に対する聴覚神経の応答特性を別の刺激で書き換える，高橋講師ら」"
+      ],
+      "year": 2005,
+      "journal": "東大情報理工ARAプログラム メールマガジン 第50号",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(6) 「News02 音に対する聴覚神経の応答特性を別の刺激で書き換える，高橋講師ら」, 東大情報理工ARAプログラム メールマガジン 第50号, 2005年5月11日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2005-news02--news02--1054"
+    },
+    {
+      "title": "東大情報理工ARAプログラム メールマガジン 第50号",
+      "authors": [
+        "News03 脳幹の電気刺激で聴覚を補助するABI研究に新しい知見，高橋講師ら"
+      ],
+      "year": 2005,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(7) 「News03 脳幹の電気刺激で聴覚を補助するABI研究に新しい知見，高橋講師ら」, 東大情報理工ARAプログラム メールマガジン 第50号, 2005年5月11日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2005-news03abi--ara-50--1055"
+    },
+    {
+      "title": "「超微細電極による脳機能の多点実時間計測」",
+      "authors": [
+        "「超微細電極による脳機能の多点実時間計測」"
+      ],
+      "year": 2004,
+      "journal": "東京大学21世紀COEプログラム機械システムイノベーションNewsletter",
+      "issue": "No. 3",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(8) 「超微細電極による脳機能の多点実時間計測」，東京大学21世紀COEプログラム機械システムイノベーションNewsletter，No. 3，2004年11月1日発行",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2004----1056"
+    },
+    {
+      "title": "サイボーグ技術が人類を変える",
+      "authors": [
+        "立花隆"
+      ],
+      "year": 2005,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(9) 「NHKスペシャル　立花隆　最前線報告　サイボーグ技術が人類を変える」，NHKスペシャル，2005年11月5日放送",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2005----1057"
+    },
+    {
+      "title": "BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第1回体と機械が融合する",
+      "authors": [
+        "立花隆"
+      ],
+      "year": 2005,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(10) 「BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第1回体と機械が融合する」，衛星第一BSドキュメンタリー，2005年12月3日放送",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2005--bs-1--1058"
+    },
+    {
+      "title": "「BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第2回脳をどこまで変えるのか」",
+      "authors": [
+        "立花隆"
+      ],
+      "year": 2005,
+      "journal": "衛星第一BSドキュメンタリー",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(11) 「BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第2回脳をどこまで変えるのか」，衛星第一BSドキュメンタリー，2005年12月10日放送",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2005---bs-2--1059"
+    },
+    {
+      "title": "ハイビジョン特集　サイボーグ革命ロボットと人間の融合",
+      "authors": [
+        "ハイビジョン特集　サイボーグ革命ロボットと人間の融合"
+      ],
+      "year": 2006,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(12) 「ハイビジョン特集　サイボーグ革命ロボットと人間の融合」，衛星ハイビジョン，2006年1月19日放送",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2006----1060"
+    },
+    {
+      "title": "光アドレス電極を応用した細胞-環境系のマルチスケール計測・制御",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2009,
+      "journal": "Newletter 東京大学ナノバイオ・インテグレーション研究拠点 NANOBIO",
+      "volume": "10",
+      "pages": "12",
+      "type": "journal",
+      "_source": "ollama",
+      "_raw": "(13) 「若手研究者から　高橋宏知　『光アドレス電極を応用した細胞-環境系のマルチスケール計測・制御』，Newletter 東京大学ナノバイオ・インテグレーション研究拠点 NANOBIO 10: p. 12, 2009",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2009----1061"
+    },
+    {
+      "title": "東大　神経細胞１つずつ制御",
+      "authors": [
+        "東大　神経細胞１つずつ制御"
+      ],
+      "year": 2009,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(14) 「東大　神経細胞１つずつ制御」，日経産業新聞 (11面)，2009年6月17日掲載",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2009----1062"
+    },
+    {
+      "title": "「学習開始時の脳　神経細胞活発に」",
+      "authors": [
+        "「学習開始時の脳　神経細胞活発に」"
+      ],
+      "year": 2013,
+      "journal": "日本経済新聞 (朝刊11面)",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(15) 「学習開始時の脳　神経細胞活発に」，日本経済新聞 (朝刊11面)，2013年7月16日",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1063"
+    },
+    {
+      "title": "効果的な学習方法解明に一歩前進、学習能力の源泉は『ダーウィニズム』",
+      "authors": [
+        "効果的な学習方法解明に一歩前進、学習能力の源泉は『ダーウィニズム』"
+      ],
+      "year": 2013,
+      "journal": "Yahoo Japan ニュース（ライフ）",
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(16) 「効果的な学習方法解明に一歩前進、学習能力の源泉は『ダーウィニズム』」，Yahoo Japan ニュース（ライフ），2013年7月12日(金)14時10分配信 (リセマム)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013----1064"
+    }
+  ]
+}

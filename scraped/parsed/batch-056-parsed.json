@@ -1,0 +1,510 @@
+{
+  "batchId": 56,
+  "category": "poster",
+  "categoryTitle": "ポスター発表 (Poster Presentation)",
+  "parsedAt": "2026-01-22T02:58:23.231Z",
+  "items": [
+    {
+      "title": "モデルフリーとモデルベース戦略によるラットの行動選択",
+      "authors": [
+        "船水章大",
+        "伊藤真",
+        "銅谷賢治",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2010,
+      "journal": "Neuro2010",
+      "volume": "P1-m25",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(26) 船水章大，伊藤真，銅谷賢治，神崎亮平，高橋宏知: 「モデルフリーとモデルベース戦略によるラットの行動選択」，Neuro2010: P1-m25, 2010 (神戸，2010年9月2日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2010----1331"
+    },
+    {
+      "title": "音脈分凝に関わる聴皮質の刺激同期性",
+      "authors": [
+        "野田貴大",
+        "高橋宏知",
+        "神崎亮平"
+      ],
+      "year": 2010,
+      "journal": "Neuro2010",
+      "pages": "P2-i13",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(27) 野田貴大，高橋宏知，神崎亮平: 「音脈分凝に関わる聴皮質の刺激同期性」，Neuro2010: P2-i13, 2010 (神戸，2010年9月2日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2010----1332"
+    },
+    {
+      "title": "ラット聴皮質でのミスマッチネガティビティ様反応の神経起源",
+      "authors": [
+        "磯口知世",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2010,
+      "journal": "Neuro2010",
+      "volume": "P2-i14",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(28) 磯口知世，神崎亮平，高橋宏知：「ラット聴皮質でのミスマッチネガティビティ様反応の神経起源」，Neuro2010: P2-i14, 2010 (神戸，2010年9月2日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2010----1333"
+    },
+    {
+      "title": "Uncertainty-seeking in rats' choice behaviors and its dependence on reward context",
+      "authors": [
+        "Akihiro Funamizu",
+        "Makoto Ito",
+        "Kenji Doya",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2011,
+      "journal": "The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会)",
+      "pages": "#P3-n04",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(29) Akihiro Funamizu, Makoto Ito, Kenji Doya, Ryohei Kanzaki, Hirokazu Takahashi: “Uncertainty-seeking in rats' choice behaviors and its dependence on reward context.” The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会): #P3-n04, 2011 (横浜，2011年9月14日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2011-akihirofunamizu-uncertainty-seeking-in-rats-ch-1334"
+    },
+    {
+      "title": "The feasibility study of novel odor biosensor using dissociate neuronal culture expressing ion channel built-in odor receptors.",
+      "authors": [
+        "Norio Tanada",
+        "Takeshi Sakurai",
+        "Hidefumi Mitsuno",
+        "Douglous Bakkum",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2011,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(30) Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglous Bakkum, Ryohei Kanzaki, Hirokazu Takahashi: “The feasibility study of novel odor biosensor using dissociate neuronal culture expressing ion channel built-in odor receptors.” The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会): #P3-u09, 2011 (横浜，2011年9月14日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2011-noriotanada-the-feasibility-study-of-novel-1335"
+    },
+    {
+      "title": "Information processing for acoustic saliency and emotional valence of sound in rat auditory cortex",
+      "authors": [
+        "Tomoyo Isoguchi",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2011,
+      "journal": "The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会)",
+      "pages": "#P4-j01",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(31) Tomoyo Isoguchi, Ryohei Kanzaki, Hirokazu Takahashi: “Information processing for acoustic saliency and emotional valence of sound in rat auditory cortex.” The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会): #P4-j01, 2011 (横浜，2011年9月14日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2011-tomoyoisoguchi-information-processing-for-aco-1336"
+    },
+    {
+      "title": "Substructure of functional network in auditory cortex for stream segregagtion.",
+      "authors": [
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2011,
+      "journal": "The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会)",
+      "pages": "#P4-j02",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(32) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Substructure of functional network in auditory cortex for stream segregagtion.” The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会): #P4-j02, 2011 (横浜，2011年9月14日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2011-takahironoda-substructure-of-functional-net-1337"
+    },
+    {
+      "title": "Measurement of Action Potentials of Dissociated Cultured Neurons by High Density CMOS Array and Network Analysis",
+      "authors": [
+        "Takeshi Mita",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Andreas Hierlemann",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2011,
+      "journal": "The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会)",
+      "pages": "#P4-v08",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(33) Takeshi Mita, Douglas Bakkum, Urs Frey, Andreas Hierlemann, Ryohei Kanzaki, Hirokazu Takahashi: “Measurement of Action Potentials of Dissociated Cultured Neurons by High Density CMOS Array and Network Analysis.” The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会): #P4-v08, 2011 (横浜，2011年9月14日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2011-takeshimita-measurement-of-action-potentia-1338"
+    },
+    {
+      "title": "てんかん脳の高振幅皮質脳波における神経活動の雪崩現象",
+      "authors": [
+        "李夏栄",
+        "川合謙介",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "journal": "神経オシレーションカンファレンス",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(34) 李夏栄、川合謙介，神崎亮平， 高橋宏知：「てんかん脳の高振幅皮質脳波における神経活動の雪崩現象」，神経オシレーションカンファレンス: #P09, 2012 (岡崎，2012年7月12日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2012----1339"
+    },
+    {
+      "title": "ラットの選択行動における状況横断的な報酬予測",
+      "authors": [
+        "船水章大",
+        "伊藤真",
+        "銅谷賢治",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(35) 船水章大，伊藤真，銅谷賢治，神崎亮平，高橋宏知：「ラットの選択行動における状況横断的な報酬予測」，2012年度 包括脳ネットワーク夏のワークショップ (仙台，2012年7月24日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2012----1340"
+    },
+    {
+      "title": "Emotional valence of sound represented in phase locking value of local field potentials in rat auditory cortex",
+      "authors": [
+        "Tomoyo Isoguchi",
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2012,
+      "journal": "The 35th Annual Meeting of the Japan Neuroscience Society (第35回日本神経科学大会)",
+      "volume": "",
+      "issue": "",
+      "pages": "#P4-f06",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(36) Tomoyo Isoguchi, Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Emotional valence of sound represented in phase locking value of local field potentials in rat auditory cortex.” The 35th Annual Meeting of the Japan Neuroscience Society (第35回日本神経科学大会): #P4-f06, 2012 (名古屋，2012年9月18日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2012-tomoyoisoguchi-emotional-valence-of-sound-rep-1341"
+    },
+    {
+      "title": "Synchronization between neuronal ensembles for auditory stream segregation in auditory cortex of the awake rat",
+      "authors": [
+        "Takahiro Noda",
+        "Hirokazu Takahashi",
+        "Ryohei Kanzaki"
+      ],
+      "year": 2012,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(37) Takahiro Noda, Hirokazu Takahashi, Ryohei Kanzaki: “Synchronization between neuronal ensembles for auditory stream segregation in auditory cortex of the awake rat.” The 35th Annual Meeting of the Japan Neuroscience Society (第35回日本神経科学大会): #P4-f04, 2012 (名古屋，2012年9月18日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2012-takahironoda-synchronization-between-neuron-1342"
+    },
+    {
+      "title": "迷走神経刺激の大脳皮質活動に及ぼす影響 - ラット迷走神経刺激モデルを用いて -",
+      "authors": [
+        "宇佐美憲一",
+        "川合謙介",
+        "高橋宏知",
+        "狩野竜示",
+        "野田貴大",
+        "磯口知世",
+        "斉藤延人"
+      ],
+      "year": 2012,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(38) 宇佐美憲一，川合謙介，高橋宏知，狩野竜示，野田貴大，磯口知世，斉藤延人：「迷走神経刺激の大脳皮質活動に及ぼす影響 - ラット迷走神経刺激モデルを用いて -」，日本脳神経外科学会第71回学術総会 (大阪，2012年10月17日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2012----1343"
+    },
+    {
+      "title": "昆虫の視覚ナビゲーションの解析のための仮想環境を用いた行動実験手法の開発",
+      "authors": [
+        "岡佳史",
+        "安藤規泰",
+        "高橋宏知",
+        "神崎亮平"
+      ],
+      "year": 2013,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(39) 岡佳史，安藤規泰，高橋宏知，神崎亮平：「昆虫の視覚ナビゲーションの解析のための仮想環境を用いた行動実験手法の開発」，日本動物学会第65回関東支部大会（東京，2013年3月16日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1344"
+    },
+    {
+      "title": "昆虫の衝突回避行動解析のための全方位VR提示装置の開発",
+      "authors": [
+        "橋本遼太朗",
+        "安藤規泰",
+        "高橋宏知",
+        "神崎亮平"
+      ],
+      "year": 2013,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(40) 橋本遼太朗，安藤規泰，高橋宏知，神崎亮平：「昆虫の衝突回避行動解析のための全方位VR提示装置の開発」，日本動物学会第65回関東支部大会（東京，2013年3月16日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2013---vr--1345"
+    },
+    {
+      "title": "音脈分凝にかかわる聴覚野の機能的サブネットワーク構造の抽出 (Extraction of functional subnetwork structure for auditory stream segregation in auditory cortex)",
+      "authors": [
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "journal": "Neuro2013 (第36回日本神経科学大会)",
+      "volume": "",
+      "issue": "",
+      "pages": "#P1-1-115",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(41) 野田貴大，神崎亮平，高橋宏知: 「音脈分凝にかかわる聴覚野の機能的サブネットワーク構造の抽出 (Extraction of functional subnetwork structure for auditory stream segregation in auditory cortex)」，Neuro2013 (第36回日本神経科学大会): #P1-1-115, 2013 (京都，2013年6月20日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2013---extraction-of-functional-subn-1346"
+    },
+    {
+      "title": "和音の協和度がラット聴皮質の位相同期に及ぼす影響 (Modulation of the chord consonance on phase synchrony in the rat auditory cortex)",
+      "authors": [
+        "白松–磯口知世",
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "journal": "Neuro2013 (第36回日本神経科学大会)",
+      "pages": "#P1-1-120",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(42) 白松–磯口知世，野田貴大，神崎亮平，高橋宏知：「和音の協和度がラット聴皮質の位相同期に及ぼす影響 (Modulation of the chord consonance on phase synchrony in the rat auditory cortex)」，Neuro2013 (第36回日本神経科学大会): #P1-1-120, 2013 (京都，2013年6月20日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2013---modulation-of-the-chord-conso-1347"
+    },
+    {
+      "title": "ラット聴皮質における音列抽出に関わる神経活動 (Neural correlates of perceptual grouping of tone sequences in rat auditory cortex)",
+      "authors": [
+        "雨宮知樹",
+        "野田貴大",
+        "白松（磯口）知世",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "journal": "Neuro2013 (第36回日本神経科学大会)",
+      "volume": "",
+      "issue": "",
+      "pages": "#P1-1-132",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(43) 雨宮知樹，野田貴大，白松（磯口）知世，神崎亮平，高橋宏知：「ラット聴皮質における音列抽出に関わる神経活動 (Neural correlates of perceptual grouping of tone sequences in rat auditory cortex)」，Neuro2013 (第36回日本神経科学大会): #P1-1-132, 2013 (京都，2013年6月20日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2013---neural-correlates-of-perceptu-1348"
+    },
+    {
+      "title": "高密度CMOSアレイ上の神経回路網の解析へ向けた分散培養神経細胞の細胞体位置の推定及び手法 (Estimation of Neuronal Somata Location and Methods toward Neuronal Network Analysis of Dissociated Cultured Neurons on High-density CMOS Microelectrode Arrays)",
+      "authors": [
+        "三田毅",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Andreas Hierlemann",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "journal": "Neuro2013 (第36回日本神経科学大会)",
+      "volume": "",
+      "issue": "",
+      "pages": "#P3-2-248",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(44) 三田毅，Douglas Bakkum，Urs Frey，Andreas Hierlemann，神崎亮平，高橋宏知：「高密度CMOSアレイ上の神経回路網の解析へ向けた分散培養神経細胞の細胞体位置の推定及び手法 (Estimation of Neuronal Somata Location and Methods toward Neuronal Network Analysis of Dissociated Cultured Neurons on High-density CMOS Microelectrode Arrays)」，Neuro2013 (第36回日本神経科学大会): #P3-2-248, 2013 (京都，2013年6月20日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2013---cmos-estimation-of-neuronal-s-1349"
+    },
+    {
+      "title": "課題条件に応じた行動選択時のラットの前頭前野と背側線条体の役割 (Role of prefrontal and striatal neurons in task-condition-dependent action selection of rat)",
+      "authors": [
+        "船水章大",
+        "伊藤真",
+        "銅谷賢治",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "journal": "Neuro2013 (第36回日本神経科学大会)",
+      "pages": "#P3-2-64",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(45) 船水章大，伊藤真，銅谷賢治，神崎亮平，高橋宏知：「課題条件に応じた行動選択時のラットの前頭前野と背側線条体の役割 (Role of prefrontal and striatal neurons in task-condition-dependent action selection of rat)」，Neuro2013 (第36回日本神経科学大会): #P3-2-64, 2013 (京都，2013年6月20日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2013---role-of-prefrontal-and-striat-1350"
+    },
+    {
+      "title": "Oscillation in rat auditory cortex representing emotional value of sound and texture of chord",
+      "authors": [
+        "白松–磯口知世",
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "journal": "神経オシレーションカンファレンス",
+      "pages": null,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(46) 白松–磯口知世，野田貴大，神崎亮平，高橋宏知：「Oscillation in rat auditory cortex representing emotional value of sound and texture of chord」，神経オシレーションカンファレンス, 2013 (岡崎，2012年7月18日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2013--oscillation-in-rat-auditory-co-1351"
+    },
+    {
+      "title": "迷走神経刺激による大脳皮質神経活動の同期度変化",
+      "authors": [
+        "宇佐美憲一",
+        "川合謙介",
+        "高橋宏知",
+        "狩野竜示",
+        "野田貴大",
+        "白松知世",
+        "國井尚人",
+        "斉藤延人"
+      ],
+      "year": 2013,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(47) 宇佐美憲一，川合謙介，高橋宏知，狩野竜示，野田貴大，白松知世，國井尚人，斉藤延人：「迷走神経刺激による大脳皮質神経活動の同期度変化」，第47回日本てんかん学会学術集会, 2013 (北九州，2013年10月11日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1352"
+    },
+    {
+      "title": "二音和音の協和性と三音和音の調性を表現する聴皮質の神経活動",
+      "authors": [
+        "白松(磯口)知世",
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2014,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(48) 白松(磯口)知世，野田貴大，神崎亮平，高橋宏知：「二音和音の協和性と三音和音の調性を表現する聴皮質の神経活動」，音学シンポジウム2014: ポスター#77, 2014 (東京，2014年5月24日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2014----1353"
+    },
+    {
+      "title": "ケージド化合物を用いた光刺激による神経細胞分散培養系の活動制御",
+      "authors": [
+        "安田秀策",
+        "矢田祐一郎",
+        "三田毅",
+        "神﨑亮平",
+        "高橋宏知"
+      ],
+      "year": 2014,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(49) 安田秀策，矢田祐一郎，三田毅，神﨑亮平，高橋宏知：「ケージド化合物を用いた光刺激による神経細胞分散培養系の活動制御」平成26年電気学会 電子・情報・システム部門大会講演論文集: pp. 1850-1851, 2014 (島根，2014年9月3日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2014----1354"
+    },
+    {
+      "title": "中脳ドーパミン系がラット聴覚野の神経活動に及ぼす影響",
+      "authors": [
+        "曾我遼",
+        "白松（磯口）知世",
+        "神崎亮平",
+        "高橋宏知"
+      ],
+      "year": 2014,
+      "journal": "平成26年電気学会 電子・情報・システム部門大会講演論文集",
+      "pages": "1843-1844",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(50) 曾我遼，白松（磯口）知世，神崎 亮平，高橋 宏知：「中脳ドーパミン系がラット聴覚野の神経活動に及ぼす影響」平成26年電気学会 電子・情報・システム部門大会講演論文集: pp. 1843-1844, 2014 (島根，2014年9月3日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2014----1355"
+    }
+  ]
+}

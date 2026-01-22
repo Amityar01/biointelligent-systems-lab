@@ -1,0 +1,1176 @@
+title:
+  ja: "ポスター発表"
+  en: "Poster Presentations"
+posters:
+  -
+    id: "poster-1"
+    title:
+    ja: "蝸牛神経核の腹側部と背側部の微小電気刺激に対する聴皮質反応"
+    en: "Microelectric stimulation of the ventral and dorsal parts of the snail's nerve nucleus elicits auditory cortex responses"
+    authors:
+    - "高橋宏知"
+    - "中尾政之"
+    - "加我君孝:"
+    year: 2005
+  -
+    id: "poster-2"
+    title:
+    ja: "発火電位と局所電場電位の同時計測による神経反応の特徴抽出"
+    en: "Feature extraction of neural responses through simultaneous measurement of action potential and local electric field potential"
+    authors:
+    - "硯川潤"
+    - "高橋宏知"
+    - "久田幸平"
+    - "中尾政之"
+    - "加我君孝:"
+    year: 2005
+  -
+    id: "poster-3"
+    title:
+    ja: "極細ワイヤ探針を利用した血管内神経信号計測"
+    en: "Using an ultra-fine wire probe for intravascular neural signal measurement"
+    authors:
+    - "渡辺裕文"
+    - "高橋宏知"
+    - "中尾政之"
+    - "Kerry Walton"
+    - "Rodolfo R.Llinás:"
+    year: 2005
+  -
+    id: "poster-4"
+    title:
+    ja: "口唇形状の変化を検出するセンサとそれを応用した発声システムの開発"
+    en: "Developing a sensor for detecting changes in lip shape and an articulation system applied from it"
+    authors:
+    - "津田欣哉"
+    - "高橋宏知"
+    - "中尾政之"
+    - "加我君孝:"
+    year: 2005
+  -
+    id: "poster-5"
+    title:
+    ja: "培養神経細胞を選択的に刺激するためのアモルファスシリコンを用いた表面電極の開発"
+    en: "Development of a surface electrode using amorphous silicon for selectively stimulating cultured neurons"
+    authors:
+    - "硯川潤"
+    - "高山祐三"
+    - "横田亮"
+    - "割澤伸一"
+    - "光石衛"
+    - "中尾政之"
+    - "高橋宏知"
+    - "神保泰彦:"
+    year: 2006
+  -
+    id: "poster-6"
+    title:
+    ja: "聴皮質の時空間的な神経活動から音情報を復元するための翻訳アルゴリズムの開発"
+    en: "Development of a translation algorithm for recovering audio information from spatiotemporal neural activity in the auditory cortex"
+    authors:
+    - "内原匡信"
+    - "船水章大"
+    - "横田亮"
+    - "硯川潤"
+    - "神崎亮平"
+    - "高橋宏知:"
+    year: 2006
+  -
+    id: "poster-7"
+    title:
+    ja: "学習による聴皮質の時空間的神経活動の状況依存的な可塑性"
+    en: "Learning-dependent plasticity of neural activity in auditory cortex due to context dependence of spatiotemporal aspects"
+    authors:
+    - "船水章大"
+    - "内原匡信"
+    - "横田亮"
+    - "硯川潤"
+    - "神崎亮平"
+    - "高橋宏知:"
+    year: 2006
+  -
+    id: "poster-8"
+    title:
+    ja: "微小電気刺激による聴皮質の機能構造の書き換え技術の開発"
+    en: "Development of technology for rewriting the functional structure of the auditory cortex with microelectric stimulation"
+    authors:
+    - "横田亮"
+    - "硯川潤"
+    - "船水章大"
+    - "内原匡信"
+    - "神崎亮平"
+    - "高橋宏知:"
+    year: 2006
+  -
+    id: "poster-9"
+    title:
+    ja: "光アドレス電極を用いた培養神経細胞の大面積刺激"
+    en: "Large-scale stimulation of cultured neural cells using an optical address electrode"
+    authors:
+    - "硯川潤"
+    - "高橋宏知"
+    - "神﨑亮平"
+    - "中尾政之"
+    - "神保泰彦:"
+    year: 2006
+  -
+    id: "poster-10"
+    title:
+    ja: "脳神経系解明のための情報学・工学・生物学の融合的アプローチ"
+    en: "An integrated approach of informatics, engineering, and biology for understanding the nervous system."
+    authors:
+    - "神崎亮平"
+    - "高橋宏知"
+    - "安藤規泰："
+    year: 2006
+  -
+    id: "poster-11"
+    title:
+    ja: "ラット聴皮質における時空間的神経活動の状況依存的な可塑性"
+    en: "The state-dependent plasticity of neural activity in rat temporal cortex for space-time."
+    authors:
+    - "船水章大"
+    - "内原匡信"
+    - "神崎亮平"
+    - "高橋宏知:"
+    year: 2007
+  -
+    id: "poster-12"
+    title:
+    ja: "光アドレス電極を用いた電気刺激とそれで誘発される培養神経回路の応答"
+    en: "Electric stimulation using a light address electrode and the response of the cultured neural circuits induced thereby"
+    authors:
+    - "硯川潤"
+    - "中尾政之"
+    - "神﨑亮平"
+    - "神保泰彦"
+    - "高橋宏知:"
+    year: 2007
+  -
+    id: "poster-13"
+    title:
+    ja: "相互情報量を用いた学習による聴皮質可塑性の解析"
+    en: "Analysis of auditory cortex plasticity using mutual information-based learning"
+    authors:
+    - "横田亮"
+    - "硯川潤"
+    - "船水章大"
+    - "内原匡信"
+    - "神崎亮平"
+    - "高橋宏知:"
+    year: 2007
+  -
+    id: "poster-14"
+    title:
+    ja: "高速プロジェクタを用いたマルハナバチの衝突回避行動の解析"
+    en: "Analysis of honeybee collision avoidance behavior using a high-speed projector"
+    authors:
+    - "杉山忠尚"
+    - "安藤規泰"
+    - "高橋宏知"
+    - "神崎亮平:"
+    year: 2007
+  -
+    id: "poster-15"
+    title:
+    ja: "学習による聴皮質の状況依存的な情報表現の誘導"
+    en: "Induction of information expression in auditory cortex based on learning and context dependence"
+    authors:
+    - "船水章大"
+    - "古瀬秀和"
+    - "神崎亮平"
+    - "高橋宏知:"
+    year: 2008
+  -
+    id: "poster-16"
+    title:
+    ja: "統合脳"
+    en: "Integrated brain"
+    authors:
+    - "Akihiro Funamizu"
+    - "Ryohei Kanzaki"
+    year: 2008
+  -
+    id: "poster-17"
+    title:
+    ja: "昆虫操縦型ロボットを用いたカイコガ匂い源定位行動の適応性の評価"
+    en: "Assessment of adaptability in honeybee odor source localization behavior using insect manipulation-type robots"
+    authors:
+    - "安藤規泰"
+    - "江本周平"
+    - "高橋宏知"
+    - "神崎亮平："
+    year: 2008
+  -
+    id: "poster-18"
+    title:
+    ja: "モデルフリーとモデルベース強化学習を用いたラットの行動解析"
+    en: "Analysis of rat behavior using model-free and model-based reinforcement learning"
+    authors:
+    - "船水章大"
+    - "伊藤真"
+    - "銅谷賢治"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2009
+  -
+    id: "poster-19"
+    title:
+    ja: "交替音系列に対する聴皮質の特徴的な生理応答"
+    en: "Distinct physiological response of the auditory cortex to interlace sound series"
+    authors:
+    - "野田貴大"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2009
+  -
+    id: "poster-20"
+    title:
+    ja: "マルハナバチの視覚情報による衝突回避行動の解析"
+    en: "Analysis of mariana bee's collision avoidance behavior based on visual information"
+    authors:
+    - "安藤規泰"
+    - "佐野泰仁"
+    - "安藤敏之"
+    - "高橋宏知"
+    - "神崎亮平:"
+    year: 2009
+  -
+    id: "poster-21"
+    title:
+    ja: "ラット自由選択課題における行動価値の不確実性"
+    en: "Uncertainty in the value of behavior in the rat free choice task"
+    authors:
+    - "船水章大"
+    - "伊藤真"
+    - "銅谷賢治"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2010
+  -
+    id: "poster-22"
+    title:
+    ja: "光アドレス電極を応用した細胞-環境のマルチスケール計測・制御"
+    en: "Application of light address electrodes for multi-scale measurement and control of cell-environment interactions"
+    authors:
+    - "高橋宏知："
+    year: 2010
+  -
+    id: "poster-23"
+    title:
+    ja: "神経細胞の分散培養系にイオンチャネル一体型嗅覚受容体を発現させた新規匂いバイオセンサー"
+    en: "A novel olfactory biosensor that allows the expression of an ion channel-integrated olfactory receptor in a neuroblast-derived culture system."
+    authors:
+    - "棚田法男"
+    - "櫻井健志"
+    - "光野秀文"
+    - "Daglas Bakkum"
+    - "神埼亮平"
+    - "高橋宏知："
+    year: 2010
+  -
+    id: "poster-24"
+    title:
+    ja: "高密度CMOS 電極アレイを用いた分散培養系の神経活動の解析"
+    en: "Analysis of neural activity in a distributed culture system using high-density CMOS electrode arrays"
+    authors:
+    - "Bakkum Douglas"
+    - "三田毅"
+    - "Frey Urs"
+    - "Hierlemann Andreas"
+    - "神崎亮平"
+    - "高橋宏知:"
+    year: 2010
+  -
+    id: "poster-25"
+    title:
+    ja: "ラットの選択行動における報酬予測の不確実性"
+    en: "Uncertainty in reward prediction for rats' selective behavior"
+    authors:
+    - "船水章大"
+    - "伊藤真"
+    - "銅谷賢治"
+    - "神崎亮平"
+    - "高橋宏知:"
+    year: 2010
+  -
+    id: "poster-26"
+    title:
+    ja: "モデルフリーとモデルベース戦略によるラットの行動選択"
+    en: "Model-free and model-based strategies in rat behavior selection"
+    authors:
+    - "船水章大"
+    - "伊藤真"
+    - "銅谷賢治"
+    - "神崎亮平"
+    - "高橋宏知:"
+    year: 2010
+  -
+    id: "poster-27"
+    title:
+    ja: "音脈分凝に関わる聴皮質の刺激同期性"
+    en: "Related to auditory cortex stimulation synchronicity in pitch and rhythm differentiation"
+    authors:
+    - "野田貴大"
+    - "高橋宏知"
+    - "神崎亮平:"
+    year: 2010
+  -
+    id: "poster-28"
+    title:
+    ja: "ラット聴皮質でのミスマッチネガティビティ様反応の神経起源"
+    en: "A neural origin of mismatch negativity-like response in rat auditory cortex"
+    authors:
+    - "磯口知世"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2010
+  -
+    id: "poster-34"
+    title:
+    ja: "てんかん脳の高振幅皮質脳波における神経活動の雪崩現象"
+    en: "The avalanche phenomenon of neural activity in the high-amplitude cortical brain waves of epilepsy patients."
+    authors:
+    - "李夏栄"
+    - "川合謙介"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2012
+  -
+    id: "poster-35"
+    title:
+    ja: "ラットの選択行動における状況横断的な報酬予測"
+    en: "Cross-situational reward prediction in rat's choice behavior"
+    authors:
+    - "船水章大"
+    - "伊藤真"
+    - "銅谷賢治"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2012
+  -
+    id: "poster-38"
+    title:
+    ja: "迷走神経刺激の大脳皮質活動に及ぼす影響 - ラット迷走神経刺激モデルを用いて -"
+    en: "The effect on cerebral cortex activity due to vagus nerve stimulation - Using a rat vagus nerve stimulation model -"
+    authors:
+    - "宇佐美憲一"
+    - "川合謙介"
+    - "高橋宏知"
+    - "狩野竜示"
+    - "野田貴大"
+    - "磯口知世"
+    - "斉藤延人："
+    year: 2012
+  -
+    id: "poster-39"
+    title:
+    ja: "昆虫の視覚ナビゲーションの解析のための仮想環境を用いた行動実験手法の開発"
+    en: "Development of behavioral experiment methods using a virtual environment for analysis of insect visual navigation"
+    authors:
+    - "岡佳史"
+    - "安藤規泰"
+    - "高橋宏知"
+    - "神崎亮平："
+    year: 2013
+  -
+    id: "poster-40"
+    title:
+    ja: "昆虫の衝突回避行動解析のための全方位VR提示装置の開発"
+    en: "Development of a comprehensive VR prompting device for analyzing insect collision avoidance behavior"
+    authors:
+    - "橋本遼太朗"
+    - "安藤規泰"
+    - "高橋宏知"
+    - "神崎亮平："
+    year: 2013
+  -
+    id: "poster-41"
+    title:
+    ja: "音脈分凝にかかわる聴覚野の機能的サブネットワーク構造の抽出 (Extraction of functional subnetwork structure for auditory stream segregation in auditory cortex)"
+    en: "Extraction of functional subnetwork structure for auditory stream segregation in auditory cortex"
+    authors:
+    - "野田貴大"
+    - "神崎亮平"
+    - "高橋宏知:"
+    year: 2013
+  -
+    id: "poster-42"
+    title:
+    ja: "和音の協和度がラット聴皮質の位相同期に及ぼす影響 (Modulation of the chord consonance on phase synchrony in the rat auditory cortex)"
+    en: "The effect of chord consonance on phase synchronization in the rat auditory cortex"
+    authors:
+    - "白松–磯口知世"
+    - "野田貴大"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2013
+  -
+    id: "poster-43"
+    title:
+    ja: "ラット聴皮質における音列抽出に関わる神経活動 (Neural correlates of perceptual grouping of tone sequences in rat auditory cortex)"
+    en: "Neural activity related to the extraction of tone sequences in the rat auditory cortex"
+    authors:
+    - "雨宮知樹"
+    - "野田貴大"
+    - "白松（磯口）知世"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2013
+  -
+    id: "poster-44"
+    title:
+    ja: "高密度CMOSアレイ上の神経回路網の解析へ向けた分散培養神経細胞の細胞体位置の推定及び手法 (Estimation of Neuronal Somata Location and Methods toward Neuronal Network Analysis of Dissociated Cultured Neurons on High-density CMOS Microelectrode Arrays)"
+    en: "Estimation of neuronal soma locations and methods for analyzing neuronal networks of dissociated cultured neurons on high-density CMOS microelectrode arrays"
+    authors:
+    - "三田毅"
+    - "Douglas Bakkum"
+    - "Urs Frey"
+    - "Andreas Hierlemann"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2013
+  -
+    id: "poster-45"
+    title:
+    ja: "課題条件に応じた行動選択時のラットの前頭前野と背側線条体の役割 (Role of prefrontal and striatal neurons in task-condition-dependent action selection of rat)"
+    en: "The role of prefrontal and striatal neurons in the task-condition-dependent action selection of rats"
+    authors:
+    - "船水章大"
+    - "伊藤真"
+    - "銅谷賢治"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2013
+  -
+    id: "poster-46"
+    title: "Oscillation in rat auditory cortex representing emotional value of sound and texture of chord"
+    authors:
+    - "白松–磯口知世"
+    - "野田貴大"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2013
+  -
+    id: "poster-47"
+    title:
+    ja: "迷走神経刺激による大脳皮質神経活動の同期度変化"
+    en: "The degree of synchronization change in cerebral cortex neural activity induced by vagal nerve stimulation"
+    authors:
+    - "宇佐美憲一"
+    - "川合謙介"
+    - "高橋宏知"
+    - "狩野竜示"
+    - "野田貴大"
+    - "白松知世"
+    - "國井尚人"
+    - "斉藤延人："
+    year: 2013
+  -
+    id: "poster-48"
+    title:
+    ja: "二音和音の協和性と三音和音の調性を表現する聴皮質の神経活動"
+    en: "The neural activity of the auditory cortex that expresses the consonance of dyadic harmony and the tonality of triadic harmony."
+    authors:
+    - "白松(磯口)知世"
+    - "野田貴大"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2014
+  -
+    id: "poster-49"
+    title:
+    ja: "ケージド化合物を用いた光刺激による神経細胞分散培養系の活動制御"
+    en: "Activity control of a neural cell suspension culture using light stimulation with cage compounds"
+    authors:
+    - "安田秀策"
+    - "矢田祐一郎"
+    - "三田毅"
+    - "神﨑亮平"
+    - "高橋宏知："
+    year: 1850
+  -
+    id: "poster-50"
+    title:
+    ja: "中脳ドーパミン系がラット聴覚野の神経活動に及ぼす影響"
+    en: "The influence of the mesolimbic dopamine system on neural activity in the rat auditory cortex."
+    authors:
+    - "曾我遼"
+    - "白松（磯口）知世"
+    - "神崎 亮平"
+    - "高橋 宏知："
+    year: 1843
+  -
+    id: "poster-51"
+    title:
+    ja: "神経細胞の分散培養系におけるシナプス活動依存的な細胞移動"
+    en: "Cell migration dependent on synaptic activity in a neuron culture system"
+    authors:
+    - "矢野隆一"
+    - "三田毅"
+    - "矢田祐一郎"
+    - "Douglas Bakkum"
+    - "神﨑亮平"
+    - "高橋宏知："
+    year: 1825
+  -
+    id: "poster-57"
+    title:
+    ja: "身体性を持たせた培養神経回路網の原理とダイナミクス"
+    en: "The principles and dynamics of a cultivated neural network with a physical embodiment"
+    authors:
+    - "升森敦士"
+    - "丸山典宏"
+    - "三田毅"
+    - "高橋宏知"
+    - "池上高志："
+    year: 2015
+  -
+    id: "poster-58"
+    title:
+    ja: "培養神経回路における神経雪崩現象と同期パターン相関"
+    en: "Neural avalanche phenomenon and synchronization pattern correlation in cultivating neural circuits"
+    authors:
+    - "矢田祐一郎"
+    - "眞田章宏"
+    - "三田毅"
+    - "神崎亮平"
+    - "Douglas Bakkum"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-59"
+    title:
+    ja: "ラット視床への電気刺激による聴皮質の誘発反応の空間分布"
+    en: "Spatial distribution of auditory cortex evoked response due to electrical stimulation to the thalamus in rats"
+    authors:
+    - "白松（磯口）知世"
+    - "高橋和佐"
+    - "野田貴大"
+    - "神崎亮平"
+    - "中原はるか"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-64"
+    title:
+    ja: "神経細胞の分散培養系における高密度CMOS電極アレイで推定した細胞体位置及び移動量の検証"
+    en: "Verification of estimated soma positions and movement amounts in high-density CMOS electrode arrays for neurocyte suspension culture systems"
+    authors:
+    - "矢野隆一"
+    - "三田毅"
+    - "矢田祐一郎"
+    - "Douglas Bakkum"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-65"
+    title:
+    ja: "培養神経回路を用いたFORCE学習による複雑な時系列パターンの生成"
+    en: "Generating complex time-series patterns using FORCE learning with cultivated neural circuits"
+    authors:
+    - "安田秀策"
+    - "矢田祐一郎"
+    - "三田毅"
+    - "神﨑亮平"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-66"
+    title:
+    ja: "可塑性のある神経回路モデルの身体化実験"
+    en: "Experiment on embodying a plastic neural circuit model"
+    authors:
+    - "安江秀太"
+    - "安田秀策"
+    - "矢田祐一郎"
+    - "三田毅"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-67"
+    title:
+    ja: "培養神経回路の同期バースト発生を担う細胞群の探索"
+    en: "Exploring cell populations responsible for the synchronization burst occurrence in cultivated neural circuits."
+    authors:
+    - "古池香里"
+    - "矢田祐一郎"
+    - "三田毅"
+    - "神崎亮平"
+    - "ダグラス・バッカム"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-68"
+    title:
+    ja: "ラットの聴覚野における定常的な神経活動パターンへの麻酔の影響"
+    en: "The effect of anesthesia on the normal pattern of neural activity in the auditory cortex of rats"
+    authors:
+    - "和家尚希"
+    - "石津光太郎"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-69"
+    title:
+    ja: "ラットの音の嗜好性を定量化する実験系の構築"
+    en: "Establishing an experimental system to quantify the preference for sounds of rats"
+    authors:
+    - "曾我遼"
+    - "白松(磯口)知世"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-70"
+    title:
+    ja: "感覚野への電気パルス列刺激による知覚の生成の基礎検討"
+    en: "Fundamental investigation of perception generation through electrical pulse train stimulation to the sensory cortex"
+    authors:
+    - "久山貴大"
+    - "白松（磯口）知世"
+    - "曾我遼"
+    - "石津光太郎"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-71"
+    title:
+    ja: "ラット視床および聴覚野での信号伝達の因果性評価"
+    en: "Evaluation of causality in signal transmission in rat thalamus and auditory cortex"
+    authors:
+    - "石津光太郎"
+    - "白松（磯口）知世"
+    - "永田裕之"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-72"
+    title:
+    ja: "迷走神経刺激がラット視床の刺激選択的順応に及ぼす影響"
+    en: "The effect of vagal nerve stimulation on the selective adaptation of rat thalamus stimulation"
+    authors:
+    - "日露理英"
+    - "白松（磯口）知世"
+    - "石津光太郎"
+    - "神崎亮平"
+    - "井林賢志"
+    - "川合謙介"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-73"
+    title:
+    ja: "聴皮質における音の情動的な質感の表現"
+    en: "Expressing the emotional texture of sound in the auditory cortex"
+    authors:
+    - "白松（磯口）知世"
+    - "曾我遼"
+    - "高橋宏知："
+    year: 2015
+  -
+    id: "poster-74"
+    title:
+    ja: "培養神経細胞の「刺激を避ける原理"
+    en: "The principle of avoiding stimulation in cultivating neural cells"
+    authors:
+    - "升森敦士"
+    - "丸山典宏"
+    - "三田毅"
+    - "Douglas Bakkum"
+    - "Urs Frey"
+    - "高橋宏知"
+    - "池上高志:"
+    year: 2016
+  -
+    id: "poster-75"
+    title:
+    ja: "迷走神経刺激がラット聴皮質の刺激選択的順応に及ぼす影響"
+    en: "The influence of vagal nerve stimulation on the selective adaptation of rat auditory cortex stimulation."
+    authors:
+    - "白松-磯口知世"
+    - "日露理英"
+    - "井林賢志"
+    - "神崎亮平"
+    - "川合謙介"
+    - "高橋宏知："
+    year: 2016
+  -
+    id: "poster-76"
+    title:
+    ja: "音嗜好性を評価する行動実験"
+    en: "Evaluate the auditory preference through behavioral experiments"
+    authors:
+    - "曾我遼"
+    - "白松-磯口知世"
+    - "高橋宏知："
+    year: 2016
+  -
+    id: "poster-77"
+    title:
+    ja: "Inhibitory neurons increase their firing rate prior to recurring spike sequences in cultured neurons（培養神経ネットワークのスパイクパターン生成における抑制性ニューロンの役割）"
+    en: "Inhibitory neurons raise their firing rate before recurring spike sequences in cultured neurons."
+    authors:
+    - "Atsushi Kayama"
+    - "Yuichiro Yada"
+    - "Takeshi Mita"
+    - "Ryohei Kanzaki"
+    - "Hirokazu Takahashi:"
+    year: 2016
+  -
+    id: "poster-78"
+    title:
+    ja: "Plasticity of selective adaptation for stimulus in cultured cell（神経細胞の分散培養系における刺激選択的な適応の可塑性）"
+    en: "Plasticity of selective adaptation for stimulus in cultured neural cells"
+    authors:
+    - "Yusuke Fujita"
+    - "Yuichiro Yada"
+    - "Ryohei Kanzaki"
+    - "Hirokazu Takahashi:"
+    year: 2016
+  -
+    id: "poster-79"
+    title:
+    ja: "Visualization of the action potential propagation pattern that evokes synchronized bursts（神経細胞群の同期発火を誘発する細胞間電位伝播パターンの視覚化）"
+    en: "Visualization of the action potential propagation pattern that induces synchronous bursts in a group of neurons"
+    authors:
+    - "Hayato Tsunoda"
+    - "Yuichiro Yada"
+    - "Atsushi Kayama"
+    - "Ryohei Kanzaki"
+    - "Hirokazu Takahashi:"
+    year: 2016
+  -
+    id: "poster-80"
+    title:
+    ja: "Manipulation of tone preference using classical conditioning（古典的条件付けを用いた音嗜好性の操作）"
+    en: "Using classical conditioning to manipulate tone preference"
+    authors:
+    - "Ryo Soga"
+    - "Ryohei Kanzaki"
+    - "Hirokazu Takahashi:"
+    year: 2016
+  -
+    id: "poster-81"
+    title:
+    ja: "Primitive neural basis of music perception in rodents（げっ歯類における音楽認識の原始的な神経基盤）"
+    en: "Primal neural basis of music perception in rodents"
+    authors:
+    - "Takumi Matsutake"
+    - "Ryo Soga"
+    - "Ryohei Kanzaki"
+    - "Hirokazu Takahashi:"
+    year: 2016
+  -
+    id: "poster-82"
+    title:
+    ja: "Information flow between thalamus and auditory cortex generated by sound stimulus（音刺激で生じる視床・聴覚野の情報流）"
+    en: "Information flow between the thalamus and auditory cortex generated by sound stimuli."
+    authors:
+    - "Kotaro Ishizu"
+    - "Masahumi Oizumi"
+    - "Naotsugu Tsuchiya"
+    - "Hirokazu Takahashi:"
+    year: 2016
+  -
+    id: "poster-83"
+    title:
+    ja: "Sense of self-agency in rat（ラットの自己主体感に関する研究）"
+    en: "Study on rats' sense of self-agency"
+    authors:
+    - "Yurika Doi"
+    - "Ryo Soga"
+    - "Kotaro Ishizu"
+    - "Ryohei Kanzaki"
+    - "Hirokazu Takahashi:"
+    year: 2016
+  -
+    id: "poster-84"
+    title:
+    ja: "Layer-specific information processing of the long-lasting sustained activities in rat auditory cortex（ラット聴皮質各層における定常的な神経活動の情報表現）"
+    en: "Processing information specific to layers in the rat auditory cortex about its long-lasting sustained activities"
+    authors:
+    - "Kenji Ibayashi"
+    - "Hirokazu Takahashi:"
+    year: 2016
+  -
+    id: "poster-85"
+    title: "The Fast Oscillations in Rat Neocortex during Auditory-Induced Operant Behavior"
+    authors:
+    - "Naoki Wake"
+    - "Kotaro Ishizu"
+    year: 2017
+  -
+    id: "poster-86"
+    title:
+    ja: "ラットの自己主体感を調べる実験系の構築"
+    en: "Establishing an experimental system to investigate rats' sense of self-agency"
+    authors:
+    - "土井ゆりか"
+    - "石津光太郎"
+    - "白松（磯口）知世"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2017
+  -
+    id: "poster-87"
+    title:
+    ja: "齧歯類における和音知覚の原始的な神経基盤"
+    en: "Primitive neural foundation for harmony perception in rodentia"
+    authors:
+    - "松竹理匠"
+    - "白松(磯口)知世"
+    - "和家尚希"
+    - "曾我遼"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2017
+  -
+    id: "poster-88"
+    title:
+    ja: "繰り返し同期誘発刺激による培養神経回路の記憶の操作"
+    en: "Operation of memory in cultured neural circuits induced by repetitive synchronous stimulation"
+    authors:
+    - "角田颯飛"
+    - "矢田祐一郎"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2017
+  -
+    id: "poster-89"
+    title:
+    ja: "ラット聴覚皮質におけるマイクロ皮質脳波の慢性計測"
+    en: "Chronic measurement of microcortical brain waves in the rat auditory cortex"
+    authors:
+    - "石津光太郎"
+    - "白松(磯口)知世"
+    - "小河原康一"
+    - "神崎亮平"
+    - "高橋宏知："
+    year: 2018
+  -
+    id: "poster-90"
+    title:
+    ja: "脳の電気刺激による意識にのぼる知覚の創成"
+    en: "The creation of perceptions upon becoming conscious through electrical stimulation of the brain"
+    authors:
+    - "阿部泰己"
+    - "石津光太郎"
+    - "和家尚希"
+    - "高橋宏知："
+    year: 2018
+  -
+    id: "poster-91"
+    title:
+    ja: "拡張した情報処理容量によるリザバーコンピューティングの評価"
+    en: "Evaluation of reservoir computing with expanded information processing capacity"
+    authors:
+    - "大澤龍太"
+    - "窪田智之"
+    - "高橋宏知："
+    year: 2020
+  -
+    id: "poster-92"
+    title:
+    ja: "継続的な刺激が培養神経回路の成長にもたらす影響"
+    en: "Continuous stimulation has an effect on promoting the growth of neural circuits."
+    authors:
+    - "高橋斗威"
+    - "池田成満"
+    - "窪田智之"
+    - "高橋宏知："
+    year: 2020
+  -
+    id: "poster-93"
+    title:
+    ja: "VNSによる聴皮質と視床の受容野の変化"
+    en: "Changes in receptive fields of the auditory cortex and thalamus by VNS"
+    authors:
+    - "白松-磯口知世"
+    - "井林賢志"
+    - "日露理英"
+    - "川合謙介"
+    - "高橋宏知:"
+    year: 2020
+  -
+    id: "poster-94"
+    title:
+    ja: "移動エントロピー解析による，ラット視床-皮質間の覚醒下・麻酔下における神経伝達変動"
+    en: "Analysis of neural transmission changes between rat thalamus and cortex under wakefulness and anesthesia using mobile entropy analysis"
+    authors:
+    - "石津光太郎"
+    - "高橋宏知："
+    year: 2020
+  -
+    id: "poster-95"
+    title:
+    ja: "ラットの聴知覚に対する迷走神経刺激の影響"
+    en: "The effects of vagal nerve stimulation on the auditory and sensory perception of rats."
+    authors:
+    - "松村茜"
+    - "熊谷真一"
+    - "白松（磯口）知世"
+    - "川合謙介"
+    - "高橋宏知」"
+    year: 2021
+  -
+    id: "poster-96"
+    title:
+    ja: "ラット聴覚野における情報処理容量の局在構造"
+    en: "Local structural characteristics of information processing capacity in the rat auditory cortex"
+    authors:
+    - "石田直輝"
+    - "窪田智之"
+    - "伊藤圭基"
+    - "白松（磯口）知世"
+    - "高橋宏知："
+    year: 2021
+  -
+    id: "poster-97"
+    title:
+    ja: "神経細胞の分散培養系の温度依存性"
+    en: "Temperature-dependent distribution culture system of neural cells"
+    authors:
+    - "諏訪瑛介"
+    - "池田成満"
+    - "高橋宏知："
+    year: 2021
+  -
+    id: "poster-98"
+    title:
+    ja: "ラットの社会的結束形成に対する音楽の影響の評価系構築"
+    en: "Evaluation system construction for the impact of music on rat social bond formation"
+    authors:
+    - "大島果林"
+    - "白松（磯口）知世"
+    - "高橋宏知："
+    year: 2022
+  -
+    id: "poster-99"
+    title:
+    ja: "ラット聴覚野の情報処理容量"
+    en: "Rat auditory cortex information processing capacity"
+    authors:
+    - "石田直輝"
+    - "窪田智之"
+    - "伊藤圭基"
+    - "白松（磯口）知世"
+    - "諏訪瑛介"
+    - "高橋宏知："
+    year: 2022
+  -
+    id: "poster-100"
+    title:
+    ja: "長期間の音楽曝露によるラット聴覚野の時間情報表現の変化"
+    en: "Prolonged exposure to music causes changes in the temporal information expression of rat auditory cortex."
+    authors:
+    - "白松（磯口）知世"
+    - "石田直輝"
+    - "大島果林"
+    - "高橋宏知："
+    year: 2022
+  -
+    id: "poster-101"
+    title: "Assessing the effects of Stimulation on self-organized criticality in developing dissociated neuronal cultures using high density electrodes"
+    authors:
+    - "Amit Yaron"
+    - "Zhuo Zhang"
+    - "Eisuke Suwa"
+    - "Zenas C. Chao"
+    - "Hirokazu Takahashi："
+    year: 2022
+  -
+    id: "poster-102"
+    title:
+    ja: "情動に対する音楽の影響を動物モデルで調べるための実験系"
+    en: "An experimental system for investigating the influence of music on emotions in animal models"
+    authors:
+    - "山木崚太郎"
+    - "白松（磯口）知世"
+    - "石田直輝"
+    - "高橋宏知："
+    year: 2022
+  -
+    id: "poster-103"
+    title: "Memory Traces in Dissociated Cultures of Neurons"
+    authors:
+    - "Zhuo Zhang"
+    - "Amit Yaron"
+    - "Suwa Eisuke"
+    - "Hirokazu Takahashi："
+    year: 2022
+  -
+    id: "poster-104"
+    title: "Direction of Multisensory Illusion is Influenced by Stimulus Detectability"
+    authors:
+    - "Hexin Xu"
+    - "Amit Yaron"
+    - "Hirokazu Takahashi："
+    year: 2022
+  -
+    id: "poster-105"
+    title:
+    ja: "LSTMを用いたギャップ検出閾値の検出精度の向上"
+    en: "Enhancing detection accuracy of gap detection thresholds using LSTM."
+    authors:
+    - "金井智美"
+    - "岡田大吾"
+    - "高橋斗威"
+    - "可部泰生"
+    - "岡本秀彦"
+    - "森本隆司"
+    - "高橋宏知："
+    year: 2022
+  -
+    id: "poster-106"
+    title:
+    ja: "ラット大脳皮質における心拍誘発電位の多点計測"
+    en: "Multi-point measurement of heart beat-induced electrical potentials in rat cerebral cortex"
+    authors:
+    - "白松（磯口）知世"
+    - "熊谷真一"
+    - "高橋宏知："
+    year: 2023
+  -
+    id: "poster-107"
+    title:
+    ja: "迷走神経刺激による島皮質の聴覚誘発反応の変化 "
+    en: "Changes in auditory evoked responses of the insula due to vagus nerve stimulation"
+    authors:
+    - "熊谷真一"
+    - "白松（磯口）知世"
+    - "川合謙介"
+    - "高橋宏知："
+    year: 2023
+  -
+    id: "poster-108"
+    title:
+    ja: "統合失調症モデルラットの社会性障害"
+    en: "Schizophrenia model rat's social disorders"
+    authors:
+    - "大島果林"
+    - "白松（磯口）知世"
+    - "高橋宏知："
+    year: 2023
+  -
+    id: "poster-109"
+    title:
+    ja: "ドーパミンによるラット聴覚野の情報処理能力への影響"
+    en: "The effect of dopamine on rat auditory cortex information processing ability"
+    authors:
+    - "山木崚太郎"
+    - "白松（磯口）知世"
+    - "石田直輝"
+    - "高橋宏知："
+    year: 2023
+  -
+    id: "poster-110"
+    title:
+    ja: "EGF誘発性統合失調症モデルラットにおける妄想様の弁別障害"
+    en: "Delusional discrimination disorder in EGF-induced schizophrenia model rats"
+    authors:
+    - "大島果林"
+    - "熊谷真一"
+    - "白松（磯口）知世"
+    - "高橋宏知："
+    year: 2024
+  -
+    id: "poster-111"
+    title:
+    ja: "他覚的聴力検査に向けた音声刺激の開発"
+    en: "Development of auditory stimuli for a heterotopic hearing test"
+    authors:
+    - "金井智美"
+    - "可部泰生"
+    - "高橋宏知："
+    year: 2024
+  -
+    id: "poster-112"
+    title:
+    ja: "神経細胞の分散培養系の情報処理容量の経験的推定"
+    en: "Empirical estimation of information processing capacity in a neural cell suspension culture system"
+    authors:
+    - "川原佑太"
+    - "秋田大"
+    - "高橋宏知："
+    year: 2024
+  -
+    id: "poster-113"
+    title: "Neural Dynamics of Predictive Coding in Rat Auditory Cortex: Insights from Omission Responses"
+    authors:
+    - "Amit Yaron"
+    - "Tomoyo I Shiramatsu"
+    - "Hirokazu Takahashi"
+    - "Chao Zenas:"
+    year: 2024
+  -
+    id: "poster-114"
+    title:
+    ja: "ラットの交流時瞳孔径計測システム"
+    en: "Rat communication time pupil diameter measurement system"
+    authors:
+    - "星野有佐"
+    - "大島果林"
+    - "高木永遠"
+    - "白松（磯口）知世"
+    - "高橋宏知："
+    year: 2024
+  -
+    id: "poster-115"
+    title:
+    ja: "物理リザバー計算のための培養神経細胞への効果的な刺激手法"
+    en: "Effective stimulation methods for culturing neurons for physical resistor computation"
+    authors:
+    - "秋田大"
+    - "川原佑太"
+    - "高橋宏知："
+    year: 2024
+  -
+    id: "poster-116"
+    title:
+    ja: "培養神経細胞のデータを用いたエコーステートネットワークのパラメータ推定"
+    en: "Estimation of echo state network parameters using data from cultivated neural cells"
+    authors:
+    - "山田泰輝"
+    - "Amit Yaron"
+    - "秋田大"
+    - "高橋宏知"
+    - "藤原寛太郎："
+    year: 2024
+  -
+    id: "poster-117"
+    title:
+    ja: "音楽聴取が生体信号と運動の個体間同期に及ぼす影響"
+    en: "The influence of music listening on inter-individual synchronization of physiological signals and movement"
+    authors:
+    - "池谷賢人"
+    - "可部泰生"
+    - "白松（磯口）知世"
+    - "高橋宏知："
+    year: 2025
+  -
+    id: "poster-118"
+    title:
+    ja: "ラット大脳皮質における情報処理容量の領野間比較に向けた計測手法の構築"
+    en: "Establishing a measurement method for inter-regional comparison of information processing capacity in rat cerebral cortex"
+    authors:
+    - "金子俊一郎"
+    - "大島果林"
+    - "白松（磯口）知世"
+    - "高橋宏知："
+    year: 2025
+  -
+    id: "poster-119"
+    title:
+    ja: "スパイキングニューラルネットワークにおける臨界性と情報処理能力"
+    en: "Criticality and information processing capacity in spiking neural networks"
+    authors:
+    - "キムジュンモ"
+    - "秋田大"
+    - "高橋宏知："
+    year: 2025

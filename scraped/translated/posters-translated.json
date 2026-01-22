@@ -1,0 +1,2394 @@
+{
+  "category": "poster",
+  "parsedAt": "2026-01-21T14:33:59.249Z",
+  "items": [
+    {
+      "id": "poster-1",
+      "title": "蝸牛神経核の腹側部と背側部の微小電気刺激に対する聴皮質反応",
+      "authors": [
+        "高橋宏知",
+        "中尾政之",
+        "加我君孝:"
+      ],
+      "year": 2005,
+      "_raw": "(1) 高橋宏知, 中尾政之, 加我君孝: 「蝸牛神経核の腹側部と背側部の微小電気刺激に対する聴皮質反応」，生体医工学 43 (特別号): p. 529, 2005 (つくば，2005年4月25日)",
+      "_valid": true,
+      "title_en": "Microelectric stimulation of the ventral and dorsal parts of the snail's nerve nucleus elicits auditory cortex responses",
+      "title_ja": "蝸牛神経核の腹側部と背側部の微小電気刺激に対する聴皮質反応"
+    },
+    {
+      "id": "poster-2",
+      "title": "発火電位と局所電場電位の同時計測による神経反応の特徴抽出",
+      "authors": [
+        "硯川潤",
+        "高橋宏知",
+        "久田幸平",
+        "中尾政之",
+        "加我君孝:"
+      ],
+      "year": 2005,
+      "_raw": "(2) 硯川潤, 高橋宏知, 久田幸平, 中尾政之, 加我君孝:「発火電位と局所電場電位の同時計測による神経反応の特徴抽出」，生体医工学 43 (特別号): p. 528, 2005 (つくば，2005年4月25日)",
+      "_valid": true,
+      "title_en": "Feature extraction of neural responses through simultaneous measurement of action potential and local electric field potential",
+      "title_ja": "発火電位と局所電場電位の同時計測による神経反応の特徴抽出"
+    },
+    {
+      "id": "poster-3",
+      "title": "極細ワイヤ探針を利用した血管内神経信号計測",
+      "authors": [
+        "渡辺裕文",
+        "高橋宏知",
+        "中尾政之",
+        "Kerry Walton",
+        "Rodolfo R.Llinás:"
+      ],
+      "year": 2005,
+      "_raw": "(3) 渡辺裕文, 高橋宏知, 中尾政之, Kerry Walton, Rodolfo R.Llinás: 「極細ワイヤ探針を利用した血管内神経信号計測」，生体医工学 43 (特別号): p. 533, 2005 (つくば，2005年4月25日)",
+      "_valid": true,
+      "title_en": "Using an ultra-fine wire probe for intravascular neural signal measurement",
+      "title_ja": "極細ワイヤ探針を利用した血管内神経信号計測"
+    },
+    {
+      "id": "poster-4",
+      "title": "口唇形状の変化を検出するセンサとそれを応用した発声システムの開発",
+      "authors": [
+        "津田欣哉",
+        "高橋宏知",
+        "中尾政之",
+        "加我君孝:"
+      ],
+      "year": 2005,
+      "_raw": "(4) 津田欣哉, 高橋宏知, 中尾政之，加我君孝: 「口唇形状の変化を検出するセンサとそれを応用した発声システムの開発」，生体医工学 43 (特別号): p. 489, 2005 (つくば，2005年4月25日)",
+      "_valid": true,
+      "title_en": "Developing a sensor for detecting changes in lip shape and an articulation system applied from it",
+      "title_ja": "口唇形状の変化を検出するセンサとそれを応用した発声システムの開発"
+    },
+    {
+      "id": "poster-5",
+      "title": "培養神経細胞を選択的に刺激するためのアモルファスシリコンを用いた表面電極の開発",
+      "authors": [
+        "硯川潤",
+        "高山祐三",
+        "横田亮",
+        "割澤伸一",
+        "光石衛",
+        "中尾政之",
+        "高橋宏知",
+        "神保泰彦:"
+      ],
+      "year": 2006,
+      "_raw": "(5) 硯川潤，高山祐三，横田亮，割澤伸一，光石衛，中尾政之，高橋宏知，神保泰彦:「培養神経細胞を選択的に刺激するためのアモルファスシリコンを用いた表面電極の開発」，生体医工学 44 (特別号): p. 728, 2006 (福岡，2005年5月15日)",
+      "_valid": true,
+      "title_en": "Development of a surface electrode using amorphous silicon for selectively stimulating cultured neurons",
+      "title_ja": "培養神経細胞を選択的に刺激するためのアモルファスシリコンを用いた表面電極の開発"
+    },
+    {
+      "id": "poster-6",
+      "title": "聴皮質の時空間的な神経活動から音情報を復元するための翻訳アルゴリズムの開発",
+      "authors": [
+        "内原匡信",
+        "船水章大",
+        "横田亮",
+        "硯川潤",
+        "神崎亮平",
+        "高橋宏知:"
+      ],
+      "year": 2006,
+      "_raw": "(6) 内原匡信，船水章大，横田亮，硯川潤，神崎亮平，高橋宏知:「聴皮質の時空間的な神経活動から音情報を復元するための翻訳アルゴリズムの開発」，生体医工学 44 (特別号): p. 544, 2006 (福岡，2006年5月15日)",
+      "_valid": true,
+      "title_en": "Development of a translation algorithm for recovering audio information from spatiotemporal neural activity in the auditory cortex",
+      "title_ja": "聴皮質の時空間的な神経活動から音情報を復元するための翻訳アルゴリズムの開発"
+    },
+    {
+      "id": "poster-7",
+      "title": "学習による聴皮質の時空間的神経活動の状況依存的な可塑性",
+      "authors": [
+        "船水章大",
+        "内原匡信",
+        "横田亮",
+        "硯川潤",
+        "神崎亮平",
+        "高橋宏知:"
+      ],
+      "year": 2006,
+      "_raw": "(7) 船水章大，内原匡信，横田亮，硯川潤，神崎亮平，高橋宏知:「学習による聴皮質の時空間的神経活動の状況依存的な可塑性」，生体医工学 44 (特別号): p. 628, 2006 (福岡，2006年5月15日)",
+      "_valid": true,
+      "title_en": "Learning-dependent plasticity of neural activity in auditory cortex due to context dependence of spatiotemporal aspects",
+      "title_ja": "学習による聴皮質の時空間的神経活動の状況依存的な可塑性"
+    },
+    {
+      "id": "poster-8",
+      "title": "微小電気刺激による聴皮質の機能構造の書き換え技術の開発",
+      "authors": [
+        "横田亮",
+        "硯川潤",
+        "船水章大",
+        "内原匡信",
+        "神崎亮平",
+        "高橋宏知:"
+      ],
+      "year": 2006,
+      "_raw": "(8) 横田亮，硯川潤，船水章大，内原匡信，神崎亮平，高橋宏知:「微小電気刺激による聴皮質の機能構造の書き換え技術の開発」，生体医工学 44 (特別号): p. 649, 2006 (福岡，2006年5月15日)",
+      "_valid": true,
+      "title_en": "Development of technology for rewriting the functional structure of the auditory cortex with microelectric stimulation",
+      "title_ja": "微小電気刺激による聴皮質の機能構造の書き換え技術の開発"
+    },
+    {
+      "id": "poster-9",
+      "title": "光アドレス電極を用いた培養神経細胞の大面積刺激",
+      "authors": [
+        "硯川潤",
+        "高橋宏知",
+        "神﨑亮平",
+        "中尾政之",
+        "神保泰彦:"
+      ],
+      "year": 2006,
+      "_raw": "(9) 硯川潤，高橋宏知，神﨑亮平，中尾政之，神保泰彦: 「光アドレス電極を用いた培養神経細胞の大面積刺激」，BPES 2006 第21回生体・生理工学シンポジウム論文集，pp. 215-218, 2006 (鹿児島，2006年11月18日)",
+      "_valid": true,
+      "title_en": "Large-scale stimulation of cultured neural cells using an optical address electrode",
+      "title_ja": "光アドレス電極を用いた培養神経細胞の大面積刺激"
+    },
+    {
+      "id": "poster-10",
+      "title": "脳神経系解明のための情報学・工学・生物学の融合的アプローチ",
+      "authors": [
+        "神崎亮平",
+        "高橋宏知",
+        "安藤規泰："
+      ],
+      "year": 2006,
+      "_raw": "(10) 神崎亮平，高橋宏知，安藤規泰：「脳神経系解明のための情報学・工学・生物学の融合的アプローチ」，東京大学生命科学ネットワークシンポジウム抄録集: p. 67, 2006 (東京，2006年11月25日)",
+      "_valid": true,
+      "title_en": "An integrated approach of informatics, engineering, and biology for understanding the nervous system.",
+      "title_ja": "脳神経系解明のための情報学・工学・生物学の融合的アプローチ"
+    },
+    {
+      "id": "poster-11",
+      "title": "ラット聴皮質における時空間的神経活動の状況依存的な可塑性",
+      "authors": [
+        "船水章大",
+        "内原匡信",
+        "神崎亮平",
+        "高橋宏知:"
+      ],
+      "year": 2007,
+      "_raw": "(11) 船水章大，内原匡信，神崎亮平，高橋宏知:「ラット聴皮質における時空間的神経活動の状況依存的な可塑性」，脳と心のメカニズム　第7回冬のワークショップ (ルスツ，2007年1月9日)",
+      "_valid": true,
+      "title_en": "The state-dependent plasticity of neural activity in rat temporal cortex for space-time.",
+      "title_ja": "ラット聴皮質における時空間的神経活動の状況依存的な可塑性"
+    },
+    {
+      "id": "poster-12",
+      "title": "光アドレス電極を用いた電気刺激とそれで誘発される培養神経回路の応答",
+      "authors": [
+        "硯川潤",
+        "中尾政之",
+        "神﨑亮平",
+        "神保泰彦",
+        "高橋宏知:"
+      ],
+      "year": 2007,
+      "_raw": "(12) 硯川潤，中尾政之，神﨑亮平，神保泰彦，高橋宏知: 「光アドレス電極を用いた電気刺激とそれで誘発される培養神経回路の応答」，生体医工学 44 (特別号): p. 265, 2007 (仙台，2007年4月27日)",
+      "_valid": true,
+      "title_en": "Electric stimulation using a light address electrode and the response of the cultured neural circuits induced thereby",
+      "title_ja": "光アドレス電極を用いた電気刺激とそれで誘発される培養神経回路の応答"
+    },
+    {
+      "id": "poster-13",
+      "title": "相互情報量を用いた学習による聴皮質可塑性の解析",
+      "authors": [
+        "横田亮",
+        "硯川潤",
+        "船水章大",
+        "内原匡信",
+        "神崎亮平",
+        "高橋宏知:"
+      ],
+      "year": 2007,
+      "_raw": "(13) 横田亮，硯川潤，船水章大，内原匡信，神崎亮平，高橋宏知: 「相互情報量を用いた学習による聴皮質可塑性の解析」，生体医工学 44 (特別号): p. 229, 2007 (仙台，2007年4月27日)",
+      "_valid": true,
+      "title_en": "Analysis of auditory cortex plasticity using mutual information-based learning",
+      "title_ja": "相互情報量を用いた学習による聴皮質可塑性の解析"
+    },
+    {
+      "id": "poster-14",
+      "title": "高速プロジェクタを用いたマルハナバチの衝突回避行動の解析",
+      "authors": [
+        "杉山忠尚",
+        "安藤規泰",
+        "高橋宏知",
+        "神崎亮平:"
+      ],
+      "year": 2007,
+      "_raw": "(14) 杉山忠尚，安藤規泰，高橋宏知，神崎亮平:「高速プロジェクタを用いたマルハナバチの衝突回避行動の解析」，日本動物学会第78 回大会 （弘前，2007年9 月20 日）",
+      "_valid": true,
+      "title_en": "Analysis of honeybee collision avoidance behavior using a high-speed projector",
+      "title_ja": "高速プロジェクタを用いたマルハナバチの衝突回避行動の解析"
+    },
+    {
+      "id": "poster-15",
+      "title": "学習による聴皮質の状況依存的な情報表現の誘導",
+      "authors": [
+        "船水章大",
+        "古瀬秀和",
+        "神崎亮平",
+        "高橋宏知:"
+      ],
+      "year": 2008,
+      "_raw": "(15) 船水章大，古瀬秀和，神崎亮平，高橋宏知:「学習による聴皮質の状況依存的な情報表現の誘導」，脳と心のメカニズム　第8回冬のワークショップ (ルスツ，2008年1月9日)",
+      "_valid": true,
+      "title_en": "Induction of information expression in auditory cortex based on learning and context dependence",
+      "title_ja": "学習による聴皮質の状況依存的な情報表現の誘導"
+    },
+    {
+      "id": "poster-16",
+      "title": "統合脳",
+      "authors": [
+        "Akihiro Funamizu",
+        "Ryohei Kanzaki"
+      ],
+      "year": 2008,
+      "_raw": "(16) Akihiro Funamizu, Ryohei Kanzaki, Hirokazu Takahashi: “Decoding spatio-temporal neural activities by combination of multiple pattern recognition machines.” 平成20年度特定領域「統合脳」夏のワークショップ　脳と心のメカニズム (札幌，2008年8月9日)",
+      "_valid": true,
+      "title_en": "Integrated brain",
+      "title_ja": "統合脳"
+    },
+    {
+      "id": "poster-17",
+      "title": "昆虫操縦型ロボットを用いたカイコガ匂い源定位行動の適応性の評価",
+      "authors": [
+        "安藤規泰",
+        "江本周平",
+        "高橋宏知",
+        "神崎亮平："
+      ],
+      "year": 2008,
+      "_raw": "(17) 安藤規泰，江本周平，高橋宏知，神崎亮平：「昆虫操縦型ロボットを用いたカイコガ匂い源定位行動の適応性の評価」，日本比較生理生化学会第30回大会 (札幌，2008年7月19日) Noriyasu Andoa, Shuhei Emotoa, Hirokazu Takahashia and Ryohei Kanzakia: “Adaptability of pheromone searching behavior of the silkmoth evaluated by an insect-controlled robot.” Comparative biochemistry and physiology. Part B, Biochemistry & molecular biology 151 (4): p. 452, 2008",
+      "_valid": true,
+      "title_en": "Assessment of adaptability in honeybee odor source localization behavior using insect manipulation-type robots",
+      "title_ja": "昆虫操縦型ロボットを用いたカイコガ匂い源定位行動の適応性の評価"
+    },
+    {
+      "id": "poster-18",
+      "title": "モデルフリーとモデルベース強化学習を用いたラットの行動解析",
+      "authors": [
+        "船水章大",
+        "伊藤真",
+        "銅谷賢治",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2009,
+      "_raw": "(18) 船水章大,　伊藤真, 銅谷賢治, 神崎亮平,　高橋宏知：「モデルフリーとモデルベース強化学習を用いたラットの行動解析」，Neuroscience 2009　第32回に本神経科学大会: #P3-h13, 2009 (名古屋，2009年9月16日)",
+      "_valid": true,
+      "title_en": "Analysis of rat behavior using model-free and model-based reinforcement learning",
+      "title_ja": "モデルフリーとモデルベース強化学習を用いたラットの行動解析"
+    },
+    {
+      "id": "poster-19",
+      "title": "交替音系列に対する聴皮質の特徴的な生理応答",
+      "authors": [
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2009,
+      "_raw": "(19) 野田貴大，神崎亮平，高橋宏知：「交替音系列に対する聴皮質の特徴的な生理応答」，Neuroscience 2009　第32回に本神経科学大会: #P3-c09, 2009 (名古屋，2009年9月16日)",
+      "_valid": true,
+      "title_en": "Distinct physiological response of the auditory cortex to interlace sound series",
+      "title_ja": "交替音系列に対する聴皮質の特徴的な生理応答"
+    },
+    {
+      "id": "poster-20",
+      "title": "マルハナバチの視覚情報による衝突回避行動の解析",
+      "authors": [
+        "安藤規泰",
+        "佐野泰仁",
+        "安藤敏之",
+        "高橋宏知",
+        "神崎亮平:"
+      ],
+      "year": 2009,
+      "_raw": "(20) 安藤規泰，佐野泰仁，安藤敏之，高橋宏知，神崎亮平: 「マルハナバチの視覚情報による衝突回避行動の解析」，日本比較生理生化学会第31回大会 (大阪，2009年10月22日)",
+      "_valid": true,
+      "title_en": "Analysis of mariana bee's collision avoidance behavior based on visual information",
+      "title_ja": "マルハナバチの視覚情報による衝突回避行動の解析"
+    },
+    {
+      "id": "poster-21",
+      "title": "ラット自由選択課題における行動価値の不確実性",
+      "authors": [
+        "船水章大",
+        "伊藤真",
+        "銅谷賢治",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2010,
+      "_raw": "(21) 船水章大,　伊藤真, 銅谷賢治, 神崎亮平,　高橋宏知：「ラット自由選択課題における行動価値の不確実性」，脳と心のメカニズム　第10回冬のワークショップ (ルスツ，2010年1月13日)",
+      "_valid": true,
+      "title_en": "Uncertainty in the value of behavior in the rat free choice task",
+      "title_ja": "ラット自由選択課題における行動価値の不確実性"
+    },
+    {
+      "id": "poster-22",
+      "title": "光アドレス電極を応用した細胞-環境のマルチスケール計測・制御",
+      "authors": [
+        "高橋宏知："
+      ],
+      "year": 2010,
+      "_raw": "(22) 高橋宏知：「光アドレス電極を応用した細胞-環境のマルチスケール計測・制御」，東京大学ナノバイオ・インテグレーション研究拠点総括シンポジウム（NanoBio Tokyo 2010）抄録集，p. 67, 2010 (東京，2010年1月29日)",
+      "_valid": true,
+      "title_en": "Application of light address electrodes for multi-scale measurement and control of cell-environment interactions",
+      "title_ja": "光アドレス電極を応用した細胞-環境のマルチスケール計測・制御"
+    },
+    {
+      "id": "poster-23",
+      "title": "神経細胞の分散培養系にイオンチャネル一体型嗅覚受容体を発現させた新規匂いバイオセンサー",
+      "authors": [
+        "棚田法男",
+        "櫻井健志",
+        "光野秀文",
+        "Daglas Bakkum",
+        "神埼亮平",
+        "高橋宏知："
+      ],
+      "year": 2010,
+      "_raw": "(23) 棚田法男，櫻井健志，光野秀文，Daglas Bakkum，神埼亮平，高橋宏知：「神経細胞の分散培養系にイオンチャネル一体型嗅覚受容体を発現させた新規匂いバイオセンサー」，第10回 東京大学生命科学シンポジウム抄録集: p. 110, 2010 (東京，2010年5月1日)",
+      "_valid": true,
+      "title_en": "A novel olfactory biosensor that allows the expression of an ion channel-integrated olfactory receptor in a neuroblast-derived culture system.",
+      "title_ja": "神経細胞の分散培養系にイオンチャネル一体型嗅覚受容体を発現させた新規匂いバイオセンサー"
+    },
+    {
+      "id": "poster-24",
+      "title": "高密度CMOS 電極アレイを用いた分散培養系の神経活動の解析",
+      "authors": [
+        "Bakkum Douglas",
+        "三田毅",
+        "Frey Urs",
+        "Hierlemann Andreas",
+        "神崎亮平",
+        "高橋宏知:"
+      ],
+      "year": 2010,
+      "_raw": "(24) Bakkum Douglas, 三田毅, Frey Urs, Hierlemann Andreas, 神崎亮平, 高橋宏知: 「高密度CMOS 電極アレイを用いた分散培養系の神経活動の解析」，第10回 東京大学生命科学シンポジウム抄録集: p. 108, 2010 (東京，2010年5月1日)",
+      "_valid": true,
+      "title_en": "Analysis of neural activity in a distributed culture system using high-density CMOS electrode arrays",
+      "title_ja": "高密度CMOS 電極アレイを用いた分散培養系の神経活動の解析"
+    },
+    {
+      "id": "poster-25",
+      "title": "ラットの選択行動における報酬予測の不確実性",
+      "authors": [
+        "船水章大",
+        "伊藤真",
+        "銅谷賢治",
+        "神崎亮平",
+        "高橋宏知:"
+      ],
+      "year": 2010,
+      "_raw": "(25) 船水章大，伊藤真，銅谷賢治，神崎亮平，高橋宏知: 「ラットの選択行動における報酬予測の不確実性」，脳と心のメカニズム第11回夏のワークショップ (札幌，2010年7月29日)",
+      "_valid": true,
+      "title_en": "Uncertainty in reward prediction for rats' selective behavior",
+      "title_ja": "ラットの選択行動における報酬予測の不確実性"
+    },
+    {
+      "id": "poster-26",
+      "title": "モデルフリーとモデルベース戦略によるラットの行動選択",
+      "authors": [
+        "船水章大",
+        "伊藤真",
+        "銅谷賢治",
+        "神崎亮平",
+        "高橋宏知:"
+      ],
+      "year": 2010,
+      "_raw": "(26) 船水章大，伊藤真，銅谷賢治，神崎亮平，高橋宏知: 「モデルフリーとモデルベース戦略によるラットの行動選択」，Neuro2010: P1-m25, 2010 (神戸，2010年9月2日)",
+      "_valid": true,
+      "title_en": "Model-free and model-based strategies in rat behavior selection",
+      "title_ja": "モデルフリーとモデルベース戦略によるラットの行動選択"
+    },
+    {
+      "id": "poster-27",
+      "title": "音脈分凝に関わる聴皮質の刺激同期性",
+      "authors": [
+        "野田貴大",
+        "高橋宏知",
+        "神崎亮平:"
+      ],
+      "year": 2010,
+      "_raw": "(27) 野田貴大，高橋宏知，神崎亮平: 「音脈分凝に関わる聴皮質の刺激同期性」，Neuro2010: P2-i13, 2010 (神戸，2010年9月2日)",
+      "_valid": true,
+      "title_en": "Related to auditory cortex stimulation synchronicity in pitch and rhythm differentiation",
+      "title_ja": "音脈分凝に関わる聴皮質の刺激同期性"
+    },
+    {
+      "id": "poster-28",
+      "title": "ラット聴皮質でのミスマッチネガティビティ様反応の神経起源",
+      "authors": [
+        "磯口知世",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2010,
+      "_raw": "(28) 磯口知世，神崎亮平，高橋宏知：「ラット聴皮質でのミスマッチネガティビティ様反応の神経起源」，Neuro2010: P2-i14, 2010 (神戸，2010年9月2日)",
+      "_valid": true,
+      "title_en": "A neural origin of mismatch negativity-like response in rat auditory cortex",
+      "title_ja": "ラット聴皮質でのミスマッチネガティビティ様反応の神経起源"
+    },
+    {
+      "id": "poster-29",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(29) Akihiro Funamizu, Makoto Ito, Kenji Doya, Ryohei Kanzaki, Hirokazu Takahashi: “Uncertainty-seeking in rats' choice behaviors and its dependence on reward context.” The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会): #P3-n04, 2011 (横浜，2011年9月14日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-30",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(30) Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglous Bakkum, Ryohei Kanzaki, Hirokazu Takahashi: “The feasibility study of novel odor biosensor using dissociate neuronal culture expressing ion channel built-in odor receptors.” The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会): #P3-u09, 2011 (横浜，2011年9月14日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-31",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(31) Tomoyo Isoguchi, Ryohei Kanzaki, Hirokazu Takahashi: “Information processing for acoustic saliency and emotional valence of sound in rat auditory cortex.” The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会): #P4-j01, 2011 (横浜，2011年9月14日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-32",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(32) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Substructure of functional network in auditory cortex for stream segregagtion.” The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会): #P4-j02, 2011 (横浜，2011年9月14日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-33",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(33) Takeshi Mita, Douglas Bakkum, Urs Frey, Andreas Hierlemann, Ryohei Kanzaki, Hirokazu Takahashi: “Measurement of Action Potentials of Dissociated Cultured Neurons by High Density CMOS Array and Network Analysis.” The 34th Annual Meeting of the Japan Neuroscience Society (第34回日本神経科学大会): #P4-v08, 2011 (横浜，2011年9月14日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-34",
+      "title": "てんかん脳の高振幅皮質脳波における神経活動の雪崩現象",
+      "authors": [
+        "李夏栄",
+        "川合謙介",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2012,
+      "_raw": "(34) 李夏栄、川合謙介，神崎亮平， 高橋宏知：「てんかん脳の高振幅皮質脳波における神経活動の雪崩現象」，神経オシレーションカンファレンス: #P09, 2012 (岡崎，2012年7月12日)",
+      "_valid": true,
+      "title_en": "The avalanche phenomenon of neural activity in the high-amplitude cortical brain waves of epilepsy patients.",
+      "title_ja": "てんかん脳の高振幅皮質脳波における神経活動の雪崩現象"
+    },
+    {
+      "id": "poster-35",
+      "title": "ラットの選択行動における状況横断的な報酬予測",
+      "authors": [
+        "船水章大",
+        "伊藤真",
+        "銅谷賢治",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2012,
+      "_raw": "(35) 船水章大，伊藤真，銅谷賢治，神崎亮平，高橋宏知：「ラットの選択行動における状況横断的な報酬予測」，2012年度 包括脳ネットワーク夏のワークショップ (仙台，2012年7月24日)",
+      "_valid": true,
+      "title_en": "Cross-situational reward prediction in rat's choice behavior",
+      "title_ja": "ラットの選択行動における状況横断的な報酬予測"
+    },
+    {
+      "id": "poster-36",
+      "title": "",
+      "authors": [],
+      "year": 2012,
+      "_raw": "(36) Tomoyo Isoguchi, Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Emotional valence of sound represented in phase locking value of local field potentials in rat auditory cortex.” The 35th Annual Meeting of the Japan Neuroscience Society (第35回日本神経科学大会): #P4-f06, 2012 (名古屋，2012年9月18日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-37",
+      "title": "",
+      "authors": [],
+      "year": 2012,
+      "_raw": "(37) Takahiro Noda, Hirokazu Takahashi, Ryohei Kanzaki: “Synchronization between neuronal ensembles for auditory stream segregation in auditory cortex of the awake rat.” The 35th Annual Meeting of the Japan Neuroscience Society (第35回日本神経科学大会): #P4-f04, 2012 (名古屋，2012年9月18日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-38",
+      "title": "迷走神経刺激の大脳皮質活動に及ぼす影響 - ラット迷走神経刺激モデルを用いて -",
+      "authors": [
+        "宇佐美憲一",
+        "川合謙介",
+        "高橋宏知",
+        "狩野竜示",
+        "野田貴大",
+        "磯口知世",
+        "斉藤延人："
+      ],
+      "year": 2012,
+      "_raw": "(38) 宇佐美憲一，川合謙介，高橋宏知，狩野竜示，野田貴大，磯口知世，斉藤延人：「迷走神経刺激の大脳皮質活動に及ぼす影響 - ラット迷走神経刺激モデルを用いて -」，日本脳神経外科学会第71回学術総会 (大阪，2012年10月17日)",
+      "_valid": true,
+      "title_en": "The effect on cerebral cortex activity due to vagus nerve stimulation - Using a rat vagus nerve stimulation model -",
+      "title_ja": "迷走神経刺激の大脳皮質活動に及ぼす影響 - ラット迷走神経刺激モデルを用いて -"
+    },
+    {
+      "id": "poster-39",
+      "title": "昆虫の視覚ナビゲーションの解析のための仮想環境を用いた行動実験手法の開発",
+      "authors": [
+        "岡佳史",
+        "安藤規泰",
+        "高橋宏知",
+        "神崎亮平："
+      ],
+      "year": 2013,
+      "_raw": "(39) 岡佳史，安藤規泰，高橋宏知，神崎亮平：「昆虫の視覚ナビゲーションの解析のための仮想環境を用いた行動実験手法の開発」，日本動物学会第65回関東支部大会（東京，2013年3月16日）",
+      "_valid": true,
+      "title_en": "Development of behavioral experiment methods using a virtual environment for analysis of insect visual navigation",
+      "title_ja": "昆虫の視覚ナビゲーションの解析のための仮想環境を用いた行動実験手法の開発"
+    },
+    {
+      "id": "poster-40",
+      "title": "昆虫の衝突回避行動解析のための全方位VR提示装置の開発",
+      "authors": [
+        "橋本遼太朗",
+        "安藤規泰",
+        "高橋宏知",
+        "神崎亮平："
+      ],
+      "year": 2013,
+      "_raw": "(40) 橋本遼太朗，安藤規泰，高橋宏知，神崎亮平：「昆虫の衝突回避行動解析のための全方位VR提示装置の開発」，日本動物学会第65回関東支部大会（東京，2013年3月16日）",
+      "_valid": true,
+      "title_en": "Development of a comprehensive VR prompting device for analyzing insect collision avoidance behavior",
+      "title_ja": "昆虫の衝突回避行動解析のための全方位VR提示装置の開発"
+    },
+    {
+      "id": "poster-41",
+      "title": "音脈分凝にかかわる聴覚野の機能的サブネットワーク構造の抽出 (Extraction of functional subnetwork structure for auditory stream segregation in auditory cortex)",
+      "authors": [
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知:"
+      ],
+      "year": 2013,
+      "_raw": "(41) 野田貴大，神崎亮平，高橋宏知: 「音脈分凝にかかわる聴覚野の機能的サブネットワーク構造の抽出 (Extraction of functional subnetwork structure for auditory stream segregation in auditory cortex)」，Neuro2013 (第36回日本神経科学大会): #P1-1-115, 2013 (京都，2013年6月20日)",
+      "_valid": true,
+      "title_en": "Extraction of functional subnetwork structure for auditory stream segregation in auditory cortex",
+      "title_ja": "音脈分凝にかかわる聴覚野の機能的サブネットワーク構造の抽出 (Extraction of functional subnetwork structure for auditory stream segregation in auditory cortex)"
+    },
+    {
+      "id": "poster-42",
+      "title": "和音の協和度がラット聴皮質の位相同期に及ぼす影響 (Modulation of the chord consonance on phase synchrony in the rat auditory cortex)",
+      "authors": [
+        "白松–磯口知世",
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2013,
+      "_raw": "(42) 白松–磯口知世，野田貴大，神崎亮平，高橋宏知：「和音の協和度がラット聴皮質の位相同期に及ぼす影響 (Modulation of the chord consonance on phase synchrony in the rat auditory cortex)」，Neuro2013 (第36回日本神経科学大会): #P1-1-120, 2013 (京都，2013年6月20日)",
+      "_valid": true,
+      "title_en": "The effect of chord consonance on phase synchronization in the rat auditory cortex",
+      "title_ja": "和音の協和度がラット聴皮質の位相同期に及ぼす影響 (Modulation of the chord consonance on phase synchrony in the rat auditory cortex)"
+    },
+    {
+      "id": "poster-43",
+      "title": "ラット聴皮質における音列抽出に関わる神経活動 (Neural correlates of perceptual grouping of tone sequences in rat auditory cortex)",
+      "authors": [
+        "雨宮知樹",
+        "野田貴大",
+        "白松（磯口）知世",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2013,
+      "_raw": "(43) 雨宮知樹，野田貴大，白松（磯口）知世，神崎亮平，高橋宏知：「ラット聴皮質における音列抽出に関わる神経活動 (Neural correlates of perceptual grouping of tone sequences in rat auditory cortex)」，Neuro2013 (第36回日本神経科学大会): #P1-1-132, 2013 (京都，2013年6月20日)",
+      "_valid": true,
+      "title_en": "Neural activity related to the extraction of tone sequences in the rat auditory cortex",
+      "title_ja": "ラット聴皮質における音列抽出に関わる神経活動 (Neural correlates of perceptual grouping of tone sequences in rat auditory cortex)"
+    },
+    {
+      "id": "poster-44",
+      "title": "高密度CMOSアレイ上の神経回路網の解析へ向けた分散培養神経細胞の細胞体位置の推定及び手法 (Estimation of Neuronal Somata Location and Methods toward Neuronal Network Analysis of Dissociated Cultured Neurons on High-density CMOS Microelectrode Arrays)",
+      "authors": [
+        "三田毅",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Andreas Hierlemann",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2013,
+      "_raw": "(44) 三田毅，Douglas Bakkum，Urs Frey，Andreas Hierlemann，神崎亮平，高橋宏知：「高密度CMOSアレイ上の神経回路網の解析へ向けた分散培養神経細胞の細胞体位置の推定及び手法 (Estimation of Neuronal Somata Location and Methods toward Neuronal Network Analysis of Dissociated Cultured Neurons on High-density CMOS Microelectrode Arrays)」，Neuro2013 (第36回日本神経科学大会): #P3-2-248, 2013 (京都，2013年6月20日)",
+      "_valid": true,
+      "title_en": "Estimation of neuronal soma locations and methods for analyzing neuronal networks of dissociated cultured neurons on high-density CMOS microelectrode arrays",
+      "title_ja": "高密度CMOSアレイ上の神経回路網の解析へ向けた分散培養神経細胞の細胞体位置の推定及び手法 (Estimation of Neuronal Somata Location and Methods toward Neuronal Network Analysis of Dissociated Cultured Neurons on High-density CMOS Microelectrode Arrays)"
+    },
+    {
+      "id": "poster-45",
+      "title": "課題条件に応じた行動選択時のラットの前頭前野と背側線条体の役割 (Role of prefrontal and striatal neurons in task-condition-dependent action selection of rat)",
+      "authors": [
+        "船水章大",
+        "伊藤真",
+        "銅谷賢治",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2013,
+      "_raw": "(45) 船水章大，伊藤真，銅谷賢治，神崎亮平，高橋宏知：「課題条件に応じた行動選択時のラットの前頭前野と背側線条体の役割 (Role of prefrontal and striatal neurons in task-condition-dependent action selection of rat)」，Neuro2013 (第36回日本神経科学大会): #P3-2-64, 2013 (京都，2013年6月20日)",
+      "_valid": true,
+      "title_en": "The role of prefrontal and striatal neurons in the task-condition-dependent action selection of rats",
+      "title_ja": "課題条件に応じた行動選択時のラットの前頭前野と背側線条体の役割 (Role of prefrontal and striatal neurons in task-condition-dependent action selection of rat)"
+    },
+    {
+      "id": "poster-46",
+      "title": "Oscillation in rat auditory cortex representing emotional value of sound and texture of chord",
+      "authors": [
+        "白松–磯口知世",
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2013,
+      "_raw": "(46) 白松–磯口知世，野田貴大，神崎亮平，高橋宏知：「Oscillation in rat auditory cortex representing emotional value of sound and texture of chord」，神経オシレーションカンファレンス, 2013 (岡崎，2012年7月18日)",
+      "_valid": true
+    },
+    {
+      "id": "poster-47",
+      "title": "迷走神経刺激による大脳皮質神経活動の同期度変化",
+      "authors": [
+        "宇佐美憲一",
+        "川合謙介",
+        "高橋宏知",
+        "狩野竜示",
+        "野田貴大",
+        "白松知世",
+        "國井尚人",
+        "斉藤延人："
+      ],
+      "year": 2013,
+      "_raw": "(47) 宇佐美憲一，川合謙介，高橋宏知，狩野竜示，野田貴大，白松知世，國井尚人，斉藤延人：「迷走神経刺激による大脳皮質神経活動の同期度変化」，第47回日本てんかん学会学術集会, 2013 (北九州，2013年10月11日)",
+      "_valid": true,
+      "title_en": "The degree of synchronization change in cerebral cortex neural activity induced by vagal nerve stimulation",
+      "title_ja": "迷走神経刺激による大脳皮質神経活動の同期度変化"
+    },
+    {
+      "id": "poster-48",
+      "title": "二音和音の協和性と三音和音の調性を表現する聴皮質の神経活動",
+      "authors": [
+        "白松(磯口)知世",
+        "野田貴大",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2014,
+      "_raw": "(48) 白松(磯口)知世，野田貴大，神崎亮平，高橋宏知：「二音和音の協和性と三音和音の調性を表現する聴皮質の神経活動」，音学シンポジウム2014: ポスター#77, 2014 (東京，2014年5月24日)",
+      "_valid": true,
+      "title_en": "The neural activity of the auditory cortex that expresses the consonance of dyadic harmony and the tonality of triadic harmony.",
+      "title_ja": "二音和音の協和性と三音和音の調性を表現する聴皮質の神経活動"
+    },
+    {
+      "id": "poster-49",
+      "title": "ケージド化合物を用いた光刺激による神経細胞分散培養系の活動制御",
+      "authors": [
+        "安田秀策",
+        "矢田祐一郎",
+        "三田毅",
+        "神﨑亮平",
+        "高橋宏知："
+      ],
+      "year": 1850,
+      "_raw": "(49) 安田秀策，矢田祐一郎，三田毅，神﨑亮平，高橋宏知：「ケージド化合物を用いた光刺激による神経細胞分散培養系の活動制御」平成26年電気学会 電子・情報・システム部門大会講演論文集: pp. 1850-1851, 2014 (島根，2014年9月3日)",
+      "_valid": true,
+      "title_en": "Activity control of a neural cell suspension culture using light stimulation with cage compounds",
+      "title_ja": "ケージド化合物を用いた光刺激による神経細胞分散培養系の活動制御"
+    },
+    {
+      "id": "poster-50",
+      "title": "中脳ドーパミン系がラット聴覚野の神経活動に及ぼす影響",
+      "authors": [
+        "曾我遼",
+        "白松（磯口）知世",
+        "神崎 亮平",
+        "高橋 宏知："
+      ],
+      "year": 1843,
+      "_raw": "(50) 曾我遼，白松（磯口）知世，神崎 亮平，高橋 宏知：「中脳ドーパミン系がラット聴覚野の神経活動に及ぼす影響」平成26年電気学会 電子・情報・システム部門大会講演論文集: pp. 1843-1844, 2014 (島根，2014年9月3日)",
+      "_valid": true,
+      "title_en": "The influence of the mesolimbic dopamine system on neural activity in the rat auditory cortex.",
+      "title_ja": "中脳ドーパミン系がラット聴覚野の神経活動に及ぼす影響"
+    },
+    {
+      "id": "poster-51",
+      "title": "神経細胞の分散培養系におけるシナプス活動依存的な細胞移動",
+      "authors": [
+        "矢野隆一",
+        "三田毅",
+        "矢田祐一郎",
+        "Douglas Bakkum",
+        "神﨑亮平",
+        "高橋宏知："
+      ],
+      "year": 1825,
+      "_raw": "(51) 矢野隆一，三田毅，矢田祐一郎，Douglas Bakkum，神﨑亮平，高橋宏知：「神経細胞の分散培養系におけるシナプス活動依存的な細胞移動」平成26年電気学会 電子・情報・システム部門大会講演論文集: pp. 1825-1826, 2014 (島根，2014年9月3日)",
+      "_valid": true,
+      "title_en": "Cell migration dependent on synaptic activity in a neuron culture system",
+      "title_ja": "神経細胞の分散培養系におけるシナプス活動依存的な細胞移動"
+    },
+    {
+      "id": "poster-52",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(52) T. Mita, D. J. Bakkum, U. Frey, A. Hierlemann, R. Kanzaki, H. Takahashi: “Network plasticity induced by tatanic stimulation on a single axon in dissociated neuronal culture.” 第37回日本神経科学大会 (Neuroscience 2014): P3-380, 2014 (横浜，2014年9月11日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-53",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(53) Yuichiro Yada, Akihiro Sanada, Ryohei Kanzaki, Hirokazu Takahashi: “Reproducible spatial activity pattern in cortical network burst: characterization with non-negative matrix factorization (皮質神経回路のバースト活動が再現する空間活動パターン：非負値行列因子分解によるアプローチ).” 第37回日本神経科学大会 (Neuroscience 2014): P1-374, 2014 (横浜，2014年9月11日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-54",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(54) Naoki Wake, Tomoyo Shiramatsu-Isoguchi, Ryohei Kanzaki, Hirokazu Takahashi: “Acoustic-trauma-induced changes in phase synchrony of neuron population in rat auditory cortex (音響外傷が聴皮質のニューロン集団の位相同期に及ぼす影響).” 第37回日本神経科学大会 (Neuroscience 2014): P3-138, 2014 (横浜，2014年9月11日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-55",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(55) Naoki Wake, Tomoyo Shiramatsu-Isoguchi, Ryohei Kanzaki, Hirokazu Takahashi: “Band-specific phase modulation following acoustic trauma in rat auditory cortex.” 脳と心のメカニズム 第15回冬のワークショップ (2015年1月7日，ルスツ)",
+      "_valid": false
+    },
+    {
+      "id": "poster-56",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(56) Yuichiro Yada, Takeshi Mita, Ryohei Kanzaki, Hirokazu Takahashi: “Age-dependent diversity of spontaneous synchrony in dissociated cortical network.” 脳と心のメカニズム 第15回冬のワークショップ (2015年1月7日，ルスツ)",
+      "_valid": false
+    },
+    {
+      "id": "poster-57",
+      "title": "身体性を持たせた培養神経回路網の原理とダイナミクス",
+      "authors": [
+        "升森敦士",
+        "丸山典宏",
+        "三田毅",
+        "高橋宏知",
+        "池上高志："
+      ],
+      "year": 2015,
+      "_raw": "(57) 升森敦士，丸山典宏，三田毅，高橋宏知，池上高志：「身体性を持たせた培養神経回路網の原理とダイナミクス」，日本物理学会第70回年次大会，2015 (2015年3月21日，東京)",
+      "_valid": true,
+      "title_en": "The principles and dynamics of a cultivated neural network with a physical embodiment",
+      "title_ja": "身体性を持たせた培養神経回路網の原理とダイナミクス"
+    },
+    {
+      "id": "poster-58",
+      "title": "培養神経回路における神経雪崩現象と同期パターン相関",
+      "authors": [
+        "矢田祐一郎",
+        "眞田章宏",
+        "三田毅",
+        "神崎亮平",
+        "Douglas Bakkum",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(58) 矢田祐一郎，眞田章宏，三田毅，神崎亮平，Douglas Bakkum，高橋宏知：「培養神経回路における神経雪崩現象と同期パターン相関」，生体医工学 53 (特別号): p. 168, 2015 (第54回日本生体医工学会大会，2015年5月7日，名古屋)",
+      "_valid": true,
+      "title_en": "Neural avalanche phenomenon and synchronization pattern correlation in cultivating neural circuits",
+      "title_ja": "培養神経回路における神経雪崩現象と同期パターン相関"
+    },
+    {
+      "id": "poster-59",
+      "title": "ラット視床への電気刺激による聴皮質の誘発反応の空間分布",
+      "authors": [
+        "白松（磯口）知世",
+        "高橋和佐",
+        "野田貴大",
+        "神崎亮平",
+        "中原はるか",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(59) 白松（磯口）知世，高橋和佐，野田貴大，神崎亮平，中原はるか，高橋宏知：「ラット視床への電気刺激による聴皮質の誘発反応の空間分布」，生体医工学 53 (特別号): p. 244, 2015 (第54回日本生体医工学会大会，2015年5月7日，名古屋)",
+      "_valid": true,
+      "title_en": "Spatial distribution of auditory cortex evoked response due to electrical stimulation to the thalamus in rats",
+      "title_ja": "ラット視床への電気刺激による聴皮質の誘発反応の空間分布"
+    },
+    {
+      "id": "poster-60",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(60) Kotaro Ishizu, Hiroyuki Nagata, Tomoyo Isoguchi Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi：Causality Evaluation of Signal Transfer between Thalamus and Cortex using Transfer Entropy，第38回日本神経科学大会, : #2P179, 2015 (2015年7月28日，神戸)",
+      "_valid": false
+    },
+    {
+      "id": "poster-61",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(61) Naoki Wake, Tomoyo Isoguchi Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi: Prediction of acoustic trauma based on the phase synchrony in the rat auditory cortex，第38回日本神経科学大会: #2P178, 2015 (2015年7月28日，神戸)",
+      "_valid": false
+    },
+    {
+      "id": "poster-62",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(62) Yuichiro Yada, Akihiro Sanada, Ryohei Kanzaki and Hirokazu Takahashi: Functional sub-network of leader neurons in self-organized dissociated cortical network，第38回日本神経科学大会, #2P321, 2015 (2015年7月28日，神戸)",
+      "_valid": false
+    },
+    {
+      "id": "poster-63",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(63) Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi: Band-specific power in rat auditory cortex modulates the mismatch negativity amplitude in single trial，第38回日本神経科学大会: #1P198, 2015 (2015年7月28日，神戸)",
+      "_valid": false
+    },
+    {
+      "id": "poster-64",
+      "title": "神経細胞の分散培養系における高密度CMOS電極アレイで推定した細胞体位置及び移動量の検証",
+      "authors": [
+        "矢野隆一",
+        "三田毅",
+        "矢田祐一郎",
+        "Douglas Bakkum",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(64) 矢野隆一，三田毅，矢田祐一郎，Douglas Bakkum，神崎亮平，高橋宏知：「神経細胞の分散培養系における高密度CMOS電極アレイで推定した細胞体位置及び移動量の検証」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 85-87, 2015（2015年9月2日，飯塚，福岡）",
+      "_valid": true,
+      "title_en": "Verification of estimated soma positions and movement amounts in high-density CMOS electrode arrays for neurocyte suspension culture systems",
+      "title_ja": "神経細胞の分散培養系における高密度CMOS電極アレイで推定した細胞体位置及び移動量の検証"
+    },
+    {
+      "id": "poster-65",
+      "title": "培養神経回路を用いたFORCE学習による複雑な時系列パターンの生成",
+      "authors": [
+        "安田秀策",
+        "矢田祐一郎",
+        "三田毅",
+        "神﨑亮平",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(65) 安田秀策，矢田祐一郎，三田毅，神﨑亮平，高橋宏知：「培養神経回路を用いたFORCE学習による複雑な時系列パターンの生成」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 90-92, 2015（2015年9月2日，飯塚，福岡）",
+      "_valid": true,
+      "title_en": "Generating complex time-series patterns using FORCE learning with cultivated neural circuits",
+      "title_ja": "培養神経回路を用いたFORCE学習による複雑な時系列パターンの生成"
+    },
+    {
+      "id": "poster-66",
+      "title": "可塑性のある神経回路モデルの身体化実験",
+      "authors": [
+        "安江秀太",
+        "安田秀策",
+        "矢田祐一郎",
+        "三田毅",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(66) 安江秀太，安田秀策，矢田祐一郎，三田毅，神崎亮平，高橋宏知：「可塑性のある神経回路モデルの身体化実験」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 100-103, 2015（2015年9月2日，飯塚，福岡）",
+      "_valid": true,
+      "title_en": "Experiment on embodying a plastic neural circuit model",
+      "title_ja": "可塑性のある神経回路モデルの身体化実験"
+    },
+    {
+      "id": "poster-67",
+      "title": "培養神経回路の同期バースト発生を担う細胞群の探索",
+      "authors": [
+        "古池香里",
+        "矢田祐一郎",
+        "三田毅",
+        "神崎亮平",
+        "ダグラス・バッカム",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(67) 古池香里，矢田祐一郎，三田毅，神崎亮平，ダグラス・バッカム，高橋宏知：「培養神経回路の同期バースト発生を担う細胞群の探索」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 106-107, 2015（2015年9月2日，飯塚，福岡）",
+      "_valid": true,
+      "title_en": "Exploring cell populations responsible for the synchronization burst occurrence in cultivated neural circuits.",
+      "title_ja": "培養神経回路の同期バースト発生を担う細胞群の探索"
+    },
+    {
+      "id": "poster-68",
+      "title": "ラットの聴覚野における定常的な神経活動パターンへの麻酔の影響",
+      "authors": [
+        "和家尚希",
+        "石津光太郎",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(68) 和家尚希，石津光太郎，神崎亮平，高橋宏知：「ラットの聴覚野における定常的な神経活動パターンへの麻酔の影響」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 112-114, 2015（2015年9月2日，飯塚，福岡）",
+      "_valid": true,
+      "title_en": "The effect of anesthesia on the normal pattern of neural activity in the auditory cortex of rats",
+      "title_ja": "ラットの聴覚野における定常的な神経活動パターンへの麻酔の影響"
+    },
+    {
+      "id": "poster-69",
+      "title": "ラットの音の嗜好性を定量化する実験系の構築",
+      "authors": [
+        "曾我遼",
+        "白松(磯口)知世",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(69) 曾我遼，白松(磯口)知世，神崎亮平，高橋宏知：「ラットの音の嗜好性を定量化する実験系の構築」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 125-128, 2015（2015年9月2日，飯塚，福岡）",
+      "_valid": true,
+      "title_en": "Establishing an experimental system to quantify the preference for sounds of rats",
+      "title_ja": "ラットの音の嗜好性を定量化する実験系の構築"
+    },
+    {
+      "id": "poster-70",
+      "title": "感覚野への電気パルス列刺激による知覚の生成の基礎検討",
+      "authors": [
+        "久山貴大",
+        "白松（磯口）知世",
+        "曾我遼",
+        "石津光太郎",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(70) 久山貴大，白松（磯口）知世，曾我遼，石津光太郎，神崎亮平，高橋宏知：「感覚野への電気パルス列刺激による知覚の生成の基礎検討」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 132-133, 2015（2015年9月2日，飯塚，福岡）",
+      "_valid": true,
+      "title_en": "Fundamental investigation of perception generation through electrical pulse train stimulation to the sensory cortex",
+      "title_ja": "感覚野への電気パルス列刺激による知覚の生成の基礎検討"
+    },
+    {
+      "id": "poster-71",
+      "title": "ラット視床および聴覚野での信号伝達の因果性評価",
+      "authors": [
+        "石津光太郎",
+        "白松（磯口）知世",
+        "永田裕之",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(71) 石津光太郎，白松（磯口）知世，永田裕之，神崎亮平，高橋宏知：「ラット視床および聴覚野での信号伝達の因果性評価」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 141-144, 2015（2015年9月2日，飯塚，福岡）",
+      "_valid": true,
+      "title_en": "Evaluation of causality in signal transmission in rat thalamus and auditory cortex",
+      "title_ja": "ラット視床および聴覚野での信号伝達の因果性評価"
+    },
+    {
+      "id": "poster-72",
+      "title": "迷走神経刺激がラット視床の刺激選択的順応に及ぼす影響",
+      "authors": [
+        "日露理英",
+        "白松（磯口）知世",
+        "石津光太郎",
+        "神崎亮平",
+        "井林賢志",
+        "川合謙介",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(72) 日露理英，白松（磯口）知世，石津光太郎，神崎亮平，井林賢志，川合謙介，高橋宏知：「迷走神経刺激がラット視床の刺激選択的順応に及ぼす影響」，ライフエンジニアリング部門シンポジウム2015（LE2015）論文集: pp. 148-151, 2015（2015年9月2日，飯塚，福岡）",
+      "_valid": true,
+      "title_en": "The effect of vagal nerve stimulation on the selective adaptation of rat thalamus stimulation",
+      "title_ja": "迷走神経刺激がラット視床の刺激選択的順応に及ぼす影響"
+    },
+    {
+      "id": "poster-73",
+      "title": "聴皮質における音の情動的な質感の表現",
+      "authors": [
+        "白松（磯口）知世",
+        "曾我遼",
+        "高橋宏知："
+      ],
+      "year": 2015,
+      "_raw": "(73) 白松（磯口）知世，曾我遼，高橋宏知：「聴皮質における音の情動的な質感の表現」，質感のつどい 第１回公開フォーラム，2015 (2015年11月25日，東京)",
+      "_valid": true,
+      "title_en": "Expressing the emotional texture of sound in the auditory cortex",
+      "title_ja": "聴皮質における音の情動的な質感の表現"
+    },
+    {
+      "id": "poster-74",
+      "title": "培養神経細胞の「刺激を避ける原理",
+      "authors": [
+        "升森敦士",
+        "丸山典宏",
+        "三田毅",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "高橋宏知",
+        "池上高志:"
+      ],
+      "year": 2016,
+      "_raw": "(74) 升森敦士, 丸山典宏, 三田毅, Douglas Bakkum, Urs Frey, 高橋宏知, 池上高志: 「培養神経細胞の「刺激を避ける原理」による学習」，日本物理学会第71回年次大会，2016 (2016年3月19日，仙台)",
+      "_valid": true,
+      "title_en": "The principle of avoiding stimulation in cultivating neural cells",
+      "title_ja": "培養神経細胞の「刺激を避ける原理"
+    },
+    {
+      "id": "poster-75",
+      "title": "迷走神経刺激がラット聴皮質の刺激選択的順応に及ぼす影響",
+      "authors": [
+        "白松-磯口知世",
+        "日露理英",
+        "井林賢志",
+        "神崎亮平",
+        "川合謙介",
+        "高橋宏知："
+      ],
+      "year": 2016,
+      "_raw": "(75) 白松-磯口知世，日露理英，井林賢志，神崎亮平，川合謙介，高橋宏知：「迷走神経刺激がラット聴皮質の刺激選択的順応に及ぼす影響」，第39回日本神経科学大会: #P3-082, 2016 (2016年7月20日，横浜)",
+      "_valid": true,
+      "title_en": "The influence of vagal nerve stimulation on the selective adaptation of rat auditory cortex stimulation.",
+      "title_ja": "迷走神経刺激がラット聴皮質の刺激選択的順応に及ぼす影響"
+    },
+    {
+      "id": "poster-76",
+      "title": "音嗜好性を評価する行動実験",
+      "authors": [
+        "曾我遼",
+        "白松-磯口知世",
+        "高橋宏知："
+      ],
+      "year": 2016,
+      "_raw": "(76) 曾我遼，白松-磯口知世，高橋宏知：「音嗜好性を評価する行動実験」，第39回日本神経科学大会: # P1-218, 2016 (2016年7月20日，横浜)",
+      "_valid": true,
+      "title_en": "Evaluate the auditory preference through behavioral experiments",
+      "title_ja": "音嗜好性を評価する行動実験"
+    },
+    {
+      "id": "poster-77",
+      "title": "Inhibitory neurons increase their firing rate prior to recurring spike sequences in cultured neurons（培養神経ネットワークのスパイクパターン生成における抑制性ニューロンの役割）",
+      "authors": [
+        "Atsushi Kayama",
+        "Yuichiro Yada",
+        "Takeshi Mita",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi:"
+      ],
+      "year": 2016,
+      "_raw": "(77) Atsushi Kayama, Yuichiro Yada, Takeshi Mita, Ryohei Kanzaki, Hirokazu Takahashi:「Inhibitory neurons increase their firing rate prior to recurring spike sequences in cultured neurons（培養神経ネットワークのスパイクパターン生成における抑制性ニューロンの役割）」，計測自動制御学会ライフエンジニアリング部門シンポジウム2016（第31回生体生理工学シンポジウム）講演論文集：p. 99, 2016 (2016年11月3日，大阪)",
+      "_valid": true,
+      "title_en": "Inhibitory neurons raise their firing rate before recurring spike sequences in cultured neurons.",
+      "title_ja": "Inhibitory neurons increase their firing rate prior to recurring spike sequences in cultured neurons（培養神経ネットワークのスパイクパターン生成における抑制性ニューロンの役割）"
+    },
+    {
+      "id": "poster-78",
+      "title": "Plasticity of selective adaptation for stimulus in cultured cell（神経細胞の分散培養系における刺激選択的な適応の可塑性）",
+      "authors": [
+        "Yusuke Fujita",
+        "Yuichiro Yada",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi:"
+      ],
+      "year": 2016,
+      "_raw": "(78) Yusuke Fujita, Yuichiro Yada, Ryohei Kanzaki, Hirokazu Takahashi:「Plasticity of selective adaptation for stimulus in cultured cell（神経細胞の分散培養系における刺激選択的な適応の可塑性）」，計測自動制御学会ライフエンジニアリング部門シンポジウム2016（第31回生体生理工学シンポジウム）講演論文集：p. 101, 2016 (2016年11月3日，大阪)",
+      "_valid": true,
+      "title_en": "Plasticity of selective adaptation for stimulus in cultured neural cells",
+      "title_ja": "Plasticity of selective adaptation for stimulus in cultured cell（神経細胞の分散培養系における刺激選択的な適応の可塑性）"
+    },
+    {
+      "id": "poster-79",
+      "title": "Visualization of the action potential propagation pattern that evokes synchronized bursts（神経細胞群の同期発火を誘発する細胞間電位伝播パターンの視覚化）",
+      "authors": [
+        "Hayato Tsunoda",
+        "Yuichiro Yada",
+        "Atsushi Kayama",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi:"
+      ],
+      "year": 2016,
+      "_raw": "(79) Hayato Tsunoda, Yuichiro Yada, Atsushi Kayama, Ryohei Kanzaki, Hirokazu Takahashi:「Visualization of the action potential propagation pattern that evokes synchronized bursts（神経細胞群の同期発火を誘発する細胞間電位伝播パターンの視覚化）」，計測自動制御学会ライフエンジニアリング部門シンポジウム2016（第31回生体生理工学シンポジウム）講演論文集：p. 114, 2016 (2016年11月3日，大阪)",
+      "_valid": true,
+      "title_en": "Visualization of the action potential propagation pattern that induces synchronous bursts in a group of neurons",
+      "title_ja": "Visualization of the action potential propagation pattern that evokes synchronized bursts（神経細胞群の同期発火を誘発する細胞間電位伝播パターンの視覚化）"
+    },
+    {
+      "id": "poster-80",
+      "title": "Manipulation of tone preference using classical conditioning（古典的条件付けを用いた音嗜好性の操作）",
+      "authors": [
+        "Ryo Soga",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi:"
+      ],
+      "year": 2016,
+      "_raw": "(80) Ryo Soga, Tomoyo I. Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi:「Manipulation of tone preference using classical conditioning（古典的条件付けを用いた音嗜好性の操作）」，計測自動制御学会ライフエンジニアリング部門シンポジウム2016（第31回生体生理工学シンポジウム）講演論文集：pp. 131-133, 2016 (2016年11月3日，大阪)",
+      "_valid": true,
+      "title_en": "Using classical conditioning to manipulate tone preference",
+      "title_ja": "Manipulation of tone preference using classical conditioning（古典的条件付けを用いた音嗜好性の操作）"
+    },
+    {
+      "id": "poster-81",
+      "title": "Primitive neural basis of music perception in rodents（げっ歯類における音楽認識の原始的な神経基盤）",
+      "authors": [
+        "Takumi Matsutake",
+        "Ryo Soga",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi:"
+      ],
+      "year": 2016,
+      "_raw": "(81) Takumi Matsutake, Tomoyo I. Shiramatsu, Ryo Soga, Ryohei Kanzaki, Hirokazu Takahashi:「Primitive neural basis of music perception in rodents（げっ歯類における音楽認識の原始的な神経基盤）」，計測自動制御学会ライフエンジニアリング部門シンポジウム2016（第31回生体生理工学シンポジウム）講演論文集：pp. 135-136, 2016 (2016年11月3日，大阪)",
+      "_valid": true,
+      "title_en": "Primal neural basis of music perception in rodents",
+      "title_ja": "Primitive neural basis of music perception in rodents（げっ歯類における音楽認識の原始的な神経基盤）"
+    },
+    {
+      "id": "poster-82",
+      "title": "Information flow between thalamus and auditory cortex generated by sound stimulus（音刺激で生じる視床・聴覚野の情報流）",
+      "authors": [
+        "Kotaro Ishizu",
+        "Masahumi Oizumi",
+        "Naotsugu Tsuchiya",
+        "Hirokazu Takahashi:"
+      ],
+      "year": 2016,
+      "_raw": "(82) Kotaro Ishizu, Masahumi Oizumi, Naotsugu Tsuchiya, Tomoyo I. Shiramatsu, Hirokazu Takahashi:「Information flow between thalamus and auditory cortex generated by sound stimulus（音刺激で生じる視床・聴覚野の情報流）」，計測自動制御学会ライフエンジニアリング部門シンポジウム2016（第31回生体生理工学シンポジウム）講演論文集：p. 138, 2016 (2016年11月3日，大阪)",
+      "_valid": true,
+      "title_en": "Information flow between the thalamus and auditory cortex generated by sound stimuli.",
+      "title_ja": "Information flow between thalamus and auditory cortex generated by sound stimulus（音刺激で生じる視床・聴覚野の情報流）"
+    },
+    {
+      "id": "poster-83",
+      "title": "Sense of self-agency in rat（ラットの自己主体感に関する研究）",
+      "authors": [
+        "Yurika Doi",
+        "Ryo Soga",
+        "Kotaro Ishizu",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi:"
+      ],
+      "year": 2016,
+      "_raw": "(83) Yurika Doi, Tomoyo I. Shiramatsu, Ryo Soga, Kotaro Ishizu, Ryohei Kanzaki, Hirokazu Takahashi:「Sense of self-agency in rat（ラットの自己主体感に関する研究）」，計測自動制御学会ライフエンジニアリング部門シンポジウム2016（第31回生体生理工学シンポジウム）講演論文集：pp. 139-140, 2016 (2016年11月3日，大阪)",
+      "_valid": true,
+      "title_en": "Study on rats' sense of self-agency",
+      "title_ja": "Sense of self-agency in rat（ラットの自己主体感に関する研究）"
+    },
+    {
+      "id": "poster-84",
+      "title": "Layer-specific information processing of the long-lasting sustained activities in rat auditory cortex（ラット聴皮質各層における定常的な神経活動の情報表現）",
+      "authors": [
+        "Kenji Ibayashi",
+        "Hirokazu Takahashi:"
+      ],
+      "year": 2016,
+      "_raw": "(84) Tomoyo I. Shiramatsu, Kenji Ibayashi, Hirokazu Takahashi:「Layer-specific information processing of the long-lasting sustained activities in rat auditory cortex（ラット聴皮質各層における定常的な神経活動の情報表現）」，計測自動制御学会ライフエンジニアリング部門シンポジウム2016（第31回生体生理工学シンポジウム）講演論文集：p. 141, 2016 (2016年11月3日，大阪)",
+      "_valid": true,
+      "title_en": "Processing information specific to layers in the rat auditory cortex about its long-lasting sustained activities",
+      "title_ja": "Layer-specific information processing of the long-lasting sustained activities in rat auditory cortex（ラット聴皮質各層における定常的な神経活動の情報表現）"
+    },
+    {
+      "id": "poster-85",
+      "title": "The Fast Oscillations in Rat Neocortex during Auditory-Induced Operant Behavior",
+      "authors": [
+        "Naoki Wake",
+        "Kotaro Ishizu"
+      ],
+      "year": 2017,
+      "_raw": "(85) Naoki Wake, Kotaro Ishizu, and Hirokazu Takahashi: 「The Fast Oscillations in Rat Neocortex during Auditory-Induced Operant Behavior」，脳と心のメカニズム 第17回冬のワークショップ (2017年1月11日，ルスツ)",
+      "_valid": true
+    },
+    {
+      "id": "poster-86",
+      "title": "ラットの自己主体感を調べる実験系の構築",
+      "authors": [
+        "土井ゆりか",
+        "石津光太郎",
+        "白松（磯口）知世",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2017,
+      "_raw": "(86) 土井ゆりか，石津光太郎，白松（磯口）知世，神崎亮平，高橋宏知：「ラットの自己主体感を調べる実験系の構築」，電気学会研究会資料 医用・生体工学研究会MBE-17-015~041: pp. 103-108, 2017 (東京，2017年3月20日)",
+      "_valid": true,
+      "title_en": "Establishing an experimental system to investigate rats' sense of self-agency",
+      "title_ja": "ラットの自己主体感を調べる実験系の構築"
+    },
+    {
+      "id": "poster-87",
+      "title": "齧歯類における和音知覚の原始的な神経基盤",
+      "authors": [
+        "松竹理匠",
+        "白松(磯口)知世",
+        "和家尚希",
+        "曾我遼",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2017,
+      "_raw": "(87) 松竹理匠，白松(磯口)知世，和家尚希，曾我遼，神崎亮平，高橋宏知：「齧歯類における和音知覚の原始的な神経基盤」，電気学会研究会資料 医用・生体工学研究会MBE-17-015~041: pp. 109-114, 2017 (東京，2017年3月20日)",
+      "_valid": true,
+      "title_en": "Primitive neural foundation for harmony perception in rodentia",
+      "title_ja": "齧歯類における和音知覚の原始的な神経基盤"
+    },
+    {
+      "id": "poster-88",
+      "title": "繰り返し同期誘発刺激による培養神経回路の記憶の操作",
+      "authors": [
+        "角田颯飛",
+        "矢田祐一郎",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2017,
+      "_raw": "(88) 角田颯飛，矢田祐一郎，神崎亮平，高橋宏知：「繰り返し同期誘発刺激による培養神経回路の記憶の操作」，電気学会研究会資料 医用・生体工学研究会MBE-17-015~041: pp. 115-120, 2017 (東京，2017年3月20日)",
+      "_valid": true,
+      "title_en": "Operation of memory in cultured neural circuits induced by repetitive synchronous stimulation",
+      "title_ja": "繰り返し同期誘発刺激による培養神経回路の記憶の操作"
+    },
+    {
+      "id": "poster-89",
+      "title": "ラット聴覚皮質におけるマイクロ皮質脳波の慢性計測",
+      "authors": [
+        "石津光太郎",
+        "白松(磯口)知世",
+        "小河原康一",
+        "神崎亮平",
+        "高橋宏知："
+      ],
+      "year": 2018,
+      "_raw": "(89) 石津光太郎，白松(磯口)知世，小河原康一，神崎亮平，高橋宏知：「ラット聴覚皮質におけるマイクロ皮質脳波の慢性計測」，電気学会研究会資料 医用・生体工学研究会MBE-18-001~031: pp. 89-94, 2018 (東京，2018年3月20日)",
+      "_valid": true,
+      "title_en": "Chronic measurement of microcortical brain waves in the rat auditory cortex",
+      "title_ja": "ラット聴覚皮質におけるマイクロ皮質脳波の慢性計測"
+    },
+    {
+      "id": "poster-90",
+      "title": "脳の電気刺激による意識にのぼる知覚の創成",
+      "authors": [
+        "阿部泰己",
+        "石津光太郎",
+        "和家尚希",
+        "高橋宏知："
+      ],
+      "year": 2018,
+      "_raw": "(90) 阿部泰己，石津光太郎，和家尚希，高橋宏知：「脳の電気刺激による意識にのぼる知覚の創成」，電気学会研究会資料 医用・生体工学研究会MBE-18-001~031: pp. 99-104, 2018 (東京，2018年3月20日)",
+      "_valid": true,
+      "title_en": "The creation of perceptions upon becoming conscious through electrical stimulation of the brain",
+      "title_ja": "脳の電気刺激による意識にのぼる知覚の創成"
+    },
+    {
+      "id": "poster-91",
+      "title": "拡張した情報処理容量によるリザバーコンピューティングの評価",
+      "authors": [
+        "大澤龍太",
+        "窪田智之",
+        "高橋宏知："
+      ],
+      "year": 2020,
+      "_raw": "(91)　大澤龍太，窪田智之，高橋宏知：「拡張した情報処理容量によるリザバーコンピューティングの評価」，電気学会研究会資料医用・生体工学研究会MBE-20-001~031: pp. 59-64, 2020 (東京，2020年3月19日) [開催中止]",
+      "_valid": true,
+      "title_en": "Evaluation of reservoir computing with expanded information processing capacity",
+      "title_ja": "拡張した情報処理容量によるリザバーコンピューティングの評価"
+    },
+    {
+      "id": "poster-92",
+      "title": "継続的な刺激が培養神経回路の成長にもたらす影響",
+      "authors": [
+        "高橋斗威",
+        "池田成満",
+        "窪田智之",
+        "高橋宏知："
+      ],
+      "year": 2020,
+      "_raw": "(92)　高橋斗威，池田成満，窪田智之，高橋宏知：「継続的な刺激が培養神経回路の成長にもたらす影響」，電気学会研究会資料医用・生体工学研究会MBE-20-001~031: pp. 65-70, 2020 (東京，2020年3月19日) [開催中止]",
+      "_valid": true,
+      "title_en": "Continuous stimulation has an effect on promoting the growth of neural circuits.",
+      "title_ja": "継続的な刺激が培養神経回路の成長にもたらす影響"
+    },
+    {
+      "id": "poster-93",
+      "title": "VNSによる聴皮質と視床の受容野の変化",
+      "authors": [
+        "白松-磯口知世",
+        "井林賢志",
+        "日露理英",
+        "川合謙介",
+        "高橋宏知:"
+      ],
+      "year": 2020,
+      "_raw": "(93) 白松-磯口知世, 井林賢志, 日露理英, 川合謙介, 高橋宏知: 「VNSによる聴皮質と視床の受容野の変化」，第43回日本神経科学大会: 2P-061, 2020 (神戸，2020年7月29日) [オンライン開催]",
+      "_valid": true,
+      "title_en": "Changes in receptive fields of the auditory cortex and thalamus by VNS",
+      "title_ja": "VNSによる聴皮質と視床の受容野の変化"
+    },
+    {
+      "id": "poster-94",
+      "title": "移動エントロピー解析による，ラット視床-皮質間の覚醒下・麻酔下における神経伝達変動",
+      "authors": [
+        "石津光太郎",
+        "高橋宏知："
+      ],
+      "year": 2020,
+      "_raw": "(94) 石津光太郎，高橋宏知：「移動エントロピー解析による，ラット視床-皮質間の覚醒下・麻酔下における神経伝達変動」，第43回日本神経科学大会: 2P-063, 2020 (神戸，2020年7月29日) [オンライン開催]",
+      "_valid": true,
+      "title_en": "Analysis of neural transmission changes between rat thalamus and cortex under wakefulness and anesthesia using mobile entropy analysis",
+      "title_ja": "移動エントロピー解析による，ラット視床-皮質間の覚醒下・麻酔下における神経伝達変動"
+    },
+    {
+      "id": "poster-95",
+      "title": "ラットの聴知覚に対する迷走神経刺激の影響",
+      "authors": [
+        "松村茜",
+        "熊谷真一",
+        "白松（磯口）知世",
+        "川合謙介",
+        "高橋宏知」"
+      ],
+      "year": 2021,
+      "_raw": "(95) 松村茜，熊谷真一，白松（磯口）知世，川合謙介，高橋宏知」「ラットの聴知覚に対する迷走神経刺激の影響」，2021年電気学会電子・情報・システム部門大会講演論文集: PS5-3, 2021 (オンライン，2021年9月15日)",
+      "_valid": true,
+      "title_en": "The effects of vagal nerve stimulation on the auditory and sensory perception of rats.",
+      "title_ja": "ラットの聴知覚に対する迷走神経刺激の影響"
+    },
+    {
+      "id": "poster-96",
+      "title": "ラット聴覚野における情報処理容量の局在構造",
+      "authors": [
+        "石田直輝",
+        "窪田智之",
+        "伊藤圭基",
+        "白松（磯口）知世",
+        "高橋宏知："
+      ],
+      "year": 2021,
+      "_raw": "(96) 石田直輝，窪田智之，伊藤圭基，白松（磯口）知世，高橋宏知：「ラット聴覚野における情報処理容量の局在構造」，2021年電気学会電子・情報・システム部門大会講演論文集: PS5-4, 2021 (オンライン，2021年9月15日)",
+      "_valid": true,
+      "title_en": "Local structural characteristics of information processing capacity in the rat auditory cortex",
+      "title_ja": "ラット聴覚野における情報処理容量の局在構造"
+    },
+    {
+      "id": "poster-97",
+      "title": "神経細胞の分散培養系の温度依存性",
+      "authors": [
+        "諏訪瑛介",
+        "池田成満",
+        "高橋宏知："
+      ],
+      "year": 2021,
+      "_raw": "(97) 諏訪瑛介，池田成満，高橋宏知：「神経細胞の分散培養系の温度依存性」，2021年電気学会電子・情報・システム部門大会講演論文集: PS6-6, 2021 (オンライン，2021年9月15日)",
+      "_valid": true,
+      "title_en": "Temperature-dependent distribution culture system of neural cells",
+      "title_ja": "神経細胞の分散培養系の温度依存性"
+    },
+    {
+      "id": "poster-98",
+      "title": "ラットの社会的結束形成に対する音楽の影響の評価系構築",
+      "authors": [
+        "大島果林",
+        "白松（磯口）知世",
+        "高橋宏知："
+      ],
+      "year": 2022,
+      "_raw": "(98) 大島果林，白松（磯口）知世，高橋宏知：「ラットの社会的結束形成に対する音楽の影響の評価系構築」，Neuro2022（第45回日本神経科学大会）：#1P-026，2022 (那覇，2022年6月30日)",
+      "_valid": true,
+      "title_en": "Evaluation system construction for the impact of music on rat social bond formation",
+      "title_ja": "ラットの社会的結束形成に対する音楽の影響の評価系構築"
+    },
+    {
+      "id": "poster-99",
+      "title": "ラット聴覚野の情報処理容量",
+      "authors": [
+        "石田直輝",
+        "窪田智之",
+        "伊藤圭基",
+        "白松（磯口）知世",
+        "諏訪瑛介",
+        "高橋宏知："
+      ],
+      "year": 2022,
+      "_raw": "(99) 石田直輝，窪田智之，伊藤圭基，白松（磯口）知世，諏訪瑛介，高橋宏知：「ラット聴覚野の情報処理容量」，Neuro2022（第45回日本神経科学大会）：#2P-200，2022 (那覇，2022年7月1日)",
+      "_valid": true,
+      "title_en": "Rat auditory cortex information processing capacity",
+      "title_ja": "ラット聴覚野の情報処理容量"
+    },
+    {
+      "id": "poster-100",
+      "title": "長期間の音楽曝露によるラット聴覚野の時間情報表現の変化",
+      "authors": [
+        "白松（磯口）知世",
+        "石田直輝",
+        "大島果林",
+        "高橋宏知："
+      ],
+      "year": 2022,
+      "_raw": "(100) 白松（磯口）知世，石田直輝，大島果林，高橋宏知：「長期間の音楽曝露によるラット聴覚野の時間情報表現の変化」，Neuro2022（第45回日本神経科学大会）：#2P-203，2022 (那覇，2022年7月1日)",
+      "_valid": true,
+      "title_en": "Prolonged exposure to music causes changes in the temporal information expression of rat auditory cortex.",
+      "title_ja": "長期間の音楽曝露によるラット聴覚野の時間情報表現の変化"
+    },
+    {
+      "id": "poster-101",
+      "title": "Assessing the effects of Stimulation on self-organized criticality in developing dissociated neuronal cultures using high density electrodes",
+      "authors": [
+        "Amit Yaron",
+        "Zhuo Zhang",
+        "Eisuke Suwa",
+        "Zenas C. Chao",
+        "Hirokazu Takahashi："
+      ],
+      "year": 2022,
+      "_raw": "(101) Amit Yaron, Zhuo Zhang, Eisuke Suwa, Zenas C. Chao, Hirokazu Takahashi：「Assessing the effects of Stimulation on self-organized criticality in developing dissociated neuronal cultures using high density electrodes」，Neuro2022（第45回日本神経科学大会）：#2P-297，2022 (那覇，2022年7月1日)",
+      "_valid": true
+    },
+    {
+      "id": "poster-102",
+      "title": "情動に対する音楽の影響を動物モデルで調べるための実験系",
+      "authors": [
+        "山木崚太郎",
+        "白松（磯口）知世",
+        "石田直輝",
+        "高橋宏知："
+      ],
+      "year": 2022,
+      "_raw": "(102) 山木崚太郎，白松（磯口）知世，石田直輝，高橋宏知：「情動に対する音楽の影響を動物モデルで調べるための実験系」，Neuro2022（第45回日本神経科学大会）：#3P-035，2022 (那覇，2022年7月2日)",
+      "_valid": true,
+      "title_en": "An experimental system for investigating the influence of music on emotions in animal models",
+      "title_ja": "情動に対する音楽の影響を動物モデルで調べるための実験系"
+    },
+    {
+      "id": "poster-103",
+      "title": "Memory Traces in Dissociated Cultures of Neurons",
+      "authors": [
+        "Zhuo Zhang",
+        "Amit Yaron",
+        "Suwa Eisuke",
+        "Hirokazu Takahashi："
+      ],
+      "year": 2022,
+      "_raw": "(103) Zhuo Zhang, Amit Yaron, Suwa Eisuke, Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi：「Memory Traces in Dissociated Cultures of Neurons」，Neuro2022（第45回日本神経科学大会）：#3P-226，2022 (那覇，2022年7月2日)",
+      "_valid": true
+    },
+    {
+      "id": "poster-104",
+      "title": "Direction of Multisensory Illusion is Influenced by Stimulus Detectability",
+      "authors": [
+        "Hexin Xu",
+        "Amit Yaron",
+        "Hirokazu Takahashi："
+      ],
+      "year": 2022,
+      "_raw": "(104) Hexin Xu, Amit Yaron, Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi：「Direction of Multisensory Illusion is Influenced by Stimulus Detectability」2022年電気学会電子・情報・システム部門大会講演論文集: pp. 1355-1356 (PS1-14), 2022 (広島，2022年8月31日)",
+      "_valid": true
+    },
+    {
+      "id": "poster-105",
+      "title": "LSTMを用いたギャップ検出閾値の検出精度の向上",
+      "authors": [
+        "金井智美",
+        "岡田大吾",
+        "高橋斗威",
+        "可部泰生",
+        "岡本秀彦",
+        "森本隆司",
+        "高橋宏知："
+      ],
+      "year": 2022,
+      "_raw": "(105) 金井智美，岡田大吾，高橋斗威，可部泰生，岡本秀彦，森本隆司，高橋宏知：「LSTMを用いたギャップ検出閾値の検出精度の向上」，2022年電気学会電子・情報・システム部門大会講演論文集: pp. 1364-1365 (PS1-18), 2022 (広島，2022年8月31日)",
+      "_valid": true,
+      "title_en": "Enhancing detection accuracy of gap detection thresholds using LSTM.",
+      "title_ja": "LSTMを用いたギャップ検出閾値の検出精度の向上"
+    },
+    {
+      "id": "poster-106",
+      "title": "ラット大脳皮質における心拍誘発電位の多点計測",
+      "authors": [
+        "白松（磯口）知世",
+        "熊谷真一",
+        "高橋宏知："
+      ],
+      "year": 2023,
+      "_raw": "(106) 白松（磯口）知世，熊谷真一，高橋宏知：「ラット大脳皮質における心拍誘発電位の多点計測」，Neruo2023 (第46回日本神経科学大会)：#1Pa-035，2023 (仙台，2023年8月1日)",
+      "_valid": true,
+      "title_en": "Multi-point measurement of heart beat-induced electrical potentials in rat cerebral cortex",
+      "title_ja": "ラット大脳皮質における心拍誘発電位の多点計測"
+    },
+    {
+      "id": "poster-107",
+      "title": "迷走神経刺激による島皮質の聴覚誘発反応の変化 ",
+      "authors": [
+        "熊谷真一",
+        "白松（磯口）知世",
+        "川合謙介",
+        "高橋宏知："
+      ],
+      "year": 2023,
+      "_raw": "(107) 熊谷真一，白松（磯口）知世，川合謙介，高橋宏知：「迷走神経刺激による島皮質の聴覚誘発反応の変化 」，Neruo2023 (第46回日本神経科学大会)：#2Pm-029，2023 (仙台，2023年8月2日)",
+      "_valid": true,
+      "title_en": "Changes in auditory evoked responses of the insula due to vagus nerve stimulation",
+      "title_ja": "迷走神経刺激による島皮質の聴覚誘発反応の変化 "
+    },
+    {
+      "id": "poster-108",
+      "title": "統合失調症モデルラットの社会性障害",
+      "authors": [
+        "大島果林",
+        "白松（磯口）知世",
+        "高橋宏知："
+      ],
+      "year": 2023,
+      "_raw": "(108) 大島果林，白松（磯口）知世，高橋宏知：「統合失調症モデルラットの社会性障害」，Neruo2023 (第46回日本神経科学大会)：#3Pa-113，2023 (仙台，2023年8月3日)",
+      "_valid": true,
+      "title_en": "Schizophrenia model rat's social disorders",
+      "title_ja": "統合失調症モデルラットの社会性障害"
+    },
+    {
+      "id": "poster-109",
+      "title": "ドーパミンによるラット聴覚野の情報処理能力への影響",
+      "authors": [
+        "山木崚太郎",
+        "白松（磯口）知世",
+        "石田直輝",
+        "高橋宏知："
+      ],
+      "year": 2023,
+      "_raw": "(109) 山木崚太郎，白松（磯口）知世，石田直輝，高橋宏知：「ドーパミンによるラット聴覚野の情報処理能力への影響」，Neruo2023 (第46回日本神経科学大会)：#2Pm-028，2023 (仙台，2023年8月2日)",
+      "_valid": true,
+      "title_en": "The effect of dopamine on rat auditory cortex information processing ability",
+      "title_ja": "ドーパミンによるラット聴覚野の情報処理能力への影響"
+    },
+    {
+      "id": "poster-110",
+      "title": "EGF誘発性統合失調症モデルラットにおける妄想様の弁別障害",
+      "authors": [
+        "大島果林",
+        "熊谷真一",
+        "白松（磯口）知世",
+        "高橋宏知："
+      ],
+      "year": 2024,
+      "_raw": "(110) 大島果林，熊谷真一，白松（磯口）知世，高橋宏知：「EGF誘発性統合失調症モデルラットにおける妄想様の弁別障害」，Neuro2024（第47回日本神経科学大会）：#1P-244，2024（福岡，2024年7月24日）",
+      "_valid": true,
+      "title_en": "Delusional discrimination disorder in EGF-induced schizophrenia model rats",
+      "title_ja": "EGF誘発性統合失調症モデルラットにおける妄想様の弁別障害"
+    },
+    {
+      "id": "poster-111",
+      "title": "他覚的聴力検査に向けた音声刺激の開発",
+      "authors": [
+        "金井智美",
+        "可部泰生",
+        "高橋宏知："
+      ],
+      "year": 2024,
+      "_raw": "(111) 金井智美，可部泰生，高橋宏知：「他覚的聴力検査に向けた音声刺激の開発」，Neuro2024（第47回日本神経科学大会）：#1P-088，2024（福岡，2024年7月24日）",
+      "_valid": true,
+      "title_en": "Development of auditory stimuli for a heterotopic hearing test",
+      "title_ja": "他覚的聴力検査に向けた音声刺激の開発"
+    },
+    {
+      "id": "poster-112",
+      "title": "神経細胞の分散培養系の情報処理容量の経験的推定",
+      "authors": [
+        "川原佑太",
+        "秋田大",
+        "高橋宏知："
+      ],
+      "year": 2024,
+      "_raw": "(112) 川原佑太，秋田大，高橋宏知：「神経細胞の分散培養系の情報処理容量の経験的推定」，Neuro2024（第47回日本神経科学大会）：#1P-374，2024（福岡，2024年7月24日）",
+      "_valid": true,
+      "title_en": "Empirical estimation of information processing capacity in a neural cell suspension culture system",
+      "title_ja": "神経細胞の分散培養系の情報処理容量の経験的推定"
+    },
+    {
+      "id": "poster-113",
+      "title": "Neural Dynamics of Predictive Coding in Rat Auditory Cortex: Insights from Omission Responses",
+      "authors": [
+        "Amit Yaron",
+        "Tomoyo I Shiramatsu",
+        "Hirokazu Takahashi",
+        "Chao Zenas:"
+      ],
+      "year": 2024,
+      "_raw": "(113) Amit Yaron, Tomoyo I Shiramatsu, Hirokazu Takahashi, Chao Zenas:「Neural Dynamics of Predictive Coding in Rat Auditory Cortex: Insights from Omission Responses」Neuro2024（第47回日本神経科学大会）：#2P-097，2024（福岡，2024年7月25日）",
+      "_valid": true
+    },
+    {
+      "id": "poster-114",
+      "title": "ラットの交流時瞳孔径計測システム",
+      "authors": [
+        "星野有佐",
+        "大島果林",
+        "高木永遠",
+        "白松（磯口）知世",
+        "高橋宏知："
+      ],
+      "year": 2024,
+      "_raw": "(114) 星野有佐，大島果林，高木永遠，白松（磯口）知世，高橋宏知：「ラットの交流時瞳孔径計測システム」，Neuro2024（第47回日本神経科学大会）：#2P-234，2024（福岡，2024年7月25日）",
+      "_valid": true,
+      "title_en": "Rat communication time pupil diameter measurement system",
+      "title_ja": "ラットの交流時瞳孔径計測システム"
+    },
+    {
+      "id": "poster-115",
+      "title": "物理リザバー計算のための培養神経細胞への効果的な刺激手法",
+      "authors": [
+        "秋田大",
+        "川原佑太",
+        "高橋宏知："
+      ],
+      "year": 2024,
+      "_raw": "(115) 秋田大，川原佑太，高橋宏知：「物理リザバー計算のための培養神経細胞への効果的な刺激手法」，Neuro2024（第47回日本神経科学大会）：#3P-360，2024（福岡，2024年7月26日）",
+      "_valid": true,
+      "title_en": "Effective stimulation methods for culturing neurons for physical resistor computation",
+      "title_ja": "物理リザバー計算のための培養神経細胞への効果的な刺激手法"
+    },
+    {
+      "id": "poster-116",
+      "title": "培養神経細胞のデータを用いたエコーステートネットワークのパラメータ推定",
+      "authors": [
+        "山田泰輝",
+        "Amit Yaron",
+        "秋田大",
+        "高橋宏知",
+        "藤原寛太郎："
+      ],
+      "year": 2024,
+      "_raw": "(116) 山田泰輝，Amit Yaron，秋田大，高橋宏知，藤原寛太郎：「培養神経細胞のデータを用いたエコーステートネットワークのパラメータ推定」， JNNS2024（日本神経回路学会大会第34回全国大会）：#P2-7，2024（北海道，2024年9月12日）",
+      "_valid": true,
+      "title_en": "Estimation of echo state network parameters using data from cultivated neural cells",
+      "title_ja": "培養神経細胞のデータを用いたエコーステートネットワークのパラメータ推定"
+    },
+    {
+      "id": "poster-117",
+      "title": "音楽聴取が生体信号と運動の個体間同期に及ぼす影響",
+      "authors": [
+        "池谷賢人",
+        "可部泰生",
+        "白松（磯口）知世",
+        "高橋宏知："
+      ],
+      "year": 2025,
+      "_raw": "(117) 池谷賢人，可部泰生，白松（磯口）知世，高橋宏知：「音楽聴取が生体信号と運動の個体間同期に及ぼす影響」，電気学会研究会資料医用・生体工学研究会 MBE-25-043，（東京，2025年3月19日）",
+      "_valid": true,
+      "title_en": "The influence of music listening on inter-individual synchronization of physiological signals and movement",
+      "title_ja": "音楽聴取が生体信号と運動の個体間同期に及ぼす影響"
+    },
+    {
+      "id": "poster-118",
+      "title": "ラット大脳皮質における情報処理容量の領野間比較に向けた計測手法の構築",
+      "authors": [
+        "金子俊一郎",
+        "大島果林",
+        "白松（磯口）知世",
+        "高橋宏知："
+      ],
+      "year": 2025,
+      "_raw": "(118) 金子俊一郎，大島果林，白松（磯口）知世，高橋宏知：「ラット大脳皮質における情報処理容量の領野間比較に向けた計測手法の構築」，電気学会研究会資料医用・生体工学研究会 MBE-25-033，（東京，2025年3月19日）",
+      "_valid": true,
+      "title_en": "Establishing a measurement method for inter-regional comparison of information processing capacity in rat cerebral cortex",
+      "title_ja": "ラット大脳皮質における情報処理容量の領野間比較に向けた計測手法の構築"
+    },
+    {
+      "id": "poster-119",
+      "title": "スパイキングニューラルネットワークにおける臨界性と情報処理能力",
+      "authors": [
+        "キムジュンモ",
+        "秋田大",
+        "高橋宏知："
+      ],
+      "year": 2025,
+      "_raw": "(119) キムジュンモ，秋田大，高橋宏知：「スパイキングニューラルネットワークにおける臨界性と情報処理能力」，電気学会研究会資料医用・生体工学研究会 MBE-25-040，（東京，2025年3月19日） 英文",
+      "_valid": true,
+      "title_en": "Criticality and information processing capacity in spiking neural networks",
+      "title_ja": "スパイキングニューラルネットワークにおける臨界性と情報処理能力"
+    },
+    {
+      "id": "poster-120",
+      "title": "",
+      "authors": [],
+      "year": 2000,
+      "_raw": "(1) Naoya Nakamura, Kimitaka Kaga, Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Yotaro Hatamura, and Thierry Hervé: “New surface electrode for direct recording multiple auditory evoked potentials from the auditory cortex.” The 8th Japan-Korea Joint Meeting of Otorhinolaryngology, Head and Neck Surgery, 2000 (京都, 2000年4月7日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-121",
+      "title": "",
+      "authors": [],
+      "year": 2002,
+      "_raw": "(2) Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka Kaga, and Thierry Hervé: “Auditory evoked-potential mappings unravel functional organizations of rat auditory cortex; both the primary auditory field (AI) and anterior auditory field (AAF) show tonotopic organization and the latter has extreme loudness-dependence.” Abstract of 3rd Forum of European Neuroscience: #184.18 (CD-ROM), 2002 (Paris, France, 2002年7月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-122",
+      "title": "",
+      "authors": [],
+      "year": 2197,
+      "_raw": "(3) Hirokazu Takahashi, Masayuki Nakao, Takayuki Ejiri, and Kimitaka Kaga: “Auditory evoked offset responses of rat auditory cortices reflect synchronous post-stimulus resumption of spontaneous discharges.” Abstracts of 6th IBRO World Congress of Neuroscience: #2197 (CD-ROM) (Prague, Czech Republic, 2003年7月10日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-123",
+      "title": "",
+      "authors": [],
+      "year": 2003,
+      "_raw": "(4) Hirokazu Takahashi, Masayuki Nakao, Takayuki Ejiri, and Kimitaka Kaga: “Different strategies for intensity coding in different cortical auditory fields.” Proceedings of the International Conference on Auditory Cortex –Towards a Synthesis of Human and Animal Research: p.67 (Magdeburg, Germany, 2003年9月17日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-124",
+      "title": "",
+      "authors": [],
+      "year": 2006,
+      "_raw": "(5) Akihiro Funamizu, Masanobu Uchihara, Ryohei Kanzaki, and Hirokazu Takahashi: “Learning-induced context-dependent spatio-temporal plasticity in the primary, anterior and ventral fields of the rats auditory cortex.” Proceedings of the International Conference on Auditory Cortex – The Listening Brain : p. 65, 2006 (Grantham, UK, 2006年9月17日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-125",
+      "title": "",
+      "authors": [],
+      "year": 2006,
+      "_raw": "(6) Hirokazu Takahashi, Masayuki Nakao, Kimitaka Kaga: “Morphological and functional characterization of cortical auditory evoked potentials of rat.” Proceedings of the International Conference on Auditory Cortex – The Listening Brain: p. 92, 2006 (Grantham, UK, 2006年9月17日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-126",
+      "title": "",
+      "authors": [],
+      "year": 2008,
+      "_raw": "(7) Jun Suzurikawa, Masayuki Nakao, Ryohei Kanzaki, Yasuhiko Jimbo, Hirokazu Takahashi: “Short-term frequency-dependent plasticity of in-vitro neuronal aggregation responses induced by light-addressed electrical stimulation.” Abstract of 3rd Forum of European Neuroscience: #045.16 (CD-ROM), 2008 (Geneva, Switzerland, July 12-16, 2008)",
+      "_valid": false
+    },
+    {
+      "id": "poster-127",
+      "title": "",
+      "authors": [],
+      "year": 2008,
+      "_raw": "(8) Hirokazu Takahashi, Jun Suzurikawa, Ryohei Kanzaki, Masayuki Nakao, Yasuhiko Jimbo: “Light-addressable stimulation to cultured neural circuits.” Abstracts Book of NanoBio-Seoul 2008: P. 159, 2008 (Seoul, Korea, October 30, 2008)",
+      "_valid": false
+    },
+    {
+      "id": "poster-128",
+      "title": "",
+      "authors": [],
+      "year": 2009,
+      "_raw": "(9) Ryo Yokota, Hidekazu Kose, Kazuyuki Aihara, Ryohei Kanzaki, Hirokazu Takahashi: “Analysis of auditory cortical representation by using of mutual information.” Society for Neuroscience Abstract: #351.6 (CD-ROM), 2009 (Chicago, USA, 2009年10月17日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-129",
+      "title": "",
+      "authors": [],
+      "year": 2009,
+      "_raw": "(10) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Auditory stream segregation: Time-frequency filtering and response variability in the auditory cortex.” Society for Neuroscience Abstract: #556.6 (CD-ROM), 2009 (Chicago, USA, 2009年10月17日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-130",
+      "title": "",
+      "authors": [],
+      "year": 2009,
+      "_raw": "(11) Douglas J Bakkum, Urs Frey, Jan Mueller, Michele Fiscella, Andreas Hierlemann, Hirokazu Takahashi: “Subcellular-resolution electronic recording and stimulation of cultured cortical networks using an 11,011 electrode CMOS array.” Society for Neuroscience Abstract: #390.23 (CD-ROM), 2009 (Chicago, USA, 2009年10月17日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-131",
+      "title": "",
+      "authors": [],
+      "year": 2010,
+      "_raw": "(12) Noriyasu Ando, Yasuhito Sano, Toshiyuki Andoh, Hirokazu Takahashi and Ryohei Kanzaki: “Flight motor responses to visual looming stimuli in tethered flying bumblebees, Bombus ignitus.” 9th International Congress of Neuroethology, 2010 (Salamanca, Spain, 2010年8月2日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-132",
+      "title": "",
+      "authors": [],
+      "year": 2010,
+      "_raw": "(13) Akihiro Funamizu, Makoto Ito, Ryohei Kanzaki, Hirokazu Takahashi: “Task-dependent selection of model-free and model-based strategies in rat choice behaviors.” Society for Neuroscience Abstract: #814.4-We (CD-ROM), 2010 (San Diego, USA, 2010年11月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-133",
+      "title": "",
+      "authors": [],
+      "year": 2010,
+      "_raw": "(14) Takahiro Noda, Ryo Yokota, Ryohei Kanzaki, Hirokazu Takahashi: “Neural synchrony within the auditory cortex for auditory stream segregation.” Society for Neuroscience Abstract: #671.12-Tu (CD-ROM), 2010 (San Diego, USA, 2010年11月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-134",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(15) Kazunori Tokue, Noriyasu Ando, Susumu Fujita, Toshiyuki Ando, Hirokazu Takahashi, and Ryohei: “Effect of visual stimuli on the air-puff evoked escape behavior of the cricket Gryllus bimaculatus.” 8th International Congress of Comparative Physiology and Biochemistry (Nagoya, 2011年5月31日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-135",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(16) Kei Watanabe, Noriyasu Ando, Susumu Fujita, Toshiyuki Andoh, Hirokazu Takahashi, and Ryohei Kanzaki: “Visual detection of moving objects during walking in crickets.” 8th International Congress of Comparative Physiology and Biochemistry (Nagoya, 2011年5月31日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-136",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(17) Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglas Bakkum, Ryohei Kanzaki, Hirokazu Takahashi: “Feasibility study of odor biosensor using dissociate neuronal culture with gene expression of ionotropic odorant receptors.” Abstracts of 8th IBRO World Congress of Neuroscience: A084, 2011 (Florence, Italy, 2011年7月14日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-137",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(18) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “The global features and substructure of functional network in the auditory cortex for stream segregation.” Abstracts of 8th IBRO World Congress of Neuroscience: B237, 2011 (Florence, Italy, 2011年7月14日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-138",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(19) Tomoyo Isoguchi, Ryohei Kanzaki, Hirokazu Takahashi: “Acoustic saliency represented in Mismatch Negativity in rat auditory cortex.” Abstracts of 8th IBRO World Congress of Neuroscience: B228, 2011 (Florence, Italy, 2011年7月14日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-139",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(20) D. J. Bakkum, U. Frey, J. Mueller, M. Fiscella, H. Takahashi, A. Hierlemann: “Advancing neuronal cellular and network analysis using a high-density 11,011-microelectrode CMOS array.” Abstracts of 8th IBRO World Congress of Neuroscience: B519, 2011 (Florence, Italy, 2011年7月14日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-140",
+      "title": "",
+      "authors": [],
+      "year": 2011,
+      "_raw": "(21) Tomoyo Isoguchi, Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Representation of acoustic saliency and valence in rat auditory cortex.” Society for Neuroscience Abstract: #693.07, 2011 (Washington DC, USA, 2011年11月12日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-141",
+      "title": "",
+      "authors": [],
+      "year": 2012,
+      "_raw": "(22) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Functional subnetwork structure in auditory cortex for stream segregation.” Abstract of Acoustic 2012: #5aPP6, 2012 (香港, 2012年5月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-142",
+      "title": "",
+      "authors": [],
+      "year": 2012,
+      "_raw": "(23) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Oscillatory Neuronal Synchronization for Auditory Stream Segregation in Auditory Cortex of the Unanesthetized Rat.” Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012 (Lausanne, Switzeerland, 2012年8月31日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-143",
+      "title": "",
+      "authors": [],
+      "year": 2012,
+      "_raw": "(24) Tomoyo Isoguchi, Takahiro Noda, Kan Akutsu, Ryohei Kanzaki, Hirokazu Takahashi: “Sound-associated emotions represented in phase synchrony pattern in auditory cortex of rats.” Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012 (Lausanne, Switzeerland, 2012年8月31日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-144",
+      "title": "",
+      "authors": [],
+      "year": 2012,
+      "_raw": "(25) Ryo Yokota, Kazuyuki Aihara, Ryohei Kanzaki, Hirokazu Takahashi: “Analysis of Temporal Coherence in Rat Auditory Cortex at Different Learning Stages.” Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012 (Lausanne, Switzeerland, 2012年8月31日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-145",
+      "title": "",
+      "authors": [],
+      "year": 2012,
+      "_raw": "(26) Hirokazu Takahashi, Ryo Yokota, Ryohei Kanzaki: “Learning-induced plasticity of response variability of tone-evoked multi-unit activities on the tonotopic map in the auditory cortex.” Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012 (Lausanne, Switzeerland, 2012年8月31日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-146",
+      "title": "",
+      "authors": [],
+      "year": 2012,
+      "_raw": "(27) Kenichi Usami, Ryuji Kano, Takahiro Noda, Tomoyo Isoguchi, Nobuhito Saito, Hirokazu Takahashi, Kensuke Kawai: “Phase modulation of cortical activities by vagus nerve stimulation in adult rat.” Society for Neuroscience Abstract: #657.04-Tu, 2012 (New Orleans, USA, 2012年10月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-147",
+      "title": "",
+      "authors": [],
+      "year": 2013,
+      "_raw": "(28) Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Induced gamma-band synchronization for auditory stream segregation in auditory cortex of the awake rat.” Abstract of The 36th annual midwinter research meeting, Aoosication for research in otolaryngology: pp. 453-454, 2013 (Baltimore, USA , 2013年2月16日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-148",
+      "title": "",
+      "authors": [],
+      "year": 2013,
+      "_raw": "(29) Tomoyo Isoguchi, Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Consonance-dependent modulation of phase synchrony in the auditory cortex of rats.” Abstract of The 36th annual midwinter research meeting, Aoosication for research in otolaryngology: pp. 39-40, 2013 (Baltimore, USA, 2013年2月16日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-149",
+      "title": "",
+      "authors": [],
+      "year": 2013,
+      "_raw": "(30) Akihiro Funamizu, Makoto Ito, Kenji Doya, Ryohei Kanzaki, Hirokazu Takahashi: “Value-updating Interaction among Contexts in Choice Behaviors of Rats.”　　Computational and Systems Neuroscience (Cosyne) 2013, 2013 (Salt Lake City, USA, 2013年2月28日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-150",
+      "title": "",
+      "authors": [],
+      "year": 2013,
+      "_raw": "(31) Douglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan Müller, Hirokazu Takahashi, Andreas Hierlemann: “Local differences in axonal action potential conduction velocity.” Society for Neuroscience Abstract: #520.04/F30, 2013 (San Diego, USA, 2013年11月9日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-151",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(32) Takahiro Noda, and Hirokazu Takahashi: “Anesthetic effect on tonotopic organization in rat auditory cortex.” Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 51, 2014 (San Diego, USA, 2014年2月22日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-152",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(33) Tomoyo I. Shiramatsu, Ryohei Kanzaki, and Hirokazu Takahashi: “Mismatch Negativity (MMN) in Rat Auditory Cortex.” Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 51, 2014 (San Diego, USA, 2014年2月22日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-153",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(34) Kazusa Takahashi, Tomoyo I. Shiramatsu, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahara, and Hirokazu Takahashi: “Simultaneous, 3-dimentional mapping of spatio-temporal activity in auditory cortex and thalamus of rats.” Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 50, 2014 (San Diego, USA, 2014年2月22日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-154",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(35) Haruka Nakahara, Kazusa Takahashi, Tomoyo I. Shiramatsu, Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Mismatch negativity-like responses in the rat auditory cortex and thalamus in the oddball paradigm.” Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 47, 2014 (San Diego, USA, 2014年2月22日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-155",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(36) Douglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan Müller, Hirokazu Takahashi, Andreas Hierlemann: “Tracking axonal action potential propagation on a high-density CMOS microelectrode array.” Taiwan-Japan Workshop on “Bioelectronics” and “Biophotonics” 2014, 2014 (東京, 2014年4月8日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-156",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(37) Gerick Lee, Takahiro Noda, Hirokazu Takahashi, Naotsugu Tsuchiya: “Coding of auditory stimulus parameters between conscious states in the rat.” Abstract of integrative brain function workshop: p. 12-13, 2014 (Clayton, Australia, 2014年6月30日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-157",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(38) Naoki Wake, Tomoyo Shiramatsu-Isoguchi, Ryohei Kanzaki, Hirokazu Takahashi, Kunii Naoto and Kensuke Kawai: “Multiple scale spatio-temporal synchrony pattern underlying perception and memory function.” Riken BSI Summer Program 2014 (和光，2014年7月15日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-158",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(39) Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Phase synchrony in the rat auditory cortex representing texture of chord” Abstract of International Symposium \"Future of Shitsukan Research\": p. 55, 2014 (東京, 2014年7月16日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-159",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(40) Tomoyo I. Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi: “Consonant chord enhances the phase synchrony in rat auditory cortex.” Abstract of the 2nd International Workshop of Ultrasonic Communication in Rodents: p. 24, 2014 (東京, 2014年8月4日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-160",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(41) Takahiro Noda, Hirokazu Takahashi: “Primitive auditoy stream segregation in rat.” Abstract of the 2nd International Workshop of Ultrasonic Communication in Rodents: p. 30, 2014 (東京, 2014年8月4日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-161",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(42) Hirokazu Takahashi, Hiroyuki Tokushige, Tomoyo I. Shiramatsu, Takahiro Noda, Ryohei Kanzaki: “Pupil-size-dependent auditory-evoked cortical responses in anesthetized rats.” Abstract Book of 5th Conference on Auditory Cortex: p. 65, 2014 (Magdeburg, Germany, 2014年9月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-162",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(43) Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi: “Trial-to-trial variation of auditory evoked potentials and mismatch negativity in rat auditory cortex.” Abstract Book of 5th Conference on Auditory Cortex: pp. 73-74, 2014 (Magdeburg, Germany, 2014年9月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-163",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(44) Rie Hitsuyu, Tomoyo I. Shiramatsu, Takahiro Noda, Ryohei Kanzaki, Takeshi Uno, Kensuke Kawai, Hirokazu Takahashi: “Neuromodulatory effects of vagus nerve stimulation in the rat auditory cortex and thalamus.” Abstract Book of 5th Conference on Auditory Cortex: pp. 79-80, 2014 (Magdeburg, Germany, 2014年9月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-164",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(45) Douglas J. Bakkum, Milos Radivojevic, David Jaeckel, Felix Franke, Thomas L. Russell, Urs Frey, Hirokazu Takahashi, Andreas Hierlemann: “The axon initial segment contributes strongly to the neuron’s extracellular field potential.” Society for Neuroscience Abstract: #372.05/VV69, 2014 (Washington D.C., USA, 2014年11月15日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-165",
+      "title": "",
+      "authors": [],
+      "year": 2014,
+      "_raw": "(46) Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi: “Oscillation in rat auditory cortex representing texture of chord.” Abstract of the 1st annual meeting of the society for bioacoustics and the 19th auditory reseach forum: p. 13, 2014 (大津，2014年12月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-166",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(47) Hirokazu Takahashi, Hiroyuki Nagata, Tomoyo I. Shiramatsu, Ryohei Kanzaki: “Information transfer between auditory thalamus and cortex in rats.” Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 436, 2015 (Baltimore, USA, 2015年2月21日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-167",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(48) Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Trial-to-trial Variation of Mismatch Negativity and Band-specific Power of Auditory Evoked Potential in Rat Auditory Cortex.” Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 49, 2015 (Baltimore, USA, 2015年2月21日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-168",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(49) Naoki Wake, Tomoyo I. Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi: “Acoustic-trauma-induced Desynchronization of Steadystate Activities in the Auditory Cortex in Rats.” Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 455, 2015 (Baltimore, USA, 2015年2月21日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-169",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(50) Hirokazu Takahashi, and Tomoyo I. Shiramatsu: “Learning-induced plasticity of mismatch negativity in rats.” Abstract book of Error Signals from the Brain - 7th Mismatch Negativity Conference (MMN 2015): p. 85, 2015 (Leipzig, Germany, 2015年9月8日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-170",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(51) Yuichiro Yada, Ryohei Kanzaki, Hirokazu Takahashi: “Coordinated activation of neuronal patterns in synchrony of dissociated cortical neurons.” Society for Neuroscience Abstract: #127.02/C9, 2015 (Chicago, USA, 2015年10月17日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-171",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(52) Yuichiro Yada, Ryohei Kanzaki, Hirokazu Takahashi: “Estimating variety of co-active neuronal group in living neuronal network with model selection approach.” INCF Japan Node International Workshop: Advances in Neuroinformatics 2015 (AINI2015), 2015 (東京, 2015年11月26日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-172",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(53) Tomoyo Isoguchi Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi: “Chord texture modulates the phase synchrony in rat auditory cortex.” INCF Japan Node International Workshop: Advances in Neuroinformatics 2015 (AINI2015), 2015 (東京, 2015年11月26日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-173",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(54) Rie Hitsuyu, Tomoyo Isoguchi Shiramatsu, Kotaro Ishizu, Ryohei Kanzaki, Kenji Ibayashi, Kensuke Kawai, Hirokazu Takahashi: “Modulation of thalamo-cortical information transfer by vagus nerve stimulation in auditory oddball paradigm in rats.” INCF Japan Node International Workshop: Advances in Neuroinformatics 2015 (AINI2015), 2015 (東京, 2015年11月26日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-174",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(55) Ryuichi Yano, Takeshi Mita, Yuichiro Yada, Douglas Bakkum, Ryohei Kanzaki, Hirokazu Takahashi: “Estimation of Neuronal Migration Distance in Dissociated Culture on High Density CMOS Micro-Electrode Array.” INCF Japan Node International Workshop: Advances in Neuroinformatics 2015 (AINI2015), 2015 (東京, 2015年11月26日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-175",
+      "title": "",
+      "authors": [],
+      "year": 2015,
+      "_raw": "(56) Shusaku Yasuda, Yuichiro Yada, Takeshi Mita, Ryohei Kanzaki, Hirokazu Takahashi: “FORCE learning implemented with a living neuronal network.” INCF Japan Node International Workshop: Advances in Neuroinformatics 2015 (AINI2015), 2015 (東京, 2015年11月26日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-176",
+      "title": "",
+      "authors": [],
+      "year": 3156,
+      "_raw": "(57) Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Chord consonance represented in the long-lasting sustained activity in rat auditory cortex.” The Journal of the Acoustical Society of America 140 (4): p. 3156, 2016 (5th Joint Meeting of the Acoustical Society of America and Acoustical Society of Japan) (Hawaii, USA, 2016年11月28日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-177",
+      "title": "",
+      "authors": [],
+      "year": 2017,
+      "_raw": "(58) Naoki Wake, Kotaro Ishizu, Tomoyo I. Shiramatsu, Ryohei Kanzaki, and Hirokazu Takahashi: “Pure Tone Audiometry and Audiograms in Rats.” Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 117-118, 2017 (Baltimore, USA, 2017年2月11日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-178",
+      "title": "",
+      "authors": [],
+      "year": 2017,
+      "_raw": "(59) Kotaro Ishizu, Masafumi Oizumi, Tomoyo I. Shiramatsu, Ryohei Kanzaki, Naotsugu Tsuchiya, Hirokazu Takahashi: “Stimulus-driven Information Stream Between the Auditory Thalamus and Cortex.” Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 281-282, 2017 (Baltimore, USA, 2017年2月11日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-179",
+      "title": "",
+      "authors": [],
+      "year": 2017,
+      "_raw": "(60) Tomoyo I. Shiramatsu, Kenji Ibayashi, and Hirokazu Takahashi: “Tonotopic, Field-specific and Layer-specific Information Processing of Long-lasting Sustained Activity in Rat Auditory Cortex.” Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 318, 2017 (Baltimore, USA, 2017年2月11日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-180",
+      "title": "",
+      "authors": [],
+      "year": 2017,
+      "_raw": "(61) Hirokazu Takahashi, Ryo Soga, and Tomoyo I. Shiramatsu: “Preference test of sound among multiple alternatives in rats.” Abstract Book of 6th Conference on Auditory Cortex: pp. 32-33, 2017 (Banff, Canada, 2017年9月10日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-181",
+      "title": "",
+      "authors": [],
+      "year": 2017,
+      "_raw": "(62) Tomoyo Shiramatsu, Kenji Ibayashi, Kensuke Kawai, Hirokazu Takahashi: “Layer-specific modulation of vagus nerve stimulation on information representation of the sustained activities in rat auditory cortex.” Abstract Book of 6th Conference on Auditory Cortex: pp. 57-58, 2017 (Banff, Canada, 2017年9月10日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-182",
+      "title": "",
+      "authors": [],
+      "year": 2018,
+      "_raw": "(63) Hirokazu Takahashi, Tomoyo I. Shiramatsu: “Mismatch negativity in the rat auditory cortex encodes empirical salience of sounds.” MMN2018: The 8th Mismatch Negativity Conference, 2018 (Helsinki, Finland, 2018年6月12日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-183",
+      "title": "",
+      "authors": [],
+      "year": 2018,
+      "_raw": "(64) Ali Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai, and Hirokazu Takahashi: “Automatic seizure detection by convolutional neural network and autoencoder.” American Epilepsy Society Annual Meeting 2018 (New Orleans, USA, 2018年11月30日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-184",
+      "title": "",
+      "authors": [],
+      "year": 2019,
+      "_raw": "(65) Naoki Wake, Tomoyo I Shiramatsu, and Hirokazu: “Synchronized Local Field Potentials Associated with Tinnitus in the Rat Auditory Cortex.” The second meeting of Consciousness Research Network 2019 (CoRN 2019): P-14, 2019 (岡崎, 2019年1月23日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-185",
+      "title": "",
+      "authors": [],
+      "year": 2019,
+      "_raw": "(66) Naoki Wake, and Hirokazu Takahashi: “Neural plasticity underlying dynamic auditory perception: Implications for Adaptive Robotics.” UTokyo-SNU Workshop on Robotics, 2019 (東京，2019年2月20日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-186",
+      "title": "",
+      "authors": [],
+      "year": 2019,
+      "_raw": "(67) Takeru Kimura, and Hirokazu Takahashi: “Characterization of neural network by integrated information theory.” UTokyo-SNU Workshop on Robotics, 2019 (東京，2019年2月20日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-187",
+      "title": "",
+      "authors": [],
+      "year": 2021,
+      "_raw": "(68) Yoshiki Ito, Tomoyo I. Shiramatsu, and Hirokazu Takahashi: “The optimal beat frequency for the neural activities in the auditory cortex of rats.” Abstract of 2021 virtual midwinter research meeting, Aoosication for research in otolaryngology: p. 117-118, 2017 (Online, 2021年2月20日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-188",
+      "title": "",
+      "authors": [],
+      "year": 2022,
+      "_raw": "(69) Amit Yaron, Zhuo Zhang, Tomoyo I. Shiramatsu, Zenas C. Chao, Hirokazu Takahashi: “Sensitivity to Complez Statistical Regularities in Neuronal Culture.” MMN2022: The 9th Mismatch Negativity Conference, P95, 2022 (福島，2022年9月21日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-189",
+      "title": "",
+      "authors": [],
+      "year": 2022,
+      "_raw": "(70) Zhuo Zhang, Amit Yaron, Tomoyo I. Shiramatsu, Hirokazu Takahashi:”Deviance Detection Properties in Dissociated Cultures of Neurons.” MMN2022: The 9th Mismatch Negativity Conference, pp.97-98, 2022 (福島，2022年9月21日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-190",
+      "title": "",
+      "authors": [],
+      "year": 2023,
+      "_raw": "(71) Shinichi Kumagai, Tomoyo Siramatsu, Akane Matsumura, Kensuke Kawai, and Hirokazu Takahashi: “ Cortical Oscillations Modulated by Vagus Nerve Stimulation in Auditory Pathways.” 46th Annual ARO MidWinter Meeting：MO195, 2023 (2023年2月13日, Orland, USA) (Poster presentation)",
+      "_valid": false
+    },
+    {
+      "id": "poster-191",
+      "title": "",
+      "authors": [],
+      "year": 2023,
+      "_raw": "(72) Dai Akita, Eisuke Suwa, Hirokazu Takahashi: “Self-organized criticality of cultured neurons on HD-MEA.” MaxWell Summit 2023, (Zurich, Switzerland, 2023年5月15日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-192",
+      "title": "",
+      "authors": [],
+      "year": 2023,
+      "_raw": "(73) Dai Akita, Tomoyo I Shiramatsu, Naoki Ishida, Hirokazu Takahashi: “Information processing in the auditory cortex and music.” JST-LIR Collaborative Workshop on human well-being and resilience, 2023(東京，2023年6月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-193",
+      "title": "",
+      "authors": [],
+      "year": 2023,
+      "_raw": "(74) Karin Oshima, Towa Takagi, Tomoyo I Shiramatsu, Hirokazu Takahashi: “Social bonding through music in animal models.” JST-LIR Collaborative Workshop on human well-being and resilience, 2023(東京，2023年6月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-194",
+      "title": "",
+      "authors": [],
+      "year": 2023,
+      "_raw": "(75) Shinichi Kumagai, Tomoyo I Shiramatsu, Kensuke Kawai, Hirokazu Takahashi: “VNS-induced modulation of auditory processing.” JST-LIR Collaborative Workshop on human well-being and resilience, 2023(東京，2023年6月13日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-195",
+      "title": "",
+      "authors": [],
+      "year": 2024,
+      "_raw": "(76) Karin Oshima, Tomoyo Shiramatsu, Hirokazu Takahashi: “Social stimulus generalization in animal models for schizophrenia.” Society for Social Neuroscience 2024 (S4SN 2024): , 2024 (2024年3月25日, 筑波) (Poster presentation)",
+      "_valid": false
+    },
+    {
+      "id": "poster-196",
+      "title": "",
+      "authors": [],
+      "year": 2024,
+      "_raw": "(77) Dai Akita, Hirokazu Takahashi: “Information Processing Capacity Of Neuronal Reservoir Computing Using HD-MEA.” MaxWell Summit 2024, (Zurich, Switzerland, 2024年4月9日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-197",
+      "title": "",
+      "authors": [],
+      "year": 2024,
+      "_raw": "(78) Tomoyo I Shiramatsu, Naoki Ishida, Tomoyuki Kubota, Dai Akita, Hirokazu Takahashi: “Music-exposure-dependent information processing capacity in the rodent brain.” WPI SiteVisit2024, 2024(東京，2024年7月30日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-198",
+      "title": "",
+      "authors": [],
+      "year": 2024,
+      "_raw": "(79) Dai Akita, Hirokazu Takahashi: “Development- and state-dependent information processing capacity in the dissociate culture of neurons.” WPI SiteVisit2024, 2024(東京，2024年7月30日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-199",
+      "title": "",
+      "authors": [],
+      "year": 2024,
+      "_raw": "(80) Amit Yaron, Tomoyo I Shiramatsu, Felix Kern, Hirokazu Takahashi:“Negative Prediction-Error Neurons in Rat Auditory Cortex: Response Properties and Implications for Predictive Coding Circuits.” The 10th Mismatch Negativity Conference, p.92, 2024 (Salamanca, Spain, 2024年9月17日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-200",
+      "title": "",
+      "authors": [],
+      "year": 2024,
+      "_raw": "(81) Riko Iizuka, Ryotaro Yamaki, Tomoyo I Shiramatsu, Shota Morikawa, Yuji Ikegaya, Hirokazu Takahashi: “Response characteristics of the nucleus accumbens dopamine to salient stimuli in rats.” The 10th Mismatch Negativity Conference, p.105, 2024 (Salamanca, Spain, 2024年9月17日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-201",
+      "title": "",
+      "authors": [],
+      "year": 2024,
+      "_raw": "(82) Hexin Xi, Yiyuan Teresa Huang, Amit Yaron, Tomoyo I Shiramatsu, Zenas Chao, Hirokazu Takahashi: “Audiovisual Rabbit Illusion and multimodal Mismatch Negativity: A Dual Approach to Investigate Multisensory Integration.” The 10th Mismatch Negativity Conference, p.120, 2024(Salamanca, Spain, 2024年9月17日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-202",
+      "title": "",
+      "authors": [],
+      "year": 2024,
+      "_raw": "(83) Shinichi Kumagai, Tomoyo I Shiramatsu, Karin Oshima, Kensuke Kawai, Hirokazu Takahashi: “Cortical entrainment to the periodic auditory signals modulated by vagus nerve stimulation.” Advances and Perspectives in Auditory Neuroscience., 2024 (Chicago, USA, 2024年10月4日)",
+      "_valid": false
+    },
+    {
+      "id": "poster-203",
+      "title": "",
+      "authors": [],
+      "year": 2024,
+      "_raw": "(84) Shinichi Kumagai, Tomoyo I Shiramatsu, Karin Oshima, Kensuke Kawai, Hirokazu Takahashi: “The entrainment to rapid auditory input modulated by vagus nerve stimulation.” Society for Neuroscience, 2024 (Chicago, USA, 2024年10月5日)",
+      "_valid": false
+    }
+  ],
+  "stats": {
+    "total": 203,
+    "valid": 103
+  }
+}

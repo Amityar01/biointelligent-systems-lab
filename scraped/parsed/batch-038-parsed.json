@@ -1,0 +1,488 @@
+{
+  "batchId": 38,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "parsedAt": "2026-01-22T02:52:05.613Z",
+  "items": [
+    {
+      "type": "presentation",
+      "title": "Mismatch negativity-like responses in the rat auditory cortex and thalamus in the oddball paradigm",
+      "authors": [
+        "Haruka Nakahara",
+        "Kazusa Takahashi",
+        "Tomoyo I. Shiramatsu",
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2014,
+      "conference": "Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 47, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(35) Haruka Nakahara, Kazusa Takahashi, Tomoyo I. Shiramatsu, Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Mismatch negativity-like responses in the rat auditory cortex and thalamus in the oddball paradigm.” Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 47, 2014 (San Diego, USA, 2014年2月22日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-harukanakahara-mismatch-negativity-like-respo-890"
+    },
+    {
+      "type": "presentation",
+      "title": "Tracking axonal action potential propagation on a high-density CMOS microelectrode array",
+      "authors": [
+        "Douglas J. Bakkum",
+        "Urs Frey",
+        "Milos Radivojevic",
+        "Thomas L. Russell",
+        "Jan Müller",
+        "Hirokazu Takahashi",
+        "Andreas Hierlemann"
+      ],
+      "year": 2014,
+      "conference": "Taiwan-Japan Workshop on “Bioelectronics” and “Biophotonics” 2014, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(36) Douglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan Müller, Hirokazu Takahashi, Andreas Hierlemann: “Tracking axonal action potential propagation on a high-density CMOS microelectrode array.” Taiwan-Japan Workshop on “Bioelectronics” and “Biophotonics” 2014, 2014 (東京, 2014年4月8日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-douglasjbakkum-tracking-axonal-action-potenti-891"
+    },
+    {
+      "type": "presentation",
+      "title": "Coding of auditory stimulus parameters between conscious states in the rat",
+      "authors": [
+        "Gerick Lee",
+        "Takahiro Noda",
+        "Hirokazu Takahashi",
+        "Naotsugu Tsuchiya"
+      ],
+      "year": 2014,
+      "conference": "Abstract of integrative brain function workshop: p. 12-13, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(37) Gerick Lee, Takahiro Noda, Hirokazu Takahashi, Naotsugu Tsuchiya: “Coding of auditory stimulus parameters between conscious states in the rat.” Abstract of integrative brain function workshop: p. 12-13, 2014 (Clayton, Australia, 2014年6月30日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-gericklee-coding-of-auditory-stimulus-pa-892"
+    },
+    {
+      "type": "presentation",
+      "title": "Multiple scale spatio-temporal synchrony pattern underlying perception and memory function",
+      "authors": [
+        "Naoki Wake",
+        "Tomoyo Shiramatsu-Isoguchi",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi",
+        "Kunii Naoto and Kensuke Kawai"
+      ],
+      "year": 2014,
+      "conference": "Riken BSI Summer Program 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(38) Naoki Wake, Tomoyo Shiramatsu-Isoguchi, Ryohei Kanzaki, Hirokazu Takahashi, Kunii Naoto and Kensuke Kawai: “Multiple scale spatio-temporal synchrony pattern underlying perception and memory function.” Riken BSI Summer Program 2014 (和光，2014年7月15日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-naokiwake-multiple-scale-spatio-temporal-893"
+    },
+    {
+      "type": "presentation",
+      "title": "Phase synchrony in the rat auditory cortex representing texture of chord",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2014,
+      "conference": "Abstract of International Symposium \"Future of Shitsukan Research\": p. 55, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(39) Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Phase synchrony in the rat auditory cortex representing texture of chord” Abstract of International Symposium \"Future of Shitsukan Research\": p. 55, 2014 (東京, 2014年7月16日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-tomoyoishiramat-phase-synchrony-in-the-rat-aud-894"
+    },
+    {
+      "type": "presentation",
+      "title": "Consonant chord enhances the phase synchrony in rat auditory cortex",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2014,
+      "conference": "Abstract of the 2nd International Workshop of Ultrasonic Communication in Rodents: p. 24, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(40) Tomoyo I. Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi: “Consonant chord enhances the phase synchrony in rat auditory cortex.” Abstract of the 2nd International Workshop of Ultrasonic Communication in Rodents: p. 24, 2014 (東京, 2014年8月4日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-tomoyoishiramat-consonant-chord-enhances-the-p-895"
+    },
+    {
+      "type": "presentation",
+      "title": "Primitive auditoy stream segregation in rat",
+      "authors": [
+        "Takahiro Noda",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2014,
+      "conference": "Abstract of the 2nd International Workshop of Ultrasonic Communication in Rodents: p. 30, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(41) Takahiro Noda, Hirokazu Takahashi: “Primitive auditoy stream segregation in rat.” Abstract of the 2nd International Workshop of Ultrasonic Communication in Rodents: p. 30, 2014 (東京, 2014年8月4日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-takahironoda-primitive-auditoy-stream-segre-896"
+    },
+    {
+      "type": "presentation",
+      "title": "Pupil-size-dependent auditory-evoked cortical responses in anesthetized rats",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Hiroyuki Tokushige",
+        "Tomoyo I. Shiramatsu",
+        "Takahiro Noda",
+        "Ryohei Kanzaki"
+      ],
+      "year": 2014,
+      "conference": "Abstract Book of 5th Conference on Auditory Cortex: p. 65, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(42) Hirokazu Takahashi, Hiroyuki Tokushige, Tomoyo I. Shiramatsu, Takahiro Noda, Ryohei Kanzaki: “Pupil-size-dependent auditory-evoked cortical responses in anesthetized rats.” Abstract Book of 5th Conference on Auditory Cortex: p. 65, 2014 (Magdeburg, Germany, 2014年9月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-hirokazutakahas-pupil-size-dependent-auditory--897"
+    },
+    {
+      "type": "presentation",
+      "title": "Trial-to-trial variation of auditory evoked potentials and mismatch negativity in rat auditory cortex",
+      "authors": [
+        "Tomoyo Isoguchi Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2014,
+      "conference": "Abstract Book of 5th Conference on Auditory Cortex: pp. 73-74, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(43) Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi: “Trial-to-trial variation of auditory evoked potentials and mismatch negativity in rat auditory cortex.” Abstract Book of 5th Conference on Auditory Cortex: pp. 73-74, 2014 (Magdeburg, Germany, 2014年9月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-tomoyoisoguchis-trial-to-trial-variation-of-au-898"
+    },
+    {
+      "type": "presentation",
+      "title": "Neuromodulatory effects of vagus nerve stimulation in the rat auditory cortex and thalamus",
+      "authors": [
+        "Rie Hitsuyu",
+        "Tomoyo I. Shiramatsu",
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Takeshi Uno",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2014,
+      "conference": "Abstract Book of 5th Conference on Auditory Cortex: pp. 79-80, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(44) Rie Hitsuyu, Tomoyo I. Shiramatsu, Takahiro Noda, Ryohei Kanzaki, Takeshi Uno, Kensuke Kawai, Hirokazu Takahashi: “Neuromodulatory effects of vagus nerve stimulation in the rat auditory cortex and thalamus.” Abstract Book of 5th Conference on Auditory Cortex: pp. 79-80, 2014 (Magdeburg, Germany, 2014年9月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-riehitsuyu-neuromodulatory-effects-of-vag-899"
+    },
+    {
+      "type": "presentation",
+      "title": "The axon initial segment contributes strongly to the neuron’s extracellular field potential",
+      "authors": [
+        "Douglas J. Bakkum",
+        "Milos Radivojevic",
+        "David Jaeckel",
+        "Felix Franke",
+        "Thomas L. Russell",
+        "Urs Frey",
+        "Hirokazu Takahashi",
+        "Andreas Hierlemann"
+      ],
+      "year": 2014,
+      "conference": "Society for Neuroscience Abstract: #372.05/VV69, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(45) Douglas J. Bakkum, Milos Radivojevic, David Jaeckel, Felix Franke, Thomas L. Russell, Urs Frey, Hirokazu Takahashi, Andreas Hierlemann: “The axon initial segment contributes strongly to the neuron’s extracellular field potential.” Society for Neuroscience Abstract: #372.05/VV69, 2014 (Washington D.C., USA, 2014年11月15日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-douglasjbakkum-the-axon-initial-segment-contr-900"
+    },
+    {
+      "type": "presentation",
+      "title": "Oscillation in rat auditory cortex representing texture of chord",
+      "authors": [
+        "Tomoyo Isoguchi Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2014,
+      "conference": "Abstract of the 1st annual meeting of the society for bioacoustics and the 19th auditory reseach forum: p. 13, 2014",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(46) Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi: “Oscillation in rat auditory cortex representing texture of chord.” Abstract of the 1st annual meeting of the society for bioacoustics and the 19th auditory reseach forum: p. 13, 2014 (大津，2014年12月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014-tomoyoisoguchis-oscillation-in-rat-auditory-co-901"
+    },
+    {
+      "type": "presentation",
+      "title": "Information transfer between auditory thalamus and cortex in rats",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Hiroyuki Nagata",
+        "Tomoyo I. Shiramatsu",
+        "Ryohei Kanzaki"
+      ],
+      "year": 2015,
+      "conference": "Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 436, 2015",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(47) Hirokazu Takahashi, Hiroyuki Nagata, Tomoyo I. Shiramatsu, Ryohei Kanzaki: “Information transfer between auditory thalamus and cortex in rats.” Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 436, 2015 (Baltimore, USA, 2015年2月21日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015-hirokazutakahas-information-transfer-between-a-902"
+    },
+    {
+      "type": "presentation",
+      "title": "Trial-to-trial Variation of Mismatch Negativity and Band-specific Power of Auditory Evoked Potential in Rat Auditory Cortex",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2015,
+      "conference": "Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 49, 2015",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(48) Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Trial-to-trial Variation of Mismatch Negativity and Band-specific Power of Auditory Evoked Potential in Rat Auditory Cortex.” Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 49, 2015 (Baltimore, USA, 2015年2月21日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015-tomoyoishiramat-trial-to-trial-variation-of-mi-903"
+    },
+    {
+      "type": "presentation",
+      "title": "Acoustic-trauma-induced Desynchronization of Steadystate Activities in the Auditory Cortex in Rats",
+      "authors": [
+        "Naoki Wake",
+        "Tomoyo I. Shiramatsu",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2015,
+      "conference": "Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 455, 2015",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(49) Naoki Wake, Tomoyo I. Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi: “Acoustic-trauma-induced Desynchronization of Steadystate Activities in the Auditory Cortex in Rats.” Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 455, 2015 (Baltimore, USA, 2015年2月21日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015-naokiwake-acoustic-trauma-induced-desync-904"
+    },
+    {
+      "type": "presentation",
+      "title": "Learning-induced plasticity of mismatch negativity in rats",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Tomoyo I. Shiramatsu"
+      ],
+      "year": 2015,
+      "conference": "Abstract book of Error Signals from the Brain - 7th Mismatch Negativity Conference",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(50) Hirokazu Takahashi, and Tomoyo I. Shiramatsu: “Learning-induced plasticity of mismatch negativity in rats.” Abstract book of Error Signals from the Brain - 7th Mismatch Negativity Conference (MMN 2015): p. 85, 2015 (Leipzig, Germany, 2015年9月8日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015-hirokazutakahas-learning-induced-plasticity-of-905"
+    },
+    {
+      "type": "presentation",
+      "title": "Coordinated activation of neuronal patterns in synchrony of dissociated cortical neurons",
+      "authors": [
+        "Yuichiro Yada",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2015,
+      "conference": "Society for Neuroscience Abstract: #127.02/C9, 2015",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(51) Yuichiro Yada, Ryohei Kanzaki, Hirokazu Takahashi: “Coordinated activation of neuronal patterns in synchrony of dissociated cortical neurons.” Society for Neuroscience Abstract: #127.02/C9, 2015 (Chicago, USA, 2015年10月17日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015-yuichiroyada-coordinated-activation-of-neur-906"
+    },
+    {
+      "type": "presentation",
+      "title": "Estimating variety of co-active neuronal group in living neuronal network with model selection approach",
+      "authors": [
+        "Yuichiro Yada",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2015,
+      "conference": "INCF Japan Node International Workshop: Advances in Neuroinformatics 2015",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(52) Yuichiro Yada, Ryohei Kanzaki, Hirokazu Takahashi: “Estimating variety of co-active neuronal group in living neuronal network with model selection approach.” INCF Japan Node International Workshop: Advances in Neuroinformatics 2015 (AINI2015), 2015 (東京, 2015年11月26日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015-yuichiroyada-estimating-variety-of-co-activ-907"
+    },
+    {
+      "type": "presentation",
+      "title": "Chord texture modulates the phase synchrony in rat auditory cortex",
+      "authors": [
+        "Tomoyo Isoguchi Shiramatsu",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2015,
+      "conference": "INCF Japan Node International Workshop: Advances in Neuroinformatics 2015",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(53) Tomoyo Isoguchi Shiramatsu, Ryohei Kanzaki, Hirokazu Takahashi: “Chord texture modulates the phase synchrony in rat auditory cortex.” INCF Japan Node International Workshop: Advances in Neuroinformatics 2015 (AINI2015), 2015 (東京, 2015年11月26日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015-tomoyoisoguchis-chord-texture-modulates-the-ph-908"
+    },
+    {
+      "type": "presentation",
+      "title": "Modulation of thalamo-cortical information transfer by vagus nerve stimulation in auditory oddball paradigm in rats",
+      "authors": [
+        "Rie Hitsuyu",
+        "Tomoyo Isoguchi Shiramatsu",
+        "Kotaro Ishizu",
+        "Ryohei Kanzaki",
+        "Kenji Ibayashi",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2015,
+      "conference": "INCF Japan Node International Workshop: Advances in Neuroinformatics 2015",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(54) Rie Hitsuyu, Tomoyo Isoguchi Shiramatsu, Kotaro Ishizu, Ryohei Kanzaki, Kenji Ibayashi, Kensuke Kawai, Hirokazu Takahashi: “Modulation of thalamo-cortical information transfer by vagus nerve stimulation in auditory oddball paradigm in rats.” INCF Japan Node International Workshop: Advances in Neuroinformatics 2015 (AINI2015), 2015 (東京, 2015年11月26日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015-riehitsuyu-modulation-of-thalamo-cortical-909"
+    },
+    {
+      "type": "presentation",
+      "title": "Estimation of Neuronal Migration Distance in Dissociated Culture on High Density CMOS Micro-Electrode Array",
+      "authors": [
+        "Ryuichi Yano",
+        "Takeshi Mita",
+        "Yuichiro Yada",
+        "Douglas Bakkum",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2015,
+      "conference": "INCF Japan Node International Workshop: Advances in Neuroinformatics 2015",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(55) Ryuichi Yano, Takeshi Mita, Yuichiro Yada, Douglas Bakkum, Ryohei Kanzaki, Hirokazu Takahashi: “Estimation of Neuronal Migration Distance in Dissociated Culture on High Density CMOS Micro-Electrode Array.” INCF Japan Node International Workshop: Advances in Neuroinformatics 2015 (AINI2015), 2015 (東京, 2015年11月26日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015-ryuichiyano-estimation-of-neuronal-migrati-910"
+    },
+    {
+      "type": "presentation",
+      "title": "FORCE learning implemented with a living neuronal network",
+      "authors": [
+        "Shusaku Yasuda",
+        "Yuichiro Yada",
+        "Takeshi Mita",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2015,
+      "conference": "INCF Japan Node International Workshop: Advances in Neuroinformatics 2015",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(56) Shusaku Yasuda, Yuichiro Yada, Takeshi Mita, Ryohei Kanzaki, Hirokazu Takahashi: “FORCE learning implemented with a living neuronal network.” INCF Japan Node International Workshop: Advances in Neuroinformatics 2015 (AINI2015), 2015 (東京, 2015年11月26日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015-shusakuyasuda-force-learning-implemented-wit-911"
+    },
+    {
+      "type": "presentation",
+      "title": "Chord consonance represented in the long-lasting sustained activity in rat auditory cortex",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2016,
+      "conference": "The Journal of the Acoustical Society of America 140",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(57) Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Chord consonance represented in the long-lasting sustained activity in rat auditory cortex.” The Journal of the Acoustical Society of America 140 (4): p. 3156, 2016 (5th Joint Meeting of the Acoustical Society of America and Acoustical Society of Japan) (Hawaii, USA, 2016年11月28日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2016-tomoyoishiramat-chord-consonance-represented-i-912"
+    },
+    {
+      "type": "presentation",
+      "title": "Pure Tone Audiometry and Audiograms in Rats",
+      "authors": [
+        "Naoki Wake",
+        "Kotaro Ishizu",
+        "Tomoyo I. Shiramatsu",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2017,
+      "conference": "Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 117-118, 2017",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(58) Naoki Wake, Kotaro Ishizu, Tomoyo I. Shiramatsu, Ryohei Kanzaki, and Hirokazu Takahashi: “Pure Tone Audiometry and Audiograms in Rats.” Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 117-118, 2017 (Baltimore, USA, 2017年2月11日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2017-naokiwake-pure-tone-audiometry-and-audio-913"
+    },
+    {
+      "type": "presentation",
+      "title": "Stimulus-driven Information Stream Between the Auditory Thalamus and Cortex",
+      "authors": [
+        "Kotaro Ishizu",
+        "Masafumi Oizumi",
+        "Tomoyo I. Shiramatsu",
+        "Ryohei Kanzaki",
+        "Naotsugu Tsuchiya",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2017,
+      "conference": "Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 281-282, 2017",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(59) Kotaro Ishizu, Masafumi Oizumi, Tomoyo I. Shiramatsu, Ryohei Kanzaki, Naotsugu Tsuchiya, Hirokazu Takahashi: “Stimulus-driven Information Stream Between the Auditory Thalamus and Cortex.” Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 281-282, 2017 (Baltimore, USA, 2017年2月11日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2017-kotaroishizu-stimulus-driven-information-st-914"
+    }
+  ]
+}

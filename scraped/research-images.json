@@ -1,0 +1,153 @@
+{
+  "images": [
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/research6.png",
+      "alt": "",
+      "width": 540,
+      "height": 837
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/fig92.png",
+      "alt": "",
+      "width": 480,
+      "height": 388
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-07-09%20131.39.36.jpg",
+      "alt": "",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-07-09%2013.40.14.jpg",
+      "alt": "",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/maxlab1.png",
+      "alt": "",
+      "width": 320,
+      "height": 199
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/_DSF69951.jpg",
+      "alt": "",
+      "width": 320,
+      "height": 213
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-07-09%2013.49.14.jpg",
+      "alt": "",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-07-09%2013.50.04.jpg",
+      "alt": "",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-07-09%2013.45.31.jpg",
+      "alt": "",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-04-19%2018.30.42.jpg",
+      "alt": "",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-04-20%2016.25.41.jpg",
+      "alt": "",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-04-20%2021.36.38.jpg",
+      "alt": "",
+      "width": 320,
+      "height": 240
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-04-21%2014.07.06.jpg",
+      "alt": "",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-04-21%2010.38.32.jpg",
+      "alt": "",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-04-20%2023.29.41-1.jpg",
+      "alt": "",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-04-21%2000.08.21.jpg",
+      "alt": "",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2024-04-09%20111.10.23.jpg",
+      "alt": "",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2023-05-20%2016.29.28.jpg",
+      "alt": "",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2023-11-21%20132.17.32.jpg",
+      "alt": "",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/2023-11-24%20222.02.13.jpg",
+      "alt": "",
+      "width": 160,
+      "height": 213
+    },
+    {
+      "src": "https://www.ne.t.u-tokyo.ac.jp/button111.gif",
+      "alt": "takahashi@i.u-tokyo.ac.jp",
+      "width": 157,
+      "height": 22
+    }
+  ],
+  "mapping": {
+    "https://www.ne.t.u-tokyo.ac.jp/research6.png": "/uploads/scraped/research/research-1-research6.png",
+    "https://www.ne.t.u-tokyo.ac.jp/fig92.png": "/uploads/scraped/research/research-2-fig92.png",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-07-09%20131.39.36.jpg": "/uploads/scraped/research/research-3-2024-07-09-20131.39.36.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-07-09%2013.40.14.jpg": "/uploads/scraped/research/research-4-2024-07-09-2013.40.14.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/maxlab1.png": "/uploads/scraped/research/research-5-maxlab1.png",
+    "https://www.ne.t.u-tokyo.ac.jp/_DSF69951.jpg": "/uploads/scraped/research/research-6-_DSF69951.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-07-09%2013.49.14.jpg": "/uploads/scraped/research/research-7-2024-07-09-2013.49.14.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-07-09%2013.50.04.jpg": "/uploads/scraped/research/research-8-2024-07-09-2013.50.04.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-07-09%2013.45.31.jpg": "/uploads/scraped/research/research-9-2024-07-09-2013.45.31.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-04-19%2018.30.42.jpg": "/uploads/scraped/research/research-10-2024-04-19-2018.30.42.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-04-20%2016.25.41.jpg": "/uploads/scraped/research/research-11-2024-04-20-2016.25.41.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-04-20%2021.36.38.jpg": "/uploads/scraped/research/research-12-2024-04-20-2021.36.38.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-04-21%2014.07.06.jpg": "/uploads/scraped/research/research-13-2024-04-21-2014.07.06.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-04-21%2010.38.32.jpg": "/uploads/scraped/research/research-14-2024-04-21-2010.38.32.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-04-20%2023.29.41-1.jpg": "/uploads/scraped/research/research-15-2024-04-20-2023.29.41-1.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-04-21%2000.08.21.jpg": "/uploads/scraped/research/research-16-2024-04-21-2000.08.21.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2024-04-09%20111.10.23.jpg": "/uploads/scraped/research/research-17-2024-04-09-20111.10.23.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2023-05-20%2016.29.28.jpg": "/uploads/scraped/research/research-18-2023-05-20-2016.29.28.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2023-11-21%20132.17.32.jpg": "/uploads/scraped/research/research-19-2023-11-21-20132.17.32.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/2023-11-24%20222.02.13.jpg": "/uploads/scraped/research/research-20-2023-11-24-20222.02.13.jpg",
+    "https://www.ne.t.u-tokyo.ac.jp/button111.gif": "/uploads/scraped/research/research-21-button111.gif"
+  }
+}

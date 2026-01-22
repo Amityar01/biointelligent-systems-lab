@@ -1,0 +1,229 @@
+totalAlumni: 44
+byYear:
+  '2019': 18
+  '2020': 9
+  '2021': 6
+  '2022': 2
+  '2023': 4
+  '2024': 5
+members:
+  - name: 青山康人
+    originalName: 青山康人
+    lastYear: 2024
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 松川直生
+    originalName: 松川直生
+    lastYear: 2024
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: Florian Willi
+    originalName: Florian Willi (ETH Zurich)
+    lastYear: 2024
+    lastRole: Visiting Researcher
+    lastRoleJa: 客員研究員
+  - name: Mervan Samil Kacmaz
+    originalName: Mervan Samil Kacmaz (Technical University of Darmstadt)
+    lastYear: 2024
+    lastRole: Visiting Researcher
+    lastRoleJa: 客員研究員
+  - name: 小島丈
+    originalName: 小島丈 (University of Pennsylvania)
+    lastYear: 2024
+    lastRole: Visiting Researcher
+    lastRoleJa: 客員研究員
+  - name: 浦彩人
+    originalName: 浦彩人
+    lastYear: 2023
+    lastRole: Undergraduate (B4)
+    lastRoleJa: 学部4年
+  - name: 西島皓平
+    originalName: 西島皓平
+    lastYear: 2023
+    lastRole: Undergraduate (B4)
+    lastRoleJa: 学部4年
+  - name: 長谷川恭平
+    originalName: 長谷川恭平
+    lastYear: 2023
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 佐藤諒平
+    originalName: 佐藤諒平
+    lastYear: 2023
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 高木永遠
+    originalName: 高木永遠
+    lastYear: 2022
+    lastRole: Undergraduate (B4)
+    lastRoleJa: 学部4年
+  - name: 澤口昇吾
+    originalName: 澤口昇吾
+    lastYear: 2022
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 山木崚太郎
+    originalName: 山木崚太郎
+    lastYear: 2021
+    lastRole: Undergraduate (B4)
+    lastRoleJa: 学部4年
+  - name: 金井智美
+    originalName: 金井智美
+    lastYear: 2021
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 高野雄基
+    originalName: 高野雄基
+    lastYear: 2021
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: チューワニチ パンチャニット
+    originalName: チューワニチ パンチャニット
+    lastYear: 2021
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 秀未智
+    originalName: 秀未智
+    lastYear: 2021
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 松田理恵子
+    originalName: 松田理恵子
+    lastYear: 2021
+    lastRole: Staff
+    lastRoleJa: スタッフ
+  - name: 安田秀策
+    originalName: 安田秀策
+    lastYear: 2020
+    lastRole: PhD Student (D1)
+    lastRoleJa: 博士課程1年
+  - name: 松村茜
+    originalName: 松村茜
+    lastYear: 2020
+    lastRole: Master's Student (M1)
+    lastRoleJa: 修士課程1年
+  - name: 石田直輝
+    originalName: 石田直輝
+    lastYear: 2020
+    lastRole: Undergraduate (B4)
+    lastRoleJa: 学部4年
+  - name: 諏訪瑛介
+    originalName: 諏訪瑛介
+    lastYear: 2020
+    lastRole: Undergraduate (B4)
+    lastRoleJa: 学部4年
+  - name: 石橋亨祐
+    originalName: 石橋亨祐
+    lastYear: 2020
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 岡田大吾
+    originalName: 岡田大吾
+    lastYear: 2020
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 澤田晴登
+    originalName: 澤田晴登
+    lastYear: 2020
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 山木凌太郎
+    originalName: 山木凌太郎
+    lastYear: 2020
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: Du Han
+    originalName: Du Han
+    lastYear: 2020
+    lastRole: Research Student
+    lastRoleJa: 研究生
+  - name: 白松知世
+    originalName: 白松（磯口）知世
+    lastYear: 2019
+    lastRole: Special Assistant Professor
+    lastRoleJa: 特任助教
+  - name: 三田毅
+    originalName: 三田毅
+    lastYear: 2019
+    lastRole: PhD Student (D3)
+    lastRoleJa: 博士課程3年
+  - name: 石津光太郎
+    originalName: 石津光太郎
+    lastYear: 2019
+    lastRole: PhD Student (D3)
+    lastRoleJa: 博士課程3年
+  - name: 窪田智之
+    originalName: 窪田智之
+    lastYear: 2019
+    lastRole: PhD Student (D3)
+    lastRoleJa: 博士課程3年
+  - name: 池田成満
+    originalName: 池田成満
+    lastYear: 2019
+    lastRole: PhD Student (D1)
+    lastRoleJa: 博士課程1年
+  - name: 阿部泰己
+    originalName: 阿部泰己
+    lastYear: 2019
+    lastRole: Master's Student (M2)
+    lastRoleJa: 修士課程2年
+  - name: 櫻山和浩
+    originalName: 櫻山和浩
+    lastYear: 2019
+    lastRole: Master's Student (M2)
+    lastRoleJa: 修士課程2年
+  - name: 伊藤圭基
+    originalName: 伊藤圭基
+    lastYear: 2019
+    lastRole: Master's Student (M1)
+    lastRoleJa: 修士課程1年
+  - name: 木村武龍
+    originalName: 木村武龍
+    lastYear: 2019
+    lastRole: Master's Student (M1)
+    lastRoleJa: 修士課程1年
+  - name: 森叶人
+    originalName: 森叶人
+    lastYear: 2019
+    lastRole: Master's Student (M1)
+    lastRoleJa: 修士課程1年
+  - name: 矢田浩章
+    originalName: 矢田浩章
+    lastYear: 2019
+    lastRole: Master's Student (M1)
+    lastRoleJa: 修士課程1年
+  - name: 高橋斗威
+    originalName: 高橋斗威
+    lastYear: 2019
+    lastRole: Undergraduate (B4)
+    lastRoleJa: 学部4年
+  - name: 大澤龍太
+    originalName: 大澤龍太
+    lastYear: 2019
+    lastRole: Undergraduate (B4)
+    lastRoleJa: 学部4年
+  - name: 平林和気
+    originalName: 平林和気
+    lastYear: 2019
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 上野永遠
+    originalName: 上野永遠
+    lastYear: 2019
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 内田智也
+    originalName: 内田智也
+    lastYear: 2019
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: 有川悦史
+    originalName: 有川悦史
+    lastYear: 2019
+    lastRole: Undergraduate (B3)
+    lastRoleJa: 学部3年
+  - name: Du han
+    originalName: Du han
+    lastYear: 2019
+    lastRole: Research Student
+    lastRoleJa: 研究生

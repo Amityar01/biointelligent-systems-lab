@@ -1,0 +1,455 @@
+{
+  "batchId": 12,
+  "category": "oral",
+  "categoryTitle": "口頭発表 (Oral",
+  "parsedAt": "2026-01-22T02:51:37.235Z",
+  "items": [
+    {
+      "type": "presentation",
+      "title": "人工知能 vs 生命知能　–脳をリバースエンジニアリングする–",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2018,
+      "conference": "第7回 超異分野学会 本大会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(1) 高橋宏知：「人工知能 vs 生命知能　–脳をリバースエンジニアリングする–」，第7回 超異分野学会 本大会 (東京，2018年3月2日)\n\n国際会議",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2018---vs--259"
+    },
+    {
+      "type": "presentation",
+      "title": "Darwinian computation with functional map in auditory cortex",
+      "authors": [
+        "Hirokazu Takahashi"
+      ],
+      "year": 2018,
+      "conference": "Tohoku Universal Acoustical Communication Month 2018, 2018",
+      "awards": [
+        "Brain keynote lecture"
+      ],
+      "_source": "regex",
+      "_raw": "(1) Hirokazu Takahashi: “Darwinian computation with functional map in auditory cortex.” Tohoku Universal Acoustical Communication Month 2018, 2018 (仙台，2018年10月22日) [Brain keynote lecture]",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2018-hirokazutakahas-darwinian-computation-with-fun-260"
+    },
+    {
+      "type": "presentation",
+      "title": "The Brain as a Spontaneously Active Physical Reservoir",
+      "authors": [
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "conference": "MaxWell Summit 2024,",
+      "awards": [
+        "Keynote (special invited speaker)"
+      ],
+      "_source": "regex",
+      "_raw": "(2) Hirokazu Takahashi: “The Brain as a Spontaneously Active Physical Reservoir.” MaxWell Summit 2024, (Zurich, Switzerland, 2024年4月9日) [Keynote (special invited speaker)]\n\n\nシンポジウム講演・招待講演\n国内会議",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2024-hirokazutakahas-the-brain-as-a-spontaneously-a-261"
+    },
+    {
+      "type": "presentation",
+      "title": "喉頭全摘出後の無喉頭者のための口腔内振動子を用いた新しい発声のシステム開発",
+      "authors": [
+        "加我君孝",
+        "菅沢正",
+        "高橋宏知",
+        "中尾政之",
+        "畑村洋太郎",
+        "菊池彌太郎"
+      ],
+      "year": 2001,
+      "conference": "第1回東京大学医工連携シンポジウム「バイオ・IT・ナノテクノロジーのニーズとシーズ」－医学から，工学から－ 予稿集: p. 3, 2001",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(1) 加我君孝, 菅沢正, 高橋宏知, 中尾政之, 畑村洋太郎, 菊池彌太郎: 「喉頭全摘出後の無喉頭者のための口腔内振動子を用いた新しい発声のシステム開発」, 第1回東京大学医工連携シンポジウム「バイオ・IT・ナノテクノロジーのニーズとシーズ」－医学から，工学から－ 予稿集: p. 3, 2001 (東京, 2001年11月28日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2001----262"
+    },
+    {
+      "type": "presentation",
+      "title": "64チャネル微小多点表面電極による聴皮質上における誘発電位の時空間的活動パターンの計測",
+      "authors": [
+        "高橋宏知",
+        "江尻貴行",
+        "中尾政之",
+        "加我君孝",
+        "中村直也",
+        "Thierry Hervé"
+      ],
+      "year": 2002,
+      "conference": "第32回日本聴覚医学会ERA研究会抄録集: p.19, 2002",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(2) 高橋宏知, 江尻貴行, 中尾政之, 加我君孝, 中村直也, Thierry Hervé: 「64チャネル微小多点表面電極による聴皮質上における誘発電位の時空間的活動パターンの計測」, 第32回日本聴覚医学会ERA研究会抄録集: p.19, 2002 (東京, 2002年7月7日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2002--64--263"
+    },
+    {
+      "type": "presentation",
+      "title": "聴覚情報処理の理解とその再建",
+      "authors": [
+        "高橋宏知",
+        "中尾政之",
+        "間瀬文雄",
+        "江尻貴行",
+        "太田哲二",
+        "Thierry Hervé",
+        "Sébastien Schmerber",
+        "加我君孝"
+      ],
+      "year": 2003,
+      "conference": "平成15年電気学会全国大会シンポジウム講演論文集3-S17: pp. 18-21, 2003",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(3) 高橋宏知, 中尾政之，間瀬文雄，江尻貴行, 太田哲二, Thierry Hervé, Sébastien Schmerber，加我君孝: 「聴覚情報処理の理解とその再建」, 平成15年電気学会全国大会シンポジウム講演論文集3-S17: pp. 18-21, 2003 (仙台, 2003年3月17日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2003----264"
+    },
+    {
+      "type": "presentation",
+      "title": "聴性人工脳幹インプラントの臨床と基礎研究",
+      "authors": [
+        "高橋宏知",
+        "中尾政之",
+        "加我君孝"
+      ],
+      "year": 2003,
+      "conference": "人工臓器32",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(4) 高橋宏知, 中尾政之, 加我君孝:「聴性人工脳幹インプラントの臨床と基礎研究」, 人工臓器32 (2): p. 45, 2003 (第41回人工臓器学会大会, 仙台, 2003年10月31日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2003----265"
+    },
+    {
+      "type": "presentation",
+      "title": "ものづくりから始まるニューロサイエンス",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2004,
+      "conference": "2004年度第1回日本エム・イー学会ニューロインフォマティクス研究会, 2004",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(5) 高橋宏知:「ものづくりから始まるニューロサイエンス」, 2004年度第1回日本エム・イー学会ニューロインフォマティクス研究会, 2004 (東京，2004年4月15日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2004----266"
+    },
+    {
+      "type": "presentation",
+      "title": "MEMSと微小脳 MEMS・脳の研究から医療応用へ",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2004,
+      "conference": "東大情報理工ARAフォーラム, 2004",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(6) 高橋宏知:「MEMSと微小脳 MEMS・脳の研究から医療応用へ」, 東大情報理工ARAフォーラム, 2004 (東京, 2004年12月17日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2004--mems-mems--267"
+    },
+    {
+      "type": "presentation",
+      "title": "学際的分野でのプロジェクト設計",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2005,
+      "conference": "動物学会シンポジウム：ニューロエソロジー談話会シンポジウム「生物学と工学の融合から探る生物の知」，2005",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(7) 高橋宏知：「学際的分野でのプロジェクト設計」，動物学会シンポジウム：ニューロエソロジー談話会シンポジウム「生物学と工学の融合から探る生物の知」，2005 (つくば, 2005年10月8日)\nHirokazu Takahashi: “Creative design of interdisciplinary research.” Zoological Science 22 (12): p. 1415, 2005 (つくば，2005年10月8日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2005----268"
+    },
+    {
+      "title": "自由討論会「マン・マシーン融合による生体新機能の誘導」",
+      "authors": [
+        "立花隆",
+        "片山容一",
+        "高木明",
+        "吉里勝利",
+        "高橋宏知",
+        "酒谷薫"
+      ],
+      "year": 2006,
+      "journal": "第44回人工臓器学会大会",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(8) 立花隆，片山容一，高木明，吉里勝利，高橋宏知，酒谷薫：自由討論会「マン・マシーン融合による生体新機能の誘導」，第44回人工臓器学会大会，2006 (横浜，2006年11月2日)",
+      "language": "ja",
+      "category": "oral",
+      "awards": [],
+      "_valid": true,
+      "id": "2006----269"
+    },
+    {
+      "type": "presentation",
+      "title": "電気刺激とトレーニングによる聴皮質の可塑性",
+      "authors": [
+        "高橋宏知",
+        "船水章大",
+        "横田亮",
+        "内原匡信",
+        "硯川潤",
+        "神崎亮平"
+      ],
+      "year": 2007,
+      "conference": "生体医工学 44",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(9) 高橋宏知，船水章大，横田亮，内原匡信，硯川潤，神崎亮平: 「電気刺激とトレーニングによる聴皮質の可塑性」，生体医工学 44 (特別号): p. 106, 2007 (仙台，2007年4月27日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2007----270"
+    },
+    {
+      "type": "presentation",
+      "title": "聴皮質の可塑性と聴覚リハビリテーション",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2007,
+      "conference": "Otology Japan　17",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(10) 高橋宏知: 「聴皮質の可塑性と聴覚リハビリテーション」，Otology Japan　17 (4)，p. 574, 2007 (第17回日本耳科学会総会・学術講演会，福岡，2007年10月18日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2007----271"
+    },
+    {
+      "type": "presentation",
+      "title": "微小電極アレイによる聴皮質の神経活動の計測",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2008,
+      "conference": "平成20年電気学会全国大会シンポジウム講演論文集: pp. 3-S24",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(11) 高橋宏知: 「微小電極アレイによる聴皮質の神経活動の計測」, 平成20年電気学会全国大会シンポジウム講演論文集: pp. 3-S24(18) – 3-S24(21), 2008 (福岡, 2008年3月17日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2008----272"
+    },
+    {
+      "type": "presentation",
+      "title": "聴皮質の情報表現と可塑性",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2008,
+      "conference": "第5回ブレインコミュニケーション研究会講演論文集: pp. 16-19, 2008",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(12) 高橋宏知: 「聴皮質の情報表現と可塑性」，第5回ブレインコミュニケーション研究会講演論文集: pp. 16-19, 2008 (京都，2008年5月15日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2008----273"
+    },
+    {
+      "type": "presentation",
+      "title": "多点電極による神経活動のマルチスケール計測とデコーディング",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2009,
+      "conference": "脳科学研究戦略推進プログラム分科会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(13) 高橋宏知：「多点電極による神経活動のマルチスケール計測とデコーディング」，脳科学研究戦略推進プログラム分科会 (課題A，B) (京都，2009年12月1日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2009----274"
+    },
+    {
+      "type": "presentation",
+      "title": "聴皮質の神経活動のデコーディング",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2010,
+      "conference": "日本音響学会2010年春季研究発表会: pp. 549-550, 2010",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(14) 高橋宏知: 「聴皮質の神経活動のデコーディング」，日本音響学会2010年春季研究発表会: pp. 549-550, 2010 (東京，2010年3月8日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2010----275"
+    },
+    {
+      "type": "presentation",
+      "title": "情報理論と情報縮約による適応的デコーディング",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "conference": "包括型脳科学研究推進支援ネットワーク　夏のワークショップ",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(15) 高橋宏知: 「情報理論と情報縮約による適応的デコーディング」，包括型脳科学研究推進支援ネットワーク　夏のワークショップ（CREST・さきがけ脳関連領域講演会/研究報告会）抄録集: p. 69, 2011 (神戸，2011年8月23日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2011----276"
+    },
+    {
+      "type": "presentation",
+      "title": "ワークショップ１　『新治療法開発の手がかりを求めて』　発作検知と発作予知",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "conference": "てんかん研究 29",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(16) 高橋宏知: 「ワークショップ１　『新治療法開発の手がかりを求めて』　発作検知と発作予知」，てんかん研究 29 (2) (第45回日本てんかん学会 (新潟) プログラム・予稿集): p. 127, 2011 (新潟，2011年10月7日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2011----277"
+    },
+    {
+      "type": "presentation",
+      "title": "ラット聴覚皮質の神経活動パターンの情報表現と可塑性",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "conference": "統計数理研究所研究会「神経科学と統計科学の対話 2」，統計数理研究所",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(17) 高橋宏知：「ラット聴覚皮質の神経活動パターンの情報表現と可塑性」，統計数理研究所研究会「神経科学と統計科学の対話 2」，統計数理研究所 (東京，2011年12月26日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2011----278"
+    },
+    {
+      "type": "presentation",
+      "title": "Learning-induced plasticity of neural computation in the auditory cortex",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "The Journal of Physiological Science",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(18) 高橋宏知：「Learning-induced plasticity of neural computation in the auditory cortex」, The Journal of Physiological Science (第89回日本生理学会大会 抄録集) 62 (supplement 1): S56, 2012 (松本，2012年3月29日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2012--learning-induced-plasticity-of-279"
+    },
+    {
+      "type": "presentation",
+      "title": "聴覚野での情動情報の表現",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2012,
+      "conference": "電子情報通信学会技術研究報告 112",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(19) 高橋宏知：「聴覚野での情動情報の表現」，電子情報通信学会技術研究報告 112 (112), pp. 19-22, 2012 (電子情報通信学会ヒューマン情報処理研究会，日本VR学会心理学研究委員会) (室蘭，2012年6月30日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2012----280"
+    },
+    {
+      "type": "presentation",
+      "title": "VNSとニューロモデュレーション",
+      "authors": [
+        "川合謙介",
+        "宇佐美研一",
+        "高橋宏知",
+        "斉藤延人"
+      ],
+      "year": 2012,
+      "conference": "第46回日本てんかん学会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(20) 川合謙介，宇佐美研一，高橋宏知，斉藤延人：「VNSとニューロモデュレーション」，第46回日本てんかん学会 (シンポジウム「てんかんとニューロモデュレーション」) (東京，2012年10月11日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2012--vns--281"
+    },
+    {
+      "title": "Perception, Action and Brain　パネルディスカッション",
+      "authors": [
+        "西本伸志",
+        "宮脇陽一",
+        "高橋宏知",
+        "石金浩史",
+        "佐藤俊治"
+      ],
+      "year": 2012,
+      "journal": "電気通信大学　大学院情報システム学研究科　ISシンポジウム",
+      "pages": null,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(21) 西本伸志，宮脇陽一，高橋宏知，石金浩史，佐藤俊治：電気通信大学　大学院情報システム学研究科　ISシンポジウム　Perception, Action and Brain　パネルディスカッション (東京，2012年11月25日)",
+      "language": "ja",
+      "category": "oral",
+      "awards": [],
+      "_valid": true,
+      "id": "2012--perception-action-and-brain--282"
+    },
+    {
+      "type": "presentation",
+      "title": "迷走神経刺激による大脳皮質の局所的な同期の調整",
+      "authors": [
+        "高橋宏知",
+        "宇佐美憲一",
+        "狩野竜示",
+        "磯口知世",
+        "野田貴大",
+        "神崎亮平",
+        "川合謙介"
+      ],
+      "year": 2013,
+      "conference": "第27回日本ニューロモデュレーション学会抄録集：p. 27, 2013",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(22) 高橋宏知，宇佐美憲一，狩野竜示，磯口知世，野田貴大，神崎亮平，川合謙介：「迷走神経刺激による大脳皮質の局所的な同期の調整」，第27回日本ニューロモデュレーション学会抄録集：p. 27, 2013 (東京，2013年5月18日)",
+      "language": "ja",
+      "category": "oral",
+      "_valid": true,
+      "id": "2013----283"
+    }
+  ]
+}

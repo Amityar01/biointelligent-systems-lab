@@ -1,0 +1,668 @@
+title:
+  ja: "メディア掲載"
+  en: "Media Appearances"
+appearances:
+  -
+    id: "media-1"
+    title:
+    ja: "声帯失っても声が戻る"
+    en: "Even if the vocal cords are lost, the voice can return."
+    type: "newspaper"
+    year: 2001
+    month: 3
+    day: 4
+  -
+    id: "media-2"
+    title:
+    ja: "声に現れる病気"
+    en: "Disease manifesting in sound."
+    source:
+    ja: "BS-i 健康DNA (制作：D組-Project)"
+    en: "BS-i Health DNA (Produced by Group D - Project)"
+    type: "tv"
+    year: 2003
+    month: 12
+    day: 7
+  -
+    id: "media-3"
+    title:
+    ja: "脳に迫る　米国の人工器官研究　②聴覚"
+    en: "Approaching the Brain: U.S. Artificial Organ Research Part 2: Hearing"
+    type: "newspaper"
+    year: 2004
+    month: 8
+    day: 25
+  -
+    id: "media-4"
+    title:
+    ja: "脳に迫る　米国の人工器官研究　④神経回路"
+    en: "Approaching the Brain: The United States' Artificial Organ Research Part 4 - Neural Circuits"
+    type: "newspaper"
+    year: 2004
+    month: 9
+    day: 14
+  -
+    id: "media-5"
+    title:
+    ja: "Focus 知能機械情報学専攻　高橋宏知　講師に聞く 『障害のある人の治療に役立つものを作りたい』"
+    en: "I want to create something useful for treating people with disabilities.""
+    source:
+    ja: "東大情報理工ARAプログラム メールマガジン 第45号"
+    en: "Tokyo University of Technology Information and Electronics Engineering ARA Program Newsletter No. 45"
+    type: "web"
+    year: 2005
+    month: 2
+    day: 23
+  -
+    id: "media-6"
+    title:
+    ja: "News02 音に対する聴覚神経の応答特性を別の刺激で書き換える，高橋講師ら"
+    en: "High Bridge lecturer and others rewrite the auditory neural response characteristics to sound with different stimuli"
+    source:
+    ja: "東大情報理工ARAプログラム メールマガジン 第50号"
+    en: "Tokyo University of Technology Information Science and Engineering ARA Program Email Newsletter No. 50"
+    type: "web"
+    year: 2005
+    month: 5
+    day: 11
+  -
+    id: "media-7"
+    title:
+    ja: "News03 脳幹の電気刺激で聴覚を補助するABI研究に新しい知見，高橋講師ら"
+    en: "New insights from ABI research using electrical stimulation of the brainstem to assist hearing, by Professor Takahashi et al."
+    source:
+    ja: "東大情報理工ARAプログラム メールマガジン 第50号"
+    en: "University of Tokyo Information Science and Technology ARA Program Newsletter No. 50"
+    type: "web"
+    year: 2005
+    month: 5
+    day: 11
+  -
+    id: "media-8"
+    title:
+    ja: "超微細電極による脳機能の多点実時間計測"
+    en: "Real-time multipoint measurement of brain functions using ultra-fine electrodes"
+    type: "other"
+    year: 2004
+    month: 11
+    day: 1
+  -
+    id: "media-9"
+    title:
+    ja: "NHKスペシャル　立花隆　最前線報告　サイボーグ技術が人類を変える"
+    en: "NHK Special - Takahiro Tachibana Frontline Report - Cybernetic technology will change humanity"
+    source:
+    ja: "NHKスペシャル"
+    en: "NHK Special"
+    type: "tv"
+    year: 2005
+    month: 11
+    day: 5
+  -
+    id: "media-10"
+    title:
+    ja: "BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第1回体と機械が融合する"
+    en: "BS Documentary Series: The Age of \"Cyborg Medicine\" Explored by Tatsuhiko Takaoka - Episode 1: When Body and Machine Merge"
+    source:
+    ja: "衛星第一BSドキュメンタリー"
+    en: "Satellite 1st BS Documentary"
+    type: "tv"
+    year: 2005
+    month: 12
+    day: 3
+  -
+    id: "media-11"
+    title:
+    ja: "BSドキュメンタリーシリーズ　立花隆が探る“サイボーグ医療”の時代　第2回脳をどこまで変えるのか"
+    en: "The BS Documentary Series: Rikka Takahashi explores the era of \"Cyborg Medicine\" - Part 2: To what extent can the brain be altered?"
+    source:
+    ja: "衛星第一BSドキュメンタリー"
+    en: "Satellite First BS Documentary"
+    type: "tv"
+    year: 2005
+    month: 12
+    day: 10
+  -
+    id: "media-12"
+    title:
+    ja: "ハイビジョン特集　サイボーグ革命ロボットと人間の融合"
+    en: "High-definition Special: The Cybernetic Revolution and the fusion of robots and humans"
+    source:
+    ja: "衛星ハイビジョン"
+    en: "Satellite high-definition"
+    type: "tv"
+    year: 2006
+    month: 1
+    day: 19
+  -
+    id: "media-14"
+    title:
+    ja: "東大　神経細胞１つずつ制御"
+    en: "Each neuron at Tokyo University is individually controlled."
+    source:
+    ja: "日経産業新聞 (11面)"
+    en: "Nikkei Industrial Daily (Page 11)"
+    type: "newspaper"
+    year: 2009
+    month: 6
+    day: 17
+  -
+    id: "media-15"
+    title:
+    ja: "学習開始時の脳　神経細胞活発に"
+    en: "The brain's nerve cells are active at the start of learning."
+    source:
+    ja: "日本経済新聞 (朝刊11面)"
+    en: "Nikkei Asian Review (Morning Edition, Page 11)"
+    type: "newspaper"
+    year: 2013
+    month: 7
+    day: 16
+  -
+    id: "media-16"
+    title:
+    ja: "効果的な学習方法解明に一歩前進、学習能力の源泉は『ダーウィニズム』"
+    en: "A step forward in unraveling effective learning methods: The source of learning ability is \"Darwinism.\""
+    source:
+    ja: "Yahoo Japan ニュース（ライフ）"
+    en: "Yahoo Japan News (Life)"
+    type: "web"
+  -
+    id: "media-17"
+    title:
+    ja: "東大、大脳皮質の『神経ダーウィニズム仮説』を後押しする証拠を発見"
+    en: "Tokyo University discovers evidence supporting the "Neuro-Darwinism Hypothesis" of the cerebral cortex."
+    source:
+    ja: "Yahoo Japanニュース（IT・科学）"
+    en: "Yahoo Japan News (IT & Science)"
+    type: "web"
+  -
+    id: "media-18"
+    title:
+    ja: "試行錯誤段階，脳が活発　学習時の活動　東大，ラット実験"
+    en: "Trial and error stage; brain is active; learning activities; Tokyo University, rat experiment"
+    source:
+    ja: "日経産業新聞 (朝刊9面)"
+    en: "Nikkei Industrial Daily (Morning Edition, Page 9)"
+    type: "newspaper"
+    year: 2013
+    month: 7
+    day: 16
+  -
+    id: "media-19"
+    title:
+    ja: "脳神経信号の伝わり方　日や部位で速度変化　東大が解明"
+    en: "The transmission of brain nerve signals varies in speed according to the day and location, which the University of Tokyo has unraveled."
+    source:
+    ja: "日経産業新聞 (朝刊8面)"
+    en: "The Nikkei Industrial News (Morning Edition, Page 8)"
+    type: "newspaper"
+    year: 2013
+    month: 7
+    day: 23
+  -
+    id: "media-20"
+    title:
+    ja: "東大など、神経回路内の複雑な活動電位の伝播の様子を可視化することに成功"
+    en: "The University of Tokyo and others have succeeded in visualizing the propagation of complex action potentials within neural circuits."
+    source:
+    ja: "Yahoo Japanニュース（IT・科学）"
+    en: "Yahoo Japan News (IT & Science)"
+    type: "web"
+  -
+    id: "media-21"
+    title:
+    ja: "東大他、脳内の神経信号の伝播速度を可視化"
+    en: "Visualization of the propagation speed of neural signals within the brain."
+    source:
+    ja: "WEBジャーナル OPTRONICS"
+    en: "Web Journal Optronic"
+    type: "web"
+    year: 2013
+    month: 7
+    day: 22
+  -
+    id: "media-22"
+    title:
+    ja: "東大最前線，神経ダーウィニズム，広い観察で従来説覆す"
+    en: "At the forefront of Todai University, neuro-Darwinism challenges conventional theories with broad observations."
+    source:
+    ja: "東京大学新聞 (3面)"
+    en: "Tokyo University Newspaper (Page 3)"
+    type: "newspaper"
+    year: 2013
+    month: 8
+    day: 6
+  -
+    id: "media-23"
+    title:
+    ja: "高感度嗅覚センサー，東大イヌ並み性能めざす，医療用想定"
+    en: "High-sensitivity olfactory sensor, aiming for performance equivalent to Tohoku University dog, for medical use in mind"
+    source:
+    ja: "日本経済新聞 (夕刊3面)"
+    en: "Nippon Economic News (Evening Edition, Page 3)"
+    type: "newspaper"
+    year: 2013
+    month: 8
+    day: 21
+  -
+    id: "media-24"
+    title:
+    ja: "2013年8月22日 神経信号の速度は変化する"
+    en: "On August 22, 2013, the speed of neural signals changed."
+    source:
+    ja: "サイエンスポータル編集ニュース"
+    en: "Science Portal editorial news"
+    type: "other"
+    year: 2013
+    month: 8
+    day: 22
+  -
+    id: "media-25"
+    title:
+    ja: "脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』"
+    en: "A must-read for anyone interested in neuroscience: \"Brain Science入门 - Reverse Engineering the Brain for Mechanics\""
+    source:
+    ja: "HONZ – 読みたい本が、きっと見つかる！"
+    en: "Honz – You're sure to find a book you want to read!"
+    type: "web"
+    year: 2016
+    month: 4
+    day: 5
+  -
+    id: "media-26"
+    title:
+    ja: "脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』"
+    en: "For those who want to learn about neuroscience, here is the first book you should read — \"Brain Science for Mechanics: Reverse Engineering the Brain.\""
+    source:
+    ja: "Yahoo Japan ニュース（ライフ）"
+    en: "Yahoo Japan News (Life)"
+    type: "web"
+    year: 2016
+    month: 4
+    day: 5
+  -
+    id: "media-27"
+    title:
+    ja: "物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』"
+    en: "If you taught neuroscience to a student who loves physics, this would happen - HONZ Selected Book \"Neuroscience for Mechanics: An Introduction\""
+    source: "JB Press (Japan Buisiness Press)"
+    type: "web"
+    year: 2016
+    month: 4
+    day: 12
+  -
+    id: "media-28"
+    title:
+    ja: "物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』"
+    en: "If you taught brain science to a student who loves physics, this would happen. HONZ selected book "Introduction to Brain Science for Mechanics""
+    source:
+    ja: "@nifty ニュース"
+    en: "Nifty News"
+    type: "web"
+    year: 2016
+    month: 4
+    day: 12
+  -
+    id: "media-29"
+    title:
+    ja: "物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』"
+    en: "If you taught brain science to a student who loves physics, this is what would happen. HONZ Selected Book "Brain Science Basics for Mechanics""
+    source:
+    ja: "goo ニュース"
+    en: "Goo News"
+    type: "web"
+    year: 2016
+    month: 4
+    day: 12
+  -
+    id: "media-30"
+    title:
+    ja: "物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』"
+    en: "If you taught brain science to a student who loves physics, this would happen.  HONZ Special Selection Book "Introduction to Brain Science for Mechanics""
+    source:
+    ja: "Yahoo ニュース（ビジネス）"
+    en: "Yahoo News (Business)"
+    type: "web"
+    year: 2016
+    month: 4
+    day: 12
+  -
+    id: "media-31"
+    title:
+    ja: "森山和道の読書日記"
+    en: "Morisawa Kazunari's Reading Diary"
+    type: "other"
+  -
+    id: "media-32"
+    title:
+    ja: "神は雲の中にあらわれる第188回　人間機械論2016　人も，ロボットも，コンピューターも，工場や，社会も，みんなひとつになぁれ（遠藤諭）"
+    en: "God appears in the clouds, Volume 188 - Human-Machine Theory 2016. Humans, robots, computers, factories, and society all become one (Norihiro Yanagi)"
+    type: "other"
+  -
+    id: "media-33"
+    title:
+    ja: "てんかん発作の予測に期待-理研と東大、神経の自発同期バーストの予兆検出"
+    en: "Hoping for prediction of epilepsy seizures - Riken and University of Tokyo, detecting the predictive sign of spontaneous neural burst synchronization"
+    type: "web"
+  -
+    id: "media-34"
+    title:
+    ja: "理研と東大，神経ネットワークの大規模な「バースト"
+    en: "RIKEN and Tokyo University have developed a large-scale "burst" neural network."
+    source:
+    ja: "日本経済新聞電子版"
+    en: "Nikkei Economic Daily Electronic Edition"
+    type: "newspaper"
+    year: 2017
+    month: 8
+    day: 22
+  -
+    id: "media-35"
+    title:
+    ja: "産官学諤　機械工学的なアプローチが脳研究を進める"
+    en: "Industry-academia-government consensus supports an engineering approach to advance brain research."
+    type: "other"
+  -
+    id: "media-36"
+    title:
+    ja: "AIよりももっとスゴい脳を意識してみる－続 メカ屋のための脳科学入門-記憶・学習/意識 編（推薦：鈴木健一）"
+    en: "Try to become conscious of a brain that is even cooler than AI — Continued: An Introduction to Brain Science for Mechanics - Memory and Learning/Consciousness Edition (Recommended: Kenichi Suzuki)"
+    source:
+    ja: "ビジネスを面白くするナレッジライブラリGLOBIS 知見禄（冬休みに読んでおきたいビジネス書5選－グロービス経営大学院教員が選ぶ）"
+    en: "Knowledge Library GLOBIS Insight (5 business books to read during winter break – Selected by faculty of GLOBIS Business School)"
+    type: "web"
+  -
+    id: "media-37"
+    title:
+    ja: "脳科学を，もっと深く（松村正人）"
+    en: "Brain science, even more deeply (Masahito Matsuda)"
+    type: "other"
+  -
+    id: "media-38"
+    title:
+    ja: "N高等学校、社会で必要とされるAI人材の育成を目指して ドワンゴ人工知能研究所提供の動画教材『脳神経科学と汎用人工知能』 を10月15日にN予備校にて公開"
+    en: "The N High School aims to cultivate AI talents needed in society by publicly releasing the video materials "Brain Science and General Artificial Intelligence" provided by the Dwango AI Research Institute on October 15 at the N Preparatory School."
+    type: "other"
+  -
+    id: "media-39"
+    title:
+    ja: "東大・自治医科大・NICT、人工知能で脳波からてんかん発作を自動検出"
+    en: "Tokyo University, Autonomous University of Medical Sciences, and NICT are using artificial intelligence to automatically detect seizures from brainwave data."
+    type: "newspaper"
+  -
+    id: "media-40"
+    title:
+    ja: "てんかん発作、脳波から自動検出できるAI開発 - 東大などの研究班、専門医不足地域でも診断可能に"
+    en: "Seizure detection from EEGs using AI developed - Research teams at Tokyo University and others make diagnosis possible even in areas short on specialists."
+    type: "web"
+  -
+    id: "media-41"
+    title:
+    ja: "脳波からてんかん発作を自動検出する人工知能を開発－東大ら"
+    en: "Artificial intelligence developed for automatic detection of epilepsy seizures from brain waves - University of Tokyo et al."
+    type: "web"
+  -
+    id: "media-42"
+    title:
+    ja: "てんかん発作を自動検出するAIの開発に成功、検出精度は最大100%"
+    en: "The development of an AI that can automatically detect epilepsy seizures has succeeded, with detection accuracy up to 100%."
+    type: "web"
+  -
+    id: "media-43"
+    title:
+    ja: "東京大学医学部附属病院、てんかん発作を自動検出できる人工知能の開発に成功"
+    en: "Tokyo University Hospital succeeds in developing artificial intelligence capable of automatically detecting seizures."
+    type: "web"
+  -
+    id: "media-44"
+    title:
+    ja: "機械学習で脳波の状態からてんかん発作を検出"
+    en: "Machine learning detects epilepsy seizures from brainwave states."
+    type: "web"
+  -
+    id: "media-45"
+    title:
+    ja: "NICTと東京大学　てんかん発作を脳波から自動検出するAI開発に成功"
+    en: "NICT and the University of Tokyo have successfully developed AI for automatically detecting seizures from brain waves."
+    type: "newspaper"
+  -
+    id: "media-46"
+    title:
+    ja: "てんかん専門医にも勝るとも劣らない人工知能"
+    en: "An artificial intelligence that is not inferior to a specialist in epilepsy."
+    type: "other"
+  -
+    id: "media-47"
+    title:
+    ja: "AI，脳により近く"
+    en: "AI, closer to the brain"
+    source:
+    ja: "日本経済新聞 (朝刊9面)"
+    en: "The Nikkei newspaper (Morning Edition, page 9)"
+    type: "newspaper"
+    year: 2019
+    month: 6
+    day: 17
+  -
+    id: "media-48"
+    title:
+    ja: "青春の一冊：畑村洋太郎編著『実際の設計　機械設計の考え方と方法』　高橋宏知准教授（情報理工学系研究科）"
+    en: "A Book of Youth: Designed by Yotaro Hatakeyama; \"Actual Design: Approaches and Methods in Mechanical Design\" edited by Hiroyuki Takahashi, Associate Professor (Graduate School of Information Science and Technology)"
+    type: "newspaper"
+  -
+    id: "media-49"
+    title:
+    ja: "計算機に意識は宿るか"
+    en: "Can consciousness inhabit a computer?"
+    source:
+    ja: "日本経済新聞 (朝刊26面 (サイエンス))"
+    en: "Nikkei Shinbun (Morning Edition, page 26 [Science])"
+    type: "newspaper"
+    year: 2021
+    month: 6
+    day: 7
+  -
+    id: "media-50"
+    title:
+    ja: "【受験生応援】高橋宏知准教授に聞く、受験勉強と音楽の関係"
+    en: "Interview with Assistant Professor Hiromasa Takahashi: The Relationship Between Exam Study and Music"
+    source:
+    ja: "東京大学新聞"
+    en: "Tokyo University Newspaper"
+    type: "newspaper"
+    year: 2021
+    month: 12
+    day: 21
+  -
+    id: "media-51"
+    title:
+    ja: "生命知能と人工知能 (1)　人工知能と苦手分野が一致!?　“人工知能化”する若者たち"
+    en: "Life Intelligence and Artificial Intelligence (1) Could artificial intelligence and aversion align!? Young people "artificially intelligent-izing!""
+    type: "web"
+  -
+    id: "media-52"
+    title:
+    ja: "生命知能と人工知能 (2)　人工知能が人間をダメにする?　人間と人工知能の”脳”を分析"
+    en: "Life Intelligence and Artificial Intelligence (2) Can artificial intelligence harm humans? Analyzing the "brains" of humans and artificial intelligence"
+    type: "web"
+  -
+    id: "media-53"
+    title:
+    ja: "生命知能と人工知能 (3)　米国に倣ってきた日本が，決められない社会になったワケ"
+    en: "Japan, following in the footsteps of America, has become a society where people cannot make decisions."
+    type: "web"
+  -
+    id: "media-54"
+    title:
+    ja: "『生命知能と人工知能　AI時代の脳の使い方・育て方』高橋宏知著（講談社）　自律化と自動化を対比 (評・西成活裕)"
+    en: "\"Life Intelligence and Artificial Intelligence: How to Use and Raise the Brain in the AI Age,\" by Hirotaka Takahashi (Kodansha) - Comparing Autonomy and Automation (Review by Seihiro Nishiyabu)"
+    source:
+    ja: "読売新聞 (朝刊13面)"
+    en: "Yomiuri Shimbun (Morning Edition, Page 13)"
+    type: "newspaper"
+    year: 2022
+    month: 2
+    day: 20
+  -
+    id: "media-55"
+    title:
+    ja: "人工知能と生命知能　高橋宏知著　共存の鍵は人間の意識に（サイエンス作家　竹内薫）"
+    en: "Artificial Intelligence and Life Intelligence, Key to Coexistence is Human Consciousness (Science Writer: Kunihiro Takahashi)"
+    source:
+    ja: "日本経済新聞（夕刊12面）"
+    en: "Nikkei Shimbun (Evening Edition, page 12)"
+    type: "newspaper"
+    year: 2022
+    month: 3
+    day: 3
+  -
+    id: "media-57"
+    title:
+    ja: "生命知能と人工知能"
+    en: "Life intelligence and artificial intelligence"
+    type: "other"
+  -
+    id: "media-58"
+    title:
+    ja: "プレスリリース　ネズミも音楽に合わせて身体を動かすことを発見―音楽やダンスの起源は，動物種共通の脳のダイナミクスか？"
+    en: "Press Release: Mice have been discovered to move their bodies to the rhythm of music—could the origin of music and dance be a common brain dynamics across species?"
+    type: "other"
+  -
+    id: "media-59"
+    title:
+    ja: "ラットもビートに合わせて体を動かす現象を確認…東京大の研究チーム"
+    en: "Mice have been confirmed to move their bodies in sync with the beat...Research team at the University of Tokyo"
+    source:
+    ja: "読売新聞 (オンライン)"
+    en: "Yomiuri Shimbun (Online)"
+    type: "newspaper"
+  -
+    id: "media-60"
+    title:
+    ja: "東大、ラットも音楽のビートに合わせて身体を動かすことを発見"
+    en: "Tokyo University discovers that rats also move their bodies in sync with musical beats."
+    source:
+    ja: "日本経済新聞 (オンライン)"
+    en: "The Japan Economic Newswire (Online)"
+    type: "newspaper"
+  -
+    id: "media-61"
+    title:
+    ja: "ラットも音楽を聞いて体を動かす。モーツァルトに反応することが東大研究で明らかに"
+    en: "Rats also move their bodies when they hear music. A research study at Tokyo University has made it clear that rats respond to Mozart."
+    source:
+    ja: "ハフポスト"
+    en: "HuffPost"
+    type: "other"
+  -
+    id: "media-62"
+    title:
+    ja: "＜フロンティア発＞音楽で、ラットもノリノリ　東大チームが反応確認"
+    en: "Frontier News > With music, even rats get excited; Tokyo University team confirms reactions"
+    source:
+    ja: "東京新聞"
+    en: "Tokyo News"
+    type: "newspaper"
+  -
+    id: "media-64"
+    title:
+    ja: "最新脳科学と応用(4)～人間の認知機能～(pp.42-46)で「5.2.　国立大学法人　東京大学"
+    en: ""Latest Brain Science and Applications (4) – Human Cognitive Functions – (pp. 42-46)" in "5.2. The University of Tokyo Corporation""
+    type: "other"
+  -
+    id: "media-65"
+    title:
+    ja: "最新科学でみえてきた『かしこさの招待』知能とは何か"
+    en: "What is intelligence as revealed by the latest science?"
+    source:
+    ja: "Newton2024年8月号"
+    en: "August 2024 Issue of Newton"
+    type: "other"
+  -
+    id: "media-68"
+    title: "Neuroscience Research Collaboration between ETHZ, University of Tokyo and RIKEN"
+    type: "web"
+    year: 2013
+    month: 7
+    day: 18
+  -
+    id: "media-69"
+    title: "Haste and waste on neuronal pathways"
+    source: "ETH Life (Science)"
+    type: "web"
+    year: 2013
+    month: 7
+    day: 19
+  -
+    id: "media-70"
+    title: "Haste and waste on neuronal pathways"
+    source: "MedicalXpress"
+    type: "web"
+    year: 2013
+    month: 7
+    day: 19
+  -
+    id: "media-71"
+    title: "Haste and waste on neuronal pathways"
+    source: "Science Daily"
+    type: "web"
+    year: 2013
+    month: 7
+    day: 19
+  -
+    id: "media-72"
+    title: "11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level (By John Hewitt)"
+    source: "Extreme Tech"
+    type: "web"
+  -
+    id: "media-73"
+    title: "Reizweiterleitung, Kein Tempolimit im Kopf, Neurone leiten Signale mit unterschiedlicher Geschwindigkeit"
+    source: "GGeshwindikeit"
+    type: "web"
+    year: 2013
+    month: 7
+    day: 23
+  -
+    id: "media-74"
+    title: "Measuring neuronal signal conduction reveals haste and waste"
+    source: "Medical News Today"
+    type: "web"
+    year: 2013
+    month: 7
+    day: 23
+  -
+    id: "media-75"
+    title: "11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level"
+    source: "2045 Strategitic Social Initiative"
+    type: "web"
+  -
+    id: "media-76"
+    title: "Teaching Robots to Think Like Us"
+    source: "AIP publishing"
+    type: "other"
+  -
+    id: "media-77"
+    title: "'Thinking' robot with neurons grown in a lab from living brain cells is taught to steer its way around walls and obstacles (By JONATHAN CHADWICK FOR MAILONLINE)"
+    source: "Mail Online Science ＆Tech"
+    type: "web"
+  -
+    id: "media-78"
+    title: "Scientists raise alarm as world’s first ‘thinking’ robot with BRAIN created (By SEBASTIAN KETTLEY)"
+    source: "Express"
+    type: "web"
+  -
+    id: "media-79"
+    title: "Teaching robots to think like us (by Staff Writers)"
+    source: "Space Daily"
+    type: "web"
+  -
+    id: "media-80"
+    title: "Japan Develops 'Thinking Robot' Through Physical Reservoir Computing; Learns and Moves by Artifical Neurons (Ron Jefferson)"
+    source: "The Science Times"
+    type: "web"
+  -
+    id: "media-81"
+    title: "FORCE Physical Reservoir Computing Uses Living Neurons to Teach Robots to "Think" Like Humans Do (Gareth Halfacree)"
+    source: "Hackster.io"
+    type: "web"

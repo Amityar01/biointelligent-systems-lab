@@ -1,0 +1,541 @@
+{
+  "batchId": 4,
+  "category": "original_en",
+  "categoryTitle": "英文",
+  "parsedAt": "2026-01-22T02:51:10.964Z",
+  "items": [
+    {
+      "type": "journal",
+      "title": "Microelectrode mapping of tonotopic, laminar, and field-specific organization of thalamo-cortical pathway in rat",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Kazusa Takahashi",
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Haruka Nakahara",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2016,
+      "pages": "38-52",
+      "doi": "10.1016/j.neuroscience.2016.06.024",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(51) Tomoyo I. Shiramatsu, Kazusa Takahashi, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahara, and Hirokazu Takahashi: “Microelectrode mapping of tonotopic, laminar, and field-specific organization of thalamo-cortical pathway in rat.” Neuroscience 332: pp. 38-52, 2016 (doi: 10.1016/j.neuroscience.2016.06.024)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2016-tomoyoishiramat-microelectrode-mapping-of-tono-89"
+    },
+    {
+      "type": "journal",
+      "title": "Tonotopic and field-specific representation of long-lasting sustained activity in rat auditory cortex",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Takahiro Noda",
+        "Kan Akutsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2016,
+      "doi": "10.3389/fncir.2016.00059",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(52) Tomoyo I. Shiramatsu, Takahiro Noda, Kan Akutsu, and Hirokazu Takahashi: “Tonotopic and field-specific representation of long-lasting sustained activity in rat auditory cortex.” Frontiers in Neural Circuits 10: Article #59 (15 pp), 2016 (doi: 10.3389/fncir.2016.00059)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2016-tomoyoishiramat-tonotopic-and-field-specific-r-90"
+    },
+    {
+      "type": "journal",
+      "title": "Reconstruction of Bursting Activity in Cultured Neuronal Network from State-Space Model and Leader Spatial Activity Pattern",
+      "authors": [
+        "Yuichiro Yada",
+        "Ryohei Kanzaki and Hirokazu Takahashi"
+      ],
+      "year": 2016,
+      "journal": "Electronics and Communications in Japan",
+      "volume": "99",
+      "issue": "11",
+      "pages": "98-106",
+      "doi": "10.1002/ecj.11905",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(53) Yuichiro Yada, Ryohei Kanzaki and Hirokazu Takahashi: “Reconstruction of Bursting Activity in Cultured Neuronal Network from State-Space Model and Leader Spatial Activity Pattern.” Electronics and Communications in Japan 99 (11): pp. 98-106, 2016 (DOI: 10.1002/ecj.11905)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2016-yuichiroyada-reconstruction-of-bursting-act-91"
+    },
+    {
+      "type": "journal",
+      "title": "Development of neural population activity toward self-organized criticality",
+      "authors": [
+        "Yuichiro Yada",
+        "Takeshi Mita",
+        "Akihiro Sanada",
+        "Ryuichi Yano",
+        "Ryohei Kanzaki",
+        "Douglas J. Bakkum",
+        "Andreas Hierlemann and Hirokazu Takahashi"
+      ],
+      "year": 2017,
+      "pages": "55-65",
+      "doi": "10.1016/j.neuroscience.2016.11.031",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(54) Yuichiro Yada, Takeshi Mita, Akihiro Sanada, Ryuichi Yano, Ryohei Kanzaki, Douglas J. Bakkum, Andreas Hierlemann and Hirokazu Takahashi: “Development of neural population activity toward self-organized criticality.” Neuroscience 343: pp. 55-65, 2017 (doi: 10.1016/j.neuroscience.2016.11.031)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2017-yuichiroyada-development-of-neural-populati-92"
+    },
+    {
+      "type": "journal",
+      "title": "Stimulus phase locking of cortical oscillation for rhythmic tone sequence in rats",
+      "authors": [
+        "Takahiro Noda",
+        "Tomoki Amemiya",
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2017,
+      "doi": "10.3389/fncir.2017.00002",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(55) Takahiro Noda, Tomoki Amemiya, Tomoyo I. Shiramatsu, and Hirokazu Takahashi: “Stimulus phase locking of cortical oscillation for rhythmic tone sequence in rats.” Frontiers in Neural Circuits 11: Article #2 (13 pp), 2017 (doi: 10.3389/fncir.2017.00002)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2017-takahironoda-stimulus-phase-locking-of-cort-93"
+    },
+    {
+      "type": "journal",
+      "title": "Effects of Vagus Nerve Stimulation on Neutral Adaptation in Rat Auditory Cortex",
+      "authors": [
+        "Rie Hitsuyu",
+        "Tomoyo Isoguchi Shiramatsu",
+        "Takahiro Noda",
+        "Ryohei Kanzaki",
+        "Takeshi Uno",
+        "Kensuke Kawai and Hirokazu Takahashi"
+      ],
+      "year": 2017,
+      "journal": "Electronics and Communications in Japan",
+      "volume": "100",
+      "issue": "5",
+      "doi": "10.1002/ecj.11955",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(56) Rie Hitsuyu, Tomoyo Isoguchi Shiramatsu, Takahiro Noda, Ryohei Kanzaki, Takeshi Uno, Kensuke Kawai and Hirokazu Takahashi: “Effects of Vagus Nerve Stimulation on Neutral Adaptation in Rat Auditory Cortex.” Electronics and Communications in Japan 100 (5): pp. 34–43, 2017 (doi: 10.1002/ecj.11955)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2017-riehitsuyu-effects-of-vagus-nerve-stimula-94"
+    },
+    {
+      "type": "journal",
+      "title": "Locally embedded presages of global network bursts",
+      "authors": [
+        "Satohiro Tajima",
+        "Takeshi Mita",
+        "Douglas J. Bakkum",
+        "Hirokazu Takahashi",
+        "Taro Toyoizumi"
+      ],
+      "year": 2017,
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "volume": "114",
+      "issue": "36",
+      "pages": "9517-9522",
+      "doi": "10.1073/pnas.1705981114",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(57) Satohiro Tajima, Takeshi Mita, Douglas J. Bakkum, Hirokazu Takahashi, and Taro Toyoizumi: “Locally embedded presages of global network bursts.” Proceedings of the National Academy of Sciences of the United States of America 114 (36): pp. 9517-9522, 2017 (doi: 10.1073/pnas.1705981114)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2017-satohirotajima-locally-embedded-presages-of-g-95"
+    },
+    {
+      "type": "journal",
+      "title": "Visuomotor response to object expansion in free-flying bumblebees",
+      "authors": [
+        "Hao Wang",
+        "Noriyasu Ando",
+        "Hirokazu Takahashi",
+        "Ryohei Kanzaki"
+      ],
+      "year": 2017,
+      "journal": "Journal of Insect Behavior",
+      "volume": "30",
+      "issue": "6",
+      "doi": "10.1007/s10905-017-9645-x",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(58) Hao Wang, Noriyasu Ando, Hirokazu Takahashi, and Ryohei Kanzaki: “Visuomotor response to object expansion in free-flying bumblebees.” Journal of Insect Behavior 30 (6): pp. 612–631, 2017 (doi: 10.1007/s10905-017-9645-x)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2017-haowang-visuomotor-response-to-object--96"
+    },
+    {
+      "type": "journal",
+      "title": "Behavioral evaluation of auditory stream segregation in rats",
+      "authors": [
+        "Takahiro Noda",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2019,
+      "pages": "52-62",
+      "doi": "10.1016/j.neures.2018.03.007",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(59) Takahiro Noda, and Hirokazu Takahashi: “Behavioral evaluation of auditory stream segregation in rats.” Neuroscience Research 141: pp. 52-62, 2019 (doi: 10.1016/j.neures.2018.03.007)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2019-takahironoda-behavioral-evaluation-of-audit-97"
+    },
+    {
+      "type": "journal",
+      "title": "Preference test of sound among multiple alternatives in rats",
+      "authors": [
+        "Ryo Soga",
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2018,
+      "journal": "PLOS ONE",
+      "volume": "13",
+      "issue": "6",
+      "doi": "10.1371/journal.pone.0197361",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(60) Ryo Soga, Tomoyo I. Shiramatsu, and Hirokazu Takahashi: “Preference test of sound among multiple alternatives in rats.” PLOS ONE 13 (6): e0197361, 2018 (13 pp) (doi: 10.1371/journal.pone.0197361)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2018-ryosoga-preference-test-of-sound-among-98"
+    },
+    {
+      "type": "journal",
+      "title": "The axon initial segment is the dominant contributor to the neuron’s extracellular electrical potential landscape",
+      "authors": [
+        "Douglas J. Bakkum",
+        "Marie E. J. Obien",
+        "Milos Radivojevic",
+        "David Jäckel",
+        "Urs Frey",
+        "Hirokazu Takahashi",
+        "Andreas Hierlemann"
+      ],
+      "year": 2018,
+      "journal": "Advanced Biosystems",
+      "volume": "3",
+      "issue": "2",
+      "doi": "10.1002/adbi.201800308",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(61) Douglas J. Bakkum, Marie E. J. Obien, Milos Radivojevic, David Jäckel, Urs Frey, Hirokazu Takahashi, and Andreas Hierlemann: “The axon initial segment is the dominant contributor to the neuron’s extracellular electrical potential landscape.” Advanced Biosystems 3 (2): 1800308 (11 pp.), 2018 (doi: 10.1002/adbi.201800308)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2018-douglasjbakkum-the-axon-initial-segment-is-th-99"
+    },
+    {
+      "type": "journal",
+      "title": "Mismatch negativity in rat auditory cortex represents the empirical salience of sounds",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2018,
+      "doi": "10.3389/fnins.2018.00924",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(62) Tomoyo I. Shiramatsu, and Hirokazu Takahashi: “Mismatch negativity in rat auditory cortex represents the empirical salience of sounds.” Frontiers in Neuroscience 12: Article #924 (13 pp.), 2018 (doi: 10.3389/fnins.2018.00924)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2018-tomoyoishiramat-mismatch-negativity-in-rat-aud-100"
+    },
+    {
+      "type": "journal",
+      "title": "Seizuredetection by convolutional neural network-based analysis of scalp electroencephalographyplot images",
+      "authors": [
+        "Ali Emami",
+        "Naoto Kunii",
+        "Takeshi Matsuo",
+        "Takashi Shinozaki",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2019,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(63) Ali Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai, and Hirokazu Takahashi: “Seizuredetection by convolutional neural network-based analysis of scalp electroencephalographyplot images.” NeuroImage: Clinical 22: Article #101684 (10 pp.), 2019",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2019-aliemami-seizuredetection-by-convolutio-101"
+    },
+    {
+      "type": "journal",
+      "title": "Layer-specific representation of long-lasting sustained activity in the rat auditory cortex",
+      "authors": [
+        "Tomoyo I. Shiramatsu",
+        "Kenji Ibayashi",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2019,
+      "pages": "91-104",
+      "doi": "10.1016/j.neuroscience.2019.03.063",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(64) Tomoyo I. Shiramatsu, Kenji Ibayashi, and Hirokazu Takahashi: “Layer-specific representation of long-lasting sustained activity in the rat auditory cortex.” Neuroscience 408: pp. 91-104, 2019 (doi: 10.1016/j.neuroscience.2019.03.063)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2019-tomoyoishiramat-layer-specific-representation--102"
+    },
+    {
+      "type": "journal",
+      "title": "Tone frequency representation beyond the tonotopic map: Cross-correlation between ongoing activity in the rat auditory cortex",
+      "authors": [
+        "Naoki Wake",
+        "Tomoyo I. Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2019,
+      "pages": "35-42",
+      "doi": "10.1016/j.neuroscience.2019.04.026",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(65) Naoki Wake, Tomoyo I. Shiramatsu, and Hirokazu Takahashi: “Tone frequency representation beyond the tonotopic map: Cross-correlation between ongoing activity in the rat auditory cortex.” Neuroscience 409: pp. 35-42, 2019 (https://doi.org/10.1016/j.neuroscience.2019.04.026)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2019-naokiwake-tone-frequency-representation--103"
+    },
+    {
+      "type": "journal",
+      "title": "Autoencoding of long-term scalp electroencephalogram to detect epileptic seizure for diagnosis support system",
+      "authors": [
+        "Ali Emami",
+        "Naoto Kunii",
+        "Takeshi Matsuo",
+        "Takashi Shinozaki",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2019,
+      "pages": "227-233",
+      "doi": "10.1016/j.compbiomed.2019.05.025",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(66) Ali Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai, and Hirokazu Takahashi: “Autoencoding of long-term scalp electroencephalogram to detect epileptic seizure for diagnosis support system.” Computers in Biology and Medicine 110: pp. 227-233, 2019 (https://doi.org/10.1016/j.compbiomed.2019.05.025)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2019-aliemami-autoencoding-of-long-term-scal-104"
+    },
+    {
+      "type": "journal",
+      "title": "Development of network structure and synchronized firing patterns in dissociated culture of neurons",
+      "authors": [
+        "Atsushi Kayama",
+        "Yuichiro Yada",
+        "Hirokazu Takahashi"
+      ],
+      "year": null,
+      "journal": "Electronics and Communications in Japan",
+      "volume": "102",
+      "issue": "9",
+      "pages": "3-11",
+      "doi": "10.1002/ecj.12199",
+      "awards": [
+        "Translation of A-(31)"
+      ],
+      "_source": "regex",
+      "_raw": "(67) Atsushi Kayama, Yuichiro Yada, and Hirokazu Takahashi: “Development of network structure and synchronized firing patterns in dissociated culture of neurons.” Electronics and Communications in Japan 102 (9): pp. 3-11, 2019 [Translation of A-(31)] (https://doi.org/10.1002/ecj.12199)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "unknown-atsushikayama-development-of-network-structu-105"
+    },
+    {
+      "type": "journal",
+      "title": "Enhancing Listening Capability of Humanoid Robot by Reduction of Stationary Ego-noise",
+      "authors": [
+        "Naoki Wake",
+        "Masaaki Fukumoto",
+        "Yutaka Suzue",
+        "Hirokazu Takahashi",
+        "Katsushi Ikeuchi"
+      ],
+      "year": 2019,
+      "journal": "IEEJ Transactions on Electrical and Electronic Engineering",
+      "volume": "14",
+      "issue": "12",
+      "pages": "1815-1822",
+      "doi": "10.1002/tee.23008",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(68) Naoki Wake, Masaaki Fukumoto, Yutaka Suzue, Hirokazu Takahashi, Katsushi Ikeuchi: “Enhancing Listening Capability of Humanoid Robot by Reduction of Stationary Ego-noise.” IEEJ Transactions on Electrical and Electronic Engineering 14 (12): pp. 1815-1822, 2019 (doi:10.1002/tee.23008)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2019-naokiwake-enhancing-listening-capability-106"
+    },
+    {
+      "type": "journal",
+      "title": "Neural Autopoiesis: Organizing self-boundary by stimulus avoidance in biological and artificial neural networks",
+      "authors": [
+        "Atsushi Masumori",
+        "Lana Sinapayen",
+        "Norihiro Maruyama",
+        "Takeshi Mita",
+        "Douglas Bakkum",
+        "Urs Frey",
+        "Hirokazu Takahashi and Takashi Ikegami"
+      ],
+      "year": 2020,
+      "journal": "Artificial Life",
+      "volume": "26",
+      "issue": "1",
+      "pages": "130-151",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(69) Atsushi Masumori, Lana Sinapayen, Norihiro Maruyama, Takeshi Mita, Douglas Bakkum, Urs Frey, Hirokazu Takahashi and Takashi Ikegami: “Neural Autopoiesis: Organizing self-boundary by stimulus avoidance in biological and artificial neural networks.” Artificial Life 26 (1): pp. 130-151, 2020",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2020-atsushimasumori-neural-autopoiesis-organizing--107"
+    },
+    {
+      "type": "journal",
+      "title": "Vagus nerve stimulation (VNS)-induced layer-specific modulation of evoked responses in the sensory cortex of rats",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Tomoyo I. Shiramatsu",
+        "Rie Hitsuyu",
+        "Kenji Ibayashi",
+        "Kensuke Kawai"
+      ],
+      "year": 2020,
+      "journal": "Scientific Reports",
+      "volume": "10",
+      "issue": "1",
+      "doi": "10.1038/s41598-020-65745-z",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(70) Hirokazu Takahashi, Tomoyo I. Shiramatsu, Rie Hitsuyu, Kenji Ibayashi, and Kensuke Kawai: “Vagus nerve stimulation (VNS)-induced layer-specific modulation of evoked responses in the sensory cortex of rats.” Scientific Reports 10 (1): 8932 (10 pp.), 2020 (https://doi.org/10.1038/s41598-020-65745-z)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2020-hirokazutakahas-vagus-nerve-stimulation-vns-in-108"
+    },
+    {
+      "type": "journal",
+      "title": "Convolutional neural network with autoencoder-assisted multiclass labelling for seizure detection from scalp electroencephalography",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Ali Emami",
+        "Takashi Shinozaki",
+        "Naoto Kunii",
+        "Takeshi Matsuo",
+        "Kensuke Kawai"
+      ],
+      "year": 2020,
+      "doi": "10.1016/j.compbiomed.2020.104016",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(71) Hirokazu Takahashi, Ali Emami, Takashi Shinozaki, Naoto Kunii, Takeshi Matsuo, and Kensuke Kawai: “Convolutional neural network with autoencoder-assisted multiclass labelling for seizure detection from scalp electroencephalography.” Computers in Biology and Medicine 125: 104016 (9 pp.), 2020 (https://doi.org/10.1016/j.compbiomed.2020.104016)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2020-hirokazutakahas-convolutional-neural-network-w-109"
+    },
+    {
+      "type": "journal",
+      "title": "Auditory, visual, and cross-modal mismatch negativities in the auditory and visual cortex of rat",
+      "authors": [
+        "Tomoyo Isoguchi Shiramatsu",
+        "Kanato Mori",
+        "Kotaro Ishizu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2021,
+      "doi": "10.3389/fnhum.2021.721476",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(72) Tomoyo Isoguchi Shiramatsu, Kanato Mori, Kotaro Ishizu, Hirokazu Takahashi: “Auditory, visual, and cross-modal mismatch negativities in the auditory and visual cortex of rat.” Frontiers in Human Neuroscience 15: 721476 (16 pp.), 2021 (doi: 10.3389/fnhum.2021.721476)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2021-tomoyoisoguchis-auditory-visual-and-cross-moda-110"
+    },
+    {
+      "type": "journal",
+      "title": "Prepulse inhibition predicts subjective hearing in rats",
+      "authors": [
+        "Naoki Wake",
+        "Kotaro Ishizu",
+        "Taiki Abe",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2021,
+      "doi": "10.1038/s41598-021-98167-6",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(73) Naoki Wake, Kotaro Ishizu, Taiki Abe, and Hirokazu Takahashi: “Prepulse inhibition predicts subjective hearing in rats.” Scientific Reports 11: 18902 (10 pp.), 2021 (doi: 10.1038/s41598-021-98167-6)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2021-naokiwake-prepulse-inhibition-predicts-s-111"
+    },
+    {
+      "type": "journal",
+      "title": "Simultaneous Mapping of Neural Activities in Auditory and Visual Cortex of Rat",
+      "authors": [
+        "Kanato Mori",
+        "Tomoyo I. Shiramatsu",
+        "Kotaro Ishizu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2021,
+      "journal": "Electronics and Communications in Japan",
+      "volume": "104",
+      "issue": "3",
+      "doi": "10.1002/ecj.12322",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(74) Kanato Mori, Tomoyo I. Shiramatsu, Kotaro Ishizu, and Hirokazu Takahashi: “Simultaneous Mapping of Neural Activities in Auditory and Visual Cortex of Rat.” Electronics and Communications in Japan 104 (3): e12322, 2021 (http://doi.org/10.1002/ecj.12322)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2021-kanatomori-simultaneous-mapping-of-neural-112"
+    },
+    {
+      "type": "journal",
+      "title": "Information flow in the rat thalamo-cortical system: spontaneous vs. stimulus-evoked activities",
+      "authors": [
+        "Kotaro Ishizu",
+        "Tomoyo I. Shiramatsu",
+        "Rie Hitsuyu",
+        "Masafumi Oizumi",
+        "Naotsugu Tsuchiya",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2021,
+      "doi": "10.1038/s41598-021-98660-y",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(75) Kotaro Ishizu, Tomoyo I. Shiramatsu, Rie Hitsuyu, Masafumi Oizumi, Naotsugu Tsuchiya, and Hirokazu Takahashi: “Information flow in the rat thalamo-cortical system: spontaneous vs. stimulus-evoked activities.” Scientific Reports 11: 19252 (13 pp.), 2021 (doi: 10.1038/s41598-021-98660-y)",
+      "language": "en",
+      "category": "original_en",
+      "_valid": true,
+      "id": "2021-kotaroishizu-information-flow-in-the-rat-th-113"
+    }
+  ]
+}

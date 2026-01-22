@@ -584,8 +584,8 @@ export default function HomePageClient({
                     })}
                   </span>
                 </div>
-                <h3 className="text-xl font-bold mb-6 group-hover:text-[var(--accent)] transition-colors line-clamp-2 leading-snug">{item.title.en}</h3>
-                <p className="text-[var(--text-secondary)] line-clamp-3 leading-relaxed mb-auto">{item.excerpt.en}</p>
+                <h3 className="text-xl font-bold mb-6 group-hover:text-[var(--accent)] transition-colors line-clamp-2 leading-snug">{item.title?.en || item.title?.ja || 'News'}</h3>
+                {item.excerpt && <p className="text-[var(--text-secondary)] line-clamp-3 leading-relaxed mb-auto">{item.excerpt.en || item.excerpt.ja}</p>}
               </article>
             ))}
           </div>

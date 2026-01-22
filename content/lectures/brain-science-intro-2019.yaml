@@ -1,0 +1,44 @@
+id: brain-science-intro-2019
+slug: brain-science-intro-2019
+title:
+  en: Introduction to Brain Science
+  ja: 脳科学入門
+instructor:
+  en: Hirokazu Takahashi (shared)
+  ja: 高橋宏知（分担）
+department:
+  en: Faculty of Engineering
+  ja: 工学部
+level:
+  en: Undergraduate (3rd year)
+  ja: 学部3年生
+year: 2019
+semester:
+  en: Winter
+  ja: 冬学期
+description:
+  en: An introductory course providing fundamental knowledge of brain science for engineering students.
+  ja: 工学部学生を対象とした脳科学の基礎知識を提供する入門講義。
+schedule:
+  instructor_dates:
+    - "2019-10-02 (Wed)"
+    - "2019-10-09 (Wed)"
+references:
+  - title:
+      en: "Brain Science for Engineers"
+      ja: メカ屋のための脳科学入門
+    publisher:
+      en: Nikkan Kogyo Shimbun
+      ja: 日刊工業新聞社
+    year: 2016
+  - title:
+      en: "Brain Science for Engineers Vol. 2: Memory, Learning, and Consciousness"
+      ja: 続 メカ屋のための脳科学入門 [記憶・学習/意識編]
+    publisher:
+      en: Nikkan Kogyo Shimbun
+      ja: 日刊工業新聞社
+    year: 2017
+notes:
+  en: Course materials and announcements via ITC-LMS
+  ja: 講義資料や連絡事項はITC-LMS
+active: false

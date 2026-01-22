@@ -1,0 +1,2473 @@
+{
+  "scrapedAt": "2026-01-21T14:19:23.396Z",
+  "japanese": {
+    "url": "https://www.ne.t.u-tokyo.ac.jp/index.html",
+    "hero": {
+      "title": "",
+      "subtitle": "",
+      "description": ""
+    },
+    "sections": [
+      {
+        "element": "p",
+        "text": "東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科"
+      },
+      {
+        "element": "p",
+        "text": "生命知能システム研究室 (高橋・白松研究室)"
+      },
+      {
+        "element": "h2",
+        "text": "メカ屋の脳科学@東大工学部/情報理工工学的な視点で脳を科学しよう"
+      },
+      {
+        "element": "h4",
+        "text": "2022/1/14 一般書に初挑戦"
+      },
+      {
+        "element": "h4",
+        "text": "2017/7/19 続編登場！"
+      },
+      {
+        "element": "h4",
+        "text": "2016/3/25 待望の書籍化！"
+      },
+      {
+        "element": "p",
+        "text": "東京大学　大学院情報理工学系研究科\n知能機械情報学専攻\n生命知能システム研究室\n教授　高橋　宏知"
+      },
+      {
+        "element": "p",
+        "text": "動画で研究紹介 (link) / 機械情報工学科ホームページでの研究室紹介 (link)\n主要な発表論文 (link)，研究紹介 (link)，卒論・修論テーマ (link)"
+      },
+      {
+        "element": "p",
+        "text": "研究キーワード：神経工学，神経科学，脳科学，電気生理学，大脳皮質，聴覚皮質，聴覚野，神経回路，神経活動パターン，知覚，聴覚，音脈分凝，錯聴，知能，情動，感情，記憶，学習，てんかん，微小電極アレイ，イメージング，皮質脳波(ECoG)，多点同時計測，LFP，生体信号，条件付け，行動実験，機能マップ，位相同期，可塑性，ブレイン-マシン・インターフェース (BMI)，サイボーグ，機械学習，デコーディング，情報理論"
+      },
+      {
+        "element": "li",
+        "text": "窪田智之，櫻山和浩，白松（磯口）知世，高橋宏知：「神経細胞の分散培養系の逸脱検出特性」，電気学会論文誌C電子情報システム部門誌 141 (5): pp. 661-667, 2021 (DOI: 10.1541/ieejeiss.141.661)(link)\n神経細胞の分散培養系が，逸脱検出特性を有する予測反応を生成することを示しました．"
+      },
+      {
+        "element": "li",
+        "text": "池田成満，高橋宏知：「低頻度刺激による神経細胞の分散培養系の学習」，電気学会論文誌C電子情報システム部門誌 141 (5): pp. 654-660, 2021 (DOI: 10.1541/ieejeiss.141.654)(link)\n神経細胞の分散培養系に低頻度刺激でパターン学習が起きることと，刺激提示後の自発活動により学習が定着することを示しました．"
+      },
+      {
+        "element": "li",
+        "text": "白松（磯口）知世，阿部泰己，石津光太郎，高橋宏知：「視床刺激が聴知覚に及ぼす影響を評価する実験系の構築」，電気学会論文誌C電子情報システム部門誌 141 (5): pp. 627-633, 2021 (DOI: 10.1541/ieejeiss.141.627)(link)\nラットの視床を電気刺激して，聴知覚を生成したり，実際の知覚に影響を与えてたりすることを試みました．"
+      },
+      {
+        "element": "li",
+        "text": "森叶人，白松（磯口）知世，石津光太郎，高橋宏知：「ラット聴覚野と視覚野からの皮質脳波の同時計測」，電気学会論文誌C電子情報システム部門誌 141 (5): pp. 614-619, 2021 (DOI: 10.1541/ieejeiss.141.614)(link)\nラットの視覚野と聴覚野から同時に神経活動を計測できる電極を開発しました．"
+      },
+      {
+        "element": "h3",
+        "text": "東京大学　\n大学院情報理工学系研究科\n知能機械情報学専攻\n生命知能システム研究室\n(高橋・白松研究室)"
+      },
+      {
+        "element": "p",
+        "text": "〒113-8656\n東京都文京区本郷７－３－１\n工学部２号館 81B"
+      },
+      {
+        "element": "p",
+        "text": "TEL: 03-5841-6318\nE-mail:"
+      },
+      {
+        "element": "p",
+        "text": "工学部 機械情報工学科 (機械B)\n　大学院 情報理工学系研究科\n　　　　　　知能機械情報学専攻\n　　　　 工学系研究科\n　　　　　　先端学際工学専攻\n　先端科学技術研究センター\n　　　生命知能システム分野\n　　　（神崎・高橋研究室）"
+      },
+      {
+        "element": "p",
+        "text": "copyright©2012 Hirokazu Takahashi all rights reserved."
+      }
+    ],
+    "links": [
+      {
+        "href": "#hpb-title",
+        "text": "本文へスキップ"
+      },
+      {
+        "href": "index.html",
+        "text": "生命知能システム研究室@東大工学部/情報理工"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCuuuZ4ewKDXA-FvTiO4HqNA/featured",
+        "text": "link"
+      },
+      {
+        "href": "https://www.yomiuri.co.jp/culture/book/review/20220221-OYT8T50038/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.nikkei.com/article/DGXZQOUD241L40U2A220C2000000/",
+        "text": "link"
+      },
+      {
+        "href": "https://honz.jp/articles/-/50759",
+        "text": "link"
+      },
+      {
+        "href": "http://honz.jp/articles/-/42626",
+        "text": "link"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=Vhg-T8dGG2U&list=PLcNCsm1MlDjMadJP6COFpHgDlVVAlxsil",
+        "text": "link"
+      },
+      {
+        "href": "http://www.kikaib.t.u-tokyo.ac.jp/lab/lab2/",
+        "text": "link"
+      },
+      {
+        "href": "profile.html#selectedpub",
+        "text": "link"
+      },
+      {
+        "href": "research.html",
+        "text": "link"
+      },
+      {
+        "href": "research.html#dissertation",
+        "text": "link"
+      },
+      {
+        "href": "pub.html",
+        "text": "研究業績"
+      },
+      {
+        "href": "research.html",
+        "text": "研究内容 (卒論・修論・D論)"
+      },
+      {
+        "href": "https://bookclub.kodansha.co.jp/product?item=0000350502",
+        "text": "link"
+      },
+      {
+        "href": "http://www.amazon.co.jp/%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%84%B3%E3%82%92%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B-%E9%AB%98%E6%A9%8B-%E5%AE%8F%E7%9F%A5/dp/4526075361/ref=zg_bsnr_500924_1",
+        "text": "link"
+      },
+      {
+        "href": "https://www.amazon.co.jp/%E7%B6%9A-%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%A8%98%E6%86%B6-%E5%AD%A6%E7%BF%92-%E6%84%8F%E8%AD%98-%E7%B7%A8/dp/4526077259/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=ESRY7J8C8225HYR4ESNJ",
+        "text": "link"
+      },
+      {
+        "href": "https://sites.google.com/g.ecc.u-tokyo.ac.jp/nelab",
+        "text": "特設サイト"
+      },
+      {
+        "href": "https://www.newtonpress.co.jp/dcms_media/image/Newton202408_002-003.jpg",
+        "text": "link"
+      },
+      {
+        "href": "https://ut-mech.com/programs/2022_labmatching_takahashi.shtml",
+        "text": "link"
+      },
+      {
+        "href": "archive/neuraleng210201.pdf",
+        "text": "link"
+      },
+      {
+        "href": "https://www.i.u-tokyo.ac.jp/news/focus/takahashi_2020.shtml",
+        "text": "link"
+      },
+      {
+        "href": "https://www.u-tokyo.ac.jp/ja/about/public-relations/tansei.html",
+        "text": "淡青"
+      },
+      {
+        "href": "archive/p26.pdf",
+        "text": "link"
+      },
+      {
+        "href": "archive/scan200324163015.jpg",
+        "text": "link"
+      },
+      {
+        "href": "https://www.journal.ieice.org/bin/pdf_link.php?fname=k102_9_881&lang=J&year=2019",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/133/3/133_544/_article/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "archive/preprint_ieej133_544.pdf",
+        "text": "原稿"
+      },
+      {
+        "href": "archive/neng20200528.pdf",
+        "text": "原稿"
+      },
+      {
+        "href": "https://www.amazon.co.jp/%E7%90%86%E5%B7%A5%E5%AD%A6%E7%B3%BB%E3%81%8B%E3%82%89%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E5%90%88%E5%8E%9F-%E4%B8%80%E5%B9%B8/dp/4130623044",
+        "text": "理工系からの脳科学入門"
+      },
+      {
+        "href": "archive/neng2008.pdf",
+        "text": "原稿"
+      },
+      {
+        "href": "https://sites.google.com/view/dynamicsdays25/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.ai-gakkai.or.jp/sigais2025/",
+        "text": "link"
+      },
+      {
+        "href": "https://acousticalsociety.org/honolulu-2025/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.sfn.org/meetings/neuroscience-2025/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.okinawa-congre.co.jp/jscn2025/outline.html",
+        "text": "link"
+      },
+      {
+        "href": "https://sss25.sci-sss.org/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1585087/full",
+        "text": "link"
+      },
+      {
+        "href": "https://sites.google.com/view/trf4tokyo/home?authuser=0",
+        "text": "link"
+      },
+      {
+        "href": "https://www.mnbc.riec.tohoku.ac.jp/",
+        "text": "(link"
+      },
+      {
+        "href": "https://www.s4sn2025.org/",
+        "text": "(link"
+      },
+      {
+        "href": "https://meeting.jsap.or.jp/",
+        "text": "(link"
+      },
+      {
+        "href": "https://meeting.jsap.or.jp/",
+        "text": "(link"
+      },
+      {
+        "href": "https://pub.confit.atlas.jp/ja/event/jpa2025",
+        "text": "(link"
+      },
+      {
+        "href": "https://jsiam.org/jsiam_archive/past_meetings/annual2025/",
+        "text": "(link"
+      },
+      {
+        "href": "https://www.shitsukan.jp/tsudoi/event/2025.html",
+        "text": "(link"
+      },
+      {
+        "href": "https://www.iee.jp/eiss/event/conf2025",
+        "text": "link"
+      },
+      {
+        "href": "https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1584322/full",
+        "text": "link"
+      },
+      {
+        "href": "https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1569158/full",
+        "text": "link"
+      },
+      {
+        "href": "https://neuroscience2025.jnss.org/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://audiology-japan.jp/kenkyuukai/era_oae/era_oae-info/",
+        "text": "link"
+      },
+      {
+        "href": "https://mea2025.conf.tuwien.ac.at/",
+        "text": "link"
+      },
+      {
+        "href": "https://pub.confit.atlas.jp/en/event/acmbjsmb2025",
+        "text": "link"
+      },
+      {
+        "href": "https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1568652/full",
+        "text": "link"
+      },
+      {
+        "href": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003242",
+        "text": "link"
+      },
+      {
+        "href": "https://www.meta-school.t.u-tokyo.ac.jp/junior/25syn/",
+        "text": "link"
+      },
+      {
+        "href": "https://asj-hcom.acoustics.jp/CFP/CFP_25_05.html",
+        "text": "link"
+      },
+      {
+        "href": "https://www.i.u-tokyo.ac.jp/edu/entra/index.shtml#part5",
+        "text": "研究科web"
+      },
+      {
+        "href": "https://www.i.u-tokyo.ac.jp/edu/course/m-i/admission.shtml",
+        "text": "専攻web"
+      },
+      {
+        "href": "https://www.i.u-tokyo.ac.jp/edu/course/m-i/pdf/openhouse2025.pdf",
+        "text": "pdf"
+      },
+      {
+        "href": "https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2025.1568655/full",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00009965",
+        "text": "link"
+      },
+      {
+        "href": "https://www.nanospin.riec.tohoku.ac.jp/RIEC_Sympo/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://wired.jp/article/brain-processing-unit-daito-manabe-softbank-the-university-of-tokyo/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.elsevier.com/events/conferences/all/international-brain-stimulation-conference",
+        "text": "link"
+      },
+      {
+        "href": "https://www.softbank.jp/corp/technology/research/bpu/",
+        "text": "link"
+      },
+      {
+        "href": "https://wired.jp/article/brain-processing-unit-daito-manabe-softbank-the-university-of-tokyo/",
+        "text": "link"
+      },
+      {
+        "href": "https://cbs.riken.jp/en/events/co_creation3/",
+        "text": "link"
+      },
+      {
+        "href": "https://asia.siggraph.org/2024/ja/",
+        "text": "link"
+      },
+      {
+        "href": "https://youtu.be/QgTy7ORipns",
+        "text": "youtube"
+      },
+      {
+        "href": "https://ken.ieice.org/ken/program/index.php?tgs_regid=d1cdbd3ca01fc1de9823e97dd9038aff9210d80b356592f03845c6fab7217c4f&tgid=IEE-CMN",
+        "text": "link"
+      },
+      {
+        "href": "https://qualia-structure.jp/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.c-linkage.co.jp/jscn2024/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.sfn.org/meetings/neuroscience-2024",
+        "text": "link"
+      },
+      {
+        "href": "https://www.med.upenn.edu/apan/",
+        "text": "link"
+      },
+      {
+        "href": "https://mmn24conference.usal.es/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.taikai2024.jslst.org/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://www.iee.jp/eiss/event/conf2024#conf-header",
+        "text": "link"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=0n2cADvZ-Mo",
+        "text": "youtube"
+      },
+      {
+        "href": "https://www.u-tokyo.ac.jp/opendays/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://neuro2024.jnss.org/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://embc.embs.org/2024/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.newtonpress.co.jp/newton/back/bk_2024/bk_202408.html",
+        "text": "link"
+      },
+      {
+        "href": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1385942/full",
+        "text": "link"
+      },
+      {
+        "href": "https://www.i.u-tokyo.ac.jp/edu/course/m-i/guidance.shtml",
+        "text": "link"
+      },
+      {
+        "href": "https://www.i.u-tokyo.ac.jp/edu/course/m-i/pdf/openhouse2024.pdf",
+        "text": "link"
+      },
+      {
+        "href": "https://www.mxwbio.com/events/summit2024/",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00009020",
+        "text": "link"
+      },
+      {
+        "href": "http://jhbm26.umin.jp/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://sites.google.com/view/vocalcommuj/meetings/%E8%B6%85%E9%9F%B3%E6%B3%A2%E7%99%BA%E5%A3%B0%E7%A0%94%E7%A9%B6%E4%BC%9A/%E7%AC%AC2%E5%9B%9E2024?authuser=0",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jscn2023.org/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhad428/7413202",
+        "text": "link"
+      },
+      {
+        "href": "https://www.bmeicon.org/bmeicon2023/",
+        "text": "link"
+      },
+      {
+        "href": "20231027.pdf",
+        "text": "link"
+      },
+      {
+        "href": "https://u-tokyo-ac-jp.zoom.us/meeting/register/tZYuc-mtpz0jH9QQ-6aryl_rrv7_EBsXxlTV#/registration",
+        "text": "申込"
+      },
+      {
+        "href": "https://www.rie.shizuoka.ac.jp/~trad/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://doi.org/10.1016/j.brs.2023.09.019",
+        "text": "link"
+      },
+      {
+        "href": "https://www.iee.jp/eiss/event/conf2023",
+        "text": "link"
+      },
+      {
+        "href": "https://www.seikawakate.org/summer-school/",
+        "text": "link"
+      },
+      {
+        "href": "https://neuroscience2023.jnss.org/",
+        "text": "link"
+      },
+      {
+        "href": "https://embc.embs.org/2023/",
+        "text": "link"
+      },
+      {
+        "href": "https://pubs.aip.org/aip/apl/article/123/2/023701/2901626/Noise-and-spike-time-dependent-plasticity-drive",
+        "text": "link"
+      },
+      {
+        "href": "archive/APL23-AR-NOIS2022-02509.pdf",
+        "text": "原稿"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_23_06.html",
+        "text": "link"
+      },
+      {
+        "href": "https://pubs.aip.org/aip/apl/article/122/23/233702/2894437/Quantification-of-information-processing-capacity",
+        "text": "link"
+      },
+      {
+        "href": "archive/APL23-AR-MLDP2022-02493.pdf",
+        "text": "原稿"
+      },
+      {
+        "href": "https://smartconf.jp/content/jsmbe62/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.mxwbio.com/events/summit2023/",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW000086B5",
+        "text": "link"
+      },
+      {
+        "href": "https://www.eeainet.jp/workshop2022/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.mxwbio.com/ja/japan-mxw-workshop-2022/",
+        "text": "link"
+      },
+      {
+        "href": "https://bacoust.org/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.science.org/doi/10.1126/sciadv.abo7019",
+        "text": "link"
+      },
+      {
+        "href": "archive/pr20221112.pdf",
+        "text": "プレスリリース"
+      },
+      {
+        "href": "https://www.yomiuri.co.jp/science/20221111-OYT1T50213/",
+        "text": "読売新聞"
+      },
+      {
+        "href": "https://www.tokyo-np.co.jp/article/216395",
+        "text": "東京新聞"
+      },
+      {
+        "href": "https://www.eurekalert.org/news-releases/970876",
+        "text": "EurekAlert!"
+      },
+      {
+        "href": "https://www.wsj.com/articles/rats-move-music-beat-11668186204",
+        "text": "The Wallstreet Journal"
+      },
+      {
+        "href": "https://english.elpais.com/science-tech/2022-11-16/rats-also-bop-their-heads-when-they-listen-to-queen.html",
+        "text": "El Pais"
+      },
+      {
+        "href": "https://www.theguardian.com/science/2022/nov/11/rat-instictively-move-time-music-ability-previously-thought-uniquely-human-study",
+        "text": "The Gurdian"
+      },
+      {
+        "href": "https://www.telegraph.co.uk/news/2022/11/11/rats-have-rhythm-can-dance-lady-gaga/",
+        "text": "The Telegraph"
+      },
+      {
+        "href": "https://www.usatoday.com/story/news/nation/2022/11/14/rats-music-study-lady-gaga-michael-jackson/10692876002/",
+        "text": "USA Today"
+      },
+      {
+        "href": "https://twitter.com/TomBrada1991/status/1591636063176589313?cxt=HHwWgoC81aGk0JYsAAAA",
+        "text": "BBC"
+      },
+      {
+        "href": "https://www.france24.com/en/live-news/20221115-born-this-way-rats-move-to-beat-of-lady-gaga-study-says",
+        "text": "AFP"
+      },
+      {
+        "href": "https://scienceadvances.altmetric.com/details/138298082/news",
+        "text": "メディア掲載一覧"
+      },
+      {
+        "href": "http://ascone.brainsci.net/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.js-mot.org/",
+        "text": "日本MOT学会"
+      },
+      {
+        "href": "http://www.js-mot.org/events/lecture/lecture2022/online-221108/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jst.go.jp/moonshot/program/goal9/index.html",
+        "text": "ムーンショット目標９"
+      },
+      {
+        "href": "http://kokoro.kyoto-u.ac.jp/20220914_kumagai/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.c-linkage.co.jp/mmn2022/",
+        "text": "link"
+      },
+      {
+        "href": "https://meeting.jsap.or.jp/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.iee.jp/eiss/event/conf2022",
+        "text": "link"
+      },
+      {
+        "href": "https://www.u-tokyo.ac.jp/opendays/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCuuuZ4ewKDXA-FvTiO4HqNA",
+        "text": "link"
+      },
+      {
+        "href": "https://neuro2022.jnss.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_22_06.html",
+        "text": "link"
+      },
+      {
+        "href": "https://journals.lww.com/neuroreport/Fulltext/2022/05020/Oddball_irrelevant_visual_stimuli_cross_modally.5.aspx",
+        "text": "link"
+      },
+      {
+        "href": "https://ut-mech.com/programs/2022_labmatching_takahashi.shtml",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/browse/ieejeiss/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.j-wave.co.jp/original/innovationworldera/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.nanchoubanpaku.com/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=CJDrdAL-JLg&t=949s",
+        "text": "動画"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00007C20",
+        "text": "link"
+      },
+      {
+        "href": "https://www.yomiuri.co.jp/culture/book/review/20220221-OYT8T50038/",
+        "text": "link"
+      },
+      {
+        "href": "https://sites.google.com/g.ecc.u-tokyo.ac.jp/nelab",
+        "text": "link"
+      },
+      {
+        "href": "https://bookclub.kodansha.co.jp/product?item=0000350502",
+        "text": "link"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCuuuZ4ewKDXA-FvTiO4HqNA/featured",
+        "text": "link"
+      },
+      {
+        "href": "https://www.yomiuri.co.jp/culture/book/review/20220221-OYT8T50038/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.nikkei.com/article/DGXZQOUD241L40U2A220C2000000/",
+        "text": "link"
+      },
+      {
+        "href": "https://honz.jp/articles/-/50759",
+        "text": "link"
+      },
+      {
+        "href": "https://www.todaishimbun.org/music_20211221/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.nips.ac.jp/nd/meetings/2021/10/20211203.html",
+        "text": "link"
+      },
+      {
+        "href": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043135",
+        "text": "link"
+      },
+      {
+        "href": "https://aip.scitation.org/doi/10.1063/5.0064771",
+        "text": "link"
+      },
+      {
+        "href": "https://publishing.aip.org/publications/latest-content/teaching-robots-to-think-like-us/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.nature.com/articles/s41598-021-98660-y",
+        "text": "link"
+      },
+      {
+        "href": "https://www.nature.com/articles/s41598-021-98167-6",
+        "text": "link"
+      },
+      {
+        "href": "archive/20210921.pdf",
+        "text": "link"
+      },
+      {
+        "href": "https://docs.google.com/forms/d/e/1FAIpQLSfydkhO1KgFWOSzIEBBNqZlcTHCNRbF7YDWWKDh2IqByrp2Vg/viewform",
+        "text": "申込"
+      },
+      {
+        "href": "https://www.frontiersin.org/articles/10.3389/fnhum.2021.721476/full",
+        "text": "link"
+      },
+      {
+        "href": "https://www.iee.jp/eiss/conf/conf2021",
+        "text": "link"
+      },
+      {
+        "href": "https://meeting.jsap.or.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_21_06.html",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/browse/ieejeiss/141/5/_contents/-char/ja",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/141/5/141_661/_article/-char/ja",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/141/5/141_654/_article/-char/ja",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/141/5/141_627/_article/-char/ja",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/141/5/141_614/_article/-char/ja",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW000071C0",
+        "text": "link"
+      },
+      {
+        "href": "https://acoustics.jp/annualmeeting/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.i.u-tokyo.ac.jp/news/focus/takahashi_2020.shtml",
+        "text": "link"
+      },
+      {
+        "href": "http://www.chugaiigaku.jp/item/detail.php?id=3414",
+        "text": "link"
+      },
+      {
+        "href": "http://m-indus.jp/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.sciencedirect.com/science/article/pii/S0010482520303474",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/140/7/140_723/_article/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.nature.com/articles/s41598-020-65745-z",
+        "text": "link"
+      },
+      {
+        "href": "https://doi.org/10.1016/j.heares.2020.107936",
+        "text": "link"
+      },
+      {
+        "href": "https://forms.gle/a2EKy3YkAN7Lw8gk8",
+        "text": "参加申し込み"
+      },
+      {
+        "href": "https://www.jinkoucyoukakujouhou.org/",
+        "text": "人工聴覚情報学会"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00006925",
+        "text": "link"
+      },
+      {
+        "href": "http://psj2020.umin.jp/",
+        "text": "link"
+      },
+      {
+        "href": "https://cinet.jp/english/event/6th_cinetconf/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ast/41/1/41_E19236/_article/-char/en",
+        "text": "link"
+      },
+      {
+        "href": "https://onlinelibrary.wiley.com/doi/full/10.1002/tee.23008",
+        "text": "link"
+      },
+      {
+        "href": "http://www.c-linkage.co.jp/jscn2019/index.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.c-linkage.co.jp/jes53/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://www.ishiyaku.co.jp/magazines/mt/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.journal.ieice.org/bin/pdf_link.php?fname=k102_9_881&lang=J&year=2019",
+        "text": "link"
+      },
+      {
+        "href": "http://denki.iee.jp/eiss/conf2019",
+        "text": "link"
+      },
+      {
+        "href": "https://www.sice.or.jp/org/le-symposium/2019/",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_19_06.html",
+        "text": "link"
+      },
+      {
+        "href": "https://doi.org/10.1016/j.compbiomed.2019.05.025",
+        "text": "link"
+      },
+      {
+        "href": "https://www.tateisi-f.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.ikegaya.jp/ERATO/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/139/5/139_625/_article/-char/ja",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/139/5/139_615/_article/-char/ja",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/139/5/139_570/_article/-char/ja",
+        "text": "link"
+      },
+      {
+        "href": "https://www.sciencedirect.com/science/article/pii/S0306452219302738",
+        "text": "link"
+      },
+      {
+        "href": "https://doi.org/10.1016/j.neuroscience.2019.03.063",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00005F22",
+        "text": "link"
+      },
+      {
+        "href": "http://shitsukan.jp/ISST/",
+        "text": "link"
+      },
+      {
+        "href": "https://meeting.jsap.or.jp/",
+        "text": "link"
+      },
+      {
+        "href": "https://doi.org/10.1016/j.nicl.2019.101684",
+        "text": "link"
+      },
+      {
+        "href": "archive/pr190131.pdf",
+        "text": "プレスリリース"
+      },
+      {
+        "href": "https://www.conresnet.org/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.frontiersin.org/articles/10.3389/fnins.2018.00924/full",
+        "text": "link"
+      },
+      {
+        "href": "http://yjsmbe.com/",
+        "text": "link"
+      },
+      {
+        "href": "https://onlinelibrary.wiley.com/doi/full/10.1002/adbi.201800308",
+        "text": "link"
+      },
+      {
+        "href": "http://www.jichi.ac.jp/brain/5bmi/index.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.tfc.tohoku.ac.jp/event/4212.html",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/browse/audiology/61/4/_contents/-char/ja",
+        "text": "link"
+      },
+      {
+        "href": "http://www.ieice-taikai.jp/2018society/jpn/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sice.or.jp/org/le-symposium/2018/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jsme.or.jp/conference/nenji2018/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.iee.jp/eiss/conf2018",
+        "text": "link"
+      },
+      {
+        "href": "https://taghoku.exblog.jp/28516236/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.neuroscience2018.jnss.org/index.html",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_18_06.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.shitsukan.jp/ISST/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.c-work.co.jp/jsmbe57/",
+        "text": "link"
+      },
+      {
+        "href": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197361",
+        "text": "link"
+      },
+      {
+        "href": "https://www.helsinki.fi/en/conferences/mmn2018-the-8th-mismatch-negativity-conference",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/browse/audiology/list/-char/ja",
+        "text": "link"
+      },
+      {
+        "href": "http://www.procomu.jp/anat2018/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.sciencedirect.com/science/article/pii/S0168010217307265",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00005521",
+        "text": "link"
+      },
+      {
+        "href": "http://park.itc.u-tokyo.ac.jp/EEIP-SCP/workshop20180312/program.html",
+        "text": "link"
+      },
+      {
+        "href": "https://hic.lne.st/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.ieice.org/ken/program/index.php?tgs_regid=fcc6bcf8f54888c0833cbce6a73b1d1569c703c652336ce25e01d857287969ed&tgid=IEICE-MICT&lang=",
+        "text": "link"
+      },
+      {
+        "href": "http://edit-ws.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://bacoust.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.congre.co.jp/audiology62/index.html",
+        "text": "link"
+      },
+      {
+        "href": "http://procomu.jp/jpeg2017/index.html",
+        "text": "link"
+      },
+      {
+        "href": "https://auditorycortex.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.iee.jp/eiss/conf2017",
+        "text": "link"
+      },
+      {
+        "href": "http://www.pnas.org/content/early/2017/08/17/1705981114",
+        "text": "link"
+      },
+      {
+        "href": "http://www.jst.go.jp/pr/announce/20170822-2/",
+        "text": "プレスリリース"
+      },
+      {
+        "href": "http://www.kayamorif.or.jp/forum/f.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.nips.ac.jp/oscillology/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.amazon.co.jp/%E7%B6%9A-%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%A8%98%E6%86%B6-%E5%AD%A6%E7%BF%92-%E6%84%8F%E8%AD%98-%E7%B7%A8/dp/4526077259/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=ESRY7J8C8225HYR4ESNJ",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_table.htm",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_17_06.html",
+        "text": "プログラム"
+      },
+      {
+        "href": "https://vrsj.org/events/seminar/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "https://pub.nikkan.co.jp/books/detail/00003143",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00004AE2",
+        "text": "link"
+      },
+      {
+        "href": "http://30th.rcast.u-tokyo.ac.jp/future/future01.html",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jsap.or.jp/announce/seminar/detail/20170201.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.aro.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "https://cinet.jp/event/20161226_2406/",
+        "text": "link"
+      },
+      {
+        "href": "http://brainmind.umin.jp/wt17.html",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://journal.frontiersin.org/article/10.3389/fncir.2017.00002/abstract",
+        "text": "link"
+      },
+      {
+        "href": "http://www.semiconjapan.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sciencedirect.com/science/article/pii/S0306452216306522",
+        "text": "link"
+      },
+      {
+        "href": "http://www.acousticalsociety.org/content/5th-joint-meeting-acoustical-society-america-and-acoustical-society-japan",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sice.or.jp/org/LE2016/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.c-linkage.co.jp/jscn2016/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.organic-electronics.or.jp/index.htm",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://embc.embs.org/2016/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://journal.frontiersin.org/article/10.3389/fncir.2016.00059/abstract",
+        "text": "link"
+      },
+      {
+        "href": "http://www.neuroscience2016.jnss.org/index.html",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://forum2016.fens.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.nmi.de/meameeting",
+        "text": "link"
+      },
+      {
+        "href": "http://www.nips.ac.jp/oscillology/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sciencedirect.com/science/article/pii/S0306452216302548",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sigmus.jp/?page_id=3241",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_16_05.html",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "https://roboticsnakamura.wordpress.com/personal/2nd-japan-eu-ws-on-neurorobotics/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.jsmbe55.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.amazon.co.jp/%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%84%B3%E3%82%92%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B-%E9%AB%98%E6%A9%8B-%E5%AE%8F%E7%9F%A5/dp/4526075361/ref=zg_bsnr_500924_1",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00004144",
+        "text": "link"
+      },
+      {
+        "href": "http://journal.frontiersin.org/article/10.3389/fnsys.2016.00028/abstract",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.neuroinf.jp/aini2015?ml_lang=ja",
+        "text": "link"
+      },
+      {
+        "href": "https://www.facebook.com/shitsukan/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sfn.org/annual-meeting/neuroscience-2015",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://web-ext.u-aizu.ac.jp/conference/asj2015/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "https://express2.converia.de/frontend/index.php?sub=31",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sice.or.jp/org/LE2015/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://doit-japan.org/2015/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/135/8/135_971/_article/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.neuroscience2015.jnss.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://onlinelibrary.wiley.com/doi/10.1111/ejn.13007/abstract",
+        "text": "link"
+      },
+      {
+        "href": "http://www.amazon.co.jp/dp/4320057732/ref=pd_lpo_sbs_dp_ss_2?pf_rd_p=187205609&pf_rd_s=lpo-top-stripe&pf_rd_t=201&pf_rd_i=4320057724&pf_rd_m=AN1VRQENFRJN5&pf_rd_r=1AFTR3HV75ST0DZ7VEE1",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/135/7/135_832/_article/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "https://www.igaku-shoin.co.jp/journalPortal.do?journalPortalId=416",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_15_05.html",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://dx.doi.org/10.1016/j.neuroscience.2015.05.004",
+        "text": "link"
+      },
+      {
+        "href": "http://www.jsmbe54.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://neuro.embs.org/2015/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.langev.tokyo/",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW000036A2",
+        "text": "link"
+      },
+      {
+        "href": "http://w4.gakkai-web.net/jps_search/2015sp/index.html",
+        "text": "link"
+      },
+      {
+        "href": "http://psj92-jaa120.umin.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://shitsukan.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.aro.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://journal.frontiersin.org/Journal/10.3389/fnins.2015.00027/abstract",
+        "text": "link"
+      },
+      {
+        "href": "http://www.qbic.riken.jp/freyiru/news/2015-NeuroCMOS-Workshop-Program.pdf",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://brainmind.umin.jp/wt15.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.amazon.co.jp/%E5%AE%9F%E9%9A%9B%E3%81%AE%E8%A8%AD%E8%A8%88-%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88-%E6%A9%9F%E6%A2%B0%E8%A8%AD%E8%A8%88%E3%81%AE%E8%80%83%E3%81%88%E6%96%B9%E3%81%A8%E6%96%B9%E6%B3%95--%E5%AE%9F%E9%9A%9B%E3%81%AE%E8%A8%AD%E8%A8%88%E9%81%B8%E6%9B%B8-%E7%95%91%E6%9D%91-%E6%B4%8B%E5%A4%AA%E9%83%8E/dp/4526073407/ref=sr_1_1?ie=UTF8&qid=1421994858&sr=8-1&keywords=%E5%AE%9F%E9%9A%9B%E3%81%AE%E8%A8%AD%E8%A8%88",
+        "text": "link"
+      },
+      {
+        "href": "http://neuro.doshisha.ac.jp/ARF/ARF2014/japanese/arf_2014_main.htm",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_14_11.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sfn.org/annual-meeting/neuroscience-2014",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.bmi.jst.go.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.auditory-cortex.de/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.neuroscience2014.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.iee.jp/eiss/conf2014",
+        "text": "link"
+      },
+      {
+        "href": "https://sites.google.com/site/ultrasoniccommunication/home",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/134/8/134_1064/_article/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "http://blogs.cornell.edu/alife14nyc/",
+        "text": "link"
+      },
+      {
+        "href": "http://shitsukan.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://shitsukan.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.nmi.de/mea_meeting_2014",
+        "text": "link"
+      },
+      {
+        "href": "http://www.congre.co.jp/jsmbe53/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sigmus.jp/?page_id=2689",
+        "text": "link"
+      },
+      {
+        "href": "archive/Workshop20140520.pdf",
+        "text": "link"
+      },
+      {
+        "href": "http://www.ai-gakkai.or.jp/jsai2014/",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://www.jst.go.jp/sicp/ws2014_most.html",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00002D36",
+        "text": "link"
+      },
+      {
+        "href": "http://link.springer.com/article/10.1007/s10548-014-0359-5",
+        "text": "link"
+      },
+      {
+        "href": "http://pub.nikkan.co.jp/magazine_series/detail/0001",
+        "text": "link"
+      },
+      {
+        "href": "http://onlinelibrary.wiley.com/doi/10.1002/ecj.11524/abstract",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/134/3/134_338/_article/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.aro.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://onlinelibrary.wiley.com/doi/10.1002/ecj.11572/abstract",
+        "text": "link"
+      },
+      {
+        "href": "http://shitsukan.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.ohmsha.co.jp/bulletin/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2013.00193/abstract",
+        "text": "link"
+      },
+      {
+        "href": "http://dx.plos.org/10.1371/journal.pone.0083544",
+        "text": "link"
+      },
+      {
+        "href": "http://dx.plos.org/10.1371/journal.pone.0082663",
+        "text": "link"
+      },
+      {
+        "href": "http://www.bmi.jst.go.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.fragrance-j.co.jp/magazine/research.html",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_13_11.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.mels2.matrix.jp/sice/",
+        "text": "link"
+      },
+      {
+        "href": "http://authors.elsevier.com/sd/article/S0168010213002459",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sciencedirect.com/science/article/pii/S0925400513013415",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sfn.org/annual-meeting/neuroscience-2013",
+        "text": "link"
+      },
+      {
+        "href": "http://www.jes47.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.frontiersneurophotonics.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://le2013.l-bmi.org/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/132/7/132_1079/_article/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "http://www2.iee.or.jp/eiss/index.php?C%E9%83%A8%E9%96%80%E5%A4%A7%E4%BC%9A%2F2013",
+        "text": "link"
+      },
+      {
+        "href": "http://www.dmi.unict.it/ecal2013/",
+        "text": "link"
+      },
+      {
+        "href": "http://dx.doi.org/10.1541/ieejeiss.133.1493",
+        "text": "link"
+      },
+      {
+        "href": "archive/IEEJ_EIS_133_1493.pdf",
+        "text": "原稿"
+      },
+      {
+        "href": "http://www.nature.com/ncomms/2013/130719/ncomms3181/full/ncomms3181.html",
+        "text": "link"
+      },
+      {
+        "href": "archive/pr130719.pdf",
+        "text": "プレスリリース"
+      },
+      {
+        "href": "movie130719.html",
+        "text": "動画"
+      },
+      {
+        "href": "http://hbrc.kuhp.kyoto-u.ac.jp/NeuralOscillation/",
+        "text": "link"
+      },
+      {
+        "href": "http://dx.plos.org/10.1371/journal.pone.0068705",
+        "text": "link"
+      },
+      {
+        "href": "archive/pr130711.pdf",
+        "text": "プレスリリース"
+      },
+      {
+        "href": "http://audiology-japan.jp/audi/?page_id=638",
+        "text": "link"
+      },
+      {
+        "href": "http://embc2013.embs.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.neuro2013.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://shitsukan.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.bmi.jst.go.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.japan-neuromodulation.org/taikai-annai.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sendai-c.ed.jp/~seiryo/",
+        "text": "link"
+      },
+      {
+        "href": "http://dx.plos.org/10.1371/journal.pone.0063655",
+        "text": "link"
+      },
+      {
+        "href": "https://workshop.iee.or.jp/sbtk/cgi-bin/sbtk-showprogram.cgi?workshopid=SBW00002065",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/133/3/133_544/_article/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "archive/preprint_ieej133_544.pdf",
+        "text": "原稿"
+      },
+      {
+        "href": "http://www.cosyne.org/c/index.php?title=Cosyne_13",
+        "text": "link"
+      },
+      {
+        "href": "http://www.aro.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://shitsukan.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://link.springer.com/article/10.1007/s10072-012-0949-5",
+        "text": "link"
+      },
+      {
+        "href": "http://www.hi.is.uec.ac.jp/PABsympo/2012/index.php?FrontPage",
+        "text": "link"
+      },
+      {
+        "href": "http://asj-hcom.acoustics.jp/schedule/schedule_12_11.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.bmi.jst.go.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.jns2012.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sfn.org/am2012/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.k-con.co.jp/46tenkan.html",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/browse/ieejeiss/132/10/_contents/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "http://hbm.hs.hokudai.ac.jp/bpes2012/",
+        "text": "link"
+      },
+      {
+        "href": "http://neuroscience2012.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://www2.iee.or.jp/eiss/index.php?C%E9%83%A8%E9%96%80%E5%A4%A7%E4%BC%9A%2F2012",
+        "text": "link"
+      },
+      {
+        "href": "http://www3.unil.ch/wpmu/auditorycortex2012/",
+        "text": "link"
+      },
+      {
+        "href": "http://dx.doi.org/10.1016/j.neuroscience.2012.07.051",
+        "text": "link"
+      },
+      {
+        "href": "https://www.hokatsu-nou.nips.ac.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://hbrc.kuhp.kyoto-u.ac.jp/NeuralOscillation/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.nmi1.de/meameeting2012/index.php",
+        "text": "link"
+      },
+      {
+        "href": "https://www.jstage.jst.go.jp/article/ieejeiss/132/7/132_1079/_article/-char/ja/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.ieice.org/ken/program/index.php?mode=program&tgs_regid=33939f55edab57ed3c9632578d0f28e9a966e68ad9bbd7d58f8e17020ca902c9&tgid=HIP&layout=&lang=",
+        "text": "link"
+      },
+      {
+        "href": "http://www.bmi.jst.go.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://pubs.rsc.org/en/content/articlelanding/2012/an/c2an35058k",
+        "text": "link"
+      },
+      {
+        "href": "http://shitsukan.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://acoustics2012hk.org/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.congre.co.jp/jsmbe51/",
+        "text": "link"
+      },
+      {
+        "href": "http://onlinelibrary.wiley.com/doi/10.1111/j.1460-9568.2012.08025.x/abstract",
+        "text": "link"
+      },
+      {
+        "href": "#hpb-container",
+        "text": "このページの先頭へ"
+      },
+      {
+        "href": "index.html",
+        "text": "トップページ"
+      },
+      {
+        "href": "profile.html",
+        "text": "メンバー"
+      },
+      {
+        "href": "pub.html",
+        "text": "研究業績"
+      },
+      {
+        "href": "research.html",
+        "text": "研究内容"
+      },
+      {
+        "href": "https://sites.google.com/g.ecc.u-tokyo.ac.jp/nelab/%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99?authuser=0",
+        "text": "オープンラボ"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCuuuZ4ewKDXA-FvTiO4HqNA",
+        "text": "YouTube"
+      },
+      {
+        "href": "lecture.html",
+        "text": "講義"
+      },
+      {
+        "href": "others.html",
+        "text": "その他"
+      },
+      {
+        "href": "index-e.html",
+        "text": "English"
+      },
+      {
+        "href": "https://www.u-tokyo.ac.jp/ja/about/campus-guide/map01_02.html",
+        "text": "map"
+      },
+      {
+        "href": "http://www.kikaib.t.u-tokyo.ac.jp/map2/",
+        "text": "map"
+      },
+      {
+        "href": "http://www.u-tokyo.ac.jp/index_j.html",
+        "text": "東京大学"
+      },
+      {
+        "href": "http://www.t.u-tokyo.ac.jp/",
+        "text": "工学部"
+      },
+      {
+        "href": "http://www.kikaib.t.u-tokyo.ac.jp/",
+        "text": "機械情報工学科 (機械B)"
+      },
+      {
+        "href": "http://www.i.u-tokyo.ac.jp/",
+        "text": "情報理工学系研究科"
+      },
+      {
+        "href": "http://www.i.u-tokyo.ac.jp/edu/course/m-i/",
+        "text": "知能機械情報学専攻"
+      },
+      {
+        "href": "http://www.t.u-tokyo.ac.jp/",
+        "text": "工学系研究科"
+      },
+      {
+        "href": "http://www.rcast.u-tokyo.ac.jp/ja/research/ais/index.html",
+        "text": "先端学際工学専攻"
+      },
+      {
+        "href": "https://www.rcast.u-tokyo.ac.jp/ja/index.html",
+        "text": "先端科学技術研究センター"
+      },
+      {
+        "href": "http://www.brain.rcast.u-tokyo.ac.jp/",
+        "text": "生命知能システム分野"
+      },
+      {
+        "href": "http://www.brain.rcast.u-tokyo.ac.jp/",
+        "text": "（神崎・高橋研究室）"
+      }
+    ]
+  },
+  "english": {
+    "url": "https://www.ne.t.u-tokyo.ac.jp/index-e.html",
+    "hero": {
+      "title": "",
+      "subtitle": "",
+      "description": ""
+    },
+    "sections": [
+      {
+        "element": "p",
+        "text": "東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科"
+      },
+      {
+        "element": "p",
+        "text": "生命知能システム研究室 (高橋・白松研究室)"
+      },
+      {
+        "element": "h2",
+        "text": "Neuroscience by Mechanical Engineers"
+      },
+      {
+        "element": "p",
+        "text": "Hirokazu TAKHASHI, Ph. D.\nProfessor (PI)\nProfile, Research, Publication"
+      },
+      {
+        "element": "p",
+        "text": "Hirokazu Takahashi was born in Sendai, Japan, in 1975. He received B.S., M.S., and Ph.D. degrees in mechanical engineering from the University of Tokyo, Tokyo, Japan, in 1998, 2000, and 2003, respectively. After working as a research associate in Department of Engineering Synthesis, the University of Tokyo, he has joined Department of Mechano-Informatics, the Graduate School of Information Science and Technology, the University of Tokyo, as an assistant professor since 2004. In 2006, he has joined the Research Center for Advanced Science and Technology. In 2019, he has returned to Department of Mechano-Informatics, the Graduate School of Information Science and Technology, as an associate professor, and become a professor in 2023. His current research interests include areas of biomedical engineering ranging from rehabilitation engineering for restoring lost functions to experimental neurophysiology for understanding fundamental brain functions."
+      },
+      {
+        "element": "h2",
+        "text": "Current Research Interests"
+      },
+      {
+        "element": "p",
+        "text": "The Bio-Intelligence Systems Lab aims to understand the brain in engineers’ manner and to create next-generation brain-like computation systems. Our research field is interdisciplinary, ranging between informatics, engineering, and neuroscience. To reveal how intelligence, consciousness, and fine arts emerge, we investigate neural computation at various scales, ranging from dissociate culture of neurons on a petri dish, the rodent brain, and the human brain. We develop novel experimental methods and equipment, such as high-density microelectrode arrays and behavioral assays, to obtain large-scale experimental data, and make full use of state-of-the-art machine learning and artificial intelligence to characterize and analyze our own data. Based on these experiments, we reveal the dynamics of neural activities and construct mathematical models of the brain."
+      },
+      {
+        "element": "h3",
+        "text": "Emergent computing (Dissociate neuronal culture)"
+      },
+      {
+        "element": "h4",
+        "text": "Collaborators"
+      },
+      {
+        "element": "h3",
+        "text": "Auditory system (Cortex & thalamus in rodents)"
+      },
+      {
+        "element": "p",
+        "text": "Microelectrode arrays"
+      },
+      {
+        "element": "h4",
+        "text": "Collaborators"
+      },
+      {
+        "element": "h3",
+        "text": "Epilepsy（Cerebral cortex in rats and humans）"
+      },
+      {
+        "element": "p",
+        "text": "Intracortical electrode array for ECoG recording"
+      },
+      {
+        "element": "h4",
+        "text": "Collaborators"
+      },
+      {
+        "element": "p",
+        "text": "- Prof. Kenske Kawai (Jichi Medical University) (link)\n- Dr. Naoto Kunii (Univ. Tokyo)"
+      },
+      {
+        "element": "h2",
+        "text": "Selected publication"
+      },
+      {
+        "element": "li",
+        "text": "Alaryngeal speech\n\nHirokazu Takahashi, Masayuki Nakao, Yataro Kikuchi, and Kimitaka Kaga: “Alaryngeal speech aid using an intra-oral electrolarynx and a miniature fingertip switch.” Auris Nasus Larynx 32 (2): pp. 157-162, 2005 (link)"
+      },
+      {
+        "element": "p",
+        "text": "Hirokazu Takahashi, Masayuki Nakao, Yataro Kikuchi, and Kimitaka Kaga: “Alaryngeal speech aid using an intra-oral electrolarynx and a miniature fingertip switch.” Auris Nasus Larynx 32 (2): pp. 157-162, 2005 (link)"
+      },
+      {
+        "element": "li",
+        "text": "Auditory prosthesis (brainstem implant)\n\nHirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Accessing ampli-tonotopic organization of rat auditory cortex by microstimulation of cochlear nucleus.” IEEE Transactions on Biomedical Engineering 52 (7): pp. 1333-1344, 2005 (link)"
+      },
+      {
+        "element": "p",
+        "text": "Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Accessing ampli-tonotopic organization of rat auditory cortex by microstimulation of cochlear nucleus.” IEEE Transactions on Biomedical Engineering 52 (7): pp. 1333-1344, 2005 (link)"
+      },
+      {
+        "element": "li",
+        "text": "Microelectrode array\n\nHirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka Kaga, and Thierry Hervé: “Microelectrode array on folding polyimide ribbon for epidural mapping of functional evoked potentials.”IEEE Transactions on Biomedical Engineering 50 (4): pp. 510-516, 2003 (link)\n\nTakahiro Noda, and Hirokazu Takahashi: “Anesthetic effects of isoflurane on the topographic map and neuronal population activity in the rat auditory cortex.” European Journal of Neuroscience 42 (6): pp. 2298-2311, 2015 (doi: 10.1111/ejn.13007) (link)\n\nTomoyo I. Shiramatsu, Kazusa Takahashi, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahara, and Hirokazu Takahashi: “Microelectrode mapping of tonotopic, laminar, and field-specific organization of thalamo-cortical pathway in rat.” Neuroscience 332: pp. 38-52, 2016 (doi: 10.1016/j.neuroscience.2016.06.024) (link)"
+      },
+      {
+        "element": "p",
+        "text": "Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka Kaga, and Thierry Hervé: “Microelectrode array on folding polyimide ribbon for epidural mapping of functional evoked potentials.”IEEE Transactions on Biomedical Engineering 50 (4): pp. 510-516, 2003 (link)\n\nTakahiro Noda, and Hirokazu Takahashi: “Anesthetic effects of isoflurane on the topographic map and neuronal population activity in the rat auditory cortex.” European Journal of Neuroscience 42 (6): pp. 2298-2311, 2015 (doi: 10.1111/ejn.13007) (link)\n\nTomoyo I. Shiramatsu, Kazusa Takahashi, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahara, and Hirokazu Takahashi: “Microelectrode mapping of tonotopic, laminar, and field-specific organization of thalamo-cortical pathway in rat.” Neuroscience 332: pp. 38-52, 2016 (doi: 10.1016/j.neuroscience.2016.06.024) (link)"
+      },
+      {
+        "element": "li",
+        "text": "Light-addressable electrode\n\nJun Suzurikawa, Hirokazu Takahashi, Ryohei Kanzaki, Masayuki Nakao, Yuzo Takayama, and Yasuhiko Jimbo: “Light-addressable electrode with hydrogenated amorphous silicon and low-conductive passivation layer for stimulation of cultured neurons.” Applied Physics Letters 90 (9): Art. No.093901 (3pp), 2007 (link)"
+      },
+      {
+        "element": "p",
+        "text": "Jun Suzurikawa, Hirokazu Takahashi, Ryohei Kanzaki, Masayuki Nakao, Yuzo Takayama, and Yasuhiko Jimbo: “Light-addressable electrode with hydrogenated amorphous silicon and low-conductive passivation layer for stimulation of cultured neurons.” Applied Physics Letters 90 (9): Art. No.093901 (3pp), 2007 (link)"
+      },
+      {
+        "element": "li",
+        "text": "Biosensor: functionalization of neuronal cultrue\n\nNorio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglas J. Bakkum, Ryohei Kanzaki, Hirokazu Takahashi: “Dissociated neuronal culture expressing ionotropic odorant receptors as a hybrid odorant biosensor – proof-of-concept study –.” Analyst 137 (15): pp. 3452-3458, 2012 (link)"
+      },
+      {
+        "element": "p",
+        "text": "Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglas J. Bakkum, Ryohei Kanzaki, Hirokazu Takahashi: “Dissociated neuronal culture expressing ionotropic odorant receptors as a hybrid odorant biosensor – proof-of-concept study –.” Analyst 137 (15): pp. 3452-3458, 2012 (link)"
+      },
+      {
+        "element": "li",
+        "text": "High-density CMOS array\n\nDouglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan Müller, Michele Fiscella, Hirokazu Takahashi, Andreas Hierlemann: “Tracking axonal action potential propagation on a high-density microelectrode array across hundreds of sites.” Nature Communications 4: Art. No. 2181 (12 pp), 2013 (doi: 10.1038/ncomms3181) (link)"
+      },
+      {
+        "element": "p",
+        "text": "Douglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan Müller, Michele Fiscella, Hirokazu Takahashi, Andreas Hierlemann: “Tracking axonal action potential propagation on a high-density microelectrode array across hundreds of sites.” Nature Communications 4: Art. No. 2181 (12 pp), 2013 (doi: 10.1038/ncomms3181) (link)"
+      },
+      {
+        "element": "li",
+        "text": "Physical reservoir computing with dissociate culture\n\nYuichiro Yada, Shusaku Yasuda, and Hirokazu Takahashi: “Physical reservoir computing with FORCE learning in a living neuronal culture.” Applied Physics Letters 119 (16): 173701, 2021 (doi: 10.1063/5.0064771) (link)"
+      },
+      {
+        "element": "p",
+        "text": "Yuichiro Yada, Shusaku Yasuda, and Hirokazu Takahashi: “Physical reservoir computing with FORCE learning in a living neuronal culture.” Applied Physics Letters 119 (16): 173701, 2021 (doi: 10.1063/5.0064771) (link)"
+      },
+      {
+        "element": "li",
+        "text": "Neural representation with functional map\n\nHirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Interfield differences in intensity and frequency representation of evoked potentials in rat auditory cortex.” Hearing Research 210 (1-2): pp. 9-23, 2005 (link)\n\nHirokazu Takahashi, Ryo Yokota, and Ryohei Kanzaki: “Response variance in functional maps: Neural Darwinism revisited.” PLOS ONE 8 (7): e68705 (7 pp), 2013 (doi:10.1371/journal.pone.0068705) (link)"
+      },
+      {
+        "element": "p",
+        "text": "Hirokazu Takahashi, Masayuki Nakao, and Kimitaka Kaga: “Interfield differences in intensity and frequency representation of evoked potentials in rat auditory cortex.” Hearing Research 210 (1-2): pp. 9-23, 2005 (link)\n\nHirokazu Takahashi, Ryo Yokota, and Ryohei Kanzaki: “Response variance in functional maps: Neural Darwinism revisited.” PLOS ONE 8 (7): e68705 (7 pp), 2013 (doi:10.1371/journal.pone.0068705) (link)"
+      },
+      {
+        "element": "li",
+        "text": "Learning-induced plasticity\n\nHirokazu Takahashi, Ryo Yokota, Akihiro Funamizu, Hidekazu Kose, Ryohei Kanzaki: “Learning-stage-dependent, field-specific, map plasticity in the rat auditory cortex during appetitive operant conditioning.”Neuroscience 199: pp. 243-258, 2011 (link)\n\nAkihiro Funamizu, Ryohei Kanzaki, and Hirokazu Takahashi: “Pre-attentive, context-specific representation of fear memory in the auditory cortex of rat.” PLOS ONE 8 (5): e63655 (14 pp), 2013 (link)"
+      },
+      {
+        "element": "p",
+        "text": "Hirokazu Takahashi, Ryo Yokota, Akihiro Funamizu, Hidekazu Kose, Ryohei Kanzaki: “Learning-stage-dependent, field-specific, map plasticity in the rat auditory cortex during appetitive operant conditioning.”Neuroscience 199: pp. 243-258, 2011 (link)\n\nAkihiro Funamizu, Ryohei Kanzaki, and Hirokazu Takahashi: “Pre-attentive, context-specific representation of fear memory in the auditory cortex of rat.” PLOS ONE 8 (5): e63655 (14 pp), 2013 (link)"
+      },
+      {
+        "element": "li",
+        "text": "Auditory streaming\n\nTakahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Stimulus phase locking of cortical oscillation for auditory stream segregation in rats.” PLOS ONE 8 (12): e83544 (14 pp), 2013 (link)"
+      },
+      {
+        "element": "p",
+        "text": "Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Stimulus phase locking of cortical oscillation for auditory stream segregation in rats.” PLOS ONE 8 (12): e83544 (14 pp), 2013 (link)"
+      },
+      {
+        "element": "li",
+        "text": "Mismatch negativity (MMN)\n\nTomoyo I. Shiramatsu, Ryohei Kanzaki, and Hirokazu Takahashi: “Cortical mapping of mismatch negativity with deviance detection property in rat.” PLOS ONE 8 (12): e82663 (10 pp), 2013 (link)\n\nTomoyo I. Shiramatsu, Hirokazu Takahashi: “Mismatch-negativity (MMN) in animal models: homology of human MMN?” Hearing Research: published online, 2020 (link)"
+      },
+      {
+        "element": "p",
+        "text": "Tomoyo I. Shiramatsu, Ryohei Kanzaki, and Hirokazu Takahashi: “Cortical mapping of mismatch negativity with deviance detection property in rat.” PLOS ONE 8 (12): e82663 (10 pp), 2013 (link)\n\nTomoyo I. Shiramatsu, Hirokazu Takahashi: “Mismatch-negativity (MMN) in animal models: homology of human MMN?” Hearing Research: published online, 2020 (link)"
+      },
+      {
+        "element": "li",
+        "text": "Music and the brain\n\nYoshiki Ito, Tomoyo I. Shiramatsu, Naoki Ishida, Karin Oshima, Kaho Magami, and Hirokazu Takahashi: “Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment.” Science Advances 8 (45): eabo7019 (11 pp), 2022 (link)"
+      },
+      {
+        "element": "p",
+        "text": "Yoshiki Ito, Tomoyo I. Shiramatsu, Naoki Ishida, Karin Oshima, Kaho Magami, and Hirokazu Takahashi: “Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment.” Science Advances 8 (45): eabo7019 (11 pp), 2022 (link)"
+      },
+      {
+        "element": "li",
+        "text": "Seizure detection\n\nAli Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai, and Hirokazu Takahashi: “Seizuredetection by convolutional neural network-based analysis of scalp electroencephalographyplot images.”NeuroImage: Clinical 22: Article #101684 (10 pp.), 2019 (link)"
+      },
+      {
+        "element": "p",
+        "text": "Ali Emami, Naoto Kunii, Takeshi Matsuo, Takashi Shinozaki, Kensuke Kawai, and Hirokazu Takahashi: “Seizuredetection by convolutional neural network-based analysis of scalp electroencephalographyplot images.”NeuroImage: Clinical 22: Article #101684 (10 pp.), 2019 (link)"
+      },
+      {
+        "element": "li",
+        "text": "Vagus Nerve Stimulation\n\nHirokazu Takahashi, Tomoyo I. Shiramatsu, Rie Hitsuyu, Kenji Ibayashi, and Kensuke Kawai: “Vagus nerve stimulation (VNS)-induced layer-specific modulation of evoked responses in the sensory cortex of rats.” Scientific Reports 10 (1): 8932 (10 pp.), 2020 (link)"
+      },
+      {
+        "element": "p",
+        "text": "Hirokazu Takahashi, Tomoyo I. Shiramatsu, Rie Hitsuyu, Kenji Ibayashi, and Kensuke Kawai: “Vagus nerve stimulation (VNS)-induced layer-specific modulation of evoked responses in the sensory cortex of rats.” Scientific Reports 10 (1): 8932 (10 pp.), 2020 (link)"
+      },
+      {
+        "element": "h3",
+        "text": "The University of Tokyo\nGraduate School of Information Science and Technology\nDepartment of Mechano-Informatics"
+      },
+      {
+        "element": "p",
+        "text": "Hirokazu Takahashi, Ph. D."
+      },
+      {
+        "element": "p",
+        "text": "7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-8656, Japan"
+      },
+      {
+        "element": "p",
+        "text": "Phone +81-3-5841-6318\nE-mail:"
+      },
+      {
+        "element": "p",
+        "text": "copyright©2012 Hirokazu Takahashi all rights reserved."
+      }
+    ],
+    "links": [
+      {
+        "href": "#hpb-title",
+        "text": "本文へスキップ"
+      },
+      {
+        "href": "index.html",
+        "text": "神崎・高橋研究室　高次脳機能研究チーム"
+      },
+      {
+        "href": "#profile",
+        "text": "Profile"
+      },
+      {
+        "href": "#research",
+        "text": "Research"
+      },
+      {
+        "href": "#publication",
+        "text": "Publication"
+      },
+      {
+        "href": "#in vitro",
+        "text": "in vitro study"
+      },
+      {
+        "href": "#in vivo",
+        "text": "in vivo study"
+      },
+      {
+        "href": "#clinical study",
+        "text": "clinical study"
+      },
+      {
+        "href": "#hpb-container",
+        "text": "このページの先頭へ"
+      },
+      {
+        "href": "http://www.bsse.ethz.ch/bel/",
+        "text": "link"
+      },
+      {
+        "href": "https://www.mxwbio.com/amo-team/urs-frey/",
+        "text": "link"
+      },
+      {
+        "href": "http://sacral.c.u-tokyo.ac.jp/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.brl.ntt.co.jp/cs/per/index-j.html",
+        "text": "link"
+      },
+      {
+        "href": "http://users.monash.edu/~naotsugt/Tsuchiya_Labs_Homepage/HOME.html",
+        "text": "link"
+      },
+      {
+        "href": "http://edogawabashi-cl-jibika.com/",
+        "text": "link"
+      },
+      {
+        "href": "http://www.jichi.ac.jp/english/index.html",
+        "text": "link"
+      },
+      {
+        "href": "#hpb-container",
+        "text": "このページの先頭へ"
+      },
+      {
+        "href": "pub.html",
+        "text": "link"
+      },
+      {
+        "href": "pub2.html",
+        "text": "link"
+      },
+      {
+        "href": "http://www.aurisnasuslarynx.com/article/S0385-8146(05)00006-4/abstract",
+        "text": "link"
+      },
+      {
+        "href": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1440612",
+        "text": "link"
+      },
+      {
+        "href": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1193785",
+        "text": "link"
+      },
+      {
+        "href": "http://onlinelibrary.wiley.com/doi/10.1111/ejn.13007/full",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sciencedirect.com/science/article/pii/S0306452216302548",
+        "text": "link"
+      },
+      {
+        "href": "http://apl.aip.org/resource/1/applab/v90/i9/p093901_s1?isAuthorized=no",
+        "text": "link"
+      },
+      {
+        "href": "http://pubs.rsc.org/en/content/articlelanding/2012/an/c2an35058k",
+        "text": "link"
+      },
+      {
+        "href": "http://www.nature.com/ncomms/2013/130719/ncomms3181/full/ncomms3181.html",
+        "text": "link"
+      },
+      {
+        "href": "https://aip.scitation.org/doi/10.1063/5.0064771",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sciencedirect.com/science/article/pii/S0378595505001619",
+        "text": "link"
+      },
+      {
+        "href": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0068705",
+        "text": "link"
+      },
+      {
+        "href": "http://www.sciencedirect.com/science/article/pii/S0306452211011316",
+        "text": "link"
+      },
+      {
+        "href": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0063655",
+        "text": "link"
+      },
+      {
+        "href": "http://dx.plos.org/10.1371/journal.pone.0083544",
+        "text": "link"
+      },
+      {
+        "href": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0082663",
+        "text": "link"
+      },
+      {
+        "href": "https://www.sciencedirect.com/science/article/abs/pii/S0378595519304356?via%3Dihub",
+        "text": "link"
+      },
+      {
+        "href": "https://www.science.org/doi/10.1126/sciadv.abo7019",
+        "text": "link"
+      },
+      {
+        "href": "https://www.sciencedirect.com/science/article/pii/S2213158219300348",
+        "text": "link"
+      },
+      {
+        "href": "https://www.nature.com/articles/s41598-020-65745-z",
+        "text": "link"
+      },
+      {
+        "href": "#hpb-container",
+        "text": "このページの先頭へ"
+      },
+      {
+        "href": "index.html",
+        "text": "トップページ"
+      },
+      {
+        "href": "profile.html",
+        "text": "メンバー"
+      },
+      {
+        "href": "pub.html",
+        "text": "研究業績"
+      },
+      {
+        "href": "research.html",
+        "text": "研究内容"
+      },
+      {
+        "href": "https://sites.google.com/g.ecc.u-tokyo.ac.jp/nelab/%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99?authuser=0",
+        "text": "オープンラボ"
+      },
+      {
+        "href": "https://www.youtube.com/channel/UCuuuZ4ewKDXA-FvTiO4HqNA",
+        "text": "YouTube"
+      },
+      {
+        "href": "lecture.html",
+        "text": "講義"
+      },
+      {
+        "href": "others.html",
+        "text": "その他"
+      },
+      {
+        "href": "index-e.html",
+        "text": "English"
+      }
+    ]
+  },
+  "images": [
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/image3.jpg",
+      "local": "/uploads/scraped/main/main-1-image3.jpg",
+      "alt": "",
+      "width": 340,
+      "height": 500,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/61Ghjgu90YL._SX352_BO1,204,203,200_[1].jpg",
+      "local": "/uploads/scraped/main/main-2-61Ghjgu90YL._SX352_BO1,204,203,200_-1-.jpg",
+      "alt": "",
+      "width": 354,
+      "height": 499,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/51prEWgW7AL1._SX353_BO1,204,203,200_[1].jpg",
+      "local": "/uploads/scraped/main/main-3-51prEWgW7AL1._SX353_BO1,204,203,200_-1-.jpg",
+      "alt": "",
+      "width": 180,
+      "height": 253,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/2025-04-11%200838351.png",
+      "local": "/uploads/scraped/main/main-4-2025-04-11-200838351.png",
+      "alt": "",
+      "width": 320,
+      "height": 143,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/20240807144858.png",
+      "local": "/uploads/scraped/main/main-5-20240807144858.png",
+      "alt": "",
+      "width": 160,
+      "height": 120,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/202408cover[1]1.jpg",
+      "local": "/uploads/scraped/main/main-6-202408cover-1-1.jpg",
+      "alt": "",
+      "width": 160,
+      "height": 209,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/Newton202408_068-069[2].jpg",
+      "local": "/uploads/scraped/main/main-7-Newton202408_068-069-2-.jpg",
+      "alt": "",
+      "width": 319,
+      "height": 209,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/image8.jpg",
+      "local": "/uploads/scraped/main/main-8-image8.jpg",
+      "alt": "",
+      "width": 244,
+      "height": 346,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/image2.jpg",
+      "local": "/uploads/scraped/main/main-9-image2.jpg",
+      "alt": "",
+      "width": 689,
+      "height": 974,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/image11.jpg",
+      "local": "/uploads/scraped/main/main-10-image11.jpg",
+      "alt": "",
+      "width": 1140,
+      "height": 1612,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/image41.jpg",
+      "local": "/uploads/scraped/main/main-11-image41.jpg",
+      "alt": "",
+      "width": 476,
+      "height": 52,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/button111.gif",
+      "local": "/uploads/scraped/main/main-12-button111.gif",
+      "alt": "takahashi@i.u-tokyo.ac.jp",
+      "width": 157,
+      "height": 22,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/bg_1Eb_01.png",
+      "local": "/uploads/scraped/main/main-13-bg_1Eb_01.png",
+      "alt": "background",
+      "type": "background"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/footerBg_1Eb.png",
+      "local": "/uploads/scraped/main/main-14-footerBg_1Eb.png",
+      "alt": "background",
+      "type": "background"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/logo_1Eb.png",
+      "local": "/uploads/scraped/main/main-15-logo_1Eb.png",
+      "alt": "background",
+      "type": "background"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/titleBg_1Eb.png",
+      "local": "/uploads/scraped/main/main-16-titleBg_1Eb.png",
+      "alt": "background",
+      "type": "background"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/indexBg_1Eb.png",
+      "local": "/uploads/scraped/main/main-17-indexBg_1Eb.png",
+      "alt": "background",
+      "type": "background"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/returnTop_1Eb.png",
+      "local": "/uploads/scraped/main/main-18-returnTop_1Eb.png",
+      "alt": "background",
+      "type": "background"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/navBg_1Eb_02.png",
+      "local": "/uploads/scraped/main/main-19-navBg_1Eb_02.png",
+      "alt": "background",
+      "type": "background"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/navBg_1Eb_022.png",
+      "local": "/uploads/scraped/main/main-20-navBg_1Eb_022.png",
+      "alt": "background",
+      "type": "background"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/myphoto2007.jpg",
+      "local": "/uploads/scraped/main/main-21-myphoto2007.jpg",
+      "alt": "",
+      "width": 146,
+      "height": 194,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/eng12.jpg",
+      "local": "/uploads/scraped/main/main-22-eng12.jpg",
+      "alt": "",
+      "width": 540,
+      "height": 853,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/image1.jpg",
+      "local": "/uploads/scraped/main/main-23-image1.jpg",
+      "alt": "",
+      "width": 186,
+      "height": 187,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/image.jpg",
+      "local": "/uploads/scraped/main/main-24-image.jpg",
+      "alt": "",
+      "width": 182,
+      "height": 134,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/image4.jpg",
+      "local": "/uploads/scraped/main/main-25-image4.jpg",
+      "alt": "",
+      "width": 196,
+      "height": 287,
+      "type": "inline"
+    },
+    {
+      "original": "https://www.ne.t.u-tokyo.ac.jp/image31.jpg",
+      "local": "/uploads/scraped/main/main-26-image31.jpg",
+      "alt": "",
+      "width": 186,
+      "height": 165,
+      "type": "inline"
+    }
+  ]
+}

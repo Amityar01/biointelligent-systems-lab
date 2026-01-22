@@ -1,0 +1,31 @@
+id: meiji-intensive-2019
+slug: meiji-intensive-2019
+title:
+  en: Graduate School of Science and Technology Comprehensive Lecture B
+  ja: 理工学研究科総合講義B
+instructor:
+  en: Hirokazu Takahashi (shared, visiting lecturer)
+  ja: 高橋宏知（分担、非常勤講師）
+institution:
+  en: Meiji University
+  ja: 明治大学
+department:
+  en: Graduate School of Science and Technology
+  ja: 理工学研究科
+level:
+  en: Graduate
+  ja: 大学院
+year: 2019
+semester:
+  en: Spring (Intensive)
+  ja: 春学期集中
+description:
+  en: Intensive lecture course at Meiji University Graduate School of Science and Technology.
+  ja: 明治大学理工学研究科における集中講義。
+schedule:
+  dates:
+    - "2019-08-03"
+notes:
+  en: Course materials provided during the session
+  ja: 講義資料は講義時に配布
+active: false

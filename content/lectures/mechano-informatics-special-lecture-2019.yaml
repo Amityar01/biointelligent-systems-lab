@@ -1,0 +1,25 @@
+id: mechano-informatics-special-lecture-2019
+slug: mechano-informatics-special-lecture-2019
+title:
+  en: Special Lecture on Mechano-Informatics
+  ja: 知能機械情報学特別講義
+instructor:
+  en: Hirokazu Takahashi
+  ja: 高橋宏知
+department:
+  en: Graduate School of Information Science and Technology
+  ja: 大学院情報理工学系研究科
+level:
+  en: Graduate
+  ja: 大学院
+year: 2019
+semester:
+  en: Winter
+  ja: 冬学期
+description:
+  en: Special lecture series on mechano-informatics for graduate students.
+  ja: 大学院生を対象とした知能機械情報学に関する特別講義。
+notes:
+  en: Course materials and announcements via ITC-LMS
+  ja: 講義資料や連絡事項はITC-LMS
+active: false

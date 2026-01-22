@@ -1,0 +1,68 @@
+{
+  "batchId": 63,
+  "category": "poster",
+  "categoryTitle": "ポスター発表 (Poster Presentation)",
+  "parsedAt": "2026-01-22T03:06:00.811Z",
+  "items": [
+    {
+      "title": "Audiovisual Rabbit Illusion and multimodal Mismatch Negativity: A Dual Approach to Investigate Multisensory Integration",
+      "authors": [
+        "Hexin Xi",
+        "Yiyuan Teresa Huang",
+        "Amit Yaron",
+        "Tomoyo I Shiramatsu",
+        "Zenas Chao",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(82) Hexin Xi, Yiyuan Teresa Huang, Amit Yaron, Tomoyo I Shiramatsu, Zenas Chao, Hirokazu Takahashi: “Audiovisual Rabbit Illusion and multimodal Mismatch Negativity: A Dual Approach to Investigate Multisensory Integration.” The 10th Mismatch Negativity Conference, p.120, 2024(Salamanca, Spain, 2024年9月17日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2024-hexinxi-audiovisual-rabbit-illusion-an-1506"
+    },
+    {
+      "title": "Cortical entrainment to the periodic auditory signals modulated by vagus nerve stimulation",
+      "authors": [
+        "Shinichi Kumagai",
+        "Tomoyo I Shiramatsu",
+        "Karin Oshima",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "journal": "Advances and Perspectives in Auditory Neuroscience",
+      "pages": null,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(83) Shinichi Kumagai, Tomoyo I Shiramatsu, Karin Oshima, Kensuke Kawai, Hirokazu Takahashi: “Cortical entrainment to the periodic auditory signals modulated by vagus nerve stimulation.” Advances and Perspectives in Auditory Neuroscience., 2024 (Chicago, USA, 2024年10月4日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2024-shinichikumagai-cortical-entrainment-to-the-pe-1507"
+    },
+    {
+      "title": "The entrainment to rapid auditory input modulated by vagus nerve stimulation",
+      "authors": [
+        "Shinichi Kumagai",
+        "Tomoyo I Shiramatsu",
+        "Karin Oshima",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2024,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(84) Shinichi Kumagai, Tomoyo I Shiramatsu, Karin Oshima, Kensuke Kawai, Hirokazu Takahashi: “The entrainment to rapid auditory input modulated by vagus nerve stimulation.” Society for Neuroscience, 2024 (Chicago, USA, 2024年10月5日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2024-shinichikumagai-the-entrainment-to-rapid-audit-1508"
+    }
+  ]
+}

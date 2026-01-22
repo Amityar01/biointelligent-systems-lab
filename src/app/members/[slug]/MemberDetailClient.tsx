@@ -113,12 +113,20 @@ export function MemberDetailClient({ member }: Props) {
           <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
             <h2 className="text-2xl font-bold mb-8">{t(texts.education)}</h2>
             <ul className="space-y-3 max-w-2xl">
-              {member.education.map((edu, index) => (
-                <li key={index} className="flex items-start gap-3">
-                  <span className="w-2 h-2 rounded-full bg-[var(--accent)] mt-2 flex-shrink-0" />
-                  <span className="text-[var(--text-secondary)]">{edu}</span>
-                </li>
-              ))}
+              {member.education.map((edu, index) => {
+                // Handle both string and object formats
+                const eduText = typeof edu === 'string'
+                  ? edu
+                  : (edu as { year?: string; event?: string }).year && (edu as { year?: string; event?: string }).event
+                    ? `${(edu as { year?: string; event?: string }).year} - ${(edu as { year?: string; event?: string }).event}`
+                    : String(edu);
+                return (
+                  <li key={index} className="flex items-start gap-3">
+                    <span className="w-2 h-2 rounded-full bg-[var(--accent)] mt-2 flex-shrink-0" />
+                    <span className="text-[var(--text-secondary)]">{eduText}</span>
+                  </li>
+                );
+              })}
             </ul>
           </div>
         </section>

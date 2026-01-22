@@ -1,0 +1,132 @@
+[
+  {
+    "model": "qwen3:14b",
+    "results": [
+      {
+        "input": "(16) 船水章大，神崎亮平，高橋宏知：「識別精度に基づいた時空間的神経活動パターンの逐次的次元縮約法」，電気学会論文誌C電子情報システム部門誌 129 (9): pp. 1648-1654, 2009 (doi: 10.1541/ieejeiss.129.1648) [平成21年電気学会電子・情報システム部門誌奨励賞]",
+        "output": {
+          "authors": [
+            "船水章大",
+            "神崎亮平",
+            "高橋宏知"
+          ],
+          "title": "識別精度に基づいた時空間的神経活動パターンの逐次的次元縮約法",
+          "journal": "電気学会論文誌C電子情報システム部門誌",
+          "volume": 129,
+          "issue": 9,
+          "pages": "1648-1654",
+          "year": 2009,
+          "doi": "10.1541/ieejeiss.129.1648",
+          "awards": [
+            "平成21年電気学会電子・情報システム部門誌奨励賞"
+          ],
+          "type": "journal"
+        },
+        "duration": 23714
+      },
+      {
+        "input": "(45) Amit Yaron, Dai Akita, Tomoyo I. Shiramatsu, Hirokazu Takahashi: \"Deviance Detection in Rat Auditory Cortex Is Robust to Parametric Manipulations Resembling Natural Conditions.\" eNeuro 12(6): ENEURO.0138-25.2025, 2025 (doi: 10.1523/ENEURO.0138-25.2025)",
+        "output": {
+          "authors": [
+            "Amit Yaron",
+            "Dai Akita",
+            "Tomoyo I. Shiramatsu",
+            "Hirokazu Takahashi"
+          ],
+          "title": "Deviance Detection in Rat Auditory Cortex Is Robust to Parametric Manipulations Resembling Natural Conditions",
+          "journal": "eNeuro",
+          "volume": "12",
+          "issue": "6",
+          "pages": "ENEURO.0138-25.2025",
+          "year": 2025,
+          "doi": "10.1523/ENEURO.0138-25.2025",
+          "type": "journal"
+        },
+        "duration": 19299
+      },
+      {
+        "input": "(7) Jun Suzurikawa, Kohei Hisada, Masayuki Nakao, Kimitaka Kaga, Ryohei Kanzaki, and Hirokazu Takahashi: \"Reorganization of Auditory Cortex by Pairing and Anti-Pairing Intracortical Microstimulation.\" Proceedings of 2nd International IEEE EMBS Conference on Neural Engineering: pp. 594-597, 2005 (Washington DC, USA, 2005年3月16日) [Excellence in Neural Engineering Award受賞]",
+        "output": {
+          "error": "No JSON found",
+          "raw": ""
+        },
+        "duration": 19830
+      }
+    ],
+    "totalTime": 62843,
+    "avgTime": 20947.666666666668
+  },
+  {
+    "model": "qwen3:32b",
+    "results": [
+      {
+        "input": "(16) 船水章大，神崎亮平，高橋宏知：「識別精度に基づいた時空間的神経活動パターンの逐次的次元縮約法」，電気学会論文誌C電子情報システム部門誌 129 (9): pp. 1648-1654, 2009 (doi: 10.1541/ieejeiss.129.1648) [平成21年電気学会電子・情報システム部門誌奨励賞]",
+        "output": {
+          "authors": [
+            "船水章大",
+            "神崎亮平",
+            "高橋宏知"
+          ],
+          "title": "識別精度に基づいた時空間的神経活動パターンの逐次的次元縮約法",
+          "journal": "電気学会論文誌C電子情報システム部門誌",
+          "volume": "129",
+          "issue": "9",
+          "pages": "1648-1654",
+          "year": 2009,
+          "doi": "10.1541/ieejeiss.129.1648",
+          "awards": [
+            "平成21年電気学会電子・情報システム部門誌奨励賞"
+          ],
+          "type": "journal"
+        },
+        "duration": 38846
+      },
+      {
+        "input": "(45) Amit Yaron, Dai Akita, Tomoyo I. Shiramatsu, Hirokazu Takahashi: \"Deviance Detection in Rat Auditory Cortex Is Robust to Parametric Manipulations Resembling Natural Conditions.\" eNeuro 12(6): ENEURO.0138-25.2025, 2025 (doi: 10.1523/ENEURO.0138-25.2025)",
+        "output": {
+          "authors": [
+            "Amit Yaron",
+            "Dai Akita",
+            "Tomoyo I. Shiramatsu",
+            "Hirokazu Takahashi"
+          ],
+          "title": "Deviance Detection in Rat Auditory Cortex Is Robust to Parametric Manipulations Resembling Natural Conditions",
+          "journal": "eNeuro",
+          "volume": "12",
+          "issue": "6",
+          "pages": "ENEURO.0138-25.2025",
+          "year": 2025,
+          "doi": "10.1523/ENEURO.0138-25.2025",
+          "type": "journal"
+        },
+        "duration": 25612
+      },
+      {
+        "input": "(7) Jun Suzurikawa, Kohei Hisada, Masayuki Nakao, Kimitaka Kaga, Ryohei Kanzaki, and Hirokazu Takahashi: \"Reorganization of Auditory Cortex by Pairing and Anti-Pairing Intracortical Microstimulation.\" Proceedings of 2nd International IEEE EMBS Conference on Neural Engineering: pp. 594-597, 2005 (Washington DC, USA, 2005年3月16日) [Excellence in Neural Engineering Award受賞]",
+        "output": {
+          "authors": [
+            "Jun Suzurikawa",
+            "Kohei Hisada",
+            "Masayuki Nakao",
+            "Kimitaka Kaga",
+            "Ryohei Kanzaki",
+            "Hirokazu Takahashi"
+          ],
+          "title": "Reorganization of Auditory Cortex by Pairing and Anti-Pairing Intracortical Microstimulation",
+          "conference": "2nd International IEEE EMBS Conference on Neural Engineering",
+          "pages": "594-597",
+          "year": 2005,
+          "location": "Washington DC, USA",
+          "date": "2005-03-16",
+          "awards": [
+            "Excellence in Neural Engineering Award受賞"
+          ],
+          "type": "conference"
+        },
+        "duration": 26152
+      }
+    ],
+    "totalTime": 90610,
+    "avgTime": 30203.333333333332
+  }
+]

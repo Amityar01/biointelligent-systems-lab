@@ -1,0 +1,25 @@
+themes:
+  - id: auditory-language-reconstruction
+    name:
+      en: Auditory and Language Function Reconstruction
+      ja: 聴覚・言語機能の再建
+    subthemeCount: 2
+    publicationCount: 3
+  - id: neural-interface
+    name:
+      en: Neural Interface
+      ja: 神経インターフェース
+    subthemeCount: 5
+    publicationCount: 8
+  - id: auditory-cortex-processing
+    name:
+      en: Auditory Cortex Information Processing
+      ja: 聴覚野の情報処理
+    subthemeCount: 5
+    publicationCount: 11
+  - id: epilepsy-research
+    name:
+      en: Basic Research on Epilepsy Treatment
+      ja: てんかん治療の基礎研究
+    subthemeCount: 2
+    publicationCount: 2

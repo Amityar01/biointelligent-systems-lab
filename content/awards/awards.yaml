@@ -1,0 +1,394 @@
+title:
+  ja: "受賞"
+  en: "Awards"
+awards:
+  -
+    id: "award-1"
+    title: "(1) IEEE EMBS Student Paper Competition Finalists In: 23rd Annual International Conference of the IE"
+    recipients:
+    - "IEEE EMBS Student Paper Competition Finalists In"
+  -
+    id: "award-2"
+    title: "(2) Young Investigators Award for the Best Oral Presentation In: 2nd European Medical & Biological E"
+    recipients:
+    - "Young Investigators Award for the Best Oral Presentation In"
+  -
+    id: "award-3"
+    title: "(3) Excellence in Neural Engineering Award In: The 2nd International IEEE EMBS Conference on Neural "
+    recipients:
+    - "Excellence in Neural Engineering Award In"
+  -
+    id: "award-4"
+    title: "(4) The 3rd Prize of IEEE EMBS Japan Young Investigators Competition for EMBS 2006 In: The 28th Annu"
+    recipients:
+    - "The 3rd Prize of IEEE EMBS Japan Young Investigators Competition for EMBS 2006 In"
+  -
+    id: "award-5"
+    title:
+    ja: "聴覚と音声のリハビリテーションに関する先導的研究"
+    en: "Pioneering research on hearing and speech rehabilitation"
+    recipients:
+    - "高橋宏知"
+    year: 2007
+  -
+    id: "award-6"
+    title:
+    ja: "サポートベクターマシンによる聴皮質の時空間的神経活動の解析"
+    en: "サポートベクターマシンによる聴皮質の時空間的神経活動の解析"
+    recipients:
+    - "神崎亮平"
+    - "高橋宏知"
+  -
+    id: "award-7"
+    title:
+    ja: "光アドレス型刺激電極の薄膜構成最適化"
+    en: "Optimization of Thin Film Configuration for Light-Addressed Stimulation Electrodes"
+    recipients:
+    - "神崎亮平"
+    - "中尾政之"
+    - "神保泰彦"
+    - "高橋宏知"
+  -
+    id: "award-8"
+    title:
+    ja: "状況察知のための聴皮質における質感の情報処理"
+    en: "Texture Information Processing in the Auditory Cortex for Situational Awareness"
+    recipients:
+    - "神崎亮平"
+    - "高橋宏知"
+    year: 2009
+  -
+    id: "award-9"
+    title:
+    ja: "11,011個の計測電極を有するCMOSアレイによる神経回路の活動の評価"
+    en: "Evaluation of Neural Circuit Activity Using a CMOS Array with 11,011 Measuring Electrodes"
+    recipients:
+    - "Urs Frey"
+    - "Jan Mueller"
+    - "Michele Fiscella"
+    - "Andreas Hierlemann"
+    - "高橋宏知"
+  -
+    id: "award-10"
+    title:
+    ja: "モデルフリーとモデルベース戦略の課題依存的な選択"
+    en: "Task-Dependent Selection of Model-Free and Model-Based Strategies"
+    recipients:
+    - "IEEE CIS Young Researcher Award (IEEE Computational Intelligence Society Japan Chapter) 船水章大"
+    - "伊藤真"
+    - "銅谷賢治"
+    - "神崎亮平"
+    - "高橋宏知"
+  -
+    id: "award-11"
+    title:
+    ja: "識別精度に基づいた時空間的神経活動パターンの逐次的次元縮約法"
+    en: "Sequential Dimensionality Reduction Method for Spatiotemporal Neural Activity Patterns Based on Classification Accuracy"
+    recipients:
+    - "神崎亮平"
+    - "高橋宏知"
+  -
+    id: "award-12"
+    title:
+    ja: "学習に伴う情報表現の可塑的変化のモデル"
+    en: "A model of plastic changes in information representation associated with learning"
+    recipients:
+    - "合原一幸"
+    - "神崎亮平"
+    - "高橋宏知"
+  -
+    id: "award-13"
+    title:
+    ja: "(13) 平成23年日本神経回路学会大会奨励賞 Akihiro Funamizu, Makoto Ito, Kenji Doya, Ryohei Kanzaki and Hirokazu Takaha"
+    en: "2011 Japanese Society for Neural Circuits Congress Encouragement Award Akihiro Funamizu, Makoto Ito, Kenji Doya, Ryohei Kanzaki, and Hirokazu Takaha"
+    recipients:
+    - "Makoto Ito"
+    - "Kenji Doya"
+    - "Ryohei Kanzaki and Hirokazu Takahashi"
+  -
+    id: "award-14"
+    title:
+    ja: "神経工学"
+    en: "Neural Engineering"
+    recipients:
+  -
+    id: "award-15"
+    title:
+    ja: "聴覚野における音脈分凝に関わる機能的ネットワークの下部構造"
+    en: "Underlying structure of the functional network related to auditory stream segregation in the auditory cortex"
+    recipients:
+    - "神崎亮平"
+    - "高橋宏知"
+  -
+    id: "award-16"
+    title:
+    ja: "ラット大脳皮質の局所電場電位における迷走神経刺激による同期度の変化"
+    en: "Change in synchronization degree in the local field potential of the rat cerebral cortex due to vagus nerve stimulation"
+    recipients:
+    - "宇佐美憲一"
+    - "野田貴大"
+    - "磯口知世"
+    - "神崎亮平"
+    - "川合謙介"
+    - "高橋宏知"
+  -
+    id: "award-17"
+    title:
+    ja: "和音の質感が聴皮質の神経活動の位相同期に及ぼす影響"
+    en: "The effect of the texture of chords on phase synchronization of neural activity in the auditory cortex"
+    recipients:
+    - "野田貴大"
+    - "神崎亮平"
+    - "高橋宏知"
+  -
+    id: "award-18"
+    title:
+    ja: "(18) 生物音響学会優秀賞（第１回生物音響学会年次研究発表会） Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi: “Oscillation in rat"
+    en: "(18) Outstanding Award, Bioacoustics Society (1st Annual Bioacoustics Society Research Presentation Conference) Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi: “Oscillation in Rat”"
+    recipients:
+    - "Hirokazu Takahashi"
+  -
+    id: "award-19"
+    title:
+    ja: "状態空間モデルと先導空間活動パターンによる培養神経回路バースト活動の再構成"
+    en: "Reconstruction of Cultured Neural Circuit Burst Activity Using State Space Models and Leading Spatial Activity Patterns"
+    recipients:
+    - "神﨑亮平"
+    - "高橋宏知"
+  -
+    id: "award-20"
+    title:
+    ja: "培養神経細胞によるFORCE学習を用いたロボット制御"
+    en: "Robot Control Using FORCE Learning with Cultured Neurons"
+    recipients:
+    - "矢田祐一郎"
+    - "三田毅"
+    - "神﨑亮平"
+    - "高橋 宏知"
+  -
+    id: "award-21"
+    title:
+    ja: "耳鳴り症状を呈するラットの聴覚野における神経活動の位相同期"
+    en: "Phase Synchronization of Neural Activity in the Auditory Cortex of Rats Exhibiting Tinnitus Symptoms"
+    recipients:
+    - "白松（磯口）知世"
+    - "高橋宏知"
+  -
+    id: "award-22"
+    title:
+    ja: "睡眠中の古典的条件付けによる音嗜好性の操作"
+    en: "Modification of sound preference via classical conditioning during sleep"
+    recipients:
+    - "白松（磯口）知世"
+    - "神崎亮平"
+    - "高橋宏知"
+  -
+    id: "award-23"
+    title:
+    ja: "音響外傷が聴覚野における情報表現に与える影響"
+    en: "The effects of acoustic trauma on information representation in the auditory cortex"
+    recipients:
+    - "磯口（白松）知世"
+    - "高橋宏知"
+  -
+    id: "award-24"
+    title:
+    ja: "ラット聴覚皮質におけるマイクロ皮質脳波の慢性計測"
+    en: "Chronic Measurement of Microcortical Brain Waves in the Auditory Cortex of Rats"
+    recipients:
+    - "白松(磯口)知世"
+    - "小河原康一"
+    - "神崎亮平"
+    - "高橋宏知"
+  -
+    id: "award-25"
+    title:
+    ja: "耳鳴モデルラットの聴覚野における神経活動の位相同期"
+    en: "Phase Synchronization of Neural Activity in the Auditory Cortex of Tinnitus Model Rats"
+    recipients:
+    - "神崎晶"
+    - "高橋宏知"
+  -
+    id: "award-26"
+    title:
+    ja: "高密度CMOSアレイ上の分散培養系における活動電位波形に基づく興奮性及び抑制性神経細胞の分類"
+    en: "Classification of Excitatory and Inhibitory Neurons Based on Action Potential Waveforms in a Distributed Culture System on a High-Density CMOS Array"
+    recipients:
+    - "Douglas Bakkum"
+    - "Urs Frey"
+    - "Andreas Hierlemann"
+    - "神崎亮平"
+    - "高橋宏知"
+    year: 2019
+  -
+    id: "award-27"
+    title:
+    ja: "臨界期における音環境と生育後の嗜好性との関係"
+    en: "The relationship between the acoustic environment during the critical period and post-growth preference"
+    recipients:
+    - "眞神花帆"
+    - "高橋宏知"
+  -
+    id: "award-28"
+    title:
+    ja: "齧歯類におけるビート知覚の神経基盤"
+    en: "Neural basis of beat perception in rodents"
+    recipients:
+    - "白松(磯口)知世"
+    - "石田直輝"
+    - "眞神花帆"
+    - "高橋宏知"
+  -
+    id: "award-29"
+    title: "Direction of Multisensory Illusion is Influenced by Stimulus Detectability"
+    recipients:
+    - "2022年電気学会電子・情報・システム部門大会 学生ポスターセッション (Outstading Student Presentaion Award) Hexin Xu"
+    - "Amit Yaron"
+    - "Tomoyo Isoguchi Shiramatsu"
+    - "Hirokazu Takahashi"
+  -
+    id: "award-30"
+    title:
+    ja: "ラット聴覚野の神経細胞が有する情報処理容量の不均一性"
+    en: "The heterogeneity of information processing capacity in neurons of the rat auditory cortex"
+    recipients:
+    - "窪田智之"
+    - "伊藤圭基"
+    - "白松（磯口）知世"
+    - "高橋宏知"
+  -
+    id: "award-31"
+    title:
+    ja: "(31) 高橋宏知：2022年度ベストティーチングアワォード，東京大学工学部，2023年3月"
+    en: "(31) Hiroshi Takahashi: 2022 Best Teaching Award, Faculty of Engineering, University of Tokyo, March 2023"
+    recipients:
+    - "高橋宏知"
+  -
+    id: "award-32"
+    title:
+    ja: "げっ歯類の社会的行動に対する音楽の影響"
+    en: "The Effect of Music on Rodent Social Behavior"
+    recipients:
+    - "白松（磯口）知世"
+    - "高橋宏知"
+  -
+    id: "award-33"
+    title:
+    ja: "感覚野における迷走神経刺激療法の動作原理の検証"
+    en: "Validation of the Mechanism of Action of Vagus Nerve Stimulation Therapy in the Sensory Cortex"
+    recipients:
+    - "熊谷真一"
+    - "白松知世"
+    - "川合謙介"
+    - "高橋宏知"
+  -
+    id: "award-34"
+    title:
+    ja: "神経細胞の分散培養系による臨界的物理リザバー計算"
+    en: "Critical Physical Reservoir Computing Using a Distributed Neural Cell Culture System"
+    recipients:
+    - "秋田大"
+    - "池田成満"
+    - "高野雄基"
+    - "高橋宏知"
+  -
+    id: "award-35"
+    title:
+    ja: "微小多点表面電極を用いた聴神経摘出者用脳幹インプラントシステムの開発"
+    en: "Development of a Brainstem Implant System for Individuals with Auditory Nerve Ablation Using Micro Multipoint Surface Electrodes"
+    recipients:
+    - "高橋宏知"
+  -
+    id: "award-36"
+    title:
+    ja: "溶液プロセスによる神経インターフェース用光アドレス電極の開発"
+    en: "Development of optically addressable electrodes for neural interfaces using solution processes"
+    recipients:
+    - "高橋宏知 (代表者)"
+  -
+    id: "award-37"
+    title:
+    ja: "神経情報の横断的解析手法の開発"
+    en: "Development of interdisciplinary analytical methods for neuroinformation"
+    recipients:
+    - "高橋宏知 (代表者)"
+  -
+    id: "award-38"
+    title:
+    ja: "神経回路の形成・修復・活性化をシャーレ上で調べる脳のモデル"
+    en: "A brain model for studying the formation, repair, and activation of neural circuits in a petri dish"
+    recipients:
+    - "高橋宏知 (代表者)"
+    year: 2006
+  -
+    id: "award-39"
+    title:
+    ja: "情動センシング用Brain-Computer Interfaceの基盤技術"
+    en: "Fundamental Technology for Brain-Computer Interface for Affective Sensing"
+    recipients:
+    - "高橋宏知 (代表者)"
+    year: 2008
+  -
+    id: "award-40"
+    title:
+    ja: "培養神経回路に嗅覚受容体たんぱく質を遺伝子発現させた匂いセンサー"
+    en: "Smell sensor with genetically expressed olfactory receptor proteins in a cultured neural circuit."
+    recipients:
+    - "高橋宏知 (代表者)"
+    - "櫻井健志"
+    year: 2011
+  -
+    id: "award-41"
+    title:
+    ja: "神経反応の多様性を利用した創発型バイオコンピューティング"
+    en: "Emergent Biocomputing Utilizing the Diversity of Neural Responses"
+    recipients:
+    - "高橋宏知 (代表者)"
+    year: 2014
+  -
+    id: "award-42"
+    title:
+    ja: "リザーバ・コンピューティングによる脳からの知能の創発"
+    en: "The Emergence of Intelligence from the Brain via Reservoir Computing"
+    recipients:
+    - "高橋宏知 (代表者)"
+    year: 2015
+  -
+    id: "award-43"
+    title:
+    ja: "オーダーメイド医療のための耳鳴診断システムの開発"
+    en: "Development of a Tinnitus Diagnosis System for Personalized Medicine"
+    recipients:
+    - "高橋宏知 (代表者)"
+  -
+    id: "award-44"
+    title:
+    ja: "自発活動する人工ニューラルネットワークの開発"
+    en: "Development of a Self-Activating Artificial Neural Network"
+    recipients:
+    - "高橋宏知 (代表者)"
+    year: 2018
+  -
+    id: "award-45"
+    title:
+    ja: "迷走神経刺激療法が視床・皮質系の情報処理に及ぼす影響"
+    en: "The effects of vagus nerve stimulation therapy on information processing in the thalamocortical system"
+    recipients:
+    - "高橋宏知 (代表者)"
+    year: 2019
+  -
+    id: "award-46"
+    title:
+    ja: "自発活動で自己最適化する計算システム"
+    en: "A computational system that self-optimizes through spontaneous activity."
+    recipients:
+    - "高橋宏知 (代表者)"
+    year: 2023
+  -
+    id: "award-47"
+    title:
+    ja: "脳機能障害のリハビリ支援のためのフィードフォワード・エンハンサ"
+    en: "Feedforward Enhancer for Rehabilitation Support of Brain Function Disorders"
+    recipients:
+    - "高橋宏知(代表者)"
+    year: 2024

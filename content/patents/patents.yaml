@@ -1,0 +1,80 @@
+patents:
+  - id: patent-1
+    title:
+      ja: 代用原音発生器
+      en: Substitute Sound Source Generator
+    inventors:
+      - 畑村洋太郎
+      - 中尾政之
+      - 高橋宏知
+    publicationNumber: 特開平11-266488
+    applicationDate: "1998-03-18"
+    year: 1998
+
+  - id: patent-2
+    title:
+      ja: 代用原音発生器とその制御方法
+      en: Substitute Sound Source Generator and Control Method
+    inventors:
+      - 畑村洋太郎
+      - 中尾政之
+      - 高橋宏知
+    publicationNumber: 特開2001-086583
+    applicationDate: "1999-09-09"
+    year: 1999
+
+  - id: patent-3
+    title:
+      ja: 代用原音発生装置とその制御方法
+      en: Substitute Sound Source Generation Device and Control Method
+    inventors:
+      - 畑村洋太郎
+      - 中尾政之
+      - 高橋宏知
+    publicationNumber: 特開2001-147694
+    applicationDate: "1999-11-18"
+    year: 1999
+
+  - id: patent-4
+    title:
+      ja: てんかん判定装置、てんかん判定システム、てんかん判定方法及びてんかん判定プログラム
+      en: Epilepsy Determination Device, System, Method, and Program
+    inventors:
+      - 高橋宏知
+      - 江間見亜利
+      - 川合謙介
+    applicationNumber: 特願2018-051262
+    publicationNumber: 特開2019-162237
+    grantNumber: 特許第7072771号
+    applicationDate: "2018-03-19"
+    internationalDate: "2019-03-19"
+    year: 2018
+    granted: true
+
+  - id: patent-5
+    title:
+      ja: 聴力検査システムおよび聴力検査方法
+      en: Hearing Test System and Method
+    inventors:
+      - 高橋宏知
+      - 可部泰生
+    applicationNumber: 特願2020-114871
+    publicationNumber: 特開2022-023751
+    grantNumber: 特許7091404
+    applicationDate: "2020-07-02"
+    year: 2020
+    granted: true
+
+  - id: patent-6
+    title:
+      ja: 統計的機械学習のための時系列データの情報処理技術
+      en: Time Series Data Processing Technology for Statistical Machine Learning
+    inventors:
+      - 佐藤可直
+      - 高橋宏知
+      - 池田成満
+    applicationNumber: 特願2020-194716
+    publicationNumber: 特開2022-083335
+    applicationDate: "2020-11-24"
+    year: 2020
+    granted: false

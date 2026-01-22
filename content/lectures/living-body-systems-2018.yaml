@@ -1,0 +1,66 @@
+id: living-body-systems-2018
+slug: living-body-systems-2018
+title:
+  en: Living Body Systems
+  ja: 生命体システム
+instructor:
+  en: Hirokazu Takahashi
+  ja: 高橋宏知
+department:
+  en: Graduate School of Information Science and Technology
+  ja: 大学院情報理工学系研究科
+level:
+  en: Graduate
+  ja: 大学院
+year: 2018
+semester:
+  en: Summer
+  ja: 夏学期
+description:
+  en: A graduate-level course on biological systems covering neuroscience topics including memory, learning, and consciousness.
+  ja: 記憶、学習、意識などの神経科学トピックを扱う大学院レベルの生命体システム講義。
+schedule:
+  dates:
+    - "2018-04-06"
+    - "2018-04-13"
+    - "2018-04-20"
+    - "2018-04-27"
+    - "2018-05-11"
+    - "2018-05-25"
+    - "2018-05-29"
+    - "2018-06-01"
+    - "2018-06-08 (cancelled)"
+    - "2018-06-15 (cancelled)"
+    - "2018-06-22"
+    - "2018-06-29"
+    - "2018-07-06"
+textbook:
+  title:
+    en: "Brain Science for Engineers Vol. 2: Memory, Learning, and Consciousness"
+    ja: 続 メカ屋のための脳科学入門 [記憶・学習/意識編]
+  publisher:
+    en: Nikkan Kogyo Shimbun
+    ja: 日刊工業新聞社
+  year: 2017
+references:
+  - title:
+      en: "Brain Science for Engineers: Reverse Engineering the Brain"
+      ja: メカ屋のための脳科学入門　脳をリバースエンジニアリングする
+    publisher:
+      en: Nikkan Kogyo Shimbun
+      ja: 日刊工業新聞社
+    year: 2016
+assignments:
+  - type: report
+    description:
+      en: |
+        (1) Select a topic from the lectures that interested you, find a related paper from Nature Reviews Neuroscience or Annual Review of Neuroscience, summarize its content, and express your own opinion (free format).
+        (2) Write your opinions and impressions on the entire lecture series.
+      ja: |
+        (1) 講義で興味をもった話題を挙げ，それに関連する論文をNature Reviews NeuroscienceまたはAnnual Review of Neuroscienceから一つ選び，その内容をまとめて，自分の意見を述べなさい（書式自由）。
+        (2) 講義全体を通しての意見や感想を記しなさい。
+    deadline: "2018-07-27"
+    submission:
+      en: Submit to Mechanical Engineering Office, A4 paper
+      ja: 機械系事務室へ提出，A4用紙で作成
+active: false

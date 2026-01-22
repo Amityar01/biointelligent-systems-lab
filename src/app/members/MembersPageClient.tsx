@@ -125,11 +125,19 @@ export function MembersPageClient({ faculty, staff, students, undergraduates, vi
                     <div className="mb-6">
                       <p className="section-label mb-2">{t(texts.education)}</p>
                       <ul className="space-y-1">
-                        {member.education.map((edu) => (
-                          <li key={edu} className="text-sm text-[var(--text-secondary)]">
-                            {edu}
-                          </li>
-                        ))}
+                        {member.education.map((edu, index) => {
+                          // Handle both string and object formats
+                          const eduText = typeof edu === 'string'
+                            ? edu
+                            : (edu as { year?: string; event?: string }).year && (edu as { year?: string; event?: string }).event
+                              ? `${(edu as { year?: string; event?: string }).year} - ${(edu as { year?: string; event?: string }).event}`
+                              : String(edu);
+                          return (
+                            <li key={index} className="text-sm text-[var(--text-secondary)]">
+                              {eduText}
+                            </li>
+                          );
+                        })}
                       </ul>
                     </div>
                   )}

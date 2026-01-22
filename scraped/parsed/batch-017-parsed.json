@@ -1,0 +1,408 @@
+{
+  "batchId": 17,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "parsedAt": "2026-01-22T02:51:38.696Z",
+  "items": [
+    {
+      "type": "presentation",
+      "title": "ニューロリハビリテーション",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2006,
+      "conference": "ニューロテクノロジーセミナー",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(1) 高橋宏知: 「ニューロリハビリテーション」，ニューロテクノロジーセミナー (産業技術総合研究所脳神経情報研究部門ニューロテクノロジー研究グループ，つくば，2006年6月30日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2006----365"
+    },
+    {
+      "type": "presentation",
+      "title": "聴皮質の情報表現と可塑性",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2008,
+      "conference": "マルチニューロン研究会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(2) 高橋宏知：「聴皮質の情報表現と可塑性」，マルチニューロン研究会 (京都，2008年9月9日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2008----366"
+    },
+    {
+      "type": "presentation",
+      "title": "情報理論やパターン認識手法による聴皮質の神経活動の解析",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2008,
+      "conference": "NTTコミュニケーション科学基礎研究所人間情報研究部",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(3) 高橋宏知: 「情報理論やパターン認識手法による聴皮質の神経活動の解析」，NTTコミュニケーション科学基礎研究所人間情報研究部 (厚木，2008年10月21日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2008----367"
+    },
+    {
+      "type": "presentation",
+      "title": "大脳皮質のリバースエンジニアリング",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "conference": "株式会社デンソー基礎研究所",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(4) 高橋宏知: 「大脳皮質のリバースエンジニアリング」，株式会社デンソー基礎研究所 (刈谷，2011年1月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2011----368"
+    },
+    {
+      "type": "presentation",
+      "title": "聴皮質の神経活動の多様性と可塑性",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2011,
+      "conference": "NTTコミュニケーション科学基礎研究所人間情報研究部",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(5) 高橋宏知: 「聴皮質の神経活動の多様性と可塑性」，NTTコミュニケーション科学基礎研究所人間情報研究部 (厚木，2011年5月18日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2011----369"
+    },
+    {
+      "type": "presentation",
+      "title": "微小電極アレイによる大脳皮質の情報処理機構の探求",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "conference": "株式会社 ホンダ・リサーチ・インスティチュート・ジャパン",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(6) 高橋宏知:「微小電極アレイによる大脳皮質の情報処理機構の探求」，株式会社 ホンダ・リサーチ・インスティチュート・ジャパン (和光，2013年9月12日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2013----370"
+    },
+    {
+      "type": "presentation",
+      "title": "音の質感と情動情報の神経基盤",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2013,
+      "conference": "質感ウェブセミナー",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(7) 高橋宏知：「音の質感と情動情報の神経基盤」，質感ウェブセミナー (2013年12月20日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2013----371"
+    },
+    {
+      "type": "presentation",
+      "title": "マルチ・スケールな神経活動パターンに基づく脳のリバース・エンジニアリング",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2014,
+      "conference": "次世代精密工学懇談会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(8) 高橋宏知：「マルチ・スケールな神経活動パターンに基づく脳のリバース・エンジニアリング」，次世代精密工学懇談会 (本郷，2014年9月3日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2014----372"
+    },
+    {
+      "type": "presentation",
+      "title": "時空間的な神経活動パターンの多様性と秩序",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2015,
+      "conference": "国立研究開発法人放射線医学総合研究所分子イメージング研究センター",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(9) 高橋宏知：「時空間的な神経活動パターンの多様性と秩序」，国立研究開発法人放射線医学総合研究所分子イメージング研究センター (稲毛，2015年12月8日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2015----373"
+    },
+    {
+      "type": "presentation",
+      "title": "神経活動パターンの多様性と秩序：知性と芸術の源泉を探る",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2016,
+      "conference": "新潟脳神経研究会特別例会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(10) 高橋宏知：「神経活動パターンの多様性と秩序：知性と芸術の源泉を探る」，新潟脳神経研究会特別例会 (新潟大学 脳研究所 大学院特別講義) (新潟，2016年2月17日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2016----374"
+    },
+    {
+      "type": "presentation",
+      "title": "神経活動パターンの多様性と秩序",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2016,
+      "conference": "京都大学 iPS細胞研究所",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(11) 高橋宏知：「神経活動パターンの多様性と秩序」，京都大学 iPS細胞研究所 (京都，2016年3月7日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2016----375"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学入門　脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2016,
+      "conference": "38th Progress Conference, プログレステクノロジーズ株式会社",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(12) 高橋宏知：「メカ屋のための脳科学入門　脳をリバースエンジニアリングする」，38th Progress Conference, プログレステクノロジーズ株式会社 (東京，2016年4月9日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2016----376"
+    },
+    {
+      "type": "presentation",
+      "title": "知性と感性を生み出す脳の仕組み",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2016,
+      "conference": "電子情報技術産業協会 第２回感性センシング技術分科会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(13) 高橋宏知：「知性と感性を生み出す脳の仕組み」，電子情報技術産業協会 第２回感性センシング技術分科会 (東京，2016年7月28日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2016----377"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋の脳科学：知能と意識の創発機構",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2016,
+      "conference": "日立東大ラボ",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(14) 高橋宏知：「メカ屋の脳科学：知能と意識の創発機構」，日立東大ラボ (東京，2016年9月1日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2016----378"
+    },
+    {
+      "type": "presentation",
+      "title": "知能を創発する脳のメカニズム",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2016,
+      "conference": "富士電機",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(15) 高橋宏知：「知能を創発する脳のメカニズム」，富士電機（株）―東京大学先端科学技術研究センター　第二回交流会プログラム (東京，2016年10月7日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2016----379"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学入門",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2017,
+      "conference": "第117回 技術の創造研究会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(16) 高橋宏知：「メカ屋のための脳科学入門」，第117回 技術の創造研究会 (東京，2017年1月13日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2017----380"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋のための脳科学入門－脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2017,
+      "conference": "2016年度 第54期東京エレクトロン株式会社 畑村塾",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(17) 高橋宏知：「メカ屋のための脳科学入門－脳をリバースエンジニアリングする」，2016年度 第54期東京エレクトロン株式会社 畑村塾 (東京，2017年2月10日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2017----381"
+    },
+    {
+      "type": "presentation",
+      "title": "神経細胞のネットワーク構築とそこから創発する知能のメカニズム",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "第18回ナノテク高機能テキスタイル基盤技術研究会",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(18) 高橋宏知：「神経細胞のネットワーク構築とそこから創発する知能のメカニズム」，第18回ナノテク高機能テキスタイル基盤技術研究会（上田，2017年7月28日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----382"
+    },
+    {
+      "type": "presentation",
+      "title": "自発活動する計算機",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "第18回Kフォーラム",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(19) 高橋宏知：「自発活動する計算機」，第18回Kフォーラム（公共財団法人栢森情報科学振興財団）（高山，2017年8月17日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----383"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋の脳科学：脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2017,
+      "conference": "東京大学先端科学技術研究センター教授会セミナー",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(20) 高橋宏知：「メカ屋の脳科学：脳をリバースエンジニアリングする」，東京大学先端科学技術研究センター教授会セミナー (東京，2017年10月4日)",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "2017----384"
+    },
+    {
+      "type": "presentation",
+      "title": "次世代のAI技術を脳科学から考える：人工知能 vs. 生命知能",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "日産自動車「2017年度 第26回 説の会」",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(21) 高橋宏知：「次世代のAI技術を脳科学から考える：人工知能 vs. 生命知能」，日産自動車「2017年度 第26回 説の会」（横浜，2017年10月16日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---ai-vs--385"
+    },
+    {
+      "type": "presentation",
+      "title": "メカ屋の脳科学－脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "産業技術総合研究所 創薬基盤研究部門 ステムセルバイオテクノロジー研究グループ 木田泰之研究室",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(22) 高橋宏知：「メカ屋の脳科学－脳をリバースエンジニアリングする」，産業技術総合研究所 創薬基盤研究部門 ステムセルバイオテクノロジー研究グループ 木田泰之研究室（つくば，2017年12月1日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----386"
+    },
+    {
+      "type": "presentation",
+      "title": "人工知能 vs. 生命知能－脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "新エネルギー・産業技術総合開発機構",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(23) 高橋宏知：「人工知能 vs. 生命知能－脳をリバースエンジニアリングする」，新エネルギー・産業技術総合開発機構（NEDO） 技術戦略研究センター ニューロモーフィックコンピューティング勉強会（東京，2017年12月8日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---vs--387"
+    },
+    {
+      "type": "presentation",
+      "title": "人工知能 vs. 生命知能：脳をリバースエンジニアリングする",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "東京エレクトロンテクノロジーソリューションズ株式会社",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(24) 高橋宏知：「人工知能 vs. 生命知能：脳をリバースエンジニアリングする」，東京エレクトロンテクノロジーソリューションズ株式会社（韮崎，2017年12月13日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown---vs--388"
+    },
+    {
+      "type": "presentation",
+      "title": "自発活動しながら，自己組織化する計算機",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "conference": "電気通信大学 田中繁研究室",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(25) 高橋宏知：「自発活動しながら，自己組織化する計算機」，電気通信大学 田中繁研究室（調布，2017年12月19日）",
+      "language": "ja",
+      "category": "seminars",
+      "_valid": true,
+      "id": "unknown----389"
+    }
+  ]
+}

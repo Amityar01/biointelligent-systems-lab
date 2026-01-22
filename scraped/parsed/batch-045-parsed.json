@@ -1,0 +1,419 @@
+{
+  "batchId": 45,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "parsedAt": "2026-01-22T02:54:03.269Z",
+  "items": [
+    {
+      "title": "大脳皮質の『神経ダーウィニズム仮説』を後押しする証拠を発見",
+      "authors": [
+        "東大",
+        "大脳皮質の『神経ダーウィニズム仮説』を後押しする証拠を発見"
+      ],
+      "year": 2013,
+      "journal": "Yahoo Japanニュース（IT・科学）",
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(17) 「東大、大脳皮質の『神経ダーウィニズム仮説』を後押しする証拠を発見」，Yahoo Japanニュース（IT・科学），2013年7月18日(木)10時12分配信 (マイナビニュース)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013----1065"
+    },
+    {
+      "title": "「試行錯誤段階，脳が活発　学習時の活動　東大，ラット実験」",
+      "authors": [
+        "「試行錯誤段階，脳が活発　学習時の活動　東大，ラット実験」"
+      ],
+      "year": 2013,
+      "journal": "日経産業新聞 (朝刊9面)",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(18) 「試行錯誤段階，脳が活発　学習時の活動　東大，ラット実験」，日経産業新聞 (朝刊9面)，2013年7月16日",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1066"
+    },
+    {
+      "title": "「脳神経信号の伝わり方　日や部位で速度変化　東大が解明」",
+      "authors": [
+        "「脳神経信号の伝わり方　日や部位で速度変化　東大が解明」"
+      ],
+      "year": 2013,
+      "journal": "日経産業新聞 (朝刊8面)",
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(19) 「脳神経信号の伝わり方　日や部位で速度変化　東大が解明」，日経産業新聞 (朝刊8面)，2013年7月23日",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013----1067"
+    },
+    {
+      "title": "神経回路内の複雑な活動電位の伝播の様子を可視化することに成功",
+      "authors": [
+        "東大など"
+      ],
+      "year": 2013,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(20) 「東大など、神経回路内の複雑な活動電位の伝播の様子を可視化することに成功」，Yahoo Japanニュース（IT・科学），2013年7月22日(月)17時9分配信 (マイナビニュース)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013----1068"
+    },
+    {
+      "title": "脳内の神経信号の伝播速度を可視化",
+      "authors": [
+        "東大他"
+      ],
+      "year": 2013,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(21) 「東大他、脳内の神経信号の伝播速度を可視化」，WEBジャーナル OPTRONICS，2013年7月22日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1069"
+    },
+    {
+      "title": "東大最前線，神経ダーウィニズム，広い観察で従来説覆す",
+      "authors": [
+        "東大最前線，神経ダーウィニズム，広い観察で従来説覆す"
+      ],
+      "year": 2013,
+      "journal": "東京大学新聞",
+      "pages": "3面",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(22) 「東大最前線，神経ダーウィニズム，広い観察で従来説覆す」，東京大学新聞 (3面)，2013年8月6日",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1070"
+    },
+    {
+      "title": "高感度嗅覚センサー，東大イヌ並み性能めざす，医療用想定",
+      "authors": [
+        "高感度嗅覚センサー，東大イヌ並み性能めざす，医療用想定"
+      ],
+      "year": 2013,
+      "type": "newspaper",
+      "_source": "ollama",
+      "_raw": "(23) 「高感度嗅覚センサー，東大イヌ並み性能めざす，医療用想定」，日本経済新聞 (夕刊3面)，2013年8月21日",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: newspaper"
+      ],
+      "id": "2013----1071"
+    },
+    {
+      "title": "神经信号の速度は変化する",
+      "authors": [
+        "サイエンスポータル編集ニュース"
+      ],
+      "year": 2013,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(24) 「2013年8月22日 神経信号の速度は変化する」，サイエンスポータル編集ニュース，2013年8月22日",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2013----1072"
+    },
+    {
+      "title": "『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』",
+      "authors": [
+        "「脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』」"
+      ],
+      "year": 2016,
+      "type": "book",
+      "_source": "ollama",
+      "_raw": "(25) 「脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』」，HONZ – 読みたい本が、きっと見つかる！，2016年4月5日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2016----1073"
+    },
+    {
+      "title": "『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』",
+      "authors": [
+        "「脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』」"
+      ],
+      "year": 2016,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(26) 「脳科学について知りたい⼈へ最初に渡したい⼀冊―『メカ屋のための脳科学⼊⾨-脳をリバースエンジニアリングする-』」，Yahoo Japan ニュース（ライフ），2016年4月5日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2016----1074"
+    },
+    {
+      "title": "メカ屋のための脳科学入門",
+      "authors": [
+        "「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」"
+      ],
+      "year": 2016,
+      "journal": "JB Press (Japan Buisiness Press)",
+      "type": "book",
+      "_source": "ollama",
+      "_raw": "(27) 「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」，JB Press (Japan Buisiness Press)，2016年4月12日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2016-honz---1075"
+    },
+    {
+      "title": "「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」",
+      "authors": [
+        "「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」"
+      ],
+      "year": 2016,
+      "type": "book",
+      "_source": "ollama",
+      "_raw": "(28) 「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」，@nifty ニュース，2016年4月12日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2016-honz--honz--1076"
+    },
+    {
+      "title": "「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」",
+      "authors": [
+        "「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」"
+      ],
+      "year": 2016,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(29) 「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」，goo ニュース，2016年4月12日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2016-honz--honz--1077"
+    },
+    {
+      "title": "「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」",
+      "authors": [
+        "「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」"
+      ],
+      "year": 2016,
+      "journal": "Yahoo ニュース（ビジネス）",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(30) 「物理が大好きな学生に脳科学を教えたらこうなった 　HONZ特選本『メカ屋のための脳科学入門』」，Yahoo ニュース（ビジネス），2016年4月12日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2016-honz--honz--1078"
+    },
+    {
+      "title": "メカ屋のための脳科学入門-脳をリバースエンジニアリングする",
+      "authors": [
+        "森山和道"
+      ],
+      "year": 2016,
+      "type": "journal",
+      "_source": "ollama",
+      "_raw": "(31) 日経サイエンス2016年7月号「森山和道の読書日記」(pp. 126-127) で「メカ屋のための脳科学入門-脳をリバースエンジニアリングする」の紹介記事",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2016----1079"
+    },
+    {
+      "title": "神は雲の中にあらわれる第188回　人間機械論2016　人も，ロボットも，コンピューターも，工場や，社会も，みんなひとつになぁれ（遠藤諭）",
+      "authors": [
+        "週刊アスキー"
+      ],
+      "year": 2016,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(32) 週刊アスキー2016年12月号「神は雲の中にあらわれる第188回　人間機械論2016　人も，ロボットも，コンピューターも，工場や，社会も，みんなひとつになぁれ（遠藤諭）」(pp. 13-15) で「メカ屋のための脳科学入門-脳をリバースエンジニアリングする」の紹介記事",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2016---188-2016--1080"
+    },
+    {
+      "title": "てんかん発作の予測に期待-理研と東大、神経の自発同期バーストの予兆検出",
+      "authors": [
+        "てんかん発作の予測に期待-理研と東大、神経の自発同期バーストの予兆検出"
+      ],
+      "year": 2017,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(33) 「てんかん発作の予測に期待-理研と東大、神経の自発同期バーストの予兆検出」，マイナビニュース (2017年8月23日（水）9時55分配信)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2017----1081"
+    },
+    {
+      "title": "神経ネットワークの大規模な「バースト」発生を予測する技術を開発",
+      "authors": [
+        "理研と東大"
+      ],
+      "year": 2017,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(34) 「理研と東大，神経ネットワークの大規模な「バースト」発生を予測する技術を開発」，日本経済新聞電子版，2017年8月22日",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2017----1082"
+    },
+    {
+      "title": "「産官学諤　機械工学的なアプローチが脳研究を進める」",
+      "authors": [
+        "「産官学諤　機械工学的なアプローチが脳研究を進める」"
+      ],
+      "year": 2017,
+      "journal": "研究応援",
+      "pages": "12-13",
+      "type": "journal",
+      "_source": "ollama",
+      "_raw": "(35) 「産官学諤　機械工学的なアプローチが脳研究を進める」，研究応援 7 (2017.09): pp. 12-13, 2017",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2017----1083"
+    },
+    {
+      "title": "AIよりももっとスゴい脳を意識してみる－続 メカ屋のための脳科学入門-記憶・学習/意識 編（推薦：鈴木健一）",
+      "authors": [
+        "AIよりももっとスゴい脳を意識してみる－続 メカ屋のための脳科学入門-記憶・学習/意識 編（推薦：鈴木健一）"
+      ],
+      "year": 2017,
+      "journal": "ビジネスを面白くするナレッジライブラリGLOBIS 知見禄（冬休みに読んでおきたいビジネス書5選－グロービス経営大学院教員が選ぶ）",
+      "type": "book",
+      "_source": "ollama",
+      "_raw": "(36) 「AIよりももっとスゴい脳を意識してみる－続 メカ屋のための脳科学入門-記憶・学習/意識 編（推薦：鈴木健一）」，ビジネスを面白くするナレッジライブラリGLOBIS 知見禄（冬休みに読んでおきたいビジネス書5選－グロービス経営大学院教員が選ぶ），2017年12月29日配信(https://globis.jp/article/6085)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2017-ai-ai--1084"
+    },
+    {
+      "title": "脳科学を，もっと深く",
+      "authors": [
+        "脳科学を，もっと深く（松村正人）"
+      ],
+      "year": 2018,
+      "type": "journal",
+      "_source": "ollama",
+      "_raw": "(37) 「脳科学を，もっと深く（松村正人）」，花椿 No. 818 SPRING ISSUE 2018, pp. 26-27, 2018 (2018年1月15日発行，資生堂)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2018----1085"
+    },
+    {
+      "title": "『脳神経科学と汎用人工知能』",
+      "authors": [
+        "「N高等学校、社会で必要とされるAI人材の育成を目指して ドワンゴ人工知能研究所提供の動画教材『脳神経科学と汎用人工知能』 を10月15日にN予備校にて公開」"
+      ],
+      "year": 2018,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(38) 「N高等学校、社会で必要とされるAI人材の育成を目指して ドワンゴ人工知能研究所提供の動画教材『脳神経科学と汎用人工知能』 を10月15日にN予備校にて公開」，学校法人角川ドワンゴ学園N高等学校(2018年10月15日) (https://nnn.ed.jp/news/blog/archives/5872.html)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2018-nai1015n---1086"
+    },
+    {
+      "title": "人工知能で脳波からてんかん発作を自動検出",
+      "authors": [
+        "東大・自治医科大・NICT"
+      ],
+      "year": 2019,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(39) 「東大・自治医科大・NICT、人工知能で脳波からてんかん発作を自動検出」，日本経済新聞電子版（2019年1月31日配信）",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2019-nict---1087"
+    },
+    {
+      "title": "てんかん発作、脳波から自動検出できるAI開発",
+      "authors": [
+        "東大などの研究班",
+        "専門医不足地域でも診断可能に"
+      ],
+      "year": 2019,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(40) 「てんかん発作、脳波から自動検出できるAI開発 - 東大などの研究班、専門医不足地域でも診断可能に」，医療・介護CBニュース（2019年2月4日(月) 16:10配信）",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2019---ai--1088"
+    },
+    {
+      "title": "「脳波からてんかん発作を自動検出する人工知能を開発－東大ら」",
+      "authors": [
+        "「脳波からてんかん発作を自動検出する人工知能を開発－東大ら」"
+      ],
+      "year": 2019,
+      "type": "journal",
+      "_source": "ollama",
+      "_raw": "(41) 「脳波からてんかん発作を自動検出する人工知能を開発－東大ら」，QLifePro医療ニュース（2019年2月3日配信）",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2019----1089"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "batchId": 47,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "parsedAt": "2026-01-22T02:55:45.143Z",
+  "items": [
+    {
+      "title": "Real-time multipoint measurement of brain functions using ultra-precise electrodes: Development of auditory function recovering technology.",
+      "authors": [
+        "“Real-time multipoint measurement of brain functions using ultra-precise electrodes: Development of auditory function recovering technology.”"
+      ],
+      "year": 2004,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(2) “Real-time multipoint measurement of brain functions using ultra-precise electrodes: Development of auditory function recovering technology.” The 21st century COE program mechanical system innovation, Newsletter No. 3E, 2004年11月1日発行",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2004-realtimemultipo-real-time-multipoint-measureme-1115"
+    },
+    {
+      "title": "スイス大使館，科学技術部，2013年7月18日配信",
+      "authors": [
+        "Neuroscience Research Collaboration between ETHZ, University of Tokyo and RIKEN"
+      ],
+      "year": 2013,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(3) 「Neuroscience Research Collaboration between ETHZ, University of Tokyo and RIKEN」，スイス大使館，科学技術部，2013年7月18日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2013-neuroscienceres--2013-7-18--1116"
+    },
+    {
+      "title": "Haste and waste on neuronal pathways",
+      "authors": [
+        "Haste and waste on neuronal pathways"
+      ],
+      "year": 2013,
+      "type": "journal",
+      "_source": "ollama",
+      "_raw": "(4) 「Haste and waste on neuronal pathways」，ETH Life (Science)，2013年7月19日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2013-hasteandwasteon-haste-and-waste-on-neuronal-pa-1117"
+    },
+    {
+      "title": "Haste and waste on neuronal pathways",
+      "authors": [
+        "Haste and waste on neuronal pathways"
+      ],
+      "year": 2013,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(5) 「Haste and waste on neuronal pathways」，MedicalXpress，2013年7月19日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013-hasteandwasteon-haste-and-waste-on-neuronal-pa-1118"
+    },
+    {
+      "title": "Haste and waste on neuronal pathways",
+      "authors": [
+        "Haste and waste on neuronal pathways"
+      ],
+      "year": 2013,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(6) 「Haste and waste on neuronal pathways」，Science Daily，2013年7月19日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013-hasteandwasteon-haste-and-waste-on-neuronal-pa-1119"
+    },
+    {
+      "title": "「11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level」",
+      "authors": [
+        "John Hewitt"
+      ],
+      "year": 2013,
+      "journal": "Extreme Tech",
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(7) 「11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level (By John Hewitt)」, Extreme Tech，2013年7月22日配信\n(http://www.extremetech.com/extreme/161902-11000-electrode-reprogrammable-chip-takes-brain-computer-interfaces-to-a-new-level#disqus_thread)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013-johnhewitt--11-000-electrode-reprogrammab-1120"
+    },
+    {
+      "title": "GGeshwindikeit",
+      "authors": [
+        "Reizweiterleitung",
+        "Kein Tempolimit im Kopf",
+        "Neurone leiten Signale mit unterschiedlicher Geschwindigkeit"
+      ],
+      "year": 2013,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(8) 「Reizweiterleitung, Kein Tempolimit im Kopf, Neurone leiten Signale mit unterschiedlicher Geschwindigkeit」，GGeshwindikeit，2013年7月23日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2013-reizweiterleitu-ggeshwindikeit-1121"
+    },
+    {
+      "title": "「Measuring neuronal signal conduction reveals haste and waste」",
+      "authors": [
+        "「Measuring neuronal signal conduction reveals haste and waste」"
+      ],
+      "year": 2013,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(9) 「Measuring neuronal signal conduction reveals haste and waste」，Medical News Today，2013年7月23日配信",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2013-measuringneuron--measuring-neuronal-signal-con-1122"
+    },
+    {
+      "title": "「11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level」",
+      "authors": [
+        "「11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level」"
+      ],
+      "year": 2013,
+      "journal": "Strategitic Social Initiative",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(10) 「11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level」, 2045 Strategitic Social Initiative, 2013年7月23日配信 (http://2045.com/news/31776.html)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2013-11000electroder--11-000-electrode-reprogrammab-1123"
+    },
+    {
+      "title": "Teaching Robots to Think Like Us",
+      "authors": [
+        "Teaching Robots to Think Like Us"
+      ],
+      "year": 2021,
+      "journal": "AIP publishing",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(11) 「Teaching Robots to Think Like Us」，AIP publishing, 2021年10月26日 (https://publishing.aip.org/publications/latest-content/teaching-robots-to-think-like-us/ )",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2021-teachingrobotst-teaching-robots-to-think-like--1124"
+    },
+    {
+      "title": "'Thinking' robot with neurons grown in a lab from living brain cells is taught to steer its way around walls and obstacles (By JONATHAN CHADWICK FOR MAILONLINE)",
+      "authors": [
+        "'Thinking' robot with neurons grown in a lab from living brain cells is taught to steer its way around walls and obstacles (By JONATHAN CHADWICK FOR MAILONLINE)"
+      ],
+      "year": 2021,
+      "journal": "Mail Online Science ＆Tech",
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(12) 「'Thinking' robot with neurons grown in a lab from living brain cells is taught to steer its way around walls and obstacles (By JONATHAN CHADWICK FOR MAILONLINE)」，Mail Online Science ＆Tech, 2021年10月27日配信 (https://www.dailymail.co.uk/sciencetech/article-10132249/Japanese-robot-uses-neurons-grown-lab-avoid-obstacles.html)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2021-thinkingrobotwi--thinking-robot-with-neurons-g-1125"
+    },
+    {
+      "title": "Scientists raise alarm as world’s first ‘thinking’ robot with BRAIN created",
+      "authors": [
+        "SEBASTIAN KETTLEY"
+      ],
+      "year": 2021,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(13) 「Scientists raise alarm as world’s first ‘thinking’ robot with BRAIN created (By SEBASTIAN KETTLEY)」, Express, 2021年10月27日配信(https://www.express.co.uk/news/science/1513193/science-news-world-first-thinking-robot-brain-neurons-japan-artificial-intelligence-ai)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2021-sebastiankettle-scientists-raise-alarm-as-worl-1126"
+    },
+    {
+      "title": "Teaching robots to think like us",
+      "authors": [
+        "Staff Writers"
+      ],
+      "year": 2021,
+      "journal": "Space Daily",
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(14) 「Teaching robots to think like us (by Staff Writers)」, Space Daily, 2021年10月27日配信 (https://www.spacedaily.com/reports/Teaching_robots_to_think_like_us_999.html)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2021-staffwriters-teaching-robots-to-think-like--1127"
+    },
+    {
+      "title": "Japan Develops 'Thinking Robot' Through Physical Reservoir Computing; Learns and Moves by Artifical Neurons",
+      "authors": [
+        "Ron Jefferson"
+      ],
+      "year": 2021,
+      "journal": "The Science Times",
+      "type": "journal",
+      "_source": "ollama",
+      "_raw": "(15) 「Japan Develops 'Thinking Robot' Through Physical Reservoir Computing; Learns and Moves by Artifical Neurons (Ron Jefferson)」，The Science Times, 2021年10月27日配信 (https://www.sciencetimes.com/articles/34184/20211027/japan-develops-thinking-robot-through-physical-reservoir-computing-learns-moves.htm)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2021-ronjefferson-japan-develops-thinking-robot--1128"
+    },
+    {
+      "title": "FORCE Physical Reservoir Computing Uses Living Neurons to Teach Robots to \"Think\" Like Humans Do",
+      "authors": [
+        "Gareth Halfacree"
+      ],
+      "year": 2021,
+      "journal": "Hackster.io",
+      "type": "website",
+      "_source": "ollama",
+      "_raw": "(16) 「FORCE Physical Reservoir Computing Uses Living Neurons to Teach Robots to \"Think\" Like Humans Do (Gareth Halfacree)」, Hackster.io, 2021年10月27日配信 (https://www.hackster.io/news/force-physical-reservoir-computing-uses-living-neurons-to-teach-robots-to-think-like-humans-do-bff76497c01b)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: website"
+      ],
+      "id": "2021-garethhalfacree-force-physical-reservoir-compu-1129"
+    },
+    {
+      "title": "Rats bop to the beat",
+      "authors": [
+        "Rats bop to the beat"
+      ],
+      "year": 2022,
+      "journal": "EurekAlert (AAAS)",
+      "type": "news release",
+      "_source": "ollama",
+      "_raw": "(17) “Rats bop to the beat” EurekAlert (AAAS) , 2022年11月11日\n(https://www.eurekalert.org/news-releases/970876)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news release"
+      ],
+      "id": "2022-ratsboptothebea-rats-bop-to-the-beat-1130"
+    },
+    {
+      "title": "Rats bop to the beat of music including Lady Gaga and Queen like humans, study says",
+      "authors": [
+        "Rats bop to the beat of music including Lady Gaga and Queen like humans, study says"
+      ],
+      "year": 2022,
+      "journal": "ABC NEWS",
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(18) “Rats bop to the beat of music including Lady Gaga and Queen like humans, study says” ABC NEWS, 2022年11月14日\n(https://www.abc.net.au/news/2022-11-14/rats-bop-to-the-beat-like-humans-study-says/101649744)，",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2022-ratsboptothebea-rats-bop-to-the-beat-of-music--1131"
+    },
+    {
+      "title": "New Scientist",
+      "authors": [
+        "Rats bop to the beat of Lady Gaga, Queeen and Mozart, just like humans"
+      ],
+      "year": 2022,
+      "type": "journal",
+      "_source": "ollama",
+      "_raw": "(19) “Rats bop to the beat of Lady Gaga, Queeen and Mozart, just like humans” New Scientist, 2022年11月14日 (https://www.youtube.com/watch?v=sUjzbwv1FW0)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": true,
+      "id": "2022-ratsboptothebea-new-scientist-1132"
+    },
+    {
+      "title": "Slaves to the rhythm: rats can’t resist a good beat, researchers say",
+      "authors": [
+        "The Guardian"
+      ],
+      "year": 2022,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(20) “Slaves to the rhythm: rats can’t resist a good beat, researchers say” The Guardian, 2022年11月14日(https://www.theguardian.com/science/2022/nov/11/rat-instictively-move-time-music-ability-previously-thought-uniquely-human-study)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2022-theguardian-slaves-to-the-rhythm-rats-can--1133"
+    },
+    {
+      "title": "Study",
+      "authors": [
+        "Rats have rhythm like humans and like music like Lady Gaga",
+        "Queen"
+      ],
+      "year": 2022,
+      "journal": "New York Post",
+      "type": "news article",
+      "_source": "ollama",
+      "_raw": "(21) “Rats have rhythm like humans and like music like Lady Gaga, Queen: Study” New York Post, 2022年11月14日\n(https://nypost.com/2022/11/13/rats-have-rhythm-like-humans-and-like-music-like-lady-gaga-queen-study/)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news article"
+      ],
+      "id": "2022-ratshaverhythml-study-1134"
+    },
+    {
+      "title": "The rodent has innate tempo in the brain, scientists discover",
+      "authors": [
+        "Rats 'have rhythm and can dance to Lady Gaga' The rodent has innate tempo in the brain, scientists discover"
+      ],
+      "year": 2022,
+      "journal": "The Telegraph",
+      "type": "news article",
+      "_source": "ollama",
+      "_raw": "(22) “Rats 'have rhythm and can dance to Lady Gaga' The rodent has innate tempo in the brain, scientists discover” The Telegraph, 2022年11月14日\n(https://www.telegraph.co.uk/news/2022/11/11/rats-have-rhythm-can-dance-lady-gaga/)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news article"
+      ],
+      "id": "2022-ratshaverhythma-the-rodent-has-innate-tempo-in-1135"
+    },
+    {
+      "title": "Rats also ‘bop their heads’ when they listen to Queen",
+      "authors": [
+        "El Pais"
+      ],
+      "year": 2022,
+      "type": "news article",
+      "_source": "ollama",
+      "_raw": "(23) “Rats also ‘bop their heads’ when they listen to Queen” El Pais, 2022年11月16日 (https://english.elpais.com/science-tech/2022-11-16/rats-also-bop-their-heads-when-they-listen-to-queen.html)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news article"
+      ],
+      "id": "2022-elpais-rats-also-bop-their-heads-when-1136"
+    },
+    {
+      "title": "Rats Move to Musical Beat as Humans Do, New Study Suggests",
+      "authors": [
+        "Rats Move to Musical Beat as Humans Do, New Study Suggests"
+      ],
+      "year": 2022,
+      "journal": "The Wall Street Journal",
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(24) “Rats Move to Musical Beat as Humans Do, New Study Suggests” The Wall Street Journal, 2022年11月11日 (https://www.wsj.com/articles/rats-move-music-beat-11668186204)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2022-ratsmovetomusic-rats-move-to-musical-beat-as-h-1137"
+    },
+    {
+      "title": "Lady Gaga for rats. They bopped their heads like humans.",
+      "authors": [
+        "Researchers"
+      ],
+      "year": 2022,
+      "type": "news article",
+      "_source": "ollama",
+      "_raw": "(25) “Researchers played Lady Gaga for rats. They bopped their heads like humans.” USA Today, 2022年11月14日\n(https://www.usatoday.com/story/news/nation/2022/11/14/rats-music-study-lady-gaga-michael-jackson/10692876002/)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news article"
+      ],
+      "id": "2022-researchers-lady-gaga-for-rats-they-bopped-1138"
+    },
+    {
+      "title": "Born this way: rats move to beat of Lady Gaga, study says",
+      "authors": [
+        "AFP"
+      ],
+      "year": 2022,
+      "type": "news",
+      "_source": "ollama",
+      "_raw": "(26) “Born this way: rats move to beat of Lady Gaga, study says” AFP, 2022年11月15日\n(https://www.france24.com/en/live-news/20221115-born-this-way-rats-move-to-beat-of-lady-gaga-study-says)",
+      "language": "ja",
+      "category": "seminars",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: news"
+      ],
+      "id": "2022-afp-born-this-way-rats-move-to-bea-1139"
+    }
+  ]
+}

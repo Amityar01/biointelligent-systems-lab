@@ -1,0 +1,496 @@
+{
+  "batchId": 59,
+  "category": "poster",
+  "categoryTitle": "ポスター発表 (Poster Presentation)",
+  "parsedAt": "2026-01-22T03:02:37.233Z",
+  "items": [
+    {
+      "title": "Assessing the effects of Stimulation on self-organized criticality in developing dissociated neuronal cultures using high density electrodes",
+      "authors": [
+        "Amit Yaron",
+        "Zhuo Zhang",
+        "Eisuke Suwa",
+        "Zenas C. Chao",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2022,
+      "journal": "Neuro2022（第45回日本神経科学大会）",
+      "pages": "#2P-297",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(101) Amit Yaron, Zhuo Zhang, Eisuke Suwa, Zenas C. Chao, Hirokazu Takahashi：「Assessing the effects of Stimulation on self-organized criticality in developing dissociated neuronal cultures using high density electrodes」，Neuro2022（第45回日本神経科学大会）：#2P-297，2022 (那覇，2022年7月1日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2022-amityaron-assessing-the-effects-of-stimu-1406"
+    },
+    {
+      "title": "情動に対する音楽の影響を動物モデルで調べるための実験系",
+      "authors": [
+        "山木崚太郎",
+        "白松（磯口）知世",
+        "石田直輝",
+        "高橋宏知"
+      ],
+      "year": 2022,
+      "journal": "Neuro2022（第45回日本神経科学大会）",
+      "volume": "#3P-035",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(102) 山木崚太郎，白松（磯口）知世，石田直輝，高橋宏知：「情動に対する音楽の影響を動物モデルで調べるための実験系」，Neuro2022（第45回日本神経科学大会）：#3P-035，2022 (那覇，2022年7月2日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2022----1407"
+    },
+    {
+      "title": "Memory Traces in Dissociated Cultures of Neurons",
+      "authors": [
+        "Zhuo Zhang",
+        "Amit Yaron",
+        "Suwa Eisuke",
+        "Tomoyo Isoguchi Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2022,
+      "journal": "Neuro2022（第45回日本神経科学大会）",
+      "issue": "#3P-226",
+      "pages": null,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(103) Zhuo Zhang, Amit Yaron, Suwa Eisuke, Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi：「Memory Traces in Dissociated Cultures of Neurons」，Neuro2022（第45回日本神経科学大会）：#3P-226，2022 (那覇，2022年7月2日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2022-zhuozhang-memory-traces-in-dissociated-c-1408"
+    },
+    {
+      "title": "Direction of Multisensory Illusion is Influenced by Stimulus Detectability",
+      "authors": [
+        "Hexin Xu",
+        "Amit Yaron",
+        "Tomoyo Isoguchi Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2022,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(104) Hexin Xu, Amit Yaron, Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi：「Direction of Multisensory Illusion is Influenced by Stimulus Detectability」2022年電気学会電子・情報・システム部門大会講演論文集: pp. 1355-1356 (PS1-14), 2022 (広島，2022年8月31日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2022-hexinxu-direction-of-multisensory-illu-1409"
+    },
+    {
+      "title": "LSTMを用いたギャップ検出閾値の検出精度の向上",
+      "authors": [
+        "金井智美",
+        "岡田大吾",
+        "高橋斗威",
+        "可部泰生",
+        "岡本秀彦",
+        "森本隆司",
+        "高橋宏知"
+      ],
+      "year": 2022,
+      "journal": "2022年電気学会電子・情報・システム部門大会講演論文集",
+      "pages": "1364-1365 (PS1-18)",
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(105) 金井智美，岡田大吾，高橋斗威，可部泰生，岡本秀彦，森本隆司，高橋宏知：「LSTMを用いたギャップ検出閾値の検出精度の向上」，2022年電気学会電子・情報・システム部門大会講演論文集: pp. 1364-1365 (PS1-18), 2022 (広島，2022年8月31日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2022--lstm--1410"
+    },
+    {
+      "title": "ラット大脳皮質における心拍誘発電位の多点計測",
+      "authors": [
+        "白松（磯口）知世",
+        "熊谷真一",
+        "高橋宏知"
+      ],
+      "year": 2023,
+      "journal": "Neruo2023 (第46回日本神経科学大会)",
+      "pages": "#1Pa-035",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(106) 白松（磯口）知世，熊谷真一，高橋宏知：「ラット大脳皮質における心拍誘発電位の多点計測」，Neruo2023 (第46回日本神経科学大会)：#1Pa-035，2023 (仙台，2023年8月1日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2023----1411"
+    },
+    {
+      "title": "迷走神経刺激による島皮質の聴覚誘発反応の変化",
+      "authors": [
+        "熊谷真一",
+        "白松（磯口）知世",
+        "川合謙介",
+        "高橋宏知"
+      ],
+      "year": 2023,
+      "journal": "Neruo2023 (第46回日本神経科学大会)",
+      "pages": "#2Pm-029",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(107) 熊谷真一，白松（磯口）知世，川合謙介，高橋宏知：「迷走神経刺激による島皮質の聴覚誘発反応の変化 」，Neruo2023 (第46回日本神経科学大会)：#2Pm-029，2023 (仙台，2023年8月2日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2023----1412"
+    },
+    {
+      "title": "統合失調症モデルラットの社会性障害",
+      "authors": [
+        "大島果林",
+        "白松（磯口）知世",
+        "高橋宏知"
+      ],
+      "year": 2023,
+      "journal": "Neruo2023 (第46回日本神経科学大会)",
+      "issue": "#3Pa-113",
+      "pages": null,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(108) 大島果林，白松（磯口）知世，高橋宏知：「統合失調症モデルラットの社会性障害」，Neruo2023 (第46回日本神経科学大会)：#3Pa-113，2023 (仙台，2023年8月3日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2023----1413"
+    },
+    {
+      "title": "ドーパミンによるラット聴覚野の情報処理能力への影響",
+      "authors": [
+        "山木崚太郎",
+        "白松（磯口）知世",
+        "石田直輝",
+        "高橋宏知"
+      ],
+      "year": 2023,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(109) 山木崚太郎，白松（磯口）知世，石田直輝，高橋宏知：「ドーパミンによるラット聴覚野の情報処理能力への影響」，Neruo2023 (第46回日本神経科学大会)：#2Pm-028，2023 (仙台，2023年8月2日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2023----1414"
+    },
+    {
+      "title": "EGF誘発性統合失調症モデルラットにおける妄想様の弁別障害",
+      "authors": [
+        "大島果林",
+        "熊谷真一",
+        "白松（磯口）知世",
+        "高橋宏知"
+      ],
+      "year": 2024,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(110) 大島果林，熊谷真一，白松（磯口）知世，高橋宏知：「EGF誘発性統合失調症モデルラットにおける妄想様の弁別障害」，Neuro2024（第47回日本神経科学大会）：#1P-244，2024（福岡，2024年7月24日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2024--egf--1415"
+    },
+    {
+      "title": "他覚的聴力検査に向けた音声刺激の開発",
+      "authors": [
+        "金井智美",
+        "可部泰生",
+        "高橋宏知"
+      ],
+      "year": 2024,
+      "journal": "Neuro2024（第47回日本神経科学大会）",
+      "pages": "#1P-088",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(111) 金井智美，可部泰生，高橋宏知：「他覚的聴力検査に向けた音声刺激の開発」，Neuro2024（第47回日本神経科学大会）：#1P-088，2024（福岡，2024年7月24日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2024----1416"
+    },
+    {
+      "title": "神経細胞の分散培養系の情報処理容量の経験的推定",
+      "authors": [
+        "川原佑太",
+        "秋田大",
+        "高橋宏知"
+      ],
+      "year": 2024,
+      "journal": "Neuro2024（第47回日本神経科学大会）",
+      "pages": "#1P-374",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(112) 川原佑太，秋田大，高橋宏知：「神経細胞の分散培養系の情報処理容量の経験的推定」，Neuro2024（第47回日本神経科学大会）：#1P-374，2024（福岡，2024年7月24日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2024----1417"
+    },
+    {
+      "title": "Neural Dynamics of Predictive Coding in Rat Auditory Cortex: Insights from Omission Responses",
+      "authors": [
+        "Amit Yaron",
+        "Tomoyo I Shiramatsu",
+        "Hirokazu Takahashi",
+        "Chao Zenas"
+      ],
+      "year": 2024,
+      "journal": "Neuro2024（第47回日本神経科学大会）",
+      "pages": "#2P-097",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(113) Amit Yaron, Tomoyo I Shiramatsu, Hirokazu Takahashi, Chao Zenas:「Neural Dynamics of Predictive Coding in Rat Auditory Cortex: Insights from Omission Responses」Neuro2024（第47回日本神経科学大会）：#2P-097，2024（福岡，2024年7月25日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2024-amityaron-neural-dynamics-of-predictive--1418"
+    },
+    {
+      "title": "ラットの交流時瞳孔径計測システム",
+      "authors": [
+        "星野有佐",
+        "大島果林",
+        "高木永遠",
+        "白松（磯口）知世",
+        "高橋宏知"
+      ],
+      "year": 2024,
+      "journal": "Neuro2024（第47回日本神経科学大会）",
+      "issue": "#2P-234",
+      "pages": null,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(114) 星野有佐，大島果林，高木永遠，白松（磯口）知世，高橋宏知：「ラットの交流時瞳孔径計測システム」，Neuro2024（第47回日本神経科学大会）：#2P-234，2024（福岡，2024年7月25日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2024----1419"
+    },
+    {
+      "title": "物理リザバー計算のための培養神経細胞への効果的な刺激手法",
+      "authors": [
+        "秋田大",
+        "川原佑太",
+        "高橋宏知"
+      ],
+      "year": 2024,
+      "journal": "Neuro2024（第47回日本神経科学大会）",
+      "pages": "#3P-360",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(115) 秋田大，川原佑太，高橋宏知：「物理リザバー計算のための培養神経細胞への効果的な刺激手法」，Neuro2024（第47回日本神経科学大会）：#3P-360，2024（福岡，2024年7月26日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2024----1420"
+    },
+    {
+      "title": "培養神経細胞のデータを用いたエコーステートネットワークのパラメータ推定",
+      "authors": [
+        "山田泰輝",
+        "Amit Yaron",
+        "秋田大",
+        "高橋宏知",
+        "藤原寛太郎"
+      ],
+      "year": 2024,
+      "journal": "JNNS2024（日本神経回路学会大会第34回全国大会）",
+      "pages": "#P2-7",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(116) 山田泰輝，Amit Yaron，秋田大，高橋宏知，藤原寛太郎：「培養神経細胞のデータを用いたエコーステートネットワークのパラメータ推定」， JNNS2024（日本神経回路学会大会第34回全国大会）：#P2-7，2024（北海道，2024年9月12日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2024----1421"
+    },
+    {
+      "title": "音楽聴取が生体信号と運動の個体間同期に及ぼす影響",
+      "authors": [
+        "池谷賢人",
+        "可部泰生",
+        "白松（磯口）知世",
+        "高橋宏知"
+      ],
+      "year": 2025,
+      "journal": "電気学会研究会資料医用・生体工学研究会 MBE-25-043",
+      "pages": null,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(117) 池谷賢人，可部泰生，白松（磯口）知世，高橋宏知：「音楽聴取が生体信号と運動の個体間同期に及ぼす影響」，電気学会研究会資料医用・生体工学研究会 MBE-25-043，（東京，2025年3月19日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2025----1422"
+    },
+    {
+      "title": "ラット大脳皮質における情報処理容量の領野間比較に向けた計測手法の構築",
+      "authors": [
+        "金子俊一郎",
+        "大島果林",
+        "白松（磯口）知世",
+        "高橋宏知"
+      ],
+      "year": 2025,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(118) 金子俊一郎，大島果林，白松（磯口）知世，高橋宏知：「ラット大脳皮質における情報処理容量の領野間比較に向けた計測手法の構築」，電気学会研究会資料医用・生体工学研究会 MBE-25-033，（東京，2025年3月19日）",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2025----1423"
+    },
+    {
+      "title": "スパイキングニューラルネットワークにおける臨界性と情報処理能力",
+      "authors": [
+        "キムジュンモ",
+        "秋田大",
+        "高橋宏知"
+      ],
+      "year": 2025,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(119) キムジュンモ，秋田大，高橋宏知：「スパイキングニューラルネットワークにおける臨界性と情報処理能力」，電気学会研究会資料医用・生体工学研究会 MBE-25-040，（東京，2025年3月19日） 英文",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2025----1424"
+    },
+    {
+      "title": "New surface electrode for direct recording multiple auditory evoked potentials from the auditory cortex",
+      "authors": [
+        "Naoya Nakamura",
+        "Kimitaka Kaga",
+        "Hirokazu Takahashi",
+        "Takayuki Ejiri",
+        "Masayuki Nakao",
+        "Yotaro Hatamura",
+        "Thierry Hervé"
+      ],
+      "year": 2000,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(1) Naoya Nakamura, Kimitaka Kaga, Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Yotaro Hatamura, and Thierry Hervé: “New surface electrode for direct recording multiple auditory evoked potentials from the auditory cortex.” The 8th Japan-Korea Joint Meeting of Otorhinolaryngology, Head and Neck Surgery, 2000 (京都, 2000年4月7日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2000-naoyanakamura-new-surface-electrode-for-dire-1425"
+    },
+    {
+      "title": "“Auditory evoked-potential mappings unravel functional organizations of rat auditory cortex; both the primary auditory field (AI) and anterior auditory field (AAF) show tonotopic organization and the latter has extreme loudness-dependence.” Abstract of 3rd Forum of European Neuroscience: #184.18 (CD-ROM)",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Takayuki Ejiri",
+        "Masayuki Nakao",
+        "Naoya Nakamura",
+        "Kimitaka Kaga",
+        "Thierry Hervé"
+      ],
+      "year": 2002,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(2) Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka Kaga, and Thierry Hervé: “Auditory evoked-potential mappings unravel functional organizations of rat auditory cortex; both the primary auditory field (AI) and anterior auditory field (AAF) show tonotopic organization and the latter has extreme loudness-dependence.” Abstract of 3rd Forum of European Neuroscience: #184.18 (CD-ROM), 2002 (Paris, France, 2002年7月13日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2002-hirokazutakahas--auditory-evoked-potential-map-1426"
+    },
+    {
+      "title": "Auditory evoked offset responses of rat auditory cortices reflect synchronous post-stimulus resumption of spontaneous discharges",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Masayuki Nakao",
+        "Takayuki Ejiri",
+        "Kimitaka Kaga"
+      ],
+      "year": 2003,
+      "type": "presentation",
+      "_source": "ollama",
+      "_raw": "(3) Hirokazu Takahashi, Masayuki Nakao, Takayuki Ejiri, and Kimitaka Kaga: “Auditory evoked offset responses of rat auditory cortices reflect synchronous post-stimulus resumption of spontaneous discharges.” Abstracts of 6th IBRO World Congress of Neuroscience: #2197 (CD-ROM) (Prague, Czech Republic, 2003年7月10日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2003-hirokazutakahas-auditory-evoked-offset-respons-1427"
+    },
+    {
+      "title": "Different strategies for intensity coding in different cortical auditory fields",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Masayuki Nakao",
+        "Takayuki Ejiri",
+        "Kimitaka Kaga"
+      ],
+      "year": 2003,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(4) Hirokazu Takahashi, Masayuki Nakao, Takayuki Ejiri, and Kimitaka Kaga: “Different strategies for intensity coding in different cortical auditory fields.” Proceedings of the International Conference on Auditory Cortex –Towards a Synthesis of Human and Animal Research: p.67 (Magdeburg, Germany, 2003年9月17日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2003-hirokazutakahas-different-strategies-for-inten-1428"
+    },
+    {
+      "title": "Learning-induced context-dependent spatio-temporal plasticity in the primary, anterior and ventral fields of the rats auditory cortex",
+      "authors": [
+        "Akihiro Funamizu",
+        "Masanobu Uchihara",
+        "Ryohei Kanzaki",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2006,
+      "journal": "Proceedings of the International Conference on Auditory Cortex – The Listening Brain",
+      "pages": "65",
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(5) Akihiro Funamizu, Masanobu Uchihara, Ryohei Kanzaki, and Hirokazu Takahashi: “Learning-induced context-dependent spatio-temporal plasticity in the primary, anterior and ventral fields of the rats auditory cortex.” Proceedings of the International Conference on Auditory Cortex – The Listening Brain : p. 65, 2006 (Grantham, UK, 2006年9月17日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2006-akihirofunamizu-learning-induced-context-depen-1429"
+    },
+    {
+      "title": "Morphological and functional characterization of cortical auditory evoked potentials of rat",
+      "authors": [
+        "Hirokazu Takahashi",
+        "Masayuki Nakao",
+        "Kimitaka Kaga"
+      ],
+      "year": 2006,
+      "type": "conference",
+      "_source": "ollama",
+      "_raw": "(6) Hirokazu Takahashi, Masayuki Nakao, Kimitaka Kaga: “Morphological and functional characterization of cortical auditory evoked potentials of rat.” Proceedings of the International Conference on Auditory Cortex – The Listening Brain: p. 92, 2006 (Grantham, UK, 2006年9月17日)",
+      "language": "ja",
+      "category": "poster",
+      "awards": [],
+      "_valid": true,
+      "id": "2006-hirokazutakahas-morphological-and-functional-c-1430"
+    }
+  ]
+}

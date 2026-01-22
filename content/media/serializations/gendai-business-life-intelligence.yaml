@@ -1,0 +1,31 @@
+id: gendai-business-life-intelligence
+title:
+  en: 'Life Intelligence and Artificial Intelligence'
+  ja: 生命知能と人工知能
+publication:
+  en: Gendai Business
+  ja: 現代ビジネス
+period: '2022-01-12 to 2022-01-14'
+description:
+  en: A 3-part serialization exploring the relationship between biological intelligence and artificial intelligence, examining how AI is affecting young people and decision-making in modern society.
+  ja: 生命知能と人工知能の関係を探る3部連載。AIが若者や現代社会の意思決定に与える影響を考察。
+parts:
+  - number: 1
+    title:
+      en: 'Is AI making young people incompetent? The youth becoming like AI'
+      ja: 人工知能と苦手分野が一致!? "人工知能化"する若者たち
+    date: '2022-01-12'
+    url: https://gendai.ismedia.jp/articles/-/91200
+  - number: 2
+    title:
+      en: 'Is AI ruining humans? Analyzing the brains of humans and AI'
+      ja: 人工知能が人間をダメにする? 人間と人工知能の"脳"を分析
+    date: '2022-01-13'
+    url: https://gendai.ismedia.jp/articles/-/91201
+  - number: 3
+    title:
+      en: 'Why Japan, which followed the US, became an indecisive society'
+      ja: 米国に倣ってきた日本が，決められない社会になったワケ
+    date: '2022-01-14'
+    url: https://gendai.ismedia.jp/articles/-/91405
+related_book: life-intelligence-ai

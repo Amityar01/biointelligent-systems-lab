@@ -22,3 +22,71 @@ research:
   - Reservoir computing with neural cultures
   - Self-organized criticality
   - Beat synchronization
+education:
+  - year: 1988年3月
+    event: 京都府向日市立向陽小学校卒業
+  - year: 1991年3月
+    event: 宮城県仙台市立六郷中学校卒業
+  - year: 1994年3月
+    event: 宮城県仙台第一高等学校卒業
+  - year: 1994年4月
+    event: 東京大学教養学部理科1類入学
+  - year: 1998年3月
+    event: 東京大学工学部産業機械工学科卒業
+  - year: 1998年4月
+    event: 東京大学大学院工学系研究科機械工学専攻修士課程入学
+  - year: 2000年3月
+    event: 東京大学大学院工学系研究科機械工学専攻修士課程修了
+  - year: 2000年4月
+    event: 東京大学大学院工学系研究科産業機械工学専攻博士課程入学
+  - year: 2003年3月
+    event: 東京大学大学院工学系研究科産業機械工学専攻博士課程修了
+career:
+  - year: 2001年4月
+    position: 財団法人日本学術振興会特別研究員
+    note: 2003年3月まで
+  - year: 2003年4月
+    position: 東京大学助手
+    department: 大学院工学系研究科産業機械工学専攻
+  - year: 2004年10月
+    position: 東京大学講師
+    department: 大学院情報理工学系研究科知能機械情報工学専攻
+  - year: 2006年8月
+    position: 東京大学講師
+    department: 先端科学技術研究センター
+  - year: 2008年10月
+    position: 科学技術振興機構さきがけ研究者
+    department: 「脳情報の解読と制御」領域
+    note: 2012年3月まで
+  - year: 2018年12月
+    position: 東京大学准教授
+    department: 先端科学技術研究センター
+  - year: 2019年4月
+    position: 東京大学准教授
+    department: 大学院情報理工学系研究科知能機械情報学専攻
+  - year: 2023年1月
+    position: 東京大学教授
+    department: 大学院情報理工学系研究科知能機械情報学専攻
+    note: 現職
+degree:
+  year: 2003年3月
+  title_ja: 博士(工学)
+  university: 東京大学
+  thesis_ja: 聴性誘発電位の多点計測による聴皮質の機能構造の解明
+  thesis_en: Elucidation of functional structure of auditory cortex by multi-point measurement of auditory evoked potentials
+  advisor: 中尾政之教授
+societies:
+  - name_ja: 実際の設計研究会
+    name_en: Practical Design Study Group
+    note: 会長 畑村洋太郎
+  - name_ja: 日本生体医工学会
+    name_en: Japanese Society for Medical and Biological Engineering
+  - name_ja: 電気学会
+    name_en: Institute of Electrical Engineers of Japan
+  - name_ja: 北米神経科学会
+    name_en: Society for Neuroscience
+bio_detailed:
+  en: 'Professor at the Research Center for Advanced Science and Technology (RCAST) and Department of Mechano-Informatics, Graduate School of Information Science and Technology. His research aims to "reverse engineer" the brain, focusing on neural computation in the cerebral cortex using high-density microelectrode arrays. His approach spans multiple scales: dissociated neuronal cultures in petri dishes (in vitro), thalamo-cortical auditory systems in rodents (in vivo), and cerebral cortex in humans (clinical studies). His notable research revealed that rats can move their heads to the beat of music, demonstrating innate beat synchronization in animals.'
+  ja: 2003年東京大学大学院工学系研究科(産業機械工学専攻) 博士課程を修了．同年，東京大学大学院工学系研究科 (産業機械工学専攻) 助手，2004年，同情報理工学系研究科 (知能機械情報学専攻) 講師，2006年より同先端科学技術研究センター講師・准教授を経て，2018年より同大学院情報理工学系研究科（知能機械情報学）准教授，2023年より同教授（現職）．2008–2012 年，科学技術振興機構さきがけ研究者 (「脳情報の解読と制御」領域)．福祉工学，感覚代行デバイスの開発，聴覚生理学など，医学・工学の境界領域の研究に従事．生体医工学会，電気学会，北米神経科学会等会員．博士 (工学)．
+bio_personal:
+  ja: 学部時代，卒業論文の指導教官は畑村洋太郎教授．設計論と失敗学を学びながら，東大医学部耳鼻咽喉科の加我君孝教授，きくち歯科医院の菊池彌太郎博士との共同研究で喉頭摘出者のための発声システムの開発に従事．この研究の初体験が学際的な研究スタイルの原点となった．大学院進学後，学位論文では中尾政之教授のもと，微細加工技術を駆使して，神経活動計測用の微小電極アレイをはじめ，生物系の実験手法の開発に従事．それ以来，実験手法の開発にとどまらず，主に脳機能の解明を目指し，神経工学・神経科学分野を中心に活動している．

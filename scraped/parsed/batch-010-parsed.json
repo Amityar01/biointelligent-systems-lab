@@ -1,0 +1,260 @@
+{
+  "batchId": 10,
+  "category": "review",
+  "categoryTitle": "解説論文，総合報告等 (Review)",
+  "parsedAt": "2026-01-22T02:51:20.724Z",
+  "items": [
+    {
+      "type": "review",
+      "title": "対話する『未来論』第1回：イスラームの宗教と脳の機能は交差する。",
+      "authors": [
+        "高橋宏知",
+        "池内恵"
+      ],
+      "year": null,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(51) 高橋宏知，池内恵：「対話する『未来論』第1回：イスラームの宗教と脳の機能は交差する。」，東京大学先端科学技術研究センター30周年記念事業 (Web記事として公開: http://30th.rcast.u-tokyo.ac.jp/future/future01.html)",
+      "language": "ja",
+      "category": "review",
+      "_valid": true,
+      "id": "unknown---1--230"
+    },
+    {
+      "type": "review",
+      "title": "機械屋のための脳科学入門　脳のリバースエンジニアリング　第37回　脳科学の倫理（２）－社会が成果を決める",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2017,
+      "journal": "機械設計",
+      "volume": "61",
+      "issue": "5",
+      "pages": "54-59",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(52) 高橋宏知：「機械屋のための脳科学入門　脳のリバースエンジニアリング　第37回　脳科学の倫理（２）－社会が成果を決める」，機械設計 61 (5): pp. 54-59, 2017",
+      "language": "ja",
+      "category": "review",
+      "_valid": true,
+      "id": "2017---37--231"
+    },
+    {
+      "type": "review",
+      "title": "機械屋のための脳科学入門　脳のリバースエンジニアリング　第38回（最終回）　エンジニアの脳の使い方－設計力を高める",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": 2017,
+      "journal": "機械設計",
+      "volume": "61",
+      "issue": "6",
+      "pages": "102-109",
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(53) 高橋宏知：「機械屋のための脳科学入門　脳のリバースエンジニアリング　第38回（最終回）　エンジニアの脳の使い方－設計力を高める」，機械設計 61 (6): pp. 102-109, 2017",
+      "language": "ja",
+      "category": "review",
+      "_valid": true,
+      "id": "2017---38--232"
+    },
+    {
+      "type": "review",
+      "title": "聴知覚と聴覚野の神経活動の位相同期",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "journal": "Audiology Japan",
+      "volume": "61",
+      "issue": "4",
+      "pages": "246-253",
+      "awards": [
+        "招待論文",
+        "査読有"
+      ],
+      "_source": "regex",
+      "_raw": "(54) 高橋宏知：「聴知覚と聴覚野の神経活動の位相同期」，Audiology Japan 61 (4): pp. 246-253, 2018 [招待論文] [査読有]",
+      "language": "ja",
+      "category": "review",
+      "_valid": true,
+      "id": "unknown----233"
+    },
+    {
+      "type": "review",
+      "title": "エンジニアのための脳科学のすすめ",
+      "authors": [
+        "高橋宏知"
+      ],
+      "year": null,
+      "journal": "電子情報通信学会誌",
+      "volume": "102",
+      "issue": "9",
+      "pages": "881-888",
+      "awards": [
+        "招待論文",
+        "査読有"
+      ],
+      "_source": "regex",
+      "_raw": "(55) 高橋宏知：「エンジニアのための脳科学のすすめ」，電子情報通信学会誌 102 (9): pp. 881-888, 2019 [招待論文] [査読有]",
+      "language": "ja",
+      "category": "review",
+      "_valid": true,
+      "id": "unknown----234"
+    },
+    {
+      "type": "review",
+      "title": "AIによるてんかん脳波の自動検出",
+      "authors": [
+        "高橋宏知",
+        "川合謙介"
+      ],
+      "year": 2019,
+      "journal": "Medical Technology",
+      "volume": "47",
+      "issue": "11",
+      "pages": "1071-1073",
+      "doi": "10.1250/ast.41.39",
+      "awards": [
+        "招待論文"
+      ],
+      "_source": "regex",
+      "_raw": "(56) 高橋宏知，川合謙介：「AIによるてんかん脳波の自動検出」，Medical Technology 47 (11): pp. 1071-1073, 2019 (https://doi.org/10.1250/ast.41.39) [招待論文]",
+      "language": "ja",
+      "category": "review",
+      "_valid": true,
+      "id": "2019--ai--235"
+    },
+    {
+      "type": "review",
+      "title": "AIによるてんかん発作の自動診断",
+      "authors": [
+        "高橋宏知",
+        "川合謙介"
+      ],
+      "year": null,
+      "journal": "Clinical Neuroscience",
+      "volume": "39",
+      "issue": "2",
+      "pages": "241-243",
+      "awards": [
+        "招待論文"
+      ],
+      "_source": "regex",
+      "_raw": "(57) 高橋宏知，川合謙介：「AIによるてんかん発作の自動診断」，Clinical Neuroscience 39 (2): pp. 241-243, 2021 [招待論文]",
+      "language": "ja",
+      "category": "review",
+      "_valid": true,
+      "id": "unknown--ai--236"
+    },
+    {
+      "type": "review",
+      "title": "ニューロエンジニアリング",
+      "authors": [
+        "高橋宏知",
+        "江村拓人"
+      ],
+      "year": 2021,
+      "awards": [],
+      "_source": "regex",
+      "_raw": "(58) 高橋宏知，江村拓人：「ニューロエンジニアリング」，生体医工学ウェブ辞典，2021 (Web記事：https://cyclopedia.jsmbe.org/ニューロエンジニアリング)\n\n英文",
+      "language": "ja",
+      "category": "review",
+      "_valid": true,
+      "id": "2021----237"
+    },
+    {
+      "title": "Darwinian computation with functional map in auditory cortex",
+      "authors": [
+        "Hirokazu Takahashi"
+      ],
+      "year": 2020,
+      "journal": "Acoustical Science and Technology",
+      "volume": "41",
+      "issue": "1",
+      "pages": "39-47",
+      "type": "journal",
+      "_source": "ollama",
+      "_raw": "(1) Hirokazu Takahashi: “Darwinian computation with functional map in auditory cortex.” Acoustical Science and Technology 41 (1): pp. 39-47, 2020 [招待論文] [査読有]",
+      "language": "ja",
+      "category": "review",
+      "awards": [
+        "招待論文",
+        "査読有"
+      ],
+      "_valid": true,
+      "id": "2020-hirokazutakahas-darwinian-computation-with-fun-238"
+    },
+    {
+      "type": "journal",
+      "title": "Mismatch-negativity (MMN) in animal models: Homology of human MMN?",
+      "authors": [
+        "Tomoyo Isoguchi Shiramatsu",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2021,
+      "journal": "Hearing Research",
+      "volume": "399",
+      "pages": "107936",
+      "doi": "10.1016/j.heares.2020.107936",
+      "url": "https://doi.org/10.1016/j.heares.2020.107936",
+      "publisher": "Elsevier BV",
+      "_source": "crossref",
+      "_raw": "(2) Tomoyo I. Shiramatsu, Hirokazu Takahashi: “Mismatch-negativity (MMN) in animal models: homology of human MMN?” Hearing Research 399: 107936 (11 pp.), 2020 (doi: 10.1016/j.heares.2020.107936) [査読有]",
+      "language": "ja",
+      "category": "review",
+      "awards": [
+        "査読有"
+      ],
+      "_valid": true,
+      "id": "2021-tomoyoisoguchis-mismatch-negativity-mmn-in-ani-239"
+    },
+    {
+      "title": "Vagus nerve stimulation as a modulator of feedforward and feedback neural transmission",
+      "authors": [
+        "Shinichi Kumagai",
+        "Tomoyo Isoguchi Shiramatsu",
+        "Kensuke Kawai",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2025,
+      "type": "arXiv",
+      "_source": "ollama",
+      "_raw": "(3) Shinichi Kumagai, Tomoyo Isoguchi Shiramatsu, Kensuke Kawai and Hirokazu Takahashi: “Vagus nerve stimulation as a modulator of feedforward and feedback neural transmission.” arXiv: 2501.18770, 2025 (https://arxiv.org/abs/2501.18770)",
+      "language": "en",
+      "category": "review",
+      "awards": [],
+      "arxiv": "2501.18770",
+      "_valid": false,
+      "_errors": [
+        "Invalid type: arXiv"
+      ],
+      "id": "2025-shinichikumagai-vagus-nerve-stimulation-as-a-m-240"
+    },
+    {
+      "title": "Dissociated Neuronal Cultures as Model Systems for Self-Organized Prediction",
+      "authors": [
+        "Amit Yaron",
+        "Zhuo Zhang",
+        "Dai Akita",
+        "Tomoyo Isoguchi Shiramatsu",
+        "Zenas Chao",
+        "Hirokazu Takahashi"
+      ],
+      "year": 2025,
+      "type": "arXiv",
+      "_source": "ollama",
+      "_raw": "(4) Amit Yaron, Zhuo Zhang, Dai Akita, Tomoyo Isoguchi Shiramatsu, Zenas Chao, Hirokazu Takahashi: “Dissociated Neuronal Cultures as Model Systems for Self-Organized Prediction.” arXiv:2501.18772, 2025 (https://doi.org/10.48550/arXiv.2501.18772)",
+      "language": "en",
+      "category": "review",
+      "awards": [],
+      "arxiv": "2501.18772",
+      "doi": "10.48550/arXiv.2501.18772",
+      "_valid": false,
+      "_errors": [
+        "Invalid type: arXiv"
+      ],
+      "id": "2025-amityaron-dissociated-neuronal-cultures--241"
+    }
+  ]
+}

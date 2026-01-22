@@ -1,0 +1,24 @@
+{
+  "batchId": 5,
+  "category": "original_en",
+  "categoryTitle": "英文",
+  "startIndex": 75,
+  "items": [
+    "(76) Yuichiro Yada, Shusaku Yasuda, and Hirokazu Takahashi: “Physical reservoir computing with FORCE learning in a living neuronal culture.” Applied Physics Letters 119 (16): 173701 (5 pp.), 2021 (doi: 10.1063/5.0064771) [Selected as Editor’s pick]",
+    "(77) Tomoyuki Kubota, Hirokazu Takahashi, and Kohei Nakajima: “Polynomial Chaos Expansion for Temporal Information Processing: Extending the Reservoir Computing Paradigm.” Phyisical Review Research 3: 043135 (23 pp.), 2021 (https://doi.org/10.1103/PhysRevResearch.3.043135)",
+    "(78) Tomoyo Isoguchi Shiramatsu, Kanato Mori, Kotaro Ishizu, and Hirokazu Takahashi: “Oddball-irrelevant visual stimuli cross-modally attenuate auditory mismatch negativity in rats.” NeuroReport 33: pp. 363-368, 2022 (doi: 10.1097/WNR.0000000000001793)",
+    "(79) Yoshiki Ito, Tomoyo Isoguchi Shiramatsu, Naoki Ishida, Karin Oshima, Kaho Magami, Hirokazu Takahashi: “Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment.’’ Science Advances 8(45): eabo7019 (11 pp.), 2022 (doi: 10.1126/sciadv.abo7019)",
+    "(80) Seiichi Bun, Tomoyo I. Shiramatsu, Hirokazu Takahashi, and Tetsuya Asai: “Active Charge Balancer towards CMOS Integration of an Array of Neural Stimulators.” Nonlinear Theory and Its Applications, IEICE 14 (2): pp. 319-333, 2023 (https://doi.org/10.1587/nolta.14.319)",
+    "(81) Naoki Ishida, Tomoyo I. Shiramatsu, Tomoyuki Kubota, Dai Akita, and Hirokazu Takahashi: “Quantification of information processing capacity in living brain as physical reservoir.” Applied Physics Letters122: 233702 (6 pp.), 2023 (https://doi.org/10.1063/5.0152585)",
+    "(82) Narumitsu Ikeda, Dai Akita, and Hirokazu Takahashi: “Noise and spike-time-dependent plasticity drive self-organized criticality in spiking neural network: Toward neuromorphic computing.” Applied Physics Letters 123: 023701 (6 pp.), 2023 (https://doi.org/10.1063/5.0152633)",
+    "(83) Shinichi Kumagai, Tomoyo Isoguchi Shiramatsu, Akane Matsumura, Yohei Ishishita, Kenji Ibayashi, Yoshiyuki Onuki, Kensuke Kawai, and Hirokazu Takahashi: “Frequency-specific modulation of oscillatory activity in the rat auditory cortex by vagus nerve stimulation.” Brain Stimulation 16: 1476-1485, 2023 (https://doi.org/10.1016/j.brs.2023.09.019)",
+    "(84) Takahiro Noda, and Hirokazu Takahashi: “Stochastic resonance in sparse neuronal network: functional role of spontaneous activity to detect weak sensory input in awake auditory cortex of rat.” Cerebral Cortex 34: bhad428 (23 pp.), 2024 (https://doi.org/10.1093/cercor/bhad428)",
+    "(85) Naoki Wake, Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi: “Map plasticity following noise exposure in rat auditory cortex: Implication for disentangling neural correlates of tinnitus and hyperacusis in auditory cortex of rats.” Frontiers in Neuroscience18: 1385942 (16pp), 2024 (https://doi.org/10.3389/fnins.2024.1385942)",
+    "(86) Ayaka Higami, Karin Oshima, Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi, Shohei Nobuhara, Ko Nishino: “RatBodyFormer: Rodent Body Surface from Keypoints.” arXiv: 2024 (https://doi.org/10.48550/arXiv.2412.09599) [Priprint]",
+    "(87) Amit Yaron, Tomoyo I Shirmatsu, Felix B Kern, Kenichi Ohki, Hirokazu Takahashi, Zenas C Chao: “Omission-responsive neurons encode negative prediction error and probability in the auditory cortex” bioRxiv: 2024.09.09.612166, 2024 (https://doi.org/10.1101/2024.09.09.612166)",
+    "(88) Asahi Nakamuta, Dai Akita, He Zhang, Yuta Kawahara, Hirokazu Takahashi, Jun-nosuke Teramae: “Self-organization of high-dimensional geometry of neural activity in culture” bioRxiv: 2025.01.14.630383, 2025 (https://doi.org/10.1101/2025.01.14.630383)",
+    "(89) Tomoyo Isoguchi Shiramatsu, Kenji Ibayashi, Kensuke Kawai, Hirokazu Takahashi: “Vagus nerve stimulation modulates information representation of sustained activity in layer specific manner in the rat auditory cortex.” bioRxiv: 2025.02.08.637217, 2025 (doi: https://doi.org/10.1101/2025.02.08.637217)",
+    "(90) Narimitsu Ikeda, Dai Akita and Hirokazu Takahashi: “Emergent functions of noise-driven spontaneous activity: Homeostatic maintenance of criticality and memory consolidation.” arXiv: 2502.10946, 2025 (http://arxiv.org/abs/2502.10946)",
+    "(91) Zhuo Zhang, Amit Yaron, Dai Akita, Tomoto Isoguchi Shiramatsu, Zenes C.Chao, Hirokazu Takahashi: “Deviance Detection and Regularity Sensitivity in Dissociated Neuronal Cultures.” arXiv: 2502.20753, 2025 (https://doi.org/10.48550/arXiv.2502.20753)"
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "scrapedAt": "2026-01-21T14:20:39.494Z",
+  "url": "https://www.ne.t.u-tokyo.ac.jp/lecture.html",
+  "courses": [
+    {
+      "cells": [
+        "年度",
+        "学期",
+        "対象",
+        "講義"
+      ]
+    },
+    {
+      "cells": [
+        "2003",
+        "冬",
+        "東京大学工学部3年生",
+        "メカトロ演習（分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2004~2005",
+        "冬",
+        "東京大学工学部3年生",
+        "ソフトウエア演習（分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2004~2005, 2012~",
+        "冬",
+        "東京大学工学部3年生",
+        "機械工学ゼミナール"
+      ]
+    },
+    {
+      "cells": [
+        "2005",
+        "夏",
+        "東京大学工学部3年生",
+        "計算機演習（分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2005~現在",
+        "夏",
+        "東京大学工学部4年生",
+        "生体システム工学（分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2005",
+        "夏",
+        "東京大学大学院情報理工学系研究科",
+        "生命体システム（分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2007~",
+        "夏",
+        "東京大学大学院情報理工学系研究科",
+        "生命体システム"
+      ]
+    },
+    {
+      "cells": [
+        "2005~",
+        "夏",
+        "東京大学大学院情報理工学系研究科",
+        "知能機械情報学演習（分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2007~2009, 2014",
+        "夏",
+        "東京大学大学院工学系研究科",
+        "先端情報システム論（分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2007~現在",
+        "冬",
+        "東京大学工学部3年生",
+        "脳科学入門 （分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2008~2010, 2015~",
+        "冬",
+        "東京大学教養学部2年生",
+        "機械力学演習（分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2010~2015",
+        "夏",
+        "東京大学工学部3年生",
+        "バイオエンジニアリング (分担)"
+      ]
+    },
+    {
+      "cells": [
+        "2010~2014",
+        "夏",
+        "東京大学大学院工学系研究科",
+        "脳と心理の科学（分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2013~",
+        "夏",
+        "東京大学大学院工学系研究科",
+        "先導人材育成プログラム（Ⅰ）"
+      ]
+    },
+    {
+      "cells": [
+        "2013",
+        "夏",
+        "豊橋科学技術大学大学院情報・知能工学系（非常勤講師）",
+        "情報・知能大学院特別講義II (分担)"
+      ]
+    },
+    {
+      "cells": [
+        "2016~",
+        "夏",
+        "東京大学大学院工学系研究科",
+        "先端情報システム学－基礎と応用－ (分担)"
+      ]
+    },
+    {
+      "cells": [
+        "2016～",
+        "冬",
+        "東京大学工学部3年生",
+        "神経と脳"
+      ]
+    },
+    {
+      "cells": [
+        "2017",
+        "夏",
+        "金沢大学理工研究域（非常勤講師）",
+        "機械工学特別講義（分担）"
+      ]
+    },
+    {
+      "cells": [
+        "2017～",
+        "春",
+        "明治大学理工学研究科（非常勤講師）",
+        "理工学研究科総合講義B（分担）"
+      ]
+    }
+  ],
+  "rawSections": [
+    {
+      "level": "h2",
+      "title": "講義Lecture",
+      "content": ""
+    },
+    {
+      "level": "h3",
+      "title": "生体システム工学（工学部　2023年度夏学期）",
+      "content": "2023年5月10日\n講義資料\nお知らせ"
+    },
+    {
+      "level": "h3",
+      "title": "神経と脳（工学部　2019年度冬学期）",
+      "content": "お知らせ\n・高橋担当日：2019年9月30日から11月13日（全7回）．\n・講義資料や連絡事項はITC-LMS\n・期末試験：2020年1月27日\n・教科書：「メカ屋のための脳科学入門」（日刊工業新聞社，2016）(amazon)\n・参考書：「続 メカ屋のための脳科学入門 [記憶・学習/ 意識編]」（日刊工業新聞社，2017）(amazon)\n・脳科学に関する推薦図書はこちら．"
+    },
+    {
+      "level": "h3",
+      "title": "脳科学入門（工学部　2019年度冬学期）",
+      "content": "お知らせ\n・高橋担当日：2019年10月2日（水），2018年10月9日（水）．\n・講義資料や連絡事項はITC-LMS．\n・参考書：「メカ屋のための脳科学入門」（日刊工業新聞社，2016）(amazon)\n　　　　　「続 メカ屋のための脳科学入門 [記憶・学習/ 意識編]」（日刊工業新聞社，2017）(amazon)\n・脳科学に関する推薦図書はこちら．"
+    },
+    {
+      "level": "h3",
+      "title": "機械力学演習（工学部　2019年度冬学期）",
+      "content": "お知らせ\n・高橋担当日：2019年10月15日（火），10月29日（火），11月12日（火）\n・講義資料や連絡事項はITC-LMS．\n・中間テストは11月19日（火）"
+    },
+    {
+      "level": "h3",
+      "title": "知能機械情報学特別講義（大学院情報理工学系研究科　2019年度冬学期）",
+      "content": "お知らせ\n・講義資料や連絡事項はITC-LMS"
+    },
+    {
+      "level": "h3",
+      "title": "理工学研究科総合講義B（明治大学　2019年度春学期集中）",
+      "content": "2019年8月3日\n資料"
+    },
+    {
+      "level": "h3",
+      "title": "生命体システム（大学院情報理工学系研究科　2018年度夏学期）",
+      "content": "2018年4月6日\n講義資料\n2018年4月13日\n講義資料\n2018年4月20日\n講義資料\n2018年4月27日\n講義資料\n2018年5月11日\n講義資料\n2018年5月25日\n講義資料\n2018年5月29日 (火)\n講義資料\n2018年6月1日\n講義資料\n2018年6月8日\n休講\n2018年6月15日\n休講\n2018年6月22日\n講義資料\n2018年6月29日\n講義資料\n2018年7月6日\n講義資料\nレポート課題\n(1) 講義で興味をもった話題を挙げ，それに関連する論文を\n「Nature Reviews Neuroscience (link)」または\n「Annual Review of Neuroscience (link)」\nから一つ選び，その内容をまとめて，自分の意見を述べなさい (書式自由)．\n(2) 講義全体を通しての意見や感想を記しなさい (回答用紙)．\n※ 2018年7月27日 (金)までに機械系事務室へ提出．A4用紙で作成すること．\nお知らせ\n・教科書：「続 メカ屋のための脳科学入門 [記憶・学習/ 意識編]」（日刊工業新聞社，2017）(amazon)\n・参考書：「メカ屋のための脳科学入門　脳をリバースエンジニアリングする」（日刊工業新聞社, 2016）(amazon)\n・脳科学に関する推薦図書はこちら．"
+    },
+    {
+      "level": "h3",
+      "title": "知能機械情報学演習（大学院情報理工学系研究科　2016年度冬学期）",
+      "content": ""
+    },
+    {
+      "level": "h3",
+      "title": "Exercises in Mechano-Informatics（Winter Semester in 2016）",
+      "content": "2016年10月21日\nInaba-Okada Lab (meet at 73B2)\n\n2016年10月28日\nHarada-Ushiku Lab (meet at 81C1)\n2016年11月4日\nKuniyosi-Niiyama Lab (meet at 82B1)\n2016年11月11日\nHirose-Tanikawa-Narumi Lab (meet at 83C2)\n\n2016年11月18日\nShimoyama-Takahata Lab (meet at 81B)\n2016年11月25日\nKanzaki-Takahashi Lab (Komaba II campus, RCAST Bldg. 3-S, 361) (access)\n2016年12月2日\nNakamura-Takano Lab (meet at 12A (cyber behavior studio))\n2016年12月9日\nSpecial lecture and discussion\n\"Introduction of consciousness science\"\nby Dr. Ryota Kanai (Aaraya Brain Imaging)\n(Komaba II campus, RCAST Bldg. 4, 2F lecture room) (access)\n2016年12月16日\nTakeuchi Lab (Komaba II campus, IIS Fw205) (access)\n2016年12月22日\nDeadline of English-writing course assignment\n2017年1月6日\nEnglish-writing course (1) (Rm 231)\nby Dr. Lisandro Kaunits (Univ. Tokyo) (handout) (Assignment)\n2017年1月20日\nEnglish-writing course (2) (Rm 231)\n\nInformation\n- Handout at the guidance on Oct 14, 2016 is here.\n- Every-week assignment: Submit a report about the overview of event with their own opinion and comments. Due 12:30 on the next Friday; Report box in Office of Dept. Mechanical Engineering. The form of report is here.\n- English-writing course assignment: Submit an abstract of your own work (~250 words) or research proposal (within 1 page) by December 22, 2016. Examples are here."
+    },
+    {
+      "level": "h3",
+      "title": "先端情報システム学－基礎と応用－（大学院工学系研究科　2016年度夏学期）",
+      "content": "2016年5月17日\n講義資料\n2016年5月24日\n講義資料\n2016年5月31日\n講義資料\nお知らせ\n・2016年5月17日（火）開講（14:55~18:35）\n・高橋担当日：2016年5月17日（火），24日（火），31日（火）\n・準教科書：「メカ屋のための脳科学入門　脳をリバースエンジニアリングする」（日刊工業新聞社）(link)\n・脳科学に関する推薦図書はこちら．\n\n担当講義・演習\n 年度\t学期\t対象 \t講義\n2003 \t冬 \t東京大学工学部3年生 \tメカトロ演習（分担）\n2004~2005\t冬 \t東京大学工学部3年生 \tソフトウエア演習（分担）\n2004~2005, 2012~\t冬\t東京大学工学部3年生\t機械工学ゼミナール\n2005\t夏 \t東京大学工学部3年生 \t計算機演習（分担） \n2005~現在\t夏 \t東京大学工学部4年生 \t生体システム工学（分担） \n2005\t夏 \t東京大学大学院情報理工学系研究科 \t生命体システム（分担） \n2007~ \t夏 \t東京大学大学院情報理工学系研究科 \t生命体システム \n2005~\t夏 \t東京大学大学院情報理工学系研究科 \t知能機械情報学演習（分担） \n2007~2009, 2014\t夏 \t東京大学大学院工学系研究科 \t先端情報システム論（分担） \n2007~現在 \t冬 \t東京大学工学部3年生 \t脳科学入門 （分担）\n2008~2010, 2015~\t冬 \t東京大学教養学部2年生 \t機械力学演習（分担） \n 2010~2015\t夏\t東京大学工学部3年生 \tバイオエンジニアリング (分担) \n2010~2014\t夏 \t東京大学大学院工学系研究科 \t脳と心理の科学（分担） \n 2013~\t夏 \t 東京大学大学院工学系研究科\t先導人材育成プログラム（Ⅰ） \n 2013\t夏 \t豊橋科学技術大学大学院情報・知能工学系（非常勤講師）\t情報・知能大学院特別講義II (分担)\n 2016~\t夏 \t東京大学大学院工学系研究科 \t 先端情報システム学－基礎と応用－ (分担)\n 2016～\t冬 \t東京大学工学部3年生 \t 神経と脳\n 2017\t夏 \t金沢大学理工研究域（非常勤講師）\t 機械工学特別講義（分担）\n 2017～\t春 \t明治大学理工学研究科（非常勤講師）\t 理工学研究科総合講義B（分担）\n\nこのページの先頭へ"
+    },
+    {
+      "level": "h2",
+      "title": "担当講義・演習",
+      "content": "年度\t学期\t対象 \t講義\n2003 \t冬 \t東京大学工学部3年生 \tメカトロ演習（分担）\n2004~2005\t冬 \t東京大学工学部3年生 \tソフトウエア演習（分担）\n2004~2005, 2012~\t冬\t東京大学工学部3年生\t機械工学ゼミナール\n2005\t夏 \t東京大学工学部3年生 \t計算機演習（分担） \n2005~現在\t夏 \t東京大学工学部4年生 \t生体システム工学（分担） \n2005\t夏 \t東京大学大学院情報理工学系研究科 \t生命体システム（分担） \n2007~ \t夏 \t東京大学大学院情報理工学系研究科 \t生命体システム \n2005~\t夏 \t東京大学大学院情報理工学系研究科 \t知能機械情報学演習（分担） \n2007~2009, 2014\t夏 \t東京大学大学院工学系研究科 \t先端情報システム論（分担） \n2007~現在 \t冬 \t東京大学工学部3年生 \t脳科学入門 （分担）\n2008~2010, 2015~\t冬 \t東京大学教養学部2年生 \t機械力学演習（分担） \n 2010~2015\t夏\t東京大学工学部3年生 \tバイオエンジニアリング (分担) \n2010~2014\t夏 \t東京大学大学院工学系研究科 \t脳と心理の科学（分担） \n 2013~\t夏 \t 東京大学大学院工学系研究科\t先導人材育成プログラム（Ⅰ） \n 2013\t夏 \t豊橋科学技術大学大学院情報・知能工学系（非常勤講師）\t情報・知能大学院特別講義II (分担)\n 2016~\t夏 \t東京大学大学院工学系研究科 \t 先端情報システム学－基礎と応用－ (分担)\n 2016～\t冬 \t東京大学工学部3年生 \t 神経と脳\n 2017\t夏 \t金沢大学理工研究域（非常勤講師）\t 機械工学特別講義（分担）\n 2017～\t春 \t明治大学理工学研究科（非常勤講師）\t 理工学研究科総合講義B（分担）\nこのページの先頭へ"
+    },
+    {
+      "level": "h3",
+      "title": "ナビゲーション",
+      "content": "トップページ\nメンバー\n研究業績\n研究内容\nオープンラボ\nYouTube\n講義\nその他\nEnglish"
+    },
+    {
+      "level": "h3",
+      "title": "東京大学　\n大学院情報理工学系研究科\n知能機械情報学専攻\n生命知能システム研究室",
+      "content": "高橋宏知\n〒113-8656\n東京都文京区本郷７－３－１\n工学部２号館 81B\nTEL: 03-5841-6318\nE-mail:\n\nアクセス：\n東京大学本郷キャンパス (map)\n工学部2号館(map)\n\n関連学科・専攻："
+    },
+    {
+      "level": "h3",
+      "title": "東京大学",
+      "content": "工学部 機械情報工学科 (機械B)\n　大学院 情報理工学系研究科\n　　　　　　知能機械情報学専攻\n　　　　 工学系研究科\n　　　　　　先端学際工学専攻\n　先端科学技術研究センター\n　　　生命知能システム分野\n　　　（神崎・高橋研究室）"
+    }
+  ],
+  "paragraphs": [
+    "東京大学　大学院情報理工学系研究科知能機械情報学専攻/\n工学部機械情報工学科",
+    "生命知能システム研究室 (高橋・白松研究室)",
+    "〒113-8656\n東京都文京区本郷７－３－１\n工学部２号館 81B",
+    "TEL: 03-5841-6318\nE-mail:",
+    "アクセス：\n東京大学本郷キャンパス (map)\n工学部2号館(map)",
+    "工学部 機械情報工学科 (機械B)\n　大学院 情報理工学系研究科\n　　　　　　知能機械情報学専攻\n　　　　 工学系研究科\n　　　　　　先端学際工学専攻\n　先端科学技術研究センター\n　　　生命知能システム分野\n　　　（神崎・高橋研究室）",
+    "copyright©2012 Hirokazu Takahashi all rights reserved."
+  ],
+  "listItems": [
+    "トップページ",
+    "オープンラボ",
+    "YouTube",
+    "English"
+  ],
+  "links": [
+    {
+      "text": "本文へスキップ",
+      "href": "#hpb-title"
+    },
+    {
+      "text": "神崎・高橋研究室　高次脳機能研究チーム",
+      "href": "index.html"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/20230510v1.pdf"
+    },
+    {
+      "text": "ITC-LMS",
+      "href": "https://itc-lms.ecc.u-tokyo.ac.jp/lms/course?idnumber=2019FEN-MX3b26L10J01"
+    },
+    {
+      "text": "amazon",
+      "href": "https://www.amazon.co.jp/%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%84%B3%E3%82%92%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B-%E9%AB%98%E6%A9%8B-%E5%AE%8F%E7%9F%A5/dp/4526075361?ie=UTF8&ref_=zg_bsnr_500924_1"
+    },
+    {
+      "text": "amazon",
+      "href": "https://www.amazon.co.jp/%E7%B6%9A-%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%A8%98%E6%86%B6-%E5%AD%A6%E7%BF%92-%E6%84%8F%E8%AD%98-%E7%B7%A8/dp/4526077259/ref=pd_cp_14_1?_encoding=UTF8&psc=1&refRID=N2S02CHCJE6SB7XN9P66"
+    },
+    {
+      "text": "こちら",
+      "href": "others.html#selectedreadings"
+    },
+    {
+      "text": "ITC-LMS",
+      "href": "https://itc-lms.ecc.u-tokyo.ac.jp/lms/course?idnumber=2019FEN-CO4f10L10J01"
+    },
+    {
+      "text": "amazon",
+      "href": "https://www.amazon.co.jp/%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%84%B3%E3%82%92%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B-%E9%AB%98%E6%A9%8B-%E5%AE%8F%E7%9F%A5/dp/4526075361?ie=UTF8&ref_=zg_bsnr_500924_1"
+    },
+    {
+      "text": "amazon",
+      "href": "https://www.amazon.co.jp/%E7%B6%9A-%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%A8%98%E6%86%B6-%E5%AD%A6%E7%BF%92-%E6%84%8F%E8%AD%98-%E7%B7%A8/dp/4526077259/ref=pd_cp_14_1?_encoding=UTF8&psc=1&refRID=N2S02CHCJE6SB7XN9P66"
+    },
+    {
+      "text": "こちら",
+      "href": "others.html#selectedreadings"
+    },
+    {
+      "text": "ITC-LMS",
+      "href": "https://itc-lms.ecc.u-tokyo.ac.jp/lms/course?idnumber=2019FEN-MX2903S10J01"
+    },
+    {
+      "text": "ITC-LMS",
+      "href": "https://itc-lms.ecc.u-tokyo.ac.jp/lms/course?idnumber=20194850-10210J01"
+    },
+    {
+      "text": "資料",
+      "href": "archive/lecture/190803.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180406.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180413.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180420.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180427.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180511.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180525.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180529.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180601.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180619.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180629.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/180706.pdf"
+    },
+    {
+      "text": "link",
+      "href": "http://www.nature.com/nrn/index.html"
+    },
+    {
+      "text": "link",
+      "href": "http://www.annualreviews.org/journal/neuro"
+    },
+    {
+      "text": "回答用紙",
+      "href": "archive/lecture/rp18.docx"
+    },
+    {
+      "text": "amazon",
+      "href": "https://www.amazon.co.jp/%E7%B6%9A-%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%A8%98%E6%86%B6-%E5%AD%A6%E7%BF%92-%E6%84%8F%E8%AD%98-%E7%B7%A8/dp/4526077259/ref=pd_cp_14_1?_encoding=UTF8&psc=1&refRID=N2S02CHCJE6SB7XN9P66"
+    },
+    {
+      "text": "amazon",
+      "href": "http://www.amazon.co.jp/%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%84%B3%E3%82%92%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B-%E9%AB%98%E6%A9%8B-%E5%AE%8F%E7%9F%A5/dp/4526075361/ref=zg_bsnr_500924_1"
+    },
+    {
+      "text": "こちら",
+      "href": "others.html#selectedreadings"
+    },
+    {
+      "text": "access",
+      "href": "http://www.rcast.u-tokyo.ac.jp/home/access/index_en.html"
+    },
+    {
+      "text": "access",
+      "href": "http://www.rcast.u-tokyo.ac.jp/home/access/index_en.html"
+    },
+    {
+      "text": "access",
+      "href": "https://www.iis.u-tokyo.ac.jp/en/access/"
+    },
+    {
+      "text": "handout",
+      "href": "archive/lecture/eng170106.pdf"
+    },
+    {
+      "text": "Assignment",
+      "href": "archive/lecture/assgn170106.pdf"
+    },
+    {
+      "text": "here",
+      "href": "archive/lecture/miex161014.pdf"
+    },
+    {
+      "text": "here",
+      "href": "archive/lecture/weeklyreport.docx"
+    },
+    {
+      "text": "here",
+      "href": "archive/lecture/ewc.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/160517.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/160524.pdf"
+    },
+    {
+      "text": "講義資料",
+      "href": "archive/lecture/160531.pdf"
+    },
+    {
+      "text": "link",
+      "href": "http://www.amazon.co.jp/%E3%83%A1%E3%82%AB%E5%B1%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%85%A5%E9%96%80-%E8%84%B3%E3%82%92%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%99%E3%82%8B-%E9%AB%98%E6%A9%8B-%E5%AE%8F%E7%9F%A5/dp/4526075361/ref=zg_bsnr_500924_1"
+    },
+    {
+      "text": "こちら",
+      "href": "others.html#selectedreadings"
+    },
+    {
+      "text": "このページの先頭へ",
+      "href": "#hpb-container"
+    },
+    {
+      "text": "トップページ",
+      "href": "index.html"
+    },
+    {
+      "text": "メンバー",
+      "href": "profile.html"
+    },
+    {
+      "text": "研究業績",
+      "href": "pub.html"
+    },
+    {
+      "text": "研究内容",
+      "href": "research.html"
+    },
+    {
+      "text": "オープンラボ",
+      "href": "https://sites.google.com/g.ecc.u-tokyo.ac.jp/nelab/%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99?authuser=0"
+    },
+    {
+      "text": "YouTube",
+      "href": "https://www.youtube.com/channel/UCuuuZ4ewKDXA-FvTiO4HqNA"
+    },
+    {
+      "text": "講義",
+      "href": "lecture.html"
+    },
+    {
+      "text": "その他",
+      "href": "others.html"
+    },
+    {
+      "text": "English",
+      "href": "index-e.html"
+    },
+    {
+      "text": "map",
+      "href": "https://www.u-tokyo.ac.jp/ja/about/campus-guide/map01_02.html"
+    },
+    {
+      "text": "map",
+      "href": "http://www.kikaib.t.u-tokyo.ac.jp/map2/"
+    },
+    {
+      "text": "東京大学",
+      "href": "http://www.u-tokyo.ac.jp/index_j.html"
+    },
+    {
+      "text": "工学部",
+      "href": "http://www.t.u-tokyo.ac.jp/epage/index.html"
+    },
+    {
+      "text": "機械情報工学科 (機械B)",
+      "href": "http://www.kikaib.t.u-tokyo.ac.jp/"
+    },
+    {
+      "text": "情報理工学系研究科",
+      "href": "http://www.i.u-tokyo.ac.jp/"
+    },
+    {
+      "text": "知能機械情報学専攻",
+      "href": "http://www.i.u-tokyo.ac.jp/edu/course/m-i/"
+    },
+    {
+      "text": "工学系研究科",
+      "href": "http://www.t.u-tokyo.ac.jp/"
+    },
+    {
+      "text": "先端学際工学専攻",
+      "href": "http://www.rcast.u-tokyo.ac.jp/ja/research/ais/index.html"
+    },
+    {
+      "text": "先端科学技術研究センター",
+      "href": "https://www.rcast.u-tokyo.ac.jp/ja/index.html"
+    },
+    {
+      "text": "生命知能システム分野",
+      "href": "http://www.brain.rcast.u-tokyo.ac.jp/"
+    },
+    {
+      "text": "（神崎・高橋研究室）",
+      "href": "http://www.brain.rcast.u-tokyo.ac.jp/"
+    }
+  ]
+}

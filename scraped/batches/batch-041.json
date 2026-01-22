@@ -1,0 +1,33 @@
+{
+  "batchId": 41,
+  "category": "seminars",
+  "categoryTitle": "国際学会講習会・セミナー等",
+  "startIndex": 600,
+  "items": [
+    "(3) 畑村洋太郎, 中尾政之, 高橋宏知:「代用原音発生装置とその制御方法」, 特開2001-147694, 1999 (1999年11月18日出願)",
+    "(4) 高橋宏知，江間見亜利，川合謙介：「てんかん判定装置、てんかん判定システム、てんかん判定方法及びてんかん判定プログラム」，特願2018-051262, 特開2019-162237, 特許第7072771号 (2018年3月19日国内出願，2019年3月19日国際出願)",
+    "(5) 高橋宏知，可部泰生：「聴力検査システムおよび聴力検査方法」，特願2020-114871, 特開2022-023751, 特許7091404 (2020年7月2日出願)",
+    "(6) 佐藤可直，高橋宏知，池田成満：「統計的機械学習のための時系列データの情報処理技術」，特願2020-194716，特開2022-083335 (2020年11月24日出願)\n\n\n受賞 (Award)\n\n\n論文・研究奨励賞",
+    "(1) IEEE EMBS Student Paper Competition Finalists\nIn: 23rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society\nFumio Mase, Hirokazu Takahashi, Takayuki Ejiri, Masayuki Nakao, Naoya Nakamura, Kimitaka Kaga, and Thierry Hervé: “Selective stimulation and measurement in the cochlear nucleus with the spike microelectrode array.” Proceedings of 23rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society: #742 (CD-ROM), 2001　(Istanbul, Turkey, 2001年10月25日)",
+    "(2) Young Investigators Award for the Best Oral Presentation\nIn: 2nd European Medical & Biological Engineering Conference\nHirokazu Takahashi, Masayuki Nakao, Yusuke Yasuda, Sheykholeslami Kianoushi, and Kimitaka Kaga: “Multiple gating stimulation for selective activation of nerves in between electrodes.” Proceedings of the International Federation for Medical & Biological Engineering, 3: pp. 786-787, 2002 (Vienna, Austria, 2002年12月4日)",
+    "(3) Excellence in Neural Engineering Award\nIn: The 2nd International IEEE EMBS Conference on Neural Engineering\nJun Suzurikawa, Kohei Hisada, Masayuki Nakao, Kimitaka Kaga, Ryohei Kanzaki, and Hirokazu Takahashi: “Reorganization of Auditory Cortex by Pairing and Anti-Pairing Intracortical Microstimulation.” Proceedings of 2nd International IEEE EMBS Conference on Neural Engineering: pp. 594-597, 2005 (Washington DC, USA, 2005年3月16日)",
+    "(4) The 3rd Prize of IEEE EMBS Japan Young Investigators Competition for EMBS 2006\nIn: The 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society\nJun Suzurikawa, Hirokazu Takahashi, Yuzo Takayama, Shin’ichi Warisawa, Mamoru Mitsuishi, Masayuki Nakao, and Yasuhiko Jimbo: “Light-addressable planar electrode with hydrogenated amorphous silicon and low-conductive passivation layer for stimulation of cultured neurons.” Proceedings of 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society: pp. 648-651, 2006 (New York, USA, 2006年8月30日)",
+    "(5) 高橋宏知：「聴覚と音声のリハビリテーションに関する先導的研究」，第6回船井情報科学奨励賞 (船井情報科学振興財団), 2007",
+    "(6) 平成19年電気学会電子・情報・システム部門大会優秀論文賞 (IEEJ Excellent Presentation Award)\n船水章大，神崎亮平，高橋宏知: 「サポートベクターマシンによる聴皮質の時空間的神経活動の解析」，電気学会平成19年電子・情報・システム部門大会講演論文集: pp. 266-272 , 2007 (大阪，2007年9月4日)",
+    "(7) 平成19年電気学会電子・情報・システム部門大会 奨励賞\n硯川潤，神崎亮平，中尾政之，神保泰彦，高橋宏知: 「光アドレス型刺激電極の薄膜構成最適化」，電気学会平成19年電子・情報・システム部門大会講演論文集: pp. 224-228, 2007 (大阪，2007年9月4日)",
+    "(8) 平成20年度ライフサポート学会奨励賞\n磯口知世，神崎亮平，高橋宏知：「状況察知のための聴皮質における質感の情報処理」，人と福祉を支える技術フォーラム2009講演予稿集：p. 50, 2009 (東京，2009年2月28日)\n磯口知世，神崎亮平，高橋宏知：「状況察知のための聴皮質における質感の情報処理」，ライフサポート学会誌 21 (2)：p. 76, 2009",
+    "(9) 計測自動制御学会 生体・生理工学部会 研究奨励賞\nDouglas J Bakkum, Urs Frey, Jan Mueller, Michele Fiscella, Andreas Hierlemann, 高橋宏知：「11,011個の計測電極を有するCMOSアレイによる神経回路の活動の評価」，第24回生体・生理工学シンポジウム (BPES2009) 論文集：pp. 27-28, 2009 (仙台，2009年9月24日)",
+    "(10) IEEE CIS Young Researcher Award (IEEE Computational Intelligence Society Japan Chapter)\n船水章大，伊藤真，銅谷賢治，神崎亮平，高橋宏知：「モデルフリーとモデルベース戦略の課題依存的な選択」，電子情報通信学会技術研究報告109 (280): pp. 41-46, 2009 (仙台，2009年11月12日) (2010年3月10日受賞)",
+    "(11) 平成21年電気学会電子・情報システム部門誌奨励賞\n船水章大，神崎亮平，高橋宏知：「識別精度に基づいた時空間的神経活動パターンの逐次的次元縮約法」，電気学会論文誌C電子情報システム部門誌 129 (9): pp. 1648-1654, 2009 (2010年9月2日受賞)",
+    "(12) 平成22年電気学会電子・情報・システム部門大会優秀論文賞 (IEEJ Excellent Presentation Award)\n横田亮，合原一幸，神崎亮平，高橋宏知：「学習に伴う情報表現の可塑的変化のモデル」，平成22年電気学会電子・情報・システム部門大会講演論文集: pp. 43-48, 2010 (熊本，2010年9月2日) (2011年9月8日受賞)",
+    "(13) 平成23年日本神経回路学会大会奨励賞\nAkihiro Funamizu, Makoto Ito, Kenji Doya, Ryohei Kanzaki and Hirokazu Takahashi: “Context-dependent uncertainty preference of rats in a free choice task.” Proceedings of the 21st Annual Conference of the Japanese Neural Network Society (JNNS 2011): #P1-13, 2011 (沖縄，2011年12月15日) (2011年12月17日受賞)",
+    "(14) 電気学会電子・情報・システム部門大会企画賞\n高橋宏知：平成23年電子・情報・システム部門大会企画セッション「神経工学」(2012年9月5日受賞)",
+    "(15) 平成24年電気学会電子・情報・システム部門大会論文奨励賞\n野田貴大，神崎亮平，高橋宏知：「聴覚野における音脈分凝に関わる機能的ネットワークの下部構造」，電気学会論文誌C電子情報システム部門誌 132 (7): pp. 1079-1087, 2012 (2013年9月5日受賞)",
+    "(16) 平成25年電気学会電子・情報・システム部門大会論文奨励賞\n狩野竜示，宇佐美憲一，野田貴大，磯口知世，神崎亮平，川合謙介，高橋宏知：「ラット大脳皮質の局所電場電位における迷走神経刺激による同期度の変化」，電気学会論文誌C電子情報システム部門誌 133 (8): pp. 1493-1500, 2013 (201４年9月4日受賞)",
+    "(17) 平成25年電気学会電子・情報・システム部門大会優秀論文賞\n白松（磯口）知世，野田貴大，神崎亮平，高橋宏知：「和音の質感が聴皮質の神経活動の位相同期に及ぼす影響」，平成25年電気学会 電子・情報・システム部門大会講演論文集: pp. 75-79, 2013 (2014年9月4日受賞)",
+    "(18) 生物音響学会優秀賞（第１回生物音響学会年次研究発表会）\nTomoyo Isoguchi Shiramatsu, Hirokazu Takahashi: “Oscillation in rat auditory cortex representing texture of chord.” Abstract of the 1st annual meeting of the society for bioacoustics and the 19th auditory reseach forum: p. 13, 2014 (2014年12月14日受賞)",
+    "(19) 平成26年電気学会 電気学会優秀論文発表A賞（IEEJ Excellent Presentation Award）\n矢田祐一郎，神﨑亮平，高橋宏知：「状態空間モデルと先導空間活動パターンによる培養神経回路バースト活動の再構成」平成26年電気学会 電子・情報・システム部門大会講演論文集: pp. 229-234, 2014 (島根，2014年9月3日) (2015年2月受賞)",
+    "(20) 平成27年電気学会 電気学会優秀論文発表A賞（IEEJ Excellent Presentation Award）\n安田秀策，矢田祐一郎，三田毅，神﨑亮平，高橋 宏知：「培養神経細胞によるFORCE学習を用いたロボット制御」，電気学会研究会資料 医用・生体工学研究会MBE-15-028~052: pp. 79-84, 2015 (東京，2015年3月27日) (2016年2月受賞)",
+    "(21) 平成29年電気学会電子・情報・システム部門大会 優秀論文賞\n和家尚希，白松（磯口）知世，高橋宏知：「耳鳴り症状を呈するラットの聴覚野における神経活動の位相同期」，平成29年電気学会電子・情報・システム部門大会講演論文集: pp. 275-279, 2017 (高松，2017年9月6日) (2017年1月受賞)"
+  ]
+}

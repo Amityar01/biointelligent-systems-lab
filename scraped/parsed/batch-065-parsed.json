@@ -1,0 +1,127 @@
+{
+  "batchId": 65,
+  "category": "patent",
+  "categoryTitle": "創造的活動 (Creative Activity)",
+  "parsedAt": "2026-01-22T03:06:58.775Z",
+  "items": [
+    {
+      "title": "代用原音発生器",
+      "authors": [
+        "畑村洋太郎",
+        "中尾政之",
+        "高橋宏知"
+      ],
+      "year": 1998,
+      "type": "patent",
+      "_source": "ollama",
+      "_raw": "(1) 畑村洋太郎, 中尾政之, 高橋宏知:「代用原音発生器」, 特開平11-266488, 1998 (1998年03月18日出願)",
+      "language": "ja",
+      "category": "patent",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: patent"
+      ],
+      "id": "1998----1532"
+    },
+    {
+      "title": "代用原音発生器とその制御方法",
+      "authors": [
+        "畑村洋太郎",
+        "中尾政之",
+        "高橋宏知"
+      ],
+      "year": 1999,
+      "type": "patent",
+      "_source": "ollama",
+      "_raw": "(2) 畑村洋太郎, 中尾政之, 高橋宏知:「代用原音発生器とその制御方法」, 特開2001-086583, 1999 (1999年09月09日出願)",
+      "language": "ja",
+      "category": "patent",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: patent"
+      ],
+      "id": "1999----1533"
+    },
+    {
+      "title": "代用原音発生装置とその制御方法",
+      "authors": [
+        "畑村洋太郎",
+        "中尾政之",
+        "高橋宏知"
+      ],
+      "year": 1999,
+      "type": "patent",
+      "_source": "ollama",
+      "_raw": "(3) 畑村洋太郎, 中尾政之, 高橋宏知:「代用原音発生装置とその制御方法」, 特開2001-147694, 1999 (1999年11月18日出願)",
+      "language": "ja",
+      "category": "patent",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: patent"
+      ],
+      "id": "1999----1534"
+    },
+    {
+      "title": "てんかん判定装置、てんかん判定システム、てんかん判定方法及びてんかん判定プログラム",
+      "authors": [
+        "高橋宏知",
+        "江間見亜利",
+        "川合謙介"
+      ],
+      "year": 2018,
+      "type": "patent",
+      "_source": "ollama",
+      "_raw": "(4) 高橋宏知，江間見亜利，川合謙介：「てんかん判定装置、てんかん判定システム、てんかん判定方法及びてんかん判定プログラム」，特願2018-051262, 特開2019-162237, 特許第7072771号 (2018年3月19日国内出願，2019年3月19日国際出願)",
+      "language": "ja",
+      "category": "patent",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: patent"
+      ],
+      "id": "2018----1535"
+    },
+    {
+      "title": "聴力検査システムおよび聴力検査方法",
+      "authors": [
+        "高橋宏知",
+        "可部泰生"
+      ],
+      "year": 2020,
+      "type": "patent",
+      "_source": "ollama",
+      "_raw": "(5) 高橋宏知，可部泰生：「聴力検査システムおよび聴力検査方法」，特願2020-114871, 特開2022-023751, 特許7091404 (2020年7月2日出願)",
+      "language": "ja",
+      "category": "patent",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: patent"
+      ],
+      "id": "2020----1536"
+    },
+    {
+      "title": "統計的機械学習のための時系列データの情報処理技術",
+      "authors": [
+        "佐藤可直",
+        "高橋宏知",
+        "池田成満"
+      ],
+      "year": 2020,
+      "type": "patent",
+      "_source": "ollama",
+      "_raw": "(6) 佐藤可直，高橋宏知，池田成満：「統計的機械学習のための時系列データの情報処理技術」，特願2020-194716，特開2022-083335 (2020年11月24日出願)",
+      "language": "ja",
+      "category": "patent",
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Invalid type: patent"
+      ],
+      "id": "2020----1537"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+id: neural-brain-2019
+slug: neural-brain-2019
+title:
+  en: Nervous System and Brain
+  ja: 神経と脳
+instructor:
+  en: Hirokazu Takahashi
+  ja: 高橋宏知
+department:
+  en: Faculty of Engineering
+  ja: 工学部
+level:
+  en: Undergraduate (3rd year)
+  ja: 学部3年生
+year: 2019
+semester:
+  en: Winter
+  ja: 冬学期
+description:
+  en: An introductory course on neuroscience covering the nervous system and brain functions for engineering students.
+  ja: 工学部学生を対象とした神経系と脳機能に関する入門講義。
+schedule:
+  instructor_dates: "2019-09-30 to 2019-11-13 (7 sessions)"
+  final_exam: "2020-01-27"
+textbook:
+  title:
+    en: "Brain Science for Engineers"
+    ja: メカ屋のための脳科学入門
+  publisher:
+    en: Nikkan Kogyo Shimbun
+    ja: 日刊工業新聞社
+  year: 2016
+references:
+  - title:
+      en: "Brain Science for Engineers Vol. 2: Memory, Learning, and Consciousness"
+      ja: 続 メカ屋のための脳科学入門 [記憶・学習/意識編]
+    publisher:
+      en: Nikkan Kogyo Shimbun
+      ja: 日刊工業新聞社
+    year: 2017
+notes:
+  en: Course materials and announcements via ITC-LMS
+  ja: 講義資料や連絡事項はITC-LMS
+active: false
