@@ -2,68 +2,69 @@
   "batchId": 37,
   "category": "seminars",
   "categoryTitle": "国際学会講習会・セミナー等",
-  "parsedAt": "2026-01-22T02:52:05.597Z",
+  "parsedAt": "2026-01-22T09:04:50.352Z",
   "items": [
     {
-      "type": "presentation",
-      "title": "Auditory stream segregation: Time-frequency filtering and response variability in the auditory cortex",
+      "title": "Auditory stream segregation: Time-frequency filtering and response variability in the auditory cortex.",
       "authors": [
         "Takahiro Noda",
         "Ryohei Kanzaki",
         "Hirokazu Takahashi"
       ],
       "year": 2009,
-      "conference": "Society for Neuroscience Abstract: #556.6",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Society for Neuroscience Abstract",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(10) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Auditory stream segregation: Time-frequency filtering and response variability in the auditory cortex.” Society for Neuroscience Abstract: #556.6 (CD-ROM), 2009 (Chicago, USA, 2009年10月17日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2009-takahironoda-auditory-stream-segregation-ti-865"
     },
     {
-      "type": "presentation",
-      "title": "Subcellular-resolution electronic recording and stimulation of cultured cortical networks using an 11,011 electrode CMOS array",
-      "authors": [
-        "Douglas J Bakkum",
-        "Urs Frey",
-        "Jan Mueller",
-        "Michele Fiscella",
-        "Andreas Hierlemann",
-        "Hirokazu Takahashi"
-      ],
-      "year": 2009,
-      "conference": "Society for Neuroscience Abstract: #390.23",
-      "awards": [],
-      "_source": "regex",
+      "title": "(11) Douglas J Bakkum, Urs Frey, Jan Mueller, Michele Fiscella, Andreas Hierlemann, Hirokazu Takahashi: “Subcellular-resolution electronic recording and stimulation of cultured cortical networks using",
+      "authors": [],
+      "year": null,
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(11) Douglas J Bakkum, Urs Frey, Jan Mueller, Michele Fiscella, Andreas Hierlemann, Hirokazu Takahashi: “Subcellular-resolution electronic recording and stimulation of cultured cortical networks using an 11,011 electrode CMOS array.” Society for Neuroscience Abstract: #390.23 (CD-ROM), 2009 (Chicago, USA, 2009年10月17日)",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "2009-douglasjbakkum-subcellular-resolution-electro-866"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--11-douglas-j-bakkum-urs-frey--866"
     },
     {
-      "type": "presentation",
       "title": "Flight motor responses to visual looming stimuli in tethered flying bumblebees, Bombus ignitus",
       "authors": [
         "Noriyasu Ando",
         "Yasuhito Sano",
         "Toshiyuki Andoh",
-        "Hirokazu Takahashi and Ryohei Kanzaki"
+        "Hirokazu Takahashi",
+        "Ryohei Kanzaki"
       ],
       "year": 2010,
-      "conference": "9th International Congress of Neuroethology, 2010",
-      "awards": [],
-      "_source": "regex",
+      "journal": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(12) Noriyasu Ando, Yasuhito Sano, Toshiyuki Andoh, Hirokazu Takahashi and Ryohei Kanzaki: “Flight motor responses to visual looming stimuli in tethered flying bumblebees, Bombus ignitus.” 9th International Congress of Neuroethology, 2010 (Salamanca, Spain, 2010年8月2日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2010-noriyasuando-flight-motor-responses-to-visu-867"
     },
     {
-      "type": "presentation",
       "title": "Task-dependent selection of model-free and model-based strategies in rat choice behaviors",
       "authors": [
         "Akihiro Funamizu",
@@ -72,18 +73,21 @@
         "Hirokazu Takahashi"
       ],
       "year": 2010,
-      "conference": "Society for Neuroscience Abstract: #814.4-We",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Society for Neuroscience Abstract",
+      "volume": "",
+      "issue": "",
+      "pages": "#814.4-We (CD-ROM)",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(13) Akihiro Funamizu, Makoto Ito, Ryohei Kanzaki, Hirokazu Takahashi: “Task-dependent selection of model-free and model-based strategies in rat choice behaviors.” Society for Neuroscience Abstract: #814.4-We (CD-ROM), 2010 (San Diego, USA, 2010年11月13日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2010-akihirofunamizu-task-dependent-selection-of-mo-868"
     },
     {
-      "type": "presentation",
-      "title": "Neural synchrony within the auditory cortex for auditory stream segregation",
+      "title": "Neural synchrony within the auditory cortex for auditory stream segregation.",
       "authors": [
         "Takahiro Noda",
         "Ryo Yokota",
@@ -91,18 +95,21 @@
         "Hirokazu Takahashi"
       ],
       "year": 2010,
-      "conference": "Society for Neuroscience Abstract: #671.12-Tu",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Society for Neuroscience Abstract",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(14) Takahiro Noda, Ryo Yokota, Ryohei Kanzaki, Hirokazu Takahashi: “Neural synchrony within the auditory cortex for auditory stream segregation.” Society for Neuroscience Abstract: #671.12-Tu (CD-ROM), 2010 (San Diego, USA, 2010年11月13日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2010-takahironoda-neural-synchrony-within-the-au-869"
     },
     {
-      "type": "presentation",
-      "title": "Effect of visual stimuli on the air-puff evoked escape behavior of the cricket Gryllus bimaculatus",
+      "title": "Effect of visual stimuli on the air-puff evoked escape behavior of the cricket Gryllus bimaculatus.",
       "authors": [
         "Kazunori Tokue",
         "Noriyasu Ando",
@@ -112,17 +119,20 @@
         "Ryohei"
       ],
       "year": 2011,
-      "conference": "8th International Congress of Comparative Physiology and Biochemistry",
-      "awards": [],
-      "_source": "regex",
+      "journal": "8th International Congress of Comparative Physiology and Biochemistry",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(15) Kazunori Tokue, Noriyasu Ando, Susumu Fujita, Toshiyuki Ando, Hirokazu Takahashi, and Ryohei: “Effect of visual stimuli on the air-puff evoked escape behavior of the cricket Gryllus bimaculatus.” 8th International Congress of Comparative Physiology and Biochemistry (Nagoya, 2011年5月31日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2011-kazunoritokue-effect-of-visual-stimuli-on-th-870"
     },
     {
-      "type": "presentation",
       "title": "Visual detection of moving objects during walking in crickets",
       "authors": [
         "Kei Watanabe",
@@ -133,17 +143,20 @@
         "Ryohei Kanzaki"
       ],
       "year": 2011,
-      "conference": "8th International Congress of Comparative Physiology and Biochemistry",
-      "awards": [],
-      "_source": "regex",
+      "journal": "8th International Congress of Comparative Physiology and Biochemistry",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(16) Kei Watanabe, Noriyasu Ando, Susumu Fujita, Toshiyuki Andoh, Hirokazu Takahashi, and Ryohei Kanzaki: “Visual detection of moving objects during walking in crickets.” 8th International Congress of Comparative Physiology and Biochemistry (Nagoya, 2011年5月31日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2011-keiwatanabe-visual-detection-of-moving-obj-871"
     },
     {
-      "type": "presentation",
       "title": "Feasibility study of odor biosensor using dissociate neuronal culture with gene expression of ionotropic odorant receptors",
       "authors": [
         "Norio Tanada",
@@ -154,17 +167,20 @@
         "Hirokazu Takahashi"
       ],
       "year": 2011,
-      "conference": "Abstracts of 8th IBRO World Congress of Neuroscience: A084, 2011",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Abstracts of 8th IBRO World Congress of Neuroscience",
+      "volume": "",
+      "issue": "",
+      "pages": "A084",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(17) Norio Tanada, Takeshi Sakurai, Hidefumi Mitsuno, Douglas Bakkum, Ryohei Kanzaki, Hirokazu Takahashi: “Feasibility study of odor biosensor using dissociate neuronal culture with gene expression of ionotropic odorant receptors.” Abstracts of 8th IBRO World Congress of Neuroscience: A084, 2011 (Florence, Italy, 2011年7月14日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2011-noriotanada-feasibility-study-of-odor-bios-872"
     },
     {
-      "type": "presentation",
       "title": "The global features and substructure of functional network in the auditory cortex for stream segregation",
       "authors": [
         "Takahiro Noda",
@@ -172,17 +188,20 @@
         "Hirokazu Takahashi"
       ],
       "year": 2011,
-      "conference": "Abstracts of 8th IBRO World Congress of Neuroscience: B237, 2011",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Abstracts of 8th IBRO World Congress of Neuroscience",
+      "volume": "",
+      "issue": "",
+      "pages": "B237",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(18) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “The global features and substructure of functional network in the auditory cortex for stream segregation.” Abstracts of 8th IBRO World Congress of Neuroscience: B237, 2011 (Florence, Italy, 2011年7月14日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2011-takahironoda-the-global-features-and-substr-873"
     },
     {
-      "type": "presentation",
       "title": "Acoustic saliency represented in Mismatch Negativity in rat auditory cortex",
       "authors": [
         "Tomoyo Isoguchi",
@@ -190,17 +209,20 @@
         "Hirokazu Takahashi"
       ],
       "year": 2011,
-      "conference": "Abstracts of 8th IBRO World Congress of Neuroscience: B228, 2011",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Abstracts of 8th IBRO World Congress of Neuroscience",
+      "volume": "",
+      "issue": "",
+      "pages": "B228",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(19) Tomoyo Isoguchi, Ryohei Kanzaki, Hirokazu Takahashi: “Acoustic saliency represented in Mismatch Negativity in rat auditory cortex.” Abstracts of 8th IBRO World Congress of Neuroscience: B228, 2011 (Florence, Italy, 2011年7月14日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2011-tomoyoisoguchi-acoustic-saliency-represented--874"
     },
     {
-      "type": "presentation",
       "title": "Advancing neuronal cellular and network analysis using a high-density 11,011-microelectrode CMOS array",
       "authors": [
         "D. J. Bakkum",
@@ -211,18 +233,21 @@
         "A. Hierlemann"
       ],
       "year": 2011,
-      "conference": "Abstracts of 8th IBRO World Congress of Neuroscience: B519, 2011",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Abstracts of 8th IBRO World Congress of Neuroscience",
+      "volume": "",
+      "issue": "",
+      "pages": "B519",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(20) D. J. Bakkum, U. Frey, J. Mueller, M. Fiscella, H. Takahashi, A. Hierlemann: “Advancing neuronal cellular and network analysis using a high-density 11,011-microelectrode CMOS array.” Abstracts of 8th IBRO World Congress of Neuroscience: B519, 2011 (Florence, Italy, 2011年7月14日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2011-djbakkum-advancing-neuronal-cellular-an-875"
     },
     {
-      "type": "presentation",
-      "title": "Representation of acoustic saliency and valence in rat auditory cortex",
+      "title": "Representation of acoustic saliency and valence in rat auditory cortex.",
       "authors": [
         "Tomoyo Isoguchi",
         "Takahiro Noda",
@@ -230,17 +255,20 @@
         "Hirokazu Takahashi"
       ],
       "year": 2011,
-      "conference": "Society for Neuroscience Abstract: #693.07, 2011",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Society for Neuroscience Abstract",
+      "volume": "",
+      "issue": "#693.07",
+      "pages": "",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(21) Tomoyo Isoguchi, Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Representation of acoustic saliency and valence in rat auditory cortex.” Society for Neuroscience Abstract: #693.07, 2011 (Washington DC, USA, 2011年11月12日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2011-tomoyoisoguchi-representation-of-acoustic-sal-876"
     },
     {
-      "type": "presentation",
       "title": "Functional subnetwork structure in auditory cortex for stream segregation",
       "authors": [
         "Takahiro Noda",
@@ -248,17 +276,20 @@
         "Hirokazu Takahashi"
       ],
       "year": 2012,
-      "conference": "Abstract of Acoustic 2012: #5aPP6, 2012",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Abstract of Acoustic 2012",
+      "volume": "",
+      "issue": "",
+      "pages": "#5aPP6",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(22) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Functional subnetwork structure in auditory cortex for stream segregation.” Abstract of Acoustic 2012: #5aPP6, 2012 (香港, 2012年5月13日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2012-takahironoda-functional-subnetwork-structur-877"
     },
     {
-      "type": "presentation",
       "title": "Oscillatory Neuronal Synchronization for Auditory Stream Segregation in Auditory Cortex of the Unanesthetized Rat",
       "authors": [
         "Takahiro Noda",
@@ -266,17 +297,18 @@
         "Hirokazu Takahashi"
       ],
       "year": 2012,
-      "conference": "Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Proceedings of 4th Conference on Auditory Cortex",
+      "pages": "xx-xx",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(23) Takahiro Noda, Ryohei Kanzaki, Hirokazu Takahashi: “Oscillatory Neuronal Synchronization for Auditory Stream Segregation in Auditory Cortex of the Unanesthetized Rat.” Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012 (Lausanne, Switzeerland, 2012年8月31日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2012-takahironoda-oscillatory-neuronal-synchroni-878"
     },
     {
-      "type": "presentation",
       "title": "Sound-associated emotions represented in phase synchrony pattern in auditory cortex of rats",
       "authors": [
         "Tomoyo Isoguchi",
@@ -286,17 +318,20 @@
         "Hirokazu Takahashi"
       ],
       "year": 2012,
-      "conference": "Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Proceedings of 4th Conference on Auditory Cortex",
+      "volume": "",
+      "issue": "",
+      "pages": "xx-xx",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(24) Tomoyo Isoguchi, Takahiro Noda, Kan Akutsu, Ryohei Kanzaki, Hirokazu Takahashi: “Sound-associated emotions represented in phase synchrony pattern in auditory cortex of rats.” Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012 (Lausanne, Switzeerland, 2012年8月31日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2012-tomoyoisoguchi-sound-associated-emotions-repr-879"
     },
     {
-      "type": "presentation",
       "title": "Analysis of Temporal Coherence in Rat Auditory Cortex at Different Learning Stages",
       "authors": [
         "Ryo Yokota",
@@ -305,17 +340,20 @@
         "Hirokazu Takahashi"
       ],
       "year": 2012,
-      "conference": "Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Proceedings of 4th Conference on Auditory Cortex",
+      "volume": "",
+      "issue": "",
+      "pages": "xx-xx",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(25) Ryo Yokota, Kazuyuki Aihara, Ryohei Kanzaki, Hirokazu Takahashi: “Analysis of Temporal Coherence in Rat Auditory Cortex at Different Learning Stages.” Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012 (Lausanne, Switzeerland, 2012年8月31日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2012-ryoyokota-analysis-of-temporal-coherence-880"
     },
     {
-      "type": "presentation",
       "title": "Learning-induced plasticity of response variability of tone-evoked multi-unit activities on the tonotopic map in the auditory cortex",
       "authors": [
         "Hirokazu Takahashi",
@@ -323,17 +361,20 @@
         "Ryohei Kanzaki"
       ],
       "year": 2012,
-      "conference": "Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Proceedings of 4th Conference on Auditory Cortex",
+      "volume": "",
+      "issue": "",
+      "pages": "xx-xx",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(26) Hirokazu Takahashi, Ryo Yokota, Ryohei Kanzaki: “Learning-induced plasticity of response variability of tone-evoked multi-unit activities on the tonotopic map in the auditory cortex.” Proceedings of 4th Conference on Auditory Cortex: p. xx-xx, 2012 (Lausanne, Switzeerland, 2012年8月31日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2012-hirokazutakahas-learning-induced-plasticity-of-881"
     },
     {
-      "type": "presentation",
       "title": "Phase modulation of cortical activities by vagus nerve stimulation in adult rat",
       "authors": [
         "Kenichi Usami",
@@ -345,17 +386,20 @@
         "Kensuke Kawai"
       ],
       "year": 2012,
-      "conference": "Society for Neuroscience Abstract: #657.04-Tu, 2012",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Society for Neuroscience Abstract",
+      "volume": "",
+      "issue": "",
+      "pages": "#657.04-Tu",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(27) Kenichi Usami, Ryuji Kano, Takahiro Noda, Tomoyo Isoguchi, Nobuhito Saito, Hirokazu Takahashi, Kensuke Kawai: “Phase modulation of cortical activities by vagus nerve stimulation in adult rat.” Society for Neuroscience Abstract: #657.04-Tu, 2012 (New Orleans, USA, 2012年10月13日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2012-kenichiusami-phase-modulation-of-cortical-a-882"
     },
     {
-      "type": "presentation",
       "title": "Induced gamma-band synchronization for auditory stream segregation in auditory cortex of the awake rat",
       "authors": [
         "Takahiro Noda",
@@ -363,18 +407,21 @@
         "Hirokazu Takahashi"
       ],
       "year": 2013,
-      "conference": "Abstract of The 36th annual midwinter research meeting, Aoosication for research in otolaryngology: pp. 453-454, 2013",
-      "awards": [],
-      "_source": "regex",
+      "journal": "The 36th annual midwinter research meeting, Aoosication for research in otolaryngology",
+      "volume": "",
+      "issue": "",
+      "pages": "453-454",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(28) Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Induced gamma-band synchronization for auditory stream segregation in auditory cortex of the awake rat.” Abstract of The 36th annual midwinter research meeting, Aoosication for research in otolaryngology: pp. 453-454, 2013 (Baltimore, USA , 2013年2月16日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2013-takahironoda-induced-gamma-band-synchroniza-883"
     },
     {
-      "type": "presentation",
-      "title": "Consonance-dependent modulation of phase synchrony in the auditory cortex of rats",
+      "title": "Consonance-dependent modulation of phase synchrony in the auditory cortex of rats.",
       "authors": [
         "Tomoyo Isoguchi",
         "Takahiro Noda",
@@ -382,17 +429,20 @@
         "Hirokazu Takahashi"
       ],
       "year": 2013,
-      "conference": "Abstract of The 36th annual midwinter research meeting, Aoosication for research in otolaryngology: pp. 39-40, 2013",
-      "awards": [],
-      "_source": "regex",
+      "journal": "The 36th annual midwinter research meeting, Aoosication for research in otolaryngology",
+      "volume": "",
+      "issue": "",
+      "pages": "39-40",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(29) Tomoyo Isoguchi, Takahiro Noda, Ryohei Kanzaki, and Hirokazu Takahashi: “Consonance-dependent modulation of phase synchrony in the auditory cortex of rats.” Abstract of The 36th annual midwinter research meeting, Aoosication for research in otolaryngology: pp. 39-40, 2013 (Baltimore, USA, 2013年2月16日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2013-tomoyoisoguchi-consonance-dependent-modulatio-884"
     },
     {
-      "type": "presentation",
       "title": "Value-updating Interaction among Contexts in Choice Behaviors of Rats",
       "authors": [
         "Akihiro Funamizu",
@@ -402,56 +452,56 @@
         "Hirokazu Takahashi"
       ],
       "year": 2013,
-      "conference": "Computational and Systems Neuroscience",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Computational and Systems Neuroscience (Cosyne) 2013",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(30) Akihiro Funamizu, Makoto Ito, Kenji Doya, Ryohei Kanzaki, Hirokazu Takahashi: “Value-updating Interaction among Contexts in Choice Behaviors of Rats.”　　Computational and Systems Neuroscience (Cosyne) 2013, 2013 (Salt Lake City, USA, 2013年2月28日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2013-akihirofunamizu-value-updating-interaction-amo-885"
     },
     {
-      "type": "presentation",
-      "title": "Local differences in axonal action potential conduction velocity",
-      "authors": [
-        "Douglas J. Bakkum",
-        "Urs Frey",
-        "Milos Radivojevic",
-        "Thomas L. Russell",
-        "Jan Müller",
-        "Hirokazu Takahashi",
-        "Andreas Hierlemann"
-      ],
-      "year": 2013,
-      "conference": "Society for Neuroscience Abstract: #520.04/F30, 2013",
-      "awards": [],
-      "_source": "regex",
+      "title": "(31) Douglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan Müller, Hirokazu Takahashi, Andreas Hierlemann: “Local differences in axonal action potential conduction velocity.” Society ",
+      "authors": [],
+      "year": null,
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(31) Douglas J. Bakkum, Urs Frey, Milos Radivojevic, Thomas L. Russell, Jan Müller, Hirokazu Takahashi, Andreas Hierlemann: “Local differences in axonal action potential conduction velocity.” Society for Neuroscience Abstract: #520.04/F30, 2013 (San Diego, USA, 2013年11月9日)",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "2013-douglasjbakkum-local-differences-in-axonal-ac-886"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--31-douglas-j-bakkum-urs-frey--886"
     },
     {
-      "type": "presentation",
       "title": "Anesthetic effect on tonotopic organization in rat auditory cortex",
       "authors": [
         "Takahiro Noda",
         "Hirokazu Takahashi"
       ],
       "year": 2014,
-      "conference": "Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 51, 2014",
-      "awards": [],
-      "_source": "regex",
+      "journal": "Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology",
+      "volume": "",
+      "issue": "",
+      "pages": "51",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(32) Takahiro Noda, and Hirokazu Takahashi: “Anesthetic effect on tonotopic organization in rat auditory cortex.” Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 51, 2014 (San Diego, USA, 2014年2月22日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2014-takahironoda-anesthetic-effect-on-tonotopic-887"
     },
     {
-      "type": "presentation",
       "title": "Mismatch Negativity (MMN) in Rat Auditory Cortex",
       "authors": [
         "Tomoyo I. Shiramatsu",
@@ -459,35 +509,34 @@
         "Hirokazu Takahashi"
       ],
       "year": 2014,
-      "conference": "Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 51, 2014",
-      "awards": [],
-      "_source": "regex",
+      "journal": "The 37th annual midwinter research meeting, Association for Research in Otolaryngology",
+      "volume": "",
+      "issue": "",
+      "pages": "51",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(33) Tomoyo I. Shiramatsu, Ryohei Kanzaki, and Hirokazu Takahashi: “Mismatch Negativity (MMN) in Rat Auditory Cortex.” Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 51, 2014 (San Diego, USA, 2014年2月22日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
       "id": "2014-tomoyoishiramat-mismatch-negativity-mmn-in-rat-888"
     },
     {
-      "type": "presentation",
-      "title": "Simultaneous, 3-dimentional mapping of spatio-temporal activity in auditory cortex and thalamus of rats",
-      "authors": [
-        "Kazusa Takahashi",
-        "Tomoyo I. Shiramatsu",
-        "Takahiro Noda",
-        "Ryohei Kanzaki",
-        "Haruka Nakahara",
-        "Hirokazu Takahashi"
-      ],
-      "year": 2014,
-      "conference": "Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 50, 2014",
-      "awards": [],
-      "_source": "regex",
+      "title": "(34) Kazusa Takahashi, Tomoyo I. Shiramatsu, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahara, and Hirokazu Takahashi: “Simultaneous, 3-dimentional mapping of spatio-temporal activity in auditory cortex",
+      "authors": [],
+      "year": null,
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(34) Kazusa Takahashi, Tomoyo I. Shiramatsu, Takahiro Noda, Ryohei Kanzaki, Haruka Nakahara, and Hirokazu Takahashi: “Simultaneous, 3-dimentional mapping of spatio-temporal activity in auditory cortex and thalamus of rats.” Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 50, 2014 (San Diego, USA, 2014年2月22日)",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "2014-kazusatakahashi-simultaneous-3-dimentional-map-889"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--34-kazusa-takahashi-tomoyo-i--889"
     }
   ]
 }

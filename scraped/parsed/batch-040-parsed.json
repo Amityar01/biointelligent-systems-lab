@@ -2,122 +2,136 @@
   "batchId": 40,
   "category": "seminars",
   "categoryTitle": "国際学会講習会・セミナー等",
-  "parsedAt": "2026-01-22T02:52:10.740Z",
+  "parsedAt": "2026-01-22T11:11:13.288Z",
   "items": [
     {
-      "type": "presentation",
       "title": "喉頭摘出者の音声発生機構の開発",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "東京大学工学部卒業論文, 1998",
-      "awards": [],
-      "_source": "regex",
+      "year": 1998,
+      "journal": "東京大学工学部卒業論文",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "thesis",
+      "_source": "ollama",
       "_raw": "(1) 高橋宏知: 「喉頭摘出者の音声発生機構の開発」, 東京大学工学部卒業論文, 1998 (指導教官: 畑村洋太郎教授)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----940"
+      "id": "1998----940"
     },
     {
-      "type": "presentation",
       "title": "口腔内振動子を用いた無喉頭者の発声システムの開発",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "東京大学大学院工学系研究科修士論文, 2000",
-      "awards": [],
-      "_source": "regex",
+      "year": 2000,
+      "journal": "東京大学大学院工学系研究科修士論文",
+      "type": "thesis",
+      "_source": "ollama",
       "_raw": "(2) 高橋宏知: 「口腔内振動子を用いた無喉頭者の発声システムの開発」, 東京大学大学院工学系研究科修士論文, 2000 (指導教官: 飛原英治教授)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----941"
+      "id": "2000----941"
     },
     {
-      "type": "presentation",
       "title": "聴性誘発電位の多点計測による聴皮質の機能構造の解明",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "東京大学大学院工学系研究科学位論文",
-      "awards": [],
-      "_source": "regex",
+      "year": 2003,
+      "journal": "東京大学大学院工学系研究科学位論文",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "thesis",
+      "_source": "ollama",
       "_raw": "(3) 高橋宏知: 「聴性誘発電位の多点計測による聴皮質の機能構造の解明」, 東京大学大学院工学系研究科学位論文 (甲第17962号), 2003 (指導教官: 中尾政之教授)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----942"
+      "id": "2003----942"
     },
     {
-      "type": "presentation",
       "title": "神経活動の横断的解析手法の開発",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "財団法人大川情報通信基金2006年度研究助成成果概要集",
-      "awards": [],
-      "_source": "regex",
+      "year": 2007,
+      "journal": "財団法人大川情報通信基金2006年度研究助成成果概要集",
+      "pages": "41",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(4) 高橋宏知: 「神経活動の横断的解析手法の開発」，財団法人大川情報通信基金2006年度研究助成成果概要集（研究期間：2006年9月～2007年8月）: p. 41, 2007",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----943"
+      "id": "2007----943"
     },
     {
-      "type": "presentation",
       "title": "溶液プロセスによる神経インターフェース用光アドレス電極の開発",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "財団法人村田学術振興財団年報 21: pp. 301-310, 2007",
-      "awards": [],
-      "_source": "regex",
+      "year": 2007,
+      "journal": "財団法人村田学術振興財団年報",
+      "volume": "21",
+      "issue": "",
+      "pages": "301-310",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(5) 高橋宏知: 「溶液プロセスによる神経インターフェース用光アドレス電極の開発」，財団法人村田学術振興財団年報 21: pp. 301-310, 2007",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----944"
+      "id": "2007----944"
     },
     {
-      "type": "presentation",
-      "title": "若手研究者紹介　大脳の聴皮質と可塑性",
+      "title": "若手研究者紹介 大脳の聴皮質と可塑性",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "先端研ニュース 63: p. 7, 2007",
-      "awards": [],
-      "_source": "regex",
+      "year": 2007,
+      "journal": "先端研ニュース",
+      "volume": "63",
+      "issue": "",
+      "pages": "7",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(6) 高橋宏知:「若手研究者紹介　大脳の聴皮質と可塑性」，先端研ニュース 63: p. 7, 2007",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----945"
+      "id": "2007----945"
     },
     {
-      "type": "presentation",
       "title": "情動センシング用Brain-Computer Interfaceの基盤技術",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "立石科学技術振興財団助成研究成果集 18: pp. 121-124, 2009",
-      "awards": [],
-      "_source": "regex",
+      "year": 2009,
+      "journal": "立石科学技術振興財団助成研究成果集",
+      "volume": "18",
+      "pages": "121-124",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(7) 高橋宏知: 「情動センシング用Brain-Computer Interfaceの基盤技術」，立石科学技術振興財団助成研究成果集 18: pp. 121-124, 2009",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown---brain-computer-interface--946"
+      "id": "2009---brain-computer-interface--946"
     },
     {
-      "type": "presentation",
       "title": "先進医療機器の研究開発における医工連携の日米欧比較調査",
       "authors": [
         "伊福部達",
@@ -125,293 +139,333 @@
         "高橋宏知",
         "渡邊克己"
       ],
-      "year": null,
-      "conference": "機械工業経済研究報告書 H20-6-2A",
-      "awards": [],
-      "_source": "regex",
+      "year": 2009,
+      "journal": "機械工業経済研究報告書",
+      "volume": "H20-6-2A",
+      "issue": "",
+      "pages": "1-130",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(8) 伊福部達，大河内直之，高橋宏知，渡邊克己: 「先進医療機器の研究開発における医工連携の日米欧比較調査」，機械工業経済研究報告書 H20-6-2A (財団法人機械振興会経済研究所発行)，全130頁, 2009",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----947"
+      "id": "2009----947"
     },
     {
-      "type": "presentation",
       "title": "神経回路の形成・修復・活性化をシャーレ上で調べる脳のモデル（培養神経回路を用いたニューロスクリーニング用実験系）",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "awards": [],
-      "_source": "regex",
+      "year": 2010,
+      "journal": "（財）東電記念科学技術研究所研究助成成果報告書",
+      "volume": "06-4",
+      "pages": "全32頁",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(9) 高橋宏知: 「神経回路の形成・修復・活性化をシャーレ上で調べる脳のモデル（培養神経回路を用いたニューロスクリーニング用実験系）」，（財）東電記念科学技術研究所研究助成成果報告書 (06-4)，全32頁，2010",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----948"
+      "id": "2010----948"
     },
     {
-      "type": "presentation",
       "title": "音の認知・認識における聴皮質の役割",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "脳機能の統合的研究",
-      "awards": [],
-      "_source": "regex",
+      "year": 2010,
+      "journal": "脳機能の統合的研究 (領域番号018) 文部科学省科学研究費補助金平成16年度～21年度『特定領域研究』研究成果報告書",
+      "pages": "112-113",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(10) 高橋宏知:「音の認知・認識における聴皮質の役割」，脳機能の統合的研究 (領域番号018) 文部科学省科学研究費補助金平成16年度～21年度『特定領域研究』研究成果報告書: pp. 112-113, 2010",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----949"
+      "id": "2010----949"
     },
     {
-      "type": "presentation",
       "title": "光アドレス電極を応用した細胞-環境系のマルチスケール計測・制御",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "東京大学トランスレーショナル・イニシアティブ東京大学ナノバイオ・インテグレーション研究拠点平成22年度活動成果報告書: pp. 44-45, 2011",
-      "awards": [],
-      "_source": "regex",
+      "year": 2011,
+      "journal": "東京大学トランスレーショナル・イニシアティブ東京大学ナノバイオ・インテグレーション研究拠点平成22年度活動成果報告書",
+      "volume": "",
+      "issue": "",
+      "pages": "44-45",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(11) 高橋宏知:「光アドレス電極を応用した細胞-環境系のマルチスケール計測・制御」，東京大学トランスレーショナル・イニシアティブ東京大学ナノバイオ・インテグレーション研究拠点平成22年度活動成果報告書: pp. 44-45, 2011",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----950"
+      "id": "2011----950"
     },
     {
-      "type": "presentation",
       "title": "聴皮質における音の質感と情動情報の神経基盤",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "新学術領域研究 質感脳情報学 ニュースレター 2: p. 43, 2012",
-      "awards": [],
-      "_source": "regex",
+      "year": 2012,
+      "journal": "新学術領域研究 質感脳情報学 ニュースレター",
+      "volume": "2",
+      "issue": "",
+      "pages": "43",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(12) 高橋宏知: 「聴皮質における音の質感と情動情報の神経基盤」，新学術領域研究 質感脳情報学 ニュースレター 2: p. 43, 2012",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----951"
+      "id": "2012----951"
     },
     {
-      "type": "presentation",
       "title": "培養神経回路に嗅覚受容体たんぱく質を遺伝子発現させた匂いセンサー",
       "authors": [
         "高橋宏知",
         "櫻井健志"
       ],
-      "year": null,
-      "conference": "公益財団法人 中谷医工計測技術振興財団 年報 27: pp. 43-50, 2013",
-      "awards": [],
-      "_source": "regex",
+      "year": 2013,
+      "journal": "公益財団法人 中谷医工計測技術振興財団 年報",
+      "volume": "27",
+      "issue": "",
+      "pages": "43-50",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(13) 高橋宏知，櫻井健志: 「培養神経回路に嗅覚受容体たんぱく質を遺伝子発現させた匂いセンサー」，公益財団法人 中谷医工計測技術振興財団 年報 27: pp. 43-50, 2013",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----952"
+      "id": "2013----952"
     },
     {
-      "type": "presentation",
-      "title": "聴皮質における音の質感と情動情報の神経基盤",
+      "title": "職膱贸坐贸にからない音の贸质と情动情場の秘经基楞",
       "authors": [
-        "高橋宏知"
+        "高桃宏知"
       ],
-      "year": null,
-      "conference": "新学術領域研究 質感脳情報学 ニュースレター 4: pp. 130-131, 2015",
-      "awards": [],
-      "_source": "regex",
+      "year": 2015,
+      "journal": "新学术顆域研究 贸质老情場学 パーブルスト",
+      "volume": "4",
+      "issue": "",
+      "pages": "130-131",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(14) 高橋宏知: 「聴皮質における音の質感と情動情報の神経基盤」，新学術領域研究 質感脳情報学 ニュースレター 4: pp. 130-131, 2015",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----953"
+      "id": "2015----953"
     },
     {
-      "type": "presentation",
-      "title": "音の質感と情動情報の神経基盤",
-      "authors": [
-        "高橋宏知"
-      ],
+      "title": "(15) 高橋宏知: 「音の質感と情動情報の神経基盤」，新学術領域研究 質感脳情報学 ニュースレター 4: pp. 164-165, 2015",
+      "authors": [],
       "year": null,
-      "conference": "新学術領域研究 質感脳情報学 ニュースレター 4: pp. 164-165, 2015",
-      "awards": [],
-      "_source": "regex",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(15) 高橋宏知: 「音の質感と情動情報の神経基盤」，新学術領域研究 質感脳情報学 ニュースレター 4: pp. 164-165, 2015",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "unknown----954"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--15-4-pp-164-165-2015-954"
     },
     {
-      "type": "presentation",
       "title": "神経反応の多様性を利用した創発型バイオコンピューティング",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "2016旭硝子財団助成研究発表会要旨集: pp. 132-133, 2016",
-      "awards": [],
-      "_source": "regex",
+      "year": 2016,
+      "journal": "2016旭硝子財団助成研究発表会要旨集",
+      "volume": "",
+      "issue": "",
+      "pages": "132-133",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(16) 高橋宏知: 「神経反応の多様性を利用した創発型バイオコンピューティング」，2016旭硝子財団助成研究発表会要旨集: pp. 132-133, 2016",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----955"
+      "id": "2016----955"
     },
     {
-      "type": "presentation",
-      "title": "イスラームの宗教と脳の機能は交差する．",
+      "title": "イスラームの宗教と脳の機能は交差する",
       "authors": [
         "高橋宏知",
         "池内恵"
       ],
-      "year": null,
-      "conference": "先端研30周年 対話する「未来論」",
-      "awards": [],
-      "_source": "regex",
+      "year": 2018,
+      "journal": "先端研30周年 対話する「未来論」",
+      "volume": "",
+      "issue": "",
+      "pages": "10-19",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(17) 高橋宏知，池内恵：「イスラームの宗教と脳の機能は交差する．」，先端研30周年 対話する「未来論」（東京大学先端科学技術研究センター）: pp. 10-19, 2018",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----956"
+      "id": "2018----956"
     },
     {
-      "type": "presentation",
       "title": "オーダーメイド医療のための耳鳴診断システムの開発",
       "authors": [
         "高橋宏知",
         "神崎晶"
       ],
-      "year": null,
-      "conference": "立石科学技術振興財団　助成研究成果集 28: pp. 39-43, 2019",
-      "awards": [],
-      "_source": "regex",
+      "year": 2019,
+      "journal": "立石科学技術振興財団　助成研究成果集",
+      "volume": "28",
+      "issue": "",
+      "pages": "39-43",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(18) 高橋宏知，神崎晶：「オーダーメイド医療のための耳鳴診断システムの開発」，立石科学技術振興財団　助成研究成果集 28: pp. 39-43, 2019",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----957"
+      "id": "2019----957"
     },
     {
-      "type": "presentation",
       "title": "多くの人にとって真ではないが、自分にとって真であることを突き詰めていく　～情報理工でネズミの脳を探求する～",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "東京大学大学院情報理工学系研究科フォーカス",
-      "awards": [],
-      "_source": "regex",
+      "year": 2020,
+      "journal": "東京大学大学院情報理工学系研究科フォーカス",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(19) 高橋宏知：「多くの人にとって真ではないが、自分にとって真であることを突き詰めていく　～情報理工でネズミの脳を探求する～」，東京大学大学院情報理工学系研究科フォーカス（教員紹介記事）(https://www.i.u-tokyo.ac.jp/news/focus/takahashi_2020.shtml)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----958"
+      "id": "2020----958"
     },
     {
       "title": "工学部の授業「座学２　神経と脳」",
-      "authors": [
-        "工学部の授業「座学２　神経と脳」"
-      ],
+      "authors": [],
       "year": 2021,
       "journal": "東京大学工学部広報誌 Ttime!",
-      "type": "presentation",
+      "volume": "",
+      "issue": "夏号",
+      "pages": "",
+      "type": "journal",
       "_source": "ollama",
       "_raw": "(20) 工学部の授業「座学２　神経と脳」，東京大学工学部広報誌　Ttime! 2021年夏号",
       "language": "ja",
       "category": "seminars",
       "awards": [],
-      "_valid": true,
-      "id": "2021----959"
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "2021-unknown---959"
     },
     {
-      "type": "presentation",
-      "title": "自発活動する人工ニューラルネットワークの開発",
+      "title": "自瞬活動する侯品ノードラショッシュレントルの開益",
       "authors": [
-        "高橋宏知"
+        "高桃宏知"
       ],
-      "year": null,
-      "conference": "2021旭硝子財団助成研究発表会要旨集：pp. 152-153, 2021",
-      "awards": [],
-      "_source": "regex",
+      "year": 2021,
+      "journal": "2021明碑贸土貦手研究发表会要意集",
+      "volume": "",
+      "issue": "",
+      "pages": "152-153",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(21) 高橋宏知：「自発活動する人工ニューラルネットワークの開発」，2021旭硝子財団助成研究発表会要旨集：pp. 152-153, 2021",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----960"
+      "id": "2021----960"
     },
     {
-      "type": "presentation",
       "title": "迷走神経刺激が知覚に及ぼす影響",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "内藤財団時報 vol. 106: p. 42, 2021年10月",
-      "awards": [],
-      "_source": "regex",
+      "year": 2021,
+      "journal": "内藤財団時報",
+      "volume": "106",
+      "issue": "",
+      "pages": "42",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(22) 高橋宏知：「迷走神経刺激が知覚に及ぼす影響」，内藤財団時報 vol. 106: p. 42, 2021年10月",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----961"
+      "id": "2021----961"
     },
     {
-      "type": "presentation",
       "title": "第59回新春産学官交流大会特別講演会　メカ屋のための脳科学～人工知能 vs. 生命知能～",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "みやぎ工業会レポート vol. 140: pp. 2-7, 2021\n\n\n創造的活動",
-      "awards": [],
-      "_source": "regex",
+      "year": 2021,
+      "journal": "みやぎ工業会レポート",
+      "volume": "140",
+      "pages": "2-7",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(23) 高橋宏知：「第59回新春産学官交流大会特別講演会　メカ屋のための脳科学～人工知能 vs. 生命知能～」，みやぎ工業会レポート vol. 140: pp. 2-7, 2021\n\n\n創造的活動 (Creative Activity)\n\n\n特許",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown---59-vs--962"
+      "id": "2021---59-vs--962"
     },
     {
-      "type": "presentation",
-      "title": "代用原音発生器",
-      "authors": [
-        "畑村洋太郎",
-        "中尾政之",
-        "高橋宏知"
-      ],
+      "title": "(1) 畑村洋太郎, 中尾政之, 高橋宏知:「代用原音発生器」, 特開平11-266488, 1998 (1998年03月18日出願)",
+      "authors": [],
       "year": null,
-      "conference": "特開平11-266488, 1998",
-      "awards": [],
-      "_source": "regex",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(1) 畑村洋太郎, 中尾政之, 高橋宏知:「代用原音発生器」, 特開平11-266488, 1998 (1998年03月18日出願)",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "unknown----963"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--1-11-266488-1998-1998-03-18--963"
     },
     {
-      "type": "presentation",
-      "title": "代用原音発生器とその制御方法",
-      "authors": [
-        "畑村洋太郎",
-        "中尾政之",
-        "高橋宏知"
-      ],
+      "title": "(2) 畑村洋太郎, 中尾政之, 高橋宏知:「代用原音発生器とその制御方法」, 特開2001-086583, 1999 (1999年09月09日出願)",
+      "authors": [],
       "year": null,
-      "conference": "特開2001-086583, 1999",
-      "awards": [],
-      "_source": "regex",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(2) 畑村洋太郎, 中尾政之, 高橋宏知:「代用原音発生器とその制御方法」, 特開2001-086583, 1999 (1999年09月09日出願)",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "unknown----964"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--2-2001-086583-1999-1999-09-09-964"
     }
   ]
 }
