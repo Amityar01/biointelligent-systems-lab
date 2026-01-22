@@ -37,10 +37,15 @@ interface VerifyResult {
 }
 
 function extractTitleFromRaw(raw: string): string {
-  // Extract title from 「」or ""
+  // Extract title from 「」or various quote styles
   const jpMatch = raw.match(/[「「]([^」」]+)[」」]/);
   if (jpMatch) return jpMatch[1];
 
+  // Handle fancy curly quotes (U+201C and U+201D)
+  const fancyQuoteMatch = raw.match(/[\u201c]([^\u201d]+)[\u201d]/);
+  if (fancyQuoteMatch) return fancyQuoteMatch[1];
+
+  // Handle straight quotes
   const enMatch = raw.match(/"([^"]+)"/);
   if (enMatch) return enMatch[1];
 
