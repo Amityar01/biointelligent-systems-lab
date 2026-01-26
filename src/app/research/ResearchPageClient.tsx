@@ -131,9 +131,9 @@ export default function ResearchPageClient({ researchAreas, methodologies }: Pro
       </header>
 
       {/* Research Areas */}
-      <section className="py-16 lg:py-24">
+      <section className="py-12 lg:py-16">
         <div className="max-w-6xl mx-auto px-6">
-          <div className="space-y-32">
+          <div className="space-y-20">
             {researchAreas.map((area) => (
               <div key={area.id} id={area.id} className="scroll-mt-24">
                 {/* Scale indicator */}
@@ -164,14 +164,13 @@ export default function ResearchPageClient({ researchAreas, methodologies }: Pro
                     </p>
 
                     {/* Research image */}
-                    <div className="aspect-[16/9] relative overflow-hidden border border-[var(--border)] mb-8">
+                    <div className="aspect-[16/9] relative overflow-hidden rounded-lg mb-8">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img
                         src={area.image}
                         alt={t(area.title)}
-                        className="absolute inset-0 w-full h-full object-cover opacity-80"
+                        className="absolute inset-0 w-full h-full object-cover"
                       />
-                      <div className="absolute inset-0 bg-gradient-to-t from-[var(--bg)] via-transparent to-transparent opacity-60" />
                     </div>
 
                     {/* Topics */}
@@ -194,11 +193,11 @@ export default function ResearchPageClient({ researchAreas, methodologies }: Pro
                       {area.findings.map((finding) => (
                         <div
                           key={`${area.id}-${finding.paper}-${finding.title.en}`}
-                          className="p-6 border border-[var(--border)] hover:border-[var(--accent)] transition-colors"
+                          className="p-5 border border-[var(--border)] rounded-lg hover:border-[var(--border-hover)] transition-colors"
                         >
                           <h3 className="font-semibold mb-2">{t(finding.title)}</h3>
-                          <p className="text-sm text-[var(--text-secondary)] mb-3">{t(finding.desc)}</p>
-                          <p className="text-xs text-[var(--text-muted)]" style={{ color: area.color }}>{finding.paper}</p>
+                          <p className="text-sm text-[var(--text-secondary)] mb-3 leading-relaxed">{t(finding.desc)}</p>
+                          <p className="text-xs text-[var(--accent)]">{finding.paper}</p>
                         </div>
                       ))}
                     </div>
@@ -211,23 +210,23 @@ export default function ResearchPageClient({ researchAreas, methodologies }: Pro
       </section>
 
       {/* Core Philosophy */}
-      <section className="py-20 border-y border-[var(--border)] bg-[var(--bg-alt)]">
+      <section className="py-16 border-y border-[var(--border)] bg-[var(--bg-alt)]">
         <div className="max-w-6xl mx-auto px-6">
-          <div className="max-w-3xl">
+          <div className="max-w-2xl">
             <p className="section-label">{t(texts.philosophy)}</p>
-            <blockquote className="pullquote mb-6">{t(texts.philosophyQuote)}</blockquote>
+            <blockquote className="text-lg italic text-[var(--text-secondary)] border-l-4 border-[var(--accent)] pl-6 mb-4">{t(texts.philosophyQuote)}</blockquote>
             <p className="text-[var(--text-secondary)]">{t(texts.philosophyBody)}</p>
           </div>
         </div>
       </section>
 
       {/* Methodologies */}
-      <section className="py-20 lg:py-32">
+      <section className="py-16">
         <div className="max-w-6xl mx-auto px-6">
-          <div className="mb-16">
+          <div className="mb-10">
             <p className="section-label">{t(texts.methodsLabel)}</p>
             <h2 className="mb-4">{t(texts.methodsTitle)}</h2>
-            <p className="text-[var(--text-secondary)] max-w-2xl">{t(texts.methodsDesc)}</p>
+            <p className="text-[var(--text-secondary)] max-w-2xl leading-relaxed">{t(texts.methodsDesc)}</p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -243,13 +242,13 @@ export default function ResearchPageClient({ researchAreas, methodologies }: Pro
       </section>
 
       {/* Collaborations */}
-      <section className="py-20 lg:py-32 bg-[var(--bg-alt)] border-t border-[var(--border)]">
+      <section className="py-16 bg-[var(--bg-alt)] border-t border-[var(--border)]">
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <p className="section-label">{t(texts.globalNetwork)}</p>
-              <h2 className="mb-6">{t(texts.collaborationsTitle)}</h2>
-              <p className="text-[var(--text-secondary)] mb-6">{t(texts.collaborationsDesc)}</p>
+              <h2 className="mb-4">{t(texts.collaborationsTitle)}</h2>
+              <p className="text-[var(--text-secondary)] mb-6 leading-relaxed">{t(texts.collaborationsDesc)}</p>
               <ul className="space-y-3 text-sm text-[var(--text-secondary)]">
                 {collaborations.map((item) => (
                   <li key={item.name} className="flex items-start gap-3">

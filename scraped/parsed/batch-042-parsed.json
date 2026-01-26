@@ -2,185 +2,207 @@
   "batchId": 42,
   "category": "seminars",
   "categoryTitle": "国際学会講習会・セミナー等",
-  "parsedAt": "2026-01-22T02:52:28.950Z",
+  "parsedAt": "2026-01-22T13:14:59.881Z",
   "items": [
     {
-      "type": "presentation",
       "title": "睡眠中の古典的条件付けによる音嗜好性の操作",
       "authors": [
-        "平成29年電気学会 優秀論文発表A賞（IEEJ Excellent Presentation Award）\n曾我遼",
+        "曾我遼",
         "白松（磯口）知世",
         "神崎亮平",
         "高橋宏知"
       ],
       "year": 2017,
-      "conference": "電気学会研究会資料 医用・生体工学研究会MBE-17-015~041: pp. 57-62, 2017",
-      "awards": [],
-      "_source": "regex",
+      "journal": "電気学会研究会資料 医用・生体工学研究会",
+      "volume": "MBE-17-015~041",
+      "issue": "",
+      "pages": "57-62",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(22) 平成29年電気学会 優秀論文発表A賞（IEEJ Excellent Presentation Award）\n曾我遼，白松（磯口）知世，神崎亮平，高橋宏知：「睡眠中の古典的条件付けによる音嗜好性の操作」，電気学会研究会資料 医用・生体工学研究会MBE-17-015~041: pp. 57-62, 2017 (東京，2017年3月20日) (2017年1月受賞)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "2017-29aieejexcellen---990"
+      "id": "2017----990"
     },
     {
-      "type": "presentation",
-      "title": "音響外傷が聴覚野における情報表現に与える影響",
-      "authors": [
-        "日本生体医工学会関東支部若手研究者発表会2018優秀論文発表賞\n和家尚希",
-        "磯口（白松）知世",
-        "高橋宏知"
-      ],
-      "year": 2018,
-      "awards": [],
-      "_source": "regex",
+      "title": "(23) 日本生体医工学会関東支部若手研究者発表会2018優秀論文発表賞\n和家尚希，磯口（白松）知世，高橋宏知：「音響外傷が聴覚野における情報表現に与える影響」 (東京，2018年12月1日)",
+      "authors": [],
+      "year": null,
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(23) 日本生体医工学会関東支部若手研究者発表会2018優秀論文発表賞\n和家尚希，磯口（白松）知世，高橋宏知：「音響外傷が聴覚野における情報表現に与える影響」 (東京，2018年12月1日)",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "2018-2018---991"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--23-2018-2018-12-1--991"
     },
     {
-      "type": "presentation",
       "title": "ラット聴覚皮質におけるマイクロ皮質脳波の慢性計測",
       "authors": [
-        "2018年電気学会 電子・情報・システム部門　研究会奨励賞\n石津光太郎",
+        "石津光太郎",
         "白松(磯口)知世",
         "小河原康一",
         "神崎亮平",
         "高橋宏知"
       ],
       "year": 2018,
-      "conference": "電気学会研究会資料 医用・生体工学研究会MBE-18-001~031: pp. 89-94, 2018",
-      "awards": [],
-      "_source": "regex",
+      "journal": "電気学会研究会資料",
+      "volume": "MBE-18-001~031",
+      "issue": "",
+      "pages": "89-94",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(24) 2018年電気学会 電子・情報・システム部門　研究会奨励賞\n石津光太郎，白松(磯口)知世，小河原康一，神崎亮平，高橋宏知：「ラット聴覚皮質におけるマイクロ皮質脳波の慢性計測」，電気学会研究会資料 医用・生体工学研究会MBE-18-001~031: pp. 89-94, 2018 (東京，2018年3月20日) (2019年1月受賞)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "2018-2018---992"
+      "id": "2018----992"
     },
     {
-      "type": "presentation",
       "title": "耳鳴モデルラットの聴覚野における神経活動の位相同期",
       "authors": [
-        "第17回日本聴覚医学会奨励賞\n和家尚希",
+        "和家尚希",
         "神崎晶",
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "Audiology Japan 61",
-      "awards": [],
-      "_source": "regex",
+      "year": 2018,
+      "journal": "Audiology Japan",
+      "volume": "61",
+      "issue": "2",
+      "pages": "160-169",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(25) 第17回日本聴覚医学会奨励賞\n和家尚希，神崎晶，高橋宏知：「耳鳴モデルラットの聴覚野における神経活動の位相同期」，Audiology Japan 61 (2): pp. 160-169, 2018 (2019年8月受賞)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown-17---993"
+      "id": "2018----993"
     },
     {
-      "type": "presentation",
       "title": "高密度CMOSアレイ上の分散培養系における活動電位波形に基づく興奮性及び抑制性神経細胞の分類",
       "authors": [
-        "2021年電気学会優秀論文賞\n三田毅",
+        "三田毅",
         "Douglas Bakkum",
         "Urs Frey",
         "Andreas Hierlemann",
         "神崎亮平",
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "電気学会論文誌C電子情報システム部門誌 139",
-      "awards": [],
-      "_source": "regex",
+      "year": 2019,
+      "journal": "電気学会論文誌C電子情報システム部門誌",
+      "volume": "139",
+      "issue": "5",
+      "pages": "615-624",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(26) 2021年電気学会優秀論文賞\n三田毅，Douglas Bakkum，Urs Frey，Andreas Hierlemann，神崎亮平，高橋宏知：「高密度CMOSアレイ上の分散培養系における活動電位波形に基づく興奮性及び抑制性神経細胞の分類」， 電気学会論文誌C電子情報システム部門誌 139 (5): pp. 615-624, 2019",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown-2021--cmos--994"
+      "id": "2019---cmos--994"
     },
     {
-      "type": "presentation",
       "title": "臨界期における音環境と生育後の嗜好性との関係",
       "authors": [
-        "2021年電気学会 優秀論文発表賞A\n白松（磯口）知世",
+        "白松（磯口）知世",
         "眞神花帆",
         "高橋宏知"
       ],
       "year": 2021,
-      "conference": "2021年電気学会電子・情報・システム部門大会講演論文集: TC2-8, 2021",
-      "awards": [],
-      "_source": "regex",
+      "journal": "2021年電気学会電子・情報・システム部門大会講演論文集",
+      "volume": "TC2-8",
+      "issue": "",
+      "pages": "",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(27) 2021年電気学会 優秀論文発表賞A\n白松（磯口）知世，眞神花帆，高橋宏知：「臨界期における音環境と生育後の嗜好性との関係」，2021年電気学会電子・情報・システム部門大会講演論文集: TC2-8, 2021 (オンライン，2021年9月15日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "2021-2021a---995"
+      "id": "2021----995"
     },
     {
-      "type": "presentation",
       "title": "齧歯類におけるビート知覚の神経基盤",
       "authors": [
-        "2021年電気学会優秀論文発表賞A（IEEJ Excellent Presentation Award）\n伊藤圭基",
+        "伊藤圭基",
         "白松(磯口)知世",
         "石田直輝",
         "眞神花帆",
         "高橋宏知"
       ],
       "year": 2021,
-      "conference": "電気学会研究会資料医用・生体工学研究会MBE-21-001~034: MBE-21-002",
-      "awards": [],
-      "_source": "regex",
+      "journal": "電気学会研究会資料医用・生体工学研究会",
+      "volume": "MBE-21-001~034",
+      "issue": "MBE-21-002",
+      "pages": "6",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(28) 2021年電気学会優秀論文発表賞A（IEEJ Excellent Presentation Award）\n伊藤圭基，白松(磯口)知世，石田直輝，眞神花帆，高橋宏知：「齧歯類におけるビート知覚の神経基盤」，電気学会研究会資料医用・生体工学研究会MBE-21-001~034: MBE-21-002 (6 pp), 2021 (オンライン，2021年3月16日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "2021-2021aieejexcell---996"
+      "id": "2021----996"
     },
     {
-      "type": "presentation",
-      "title": "Direction of Multisensory Illusion is Influenced by Stimulus Detectability",
-      "authors": [
-        "2022年電気学会電子・情報・システム部門大会 学生ポスターセッション (Outstading Student Presentaion Award)\nHexin Xu",
-        "Amit Yaron",
-        "Tomoyo Isoguchi Shiramatsu",
-        "Hirokazu Takahashi"
-      ],
-      "year": 2022,
-      "awards": [],
-      "_source": "regex",
+      "title": "(29) 2022年電気学会電子・情報・システム部門大会 学生ポスターセッション (Outstading Student Presentaion Award)\nHexin Xu, Amit Yaron, Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi：「Direction of Multisensory Illusion is Influenced b",
+      "authors": [],
+      "year": null,
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(29) 2022年電気学会電子・情報・システム部門大会 学生ポスターセッション (Outstading Student Presentaion Award)\nHexin Xu, Amit Yaron, Tomoyo Isoguchi Shiramatsu, Hirokazu Takahashi：「Direction of Multisensory Illusion is Influenced by Stimulus Detectability」2022年電気学会電子・情報・システム部門大会講演論文集: PS1-14, 2022 (広島，2022年8月31日)",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "2022-2022outstadings-direction-of-multisensory-illu-997"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--29-2022-outstading-student-pr-997"
     },
     {
-      "type": "presentation",
       "title": "ラット聴覚野の神経細胞が有する情報処理容量の不均一性",
       "authors": [
-        "2022年電気学会電子・情報・システム部門大会 技術委員会奨励賞\n石田直輝",
+        "石田直輝",
         "窪田智之",
         "伊藤圭基",
         "白松（磯口）知世",
         "高橋宏知"
       ],
       "year": 2022,
-      "conference": "2022年電気学会電子・情報・システム部門大会講演論文集: TC3-1, 2022",
-      "awards": [],
-      "_source": "regex",
+      "journal": "2022年電気学会電子・情報・システム部門大会講演論文集",
+      "volume": "TC3-1",
+      "issue": "",
+      "pages": "",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(30) 2022年電気学会電子・情報・システム部門大会 技術委員会奨励賞\n石田直輝，窪田智之，伊藤圭基，白松（磯口）知世，高橋宏知：「ラット聴覚野の神経細胞が有する情報処理容量の不均一性」，2022年電気学会電子・情報・システム部門大会講演論文集: TC3-1, 2022 (広島，2022年8月31日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "2022-2022---998"
+      "id": "2022----998"
     },
     {
-      "title": "2022年度ベストティーチングアワード",
+      "title": "2022年度ベストティーチングアワォード",
       "authors": [
         "高橋宏知"
       ],
       "year": 2023,
+      "journal": "東京大学工学部",
+      "volume": "",
+      "issue": "",
+      "pages": "",
       "type": "presentation",
       "_source": "ollama",
       "_raw": "(31) 高橋宏知：2022年度ベストティーチングアワォード，東京大学工学部，2023年3月",
@@ -191,254 +213,282 @@
       "id": "2023--2022--999"
     },
     {
-      "type": "presentation",
       "title": "げっ歯類の社会的行動に対する音楽の影響",
       "authors": [
-        "2023年電気学会電子・情報・システム部門大会 技術委員会奨励賞\n大島果林",
+        "大島果林",
         "白松（磯口）知世",
         "高橋宏知"
       ],
       "year": 2022,
-      "conference": "電気学会研究会資料医用・生体工学研究会MBE-22-001~030: MBE-22-016",
-      "awards": [],
-      "_source": "regex",
+      "journal": "電気学会研究会資料医用・生体工学研究会",
+      "volume": "MBE-22-001~030",
+      "issue": "MBE-22-016",
+      "pages": "6 pp",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(32) 2023年電気学会電子・情報・システム部門大会 技術委員会奨励賞\n大島果林，白松（磯口）知世，高橋宏知：「げっ歯類の社会的行動に対する音楽の影響」，電気学会研究会資料医用・生体工学研究会MBE-22-001~030: MBE-22-016 (6 pp), 2022 (オンライン，2022年3月16日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "2022-2023---1000"
+      "id": "2022----1000"
     },
     {
-      "type": "presentation",
       "title": "感覚野における迷走神経刺激療法の動作原理の検証",
       "authors": [
-        "2023年電気学会電子・情報・システム部門大会 技術委員会奨励賞\n松村茜",
+        "松村茜",
         "熊谷真一",
         "白松知世",
         "川合謙介",
         "高橋宏知"
       ],
       "year": 2022,
-      "conference": "電気学会研究会資料医用・生体工学研究会MBE-22-001~030: MBE-22-025",
-      "awards": [],
-      "_source": "regex",
+      "journal": "電気学会研究会資料医用・生体工学研究会",
+      "volume": "MBE-22",
+      "issue": "025",
+      "pages": "6 pp",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(33) 2023年電気学会電子・情報・システム部門大会 技術委員会奨励賞\n松村茜，熊谷真一，白松知世，川合謙介，高橋宏知：「感覚野における迷走神経刺激療法の動作原理の検証」，電気学会研究会資料医用・生体工学研究会MBE-22-001~030: MBE-22-025 (6 pp), 2022 (オンライン，2022年3月16日)",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "2022-2023---1001"
+      "id": "2022----1001"
     },
     {
-      "type": "presentation",
       "title": "神経細胞の分散培養系による臨界的物理リザバー計算",
       "authors": [
-        "2024年電気学会電子・情報・システム部門大会 技術委員会奨励賞\n諏訪瑛介",
+        "諏訪瑛介",
         "秋田大",
         "池田成満",
         "高野雄基",
         "高橋宏知"
       ],
-      "year": 2023,
-      "awards": [],
-      "_source": "regex",
+      "year": 2024,
+      "journal": "電気学会研究会資料医用・生体工学研究会",
+      "volume": "MBE-23",
+      "issue": "001~039",
+      "pages": "MBE-23-034",
+      "type": "conference",
+      "_source": "ollama",
       "_raw": "(34) 2024年電気学会電子・情報・システム部門大会 技術委員会奨励賞\n諏訪瑛介，秋田大，池田成満，高野雄基，高橋宏知：「神経細胞の分散培養系による臨界的物理リザバー計算」電気学会研究会資料医用・生体工学研究会MBE-23-001~039: MBE-23-034 (6 pp), 2023 (東京，2023年3月18日)\n\n\n研究助成",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "2023-2024---1002"
+      "id": "2024----1002"
     },
     {
-      "type": "presentation",
       "title": "微小多点表面電極を用いた聴神経摘出者用脳幹インプラントシステムの開発",
       "authors": [
         "高橋宏知"
       ],
-      "year": null,
-      "conference": "日本学術振興会特別研究員，2001年度～2002年度",
-      "awards": [],
-      "_source": "regex",
+      "year": 2001,
+      "journal": "日本学術振興会特別研究員",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "thesis",
+      "_source": "ollama",
       "_raw": "(1) 高橋宏知：「微小多点表面電極を用いた聴神経摘出者用脳幹インプラントシステムの開発」，日本学術振興会特別研究員，2001年度～2002年度",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----1003"
+      "id": "2001----1003"
     },
     {
-      "type": "presentation",
       "title": "溶液プロセスによる神経インターフェース用光アドレス電極の開発",
       "authors": [
-        "高橋宏知 (代表者)"
+        "高橋宏知"
       ],
-      "year": null,
-      "conference": "財団法人村田学術振興財団第22回",
-      "awards": [],
-      "_source": "regex",
+      "year": 2006,
+      "journal": "財団法人村田学術振興財団第22回 (平成18年度) 研究助成",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(2) 高橋宏知 (代表者)：「溶液プロセスによる神経インターフェース用光アドレス電極の開発」，財団法人村田学術振興財団第22回 (平成18年度) 研究助成",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----1004"
+      "id": "2006----1004"
     },
     {
-      "type": "presentation",
       "title": "神経情報の横断的解析手法の開発",
       "authors": [
-        "高橋宏知 (代表者)"
+        "高橋宏知"
       ],
-      "year": null,
-      "conference": "財団法人大川情報通信基金2006年度 研究助成",
-      "awards": [],
-      "_source": "regex",
+      "year": 2006,
+      "journal": "財団法人大川情報通信基金",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(3) 高橋宏知 (代表者)：「神経情報の横断的解析手法の開発」，財団法人大川情報通信基金2006年度 研究助成",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----1005"
+      "id": "2006----1005"
     },
     {
-      "type": "presentation",
-      "title": "神経回路の形成・修復・活性化をシャーレ上で調べる脳のモデル",
-      "authors": [
-        "高橋宏知 (代表者)"
-      ],
+      "title": "(4) 高橋宏知 (代表者)：「神経回路の形成・修復・活性化をシャーレ上で調べる脳のモデル」，財団法人東電記念科学技術研究所　平成１８年度 研究助成（基礎研究）, 2006",
+      "authors": [],
       "year": null,
-      "conference": "財団法人東電記念科学技術研究所　平成１８年度 研究助成",
-      "awards": [],
-      "_source": "regex",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(4) 高橋宏知 (代表者)：「神経回路の形成・修復・活性化をシャーレ上で調べる脳のモデル」，財団法人東電記念科学技術研究所　平成１８年度 研究助成（基礎研究）, 2006",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "unknown----1006"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--4-2006-1006"
     },
     {
-      "type": "presentation",
       "title": "情動センシング用Brain-Computer Interfaceの基盤技術",
       "authors": [
-        "高橋宏知 (代表者)"
+        "高橋宏知"
       ],
-      "year": null,
-      "conference": "財団法人立石科学技術振興財団平成20年度研究助成，2008",
-      "awards": [],
-      "_source": "regex",
+      "year": 2008,
+      "journal": "財団法人立石科学技術振興財団平成20年度研究助成",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(5) 高橋宏知 (代表者): 「情動センシング用Brain-Computer Interfaceの基盤技術」，財団法人立石科学技術振興財団平成20年度研究助成，2008",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown---brain-computer-interface--1007"
+      "id": "2008---brain-computer-interface--1007"
     },
     {
-      "type": "presentation",
       "title": "培養神経回路に嗅覚受容体たんぱく質を遺伝子発現させた匂いセンサー",
       "authors": [
-        "高橋宏知 (代表者)",
+        "高橋宏知",
         "櫻井健志"
       ],
-      "year": null,
-      "conference": "財団法人中谷電子計測技術振興財団 第27 回 研究助成",
-      "awards": [],
-      "_source": "regex",
+      "year": 2011,
+      "journal": "財団法人中谷電子計測技術振興財団 第27 回 研究助成（開発研究）",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(6) 高橋宏知 (代表者)，櫻井健志：「培養神経回路に嗅覚受容体たんぱく質を遺伝子発現させた匂いセンサー」，財団法人中谷電子計測技術振興財団 第27 回 研究助成（開発研究），2011",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----1008"
+      "id": "2011----1008"
     },
     {
-      "type": "presentation",
       "title": "神経反応の多様性を利用した創発型バイオコンピューティング",
       "authors": [
-        "高橋宏知 (代表者)"
+        "高橋宏知"
       ],
-      "year": null,
-      "conference": "公益財団法人旭硝子財団平成26年度研究助成，2014",
-      "awards": [],
-      "_source": "regex",
+      "year": 2014,
+      "journal": "公益財団法人旭硝子財団平成26年度研究助成",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(7) 高橋宏知 (代表者): 「神経反応の多様性を利用した創発型バイオコンピューティング」，公益財団法人旭硝子財団平成26年度研究助成，2014",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----1009"
+      "id": "2014----1009"
     },
     {
-      "type": "presentation",
-      "title": "リザーバ・コンピューティングによる脳からの知能の創発",
-      "authors": [
-        "高橋宏知 (代表者)"
-      ],
+      "title": "(8) 高橋宏知 (代表者): 「リザーバ・コンピューティングによる脳からの知能の創発」，公益財団法人栢森情報科学振興財団平成27年度特別研究助成，2015",
+      "authors": [],
       "year": null,
-      "conference": "公益財団法人栢森情報科学振興財団平成27年度特別研究助成，2015",
-      "awards": [],
-      "_source": "regex",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(8) 高橋宏知 (代表者): 「リザーバ・コンピューティングによる脳からの知能の創発」，公益財団法人栢森情報科学振興財団平成27年度特別研究助成，2015",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "unknown----1010"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--8-27-2015-1010"
     },
     {
-      "type": "presentation",
       "title": "オーダーメイド医療のための耳鳴診断システムの開発",
       "authors": [
-        "高橋宏知 (代表者)"
+        "高橋宏知"
       ],
-      "year": null,
-      "conference": "公益財団法人立石科学技術振興財団平成28年度研究助成",
-      "awards": [],
-      "_source": "regex",
+      "year": 2016,
+      "journal": "公益財団法人立石科学技術振興財団平成28年度研究助成 (S)",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(9) 高橋宏知 (代表者): 「オーダーメイド医療のための耳鳴診断システムの開発」，公益財団法人立石科学技術振興財団平成28年度研究助成 (S)，2016年4月～2019年3月",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----1011"
+      "id": "2016----1011"
     },
     {
-      "type": "presentation",
-      "title": "自発活動する人工ニューラルネットワークの開発",
-      "authors": [
-        "高橋宏知 (代表者)"
-      ],
+      "title": "(10) 高橋宏知 (代表者): 「自発活動する人工ニューラルネットワークの開発」，公益財団法人旭硝子財団平成30年度研究助成（若手継続グラント）, 2018",
+      "authors": [],
       "year": null,
-      "conference": "公益財団法人旭硝子財団平成30年度研究助成",
-      "awards": [],
-      "_source": "regex",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(10) 高橋宏知 (代表者): 「自発活動する人工ニューラルネットワークの開発」，公益財団法人旭硝子財団平成30年度研究助成（若手継続グラント）, 2018",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "unknown----1012"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--10-30-2018-1012"
     },
     {
-      "type": "presentation",
-      "title": "迷走神経刺激療法が視床・皮質系の情報処理に及ぼす影響",
-      "authors": [
-        "高橋宏知 (代表者)"
-      ],
+      "title": "(11) 高橋宏知 (代表者):「迷走神経刺激療法が視床・皮質系の情報処理に及ぼす影響」，公益財団法人内藤記念科学振興財団2019年度内藤記念科学奨励金・研究助成, 2019",
+      "authors": [],
       "year": null,
-      "conference": "公益財団法人内藤記念科学振興財団2019年度内藤記念科学奨励金・研究助成, 2019",
-      "awards": [],
-      "_source": "regex",
+      "type": "journal",
+      "_source": "ollama",
       "_raw": "(11) 高橋宏知 (代表者):「迷走神経刺激療法が視床・皮質系の情報処理に及ぼす影響」，公益財団法人内藤記念科学振興財団2019年度内藤記念科学奨励金・研究助成, 2019",
       "language": "ja",
       "category": "seminars",
-      "_valid": true,
-      "id": "unknown----1013"
+      "awards": [],
+      "_valid": false,
+      "_errors": [
+        "Missing or empty authors"
+      ],
+      "id": "unknown-unknown--11-2019-2019-1013"
     },
     {
-      "type": "presentation",
       "title": "自発活動で自己最適化する計算システム",
       "authors": [
-        "高橋宏知 (代表者)"
+        "高橋宏知"
       ],
-      "year": null,
-      "conference": "公益財団法人旭硝子財団2023年度研究助成",
-      "awards": [],
-      "_source": "regex",
+      "year": 2023,
+      "journal": "公益財団法人旭硝子財団2023年度研究助成（ステップアップ助成）",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "type": "presentation",
+      "_source": "ollama",
       "_raw": "(12) 高橋宏知 (代表者):「自発活動で自己最適化する計算システム」，公益財団法人旭硝子財団2023年度研究助成（ステップアップ助成）, 2023",
       "language": "ja",
       "category": "seminars",
+      "awards": [],
       "_valid": true,
-      "id": "unknown----1014"
+      "id": "2023----1014"
     }
   ]
 }

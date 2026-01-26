@@ -47,15 +47,15 @@ export default function Navigation() {
             : 'bg-transparent'
         }`}
       >
-        <nav className="max-w-6xl mx-auto px-6">
-          <div className="flex items-center justify-between h-16">
+        <nav className="max-w-6xl mx-auto px-4 sm:px-6">
+          <div className="flex items-center justify-between h-16 sm:h-16">
             {/* Logo */}
             <Link href="/" className="flex items-center gap-3 group">
               <div className="flex flex-col">
-                <span className="font-semibold text-[var(--text)] text-base lg:text-base">
+                <span className="font-semibold text-[var(--text)] text-[15px] sm:text-base">
                   Takahashi-Shiramatsu Lab
                 </span>
-                <span className="text-sm text-[var(--text-muted)] hidden sm:block">
+                <span className="text-xs sm:text-sm text-[var(--text-muted)] hidden sm:block">
                   University of Tokyo
                 </span>
               </div>
@@ -104,16 +104,16 @@ export default function Navigation() {
             className="absolute inset-0 bg-black/20"
             onClick={() => setIsOpen(false)}
           />
-          <div className="absolute right-0 top-0 bottom-0 w-full max-w-xs bg-white border-l border-[var(--border)] p-6 pt-20 shadow-lg">
-            <div className="flex flex-col gap-2">
+          <div className="absolute right-0 top-0 bottom-0 w-full max-w-sm bg-white border-l border-[var(--border)] p-6 pt-24 shadow-lg">
+            <div className="flex flex-col gap-1">
               {navItems.map((item) => (
                 <Link
                   key={item.href}
                   href={item.href}
-                  className={`block py-4 px-4 rounded text-lg font-medium transition-colors ${
+                  className={`block py-4 px-5 rounded-lg text-xl font-medium transition-colors ${
                     pathname === item.href
                       ? 'text-[var(--accent)] bg-[var(--bg-muted)]'
-                      : 'text-[var(--text-secondary)] hover:text-[var(--text)] hover:bg-[var(--bg-muted)]'
+                      : 'text-[var(--text)] hover:text-[var(--accent)] hover:bg-[var(--bg-muted)]'
                   }`}
                 >
                   {t(item.label)}

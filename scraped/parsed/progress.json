@@ -41,13 +41,14 @@
     "batch-038.json",
     "batch-039.json",
     "batch-040.json",
-    "batch-041.json"
+    "batch-041.json",
+    "batch-042.json"
   ],
   "stats": {
-    "total": 990,
+    "total": 1015,
     "fromCrossRef": 129,
-    "fromOllama": 815,
-    "valid": 943,
-    "invalid": 47
+    "fromOllama": 834,
+    "valid": 962,
+    "invalid": 53
   }
 }
