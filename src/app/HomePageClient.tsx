@@ -1,12 +1,12 @@
 'use client';
 
 import Link from 'next/link';
-import { ArrowRight, ArrowUpRight } from 'lucide-react';
-import { useEffect, useRef, useState } from 'react';
-import { WaveformGlyph, NetworkGlyph, BrainGlyph } from '@/components/Glyphs';
+import Image from 'next/image';
+import { ArrowRight, ExternalLink } from 'lucide-react';
+import { useEffect } from 'react';
+import { useLanguage } from '@/contexts/LanguageContext';
 import type { Member, NewsItem, Book, YouTubeChannel, HomepageSettings } from '@/lib/content';
 
-// Publication type for display
 interface Publication {
   id: string;
   title: string;
@@ -17,6 +17,7 @@ interface Publication {
 
 interface HomePageClientProps {
   members: Member[];
+  totalMembersCount: number;
   publications: Publication[];
   news: NewsItem[];
   books: Book[];
@@ -24,662 +25,428 @@ interface HomePageClientProps {
   settings: HomepageSettings | null;
 }
 
-const navItems = [
-  { href: '/research', label: 'Research' },
-  { href: '/members', label: 'People' },
-  { href: '/publications', label: 'Publications' },
-  { href: '/media', label: 'Books & Media' },
-  { href: '/news', label: 'News' },
-  { href: '/contact', label: 'Contact' },
-];
-
-// Network node type for the emergence network animation
-interface NetworkNode {
-  id: number;
-  x: number;
-  y: number;
-  vx: number;
-  vy: number;
-  connections: number[];
-  delay: number;
-}
-
-// Emergence Network Component
-function EmergenceNetwork() {
-  const svgRef = useRef<SVGSVGElement>(null);
-  const [nodes, setNodes] = useState<NetworkNode[]>([]);
-  const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
-  const animationRef = useRef<number | null>(null);
-
-  useEffect(() => {
-    const updateDimensions = () => {
-      if (svgRef.current?.parentElement) {
-        setDimensions({
-          width: svgRef.current.parentElement.offsetWidth,
-          height: svgRef.current.parentElement.offsetHeight,
-        });
-      }
-    };
-
-    updateDimensions();
-    window.addEventListener('resize', updateDimensions);
-    return () => window.removeEventListener('resize', updateDimensions);
-  }, []);
-
-  useEffect(() => {
-    if (dimensions.width === 0) return;
-
-    // Create nodes that emerge from chaos into order
-    const nodeCount = Math.floor((dimensions.width * dimensions.height) / 25000);
-    const newNodes: NetworkNode[] = [];
-
-    for (let i = 0; i < nodeCount; i++) {
-      newNodes.push({
-        id: i,
-        x: Math.random() * dimensions.width,
-        y: Math.random() * dimensions.height,
-        vx: (Math.random() - 0.5) * 0.3,
-        vy: (Math.random() - 0.5) * 0.3,
-        connections: [],
-        delay: Math.random() * 2,
-      });
-    }
-
-    // Create connections based on proximity
-    for (let i = 0; i < newNodes.length; i++) {
-      for (let j = i + 1; j < newNodes.length; j++) {
-        const dx = newNodes[i].x - newNodes[j].x;
-        const dy = newNodes[i].y - newNodes[j].y;
-        const dist = Math.sqrt(dx * dx + dy * dy);
-        if (dist < 150 && Math.random() > 0.6) {
-          newNodes[i].connections.push(j);
-        }
-      }
-    }
-
-    setNodes(newNodes);
-
-    // Animate nodes
-    const animate = () => {
-      setNodes(prevNodes =>
-        prevNodes.map(node => {
-          const newX = node.x + node.vx;
-          const newY = node.y + node.vy;
-
-          // Bounce off edges
-          if (newX < 0 || newX > dimensions.width) node.vx *= -1;
-          if (newY < 0 || newY > dimensions.height) node.vy *= -1;
-
-          return {
-            ...node,
-            x: Math.max(0, Math.min(dimensions.width, newX)),
-            y: Math.max(0, Math.min(dimensions.height, newY)),
-          };
-        })
-      );
-      animationRef.current = requestAnimationFrame(animate);
-    };
-
-    animationRef.current = requestAnimationFrame(animate);
-
-    return () => {
-      if (animationRef.current) {
-        cancelAnimationFrame(animationRef.current);
-      }
-    };
-  }, [dimensions]);
-
-  return (
-    <svg ref={svgRef} className="w-full h-full" style={{ opacity: 0.6 }}>
-      <defs>
-        <filter id="glow">
-          <feGaussianBlur stdDeviation="3" result="coloredBlur" />
-          <feMerge>
-            <feMergeNode in="coloredBlur" />
-            <feMergeNode in="SourceGraphic" />
-          </feMerge>
-        </filter>
-        <linearGradient id="connectionGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="var(--calcium)" stopOpacity="0.4" />
-          <stop offset="100%" stopColor="var(--voltage)" stopOpacity="0.1" />
-        </linearGradient>
-      </defs>
-
-      {/* Connections */}
-      {nodes.map(node =>
-        node.connections.map(targetId => {
-          const target = nodes[targetId];
-          if (!target) return null;
-          return (
-            <line
-              key={`${node.id}-${targetId}`}
-              x1={node.x}
-              y1={node.y}
-              x2={target.x}
-              y2={target.y}
-              stroke="url(#connectionGradient)"
-              strokeWidth="1"
-              style={{
-                animationDelay: `${node.delay}s`,
-              }}
-            />
-          );
-        })
-      )}
-
-      {/* Nodes */}
-      {nodes.map(node => (
-        <g key={node.id}>
-          <circle
-            cx={node.x}
-            cy={node.y}
-            r="12"
-            fill="var(--calcium)"
-            opacity="0.1"
-            filter="url(#glow)"
-          />
-          <circle
-            cx={node.x}
-            cy={node.y}
-            r="3"
-            fill="var(--calcium)"
-            style={{
-              animationDelay: `${node.delay}s`,
-            }}
-          />
-        </g>
-      ))}
-    </svg>
-  );
-}
-
 export default function HomePageClient({
   members,
+  totalMembersCount,
   publications,
   news,
   books,
-  youtubeChannel,
   settings
 }: HomePageClientProps) {
+  const { t, language } = useLanguage();
+
   const recentPubs = publications.slice(0, 4);
   const recentNews = news.slice(0, 3);
-  const totalMembers = members.length;
+
+  const newsCategoryLabels: Record<NewsItem['category'], { en: string; ja: string }> = {
+    publication: { en: 'Publication', ja: '論文' },
+    award: { en: 'Award', ja: '受賞' },
+    event: { en: 'Event', ja: 'イベント' },
+    media: { en: 'Media', ja: 'メディア' },
+    announcement: { en: 'Announcement', ja: 'お知らせ' },
+  };
+
+  const formatText = (text: { en: string; ja: string }, vars: Record<string, string | number>) => {
+    let result = t(text);
+    for (const [key, value] of Object.entries(vars)) {
+      result = result.replaceAll(`{${key}}`, String(value));
+    }
+    return result;
+  };
+
+  const texts = {
+    heroAffiliation: { en: 'University of Tokyo', ja: '東京大学' },
+    heroTitle: { en: 'Reverse Engineering the Brain', ja: '脳を逆行設計する' },
+    heroDescription: {
+      en: 'We decode the algorithms of biological intelligence—from neural cultures to the human cortex—to build the next generation of brain-inspired systems.',
+      ja: '神経培養からヒト大脳皮質まで、生物知能のアルゴリズムを解読し、次世代の脳着想システムを構築します。',
+    },
+    exploreResearch: { en: 'Explore Research', ja: '研究を見る' },
+    meetTeam: { en: 'Meet the Team', ja: 'チームを見る' },
+
+    researchLabel: { en: 'Research Areas', ja: '研究分野' },
+    researchDesc: {
+      en: 'From self-organizing cultures to clinical applications, we investigate how intelligence emerges across scales.',
+      ja: '自己組織化する培養神経回路から臨床応用まで、スケールを跨いで知能の創発を探究します。',
+    },
+    exploreAllResearch: { en: 'View All Research', ja: '研究一覧を見る' },
+
+    teamLabel: { en: 'Our Team', ja: '研究室メンバー' },
+    teamDesc: {
+      en: 'A multidisciplinary team of engineers and neuroscientists exploring the frontier of biological intelligence.',
+      ja: '工学と神経科学を横断するチームで、生命知能のフロンティアを探究しています。',
+    },
+    viewAllMembers: { en: 'View All {count} Members', ja: '{count}名のメンバーを見る' },
+
+    publicationsLabel: { en: 'Recent Publications', ja: '最近の業績' },
+    publicationsDesc: {
+      en: 'Our latest findings published in high-impact journals across neuroscience and engineering.',
+      ja: '神経科学と工学の分野で、高インパクト誌を中心に成果を発表しています。',
+    },
+    viewPublicationList: { en: 'View All Publications', ja: '業績一覧を見る' },
+
+    newsLabel: { en: 'Latest News', ja: 'ニュース' },
+    newsArchive: { en: 'News Archive', ja: 'ニュース一覧' },
+
+    booksLabel: { en: 'Books & Media', ja: '書籍・メディア' },
+    mediaHub: { en: 'View All Media', ja: 'メディア一覧' },
+    orderBook: { en: 'Order Book', ja: '購入する' },
+
+    contactLabel: { en: 'Get in Touch', ja: 'お問い合わせ' },
+    contactTitle: { en: 'Join Our Lab', ja: '研究室に参加する' },
+    contactDesc: {
+      en: 'We are constantly looking for curious minds—engineers, biologists, and physicists—to join our journey into the heart of the brain.',
+      ja: '工学・生物学・物理学など、多様な好奇心あふれる仲間を募集しています。',
+    },
+    contactUs: { en: 'Contact Us', ja: 'お問い合わせ' },
+  };
 
   // Get images from settings or use defaults
   const heroImage = settings?.hero_image || '/uploads/scraped/hero-banner.jpg';
   const researchImages = settings?.research_images || {
-    cultures: { main: '/uploads/scraped/neuronal-culture.jpg', secondary: '/uploads/scraped/cmos-array.jpg' },
-    auditory: { main: '/uploads/scraped/lab-visualization.jpg', secondary: '/uploads/scraped/waveform.jpg' },
-    clinical: { main: '/uploads/scraped/ecog-electrode.jpg', secondary: '/uploads/scraped/microelectrode-arrays.jpg' },
+    cultures: { main: '/uploads/scraped/neuronal-culture.jpg' },
+    auditory: { main: '/uploads/scraped/lab-visualization.jpg' },
+    clinical: { main: '/uploads/scraped/ecog-electrode.jpg' },
   };
-  const labVisualization = settings?.lab_images?.lab_photo || '/uploads/scraped/lab-visualization.jpg';
 
-  // Research areas with unique visual identities
   const researchAreas = [
     {
       id: 'cultures',
-      title: 'Emergent Computing',
-      question: 'How does intelligence emerge from neurons?',
-      desc: 'We study how self-organizing neuronal networks perform computation, using living cultures as physical reservoirs.',
-      tag: 'In Vitro',
-      color: 'var(--calcium)',
+      title: { en: 'Emergent Computing', ja: '創発計算' },
+      desc: {
+        en: 'We study how self-organizing neuronal networks perform computation, using living cultures as physical reservoirs.',
+        ja: '自己組織化する培養神経ネットワークが計算を行う仕組みを研究し、生きた回路を物理リザバーとして活用します。',
+      },
+      tag: { en: 'In Vitro', ja: '培養' },
       image: researchImages.cultures.main,
     },
     {
       id: 'auditory',
-      title: 'Auditory Processing',
-      question: 'How does the brain encode sound and music?',
-      desc: 'We investigate neural coding in the auditory cortex, from basic sound representation to rhythm and prediction.',
-      tag: 'In Vivo',
-      color: 'var(--voltage)',
+      title: { en: 'Auditory Processing', ja: '聴覚情報処理' },
+      desc: {
+        en: 'We investigate neural coding in the auditory cortex, from basic sound representation to rhythm and prediction.',
+        ja: '聴覚皮質における神経符号化を、基本的な音表現からリズム・予測まで幅広く研究します。',
+      },
+      tag: { en: 'In Vivo', ja: '生体' },
       image: researchImages.auditory.main,
     },
     {
       id: 'clinical',
-      title: 'Neuromodulation',
-      question: 'Can we enhance brain function?',
-      desc: 'We develop therapeutic approaches using vagus nerve stimulation and study neural dynamics in epilepsy.',
-      tag: 'Clinical',
-      color: 'var(--activity)',
+      title: { en: 'Neuromodulation', ja: '神経変調' },
+      desc: {
+        en: 'We develop therapeutic approaches using vagus nerve stimulation and study neural dynamics in epilepsy.',
+        ja: '迷走神経刺激（VNS）などの治療アプローチを開発し、てんかんにおける神経ダイナミクスを研究します。',
+      },
+      tag: { en: 'Clinical', ja: '臨床' },
       image: researchImages.clinical.main,
     },
   ];
 
+  // Reveal-on-scroll
+  useEffect(() => {
+    const elements = Array.from(document.querySelectorAll<HTMLElement>('.reveal, .stagger-children'));
+    if (elements.length === 0) return;
+
+    const prefersReducedMotion =
+      typeof window !== 'undefined' &&
+      window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
+
+    if (prefersReducedMotion || !('IntersectionObserver' in window)) {
+      elements.forEach((el) => el.classList.add('visible'));
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      (entries, obs) => {
+        entries.forEach((entry) => {
+          if (!entry.isIntersecting) return;
+          (entry.target as HTMLElement).classList.add('visible');
+          obs.unobserve(entry.target);
+        });
+      },
+      { threshold: 0.1, rootMargin: '0px 0px -50px 0px' }
+    );
+
+    elements.forEach((el) => observer.observe(el));
+    return () => observer.disconnect();
+  }, []);
+
   return (
     <div className="min-h-screen bg-[var(--bg)]">
-      {/* Grid Overlay */}
-      <div className="grid-overlay" />
-
-
       {/* Hero */}
-      <header className="relative min-h-[90vh] flex items-center pt-16">
-        {/* Background Image */}
-        <div className="absolute inset-0">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={heroImage}
-            alt="Neural network visualization"
-            className="absolute inset-0 w-full h-full object-cover opacity-20"
-          />
-          <div className="absolute inset-0 bg-gradient-to-b from-[var(--bg)] via-[var(--bg)]/80 to-[var(--bg)]" />
-        </div>
+      <header className="pt-24 pb-16 lg:pt-32 lg:pb-24">
+        <div className="max-w-6xl mx-auto px-6">
+          <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+            <div className="reveal">
+              <p className="section-label">{t(texts.heroAffiliation)}</p>
+              <h1 className="mb-6">{t(texts.heroTitle)}</h1>
+              <p className="text-lg text-[var(--text-secondary)] leading-relaxed mb-8 max-w-xl">
+                {t(texts.heroDescription)}
+              </p>
+              <div className="flex flex-wrap gap-4">
+                <Link href="/research" className="btn-primary">
+                  {t(texts.exploreResearch)}
+                  <ArrowRight className="w-4 h-4" />
+                </Link>
+                <Link href="/members" className="btn-secondary">
+                  {t(texts.meetTeam)}
+                </Link>
+              </div>
+            </div>
 
-        {/* Emergence Network Background */}
-        <div className="absolute inset-0 overflow-hidden">
-          <EmergenceNetwork />
-        </div>
-
-        <div className="relative z-20 max-w-[1400px] mx-auto px-6 lg:px-12 py-20">
-          <div className="max-w-3xl">
-            <p className="section-label glow-calcium">University of Tokyo · 東京大学</p>
-            <h1 className="mb-8 leading-[0.9]">
-              <span className="text-[var(--text)]">Reverse Engineering</span>
-              <br />
-              <span className="text-gradient">the Brain</span>
-            </h1>
-            <p className="text-lg lg:text-2xl text-[var(--text-secondary)] leading-relaxed mb-10 max-w-2xl">
-              We decode the algorithms of biological intelligence—from neural cultures
-              to the human cortex—to build the next generation of brain-inspired systems.
-            </p>
-            <div className="flex flex-wrap gap-4">
-              <Link href="/research" className="btn-primary">
-                Explore Research
-                <ArrowRight className="w-4 h-4" />
-              </Link>
-              <Link href="/publications" className="btn-secondary">
-                Publications
-              </Link>
+            <div className="reveal">
+              <div className="aspect-[4/3] relative rounded-lg overflow-hidden shadow-lg">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={heroImage}
+                  alt="Lab research"
+                  className="absolute inset-0 w-full h-full object-cover"
+                />
+              </div>
             </div>
           </div>
-        </div>
-
-        {/* Scroll indicator */}
-        <div className="absolute bottom-8 left-1/2 -translate-x-1/2">
-          <div className="scroll-line" />
         </div>
       </header>
 
-      {/* Mission / Philosophy */}
-      <section className="py-32 bg-[var(--bg-alt)] relative overflow-hidden">
-        <div className="absolute inset-0 opacity-20 pointer-events-none">
-          <div className="absolute top-0 right-[-10%] w-[600px] h-[600px] bg-[var(--calcium)] blur-[150px] rounded-full mix-blend-screen animate-pulse" />
-          <div className="absolute bottom-0 left-[-10%] w-[600px] h-[600px] bg-[var(--voltage)] blur-[150px] rounded-full mix-blend-screen animate-pulse" style={{ animationDelay: '1s' }} />
-        </div>
-
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12 relative z-10">
-          <div className="grid lg:grid-cols-2 gap-20 items-center">
-            <div className="reveal">
-              <p className="section-label glow-voltage">Our Philosophy</p>
-              <h2 className="mb-8">Beyond Digital Intelligence</h2>
-              <div className="space-y-6">
-                <p className="text-xl text-[var(--text-secondary)] leading-relaxed">
-                  Artificial Intelligence excels at <strong>automation</strong>—optimizing within fixed rules.
-                </p>
-                <div className="h-px w-20 bg-gradient-to-r from-[var(--accent)] to-transparent" />
-                <p className="text-xl text-[var(--text-secondary)] leading-relaxed">
-                  Biological <strong>Life Intelligence</strong> specializes in <strong>autonomization</strong>: the emergent capacity to create new rules and thrive in uncertainty.
-                </p>
-              </div>
-              <Link href="/research" className="inline-flex items-center gap-3 text-[var(--accent)] font-bold mt-10 hover:gap-5 transition-all group">
-                Deep Dive into Life Intelligence
-                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-              </Link>
-            </div>
-
-            {/* Comparison Graphics */}
-            <div className="grid gap-8">
-              <div className="p-10 glass rounded-2xl relative group overflow-hidden">
-                <div className="absolute inset-0 bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity" />
-                <div className="flex items-center gap-4 mb-6">
-                  <div className="w-2 h-2 rounded-full bg-[var(--text-muted)]" />
-                  <h3 className="font-mono text-xs tracking-[0.2em] uppercase text-[var(--text-muted)]">Artificial (AI)</h3>
-                </div>
-                <p className="text-4xl font-bold mb-3 tracking-tighter">Automation</p>
-                <p className="text-[var(--text-secondary)]">Fixed landscapes, optimized outcomes.</p>
-              </div>
-
-              <div className="p-10 glass border-[var(--calcium)]/30 rounded-2xl relative overflow-hidden group bio-pulse">
-                <div className="absolute inset-0 bg-gradient-to-r from-[var(--calcium)]/10 to-transparent opacity-50" />
-                <div className="flex items-center gap-4 mb-6">
-                  <div className="w-2 h-2 rounded-full bg-[var(--calcium)] animate-pulse shadow-[0_0_10px_var(--calcium)]" />
-                  <h3 className="font-mono text-xs tracking-[0.2em] uppercase text-[var(--calcium)]">Biological (LI)</h3>
-                </div>
-                <p className="text-4xl font-bold mb-3 tracking-tighter text-[var(--accent)]">Autonomization</p>
-                <p className="text-[var(--text-secondary)]">Fluid rules, emergent survival.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* Research Areas */}
-      <section className="py-32 lg:py-48 relative">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
-          <div className="flex flex-col md:flex-row md:items-end justify-between gap-8 mb-24">
-            <div className="max-w-xl reveal">
-              <p className="section-label glow-calcium">Research</p>
-              <h2 className="mb-6">Multiscale Neural<br />Computation</h2>
-              <p className="text-xl text-[var(--text-secondary)] leading-relaxed">
-                From self-organizing cultures to clinical applications, we investigate how intelligence emerges across scales.
-              </p>
-            </div>
+      <section className="py-16 lg:py-24 bg-[var(--bg-alt)]">
+        <div className="max-w-6xl mx-auto px-6">
+          <div className="max-w-2xl mb-12 reveal">
+            <p className="section-label">{t(texts.researchLabel)}</p>
+            <p className="text-lg text-[var(--text-secondary)] leading-relaxed">
+              {t(texts.researchDesc)}
+            </p>
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-10 items-stretch">
-            {researchAreas.map((area, index) => (
-              <div
-                key={area.id}
-                className={`group relative reveal ${index === 1 ? 'lg:translate-y-12' : index === 2 ? 'lg:-translate-y-6' : ''}`}
-              >
-                <div className="card h-full bg-gradient-to-b from-[var(--bg-elevated)] to-[var(--bg-alt)] border-[var(--border)] group-hover:border-[var(--accent)]/30 transition-all duration-700">
-                  {/* Image Header */}
-                  <div className="aspect-[16/10] relative overflow-hidden">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={area.image}
-                      alt={area.title}
-                      className="absolute inset-0 w-full h-full object-cover grayscale opacity-40 group-hover:grayscale-0 group-hover:scale-110 group-hover:opacity-100 transition-all duration-1000"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-[var(--bg-alt)] via-transparent to-transparent" />
-
-                    <div className="absolute top-6 left-6">
-                      <span className={`tag tag-${area.id} glass-pill text-[10px]`}>
-                        {area.tag}
-                      </span>
-                    </div>
-                  </div>
-
-                  {/* Content Body */}
-                  <div className="p-10 relative">
-                    <div className="mb-6 opacity-80 group-hover:opacity-100 transition-opacity">
-                      {area.id === 'cultures' && <NetworkGlyph color={area.color} />}
-                      {area.id === 'auditory' && <WaveformGlyph color={area.color} />}
-                      {area.id === 'clinical' && <BrainGlyph color={area.color} />}
-                    </div>
-
-                    <h3 className="text-2xl mb-4 group-hover:text-[var(--accent)] transition-colors">{area.title}</h3>
-                    <p className="text-lg font-medium mb-6 leading-tight" style={{ color: area.color }}>
-                      {area.question}
-                    </p>
-                    <p className="text-[var(--text-secondary)] leading-relaxed">
-                      {area.desc}
-                    </p>
-                  </div>
-
-                  {/* Bottom Bar Glow */}
-                  <div
-                    className="absolute bottom-0 left-0 h-[2px] w-0 group-hover:w-full transition-all duration-700"
-                    style={{ background: `linear-gradient(90deg, transparent, ${area.color}, transparent)` }}
+          <div className="grid md:grid-cols-3 gap-8">
+            {researchAreas.map((area) => (
+              <article key={area.id} className="card overflow-hidden reveal">
+                <div className="aspect-[16/10] relative">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={area.image}
+                    alt={t(area.title)}
+                    className="absolute inset-0 w-full h-full object-cover"
                   />
                 </div>
-              </div>
+                <div className="p-6">
+                  <span className="tag mb-4">{t(area.tag)}</span>
+                  <h3 className="text-xl mb-3">{t(area.title)}</h3>
+                  <p className="text-sm text-[var(--text-secondary)] leading-relaxed">
+                    {t(area.desc)}
+                  </p>
+                </div>
+              </article>
             ))}
           </div>
 
-          <div className="mt-32 text-center reveal">
-            <Link href="/research" className="btn-secondary group">
-              Explore All Research
-              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+          <div className="mt-12 text-center reveal">
+            <Link href="/research" className="btn-secondary">
+              {t(texts.exploreAllResearch)}
+              <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
         </div>
       </section>
 
-      <section className="py-32 lg:py-48 bg-[var(--bg)] relative overflow-hidden">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12 relative z-10">
-          <div className="grid lg:grid-cols-2 gap-20 items-center">
+      {/* Team */}
+      <section className="py-16 lg:py-24">
+        <div className="max-w-6xl mx-auto px-6">
+          <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="reveal">
-              <p className="section-label glow-calcium">Featured Discovery</p>
-              <h1 className="text-4xl lg:text-7xl mb-8 leading-[1.05] tracking-tighter">
-                Rats Bob to the <span className="text-gradient">Musical Beat</span>
-              </h1>
-              <p className="text-xl text-[var(--text-secondary)] leading-relaxed mb-10 italic border-l-2 border-[var(--calcium)] pl-8">
-                &quot;We discovered that rats spontaneously synchronize their movements to musical beats—suggesting that synchronization is determined by brain time constants, not body size.&quot;
-              </p>
-              <div className="flex flex-wrap gap-8 mb-12">
-                <div className="flex items-center gap-4">
-                  <div className="w-12 h-12 flex items-center justify-center glass-pill text-[var(--accent)]">
-                    <WaveformGlyph color="var(--accent)" />
-                  </div>
-                  <div>
-                    <p className="text-[10px] uppercase tracking-widest text-[var(--text-muted)]">Journal</p>
-                    <p className="font-bold text-[var(--text)]">Science Advances</p>
-                  </div>
-                </div>
-              </div>
-              <div className="flex gap-4">
-                <Link href="/contact" className="btn-primary">
-                  Let&apos;s Connect
-                  <ArrowRight className="w-5 h-5" />
-                </Link>
-                <a
-                  href="https://www.science.org/doi/10.1126/sciadv.abo7019"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="btn-secondary"
-                >
-                  Read Paper
-                </a>
-              </div>
-            </div>
-
-            <div className="relative group perspective-1000">
-              <div className="absolute inset-0 bg-[var(--calcium)]/10 blur-[120px] rounded-full opacity-30 group-hover:opacity-50 transition-opacity" />
-              <div className="relative aspect-video rounded-3xl overflow-hidden glass border-[var(--border)] group-hover:border-[var(--accent)]/40 transition-all duration-700 group-hover:rotate-y-2">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={labVisualization}
-                  alt="Neural activity visualization"
-                  className="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:opacity-100 group-hover:scale-110 transition-all duration-1000"
-                />
-                <div className="absolute inset-0 bg-gradient-to-t from-[var(--bg)] via-transparent to-transparent" />
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section className="py-32 lg:py-48 relative">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12 relative z-10">
-          <div className="grid lg:grid-cols-12 gap-20 items-center">
-            <div className="lg:col-span-5 reveal">
-              <p className="section-label glow-calcium">Leadership</p>
-              <h2 className="mb-10 leading-[0.9]">Meet the<br />Adventurers</h2>
-              <p className="text-xl text-[var(--text-secondary)] leading-relaxed mb-12">
-                A multidisciplinary team of engineers and neuroscientists exploring the frontier of biological intelligence.
+              <p className="section-label">{t(texts.teamLabel)}</p>
+              <p className="text-lg text-[var(--text-secondary)] leading-relaxed mb-8">
+                {t(texts.teamDesc)}
               </p>
               <Link href="/members" className="btn-secondary">
-                View All {totalMembers} Members
+                {formatText(texts.viewAllMembers, { count: totalMembersCount })}
               </Link>
             </div>
 
-            <div className="lg:col-span-7">
-              <div className="grid grid-cols-2 gap-8">
-                {members.slice(0, 2).map((member) => (
-                  <div key={member.id} className="group relative">
-                    <div className="aspect-[4/5] relative overflow-hidden rounded-[2rem] glass bio-pulse">
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img
-                        src={member.image || '/uploads/scraped/placeholder.jpg'}
-                        alt={member.name.en}
-                        className="absolute inset-0 w-full h-full object-cover grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-1000 opacity-60 group-hover:opacity-100"
-                      />
-                      <div className="absolute inset-0 bg-gradient-to-t from-[var(--bg-alt)] via-transparent to-transparent" />
-
-                      <div className="absolute bottom-8 left-8 right-8">
-                        <p className="font-mono text-[10px] text-[var(--accent)] uppercase tracking-widest mb-2 opacity-80">
-                          {member.role.en}
-                        </p>
-                        <h3 className="text-2xl font-bold mb-1">{member.name.en}</h3>
-                        <p className="text-xs text-[var(--text-muted)] font-medium jp">{member.name.ja}</p>
-                      </div>
-                    </div>
+            <div className="grid grid-cols-2 gap-4 reveal">
+              {members.slice(0, 2).map((member) => (
+                <Link key={member.id} href={`/members/${member.id}`} className="group">
+                  <div className="aspect-[3/4] relative rounded-lg overflow-hidden mb-3">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={member.image || '/uploads/scraped/placeholder.jpg'}
+                      alt={t(member.name)}
+                      className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                    />
                   </div>
-                ))}
-              </div>
+                  <p className="text-xs text-[var(--accent)] uppercase tracking-wide mb-1">
+                    {t(member.role)}
+                  </p>
+                  <h3 className="font-semibold text-[var(--text)] group-hover:text-[var(--accent)] transition-colors">
+                    {t(member.name)}
+                  </h3>
+                  <p className="text-sm text-[var(--text-muted)] jp">
+                    {language === 'en' ? member.name.ja : member.name.en}
+                  </p>
+                </Link>
+              ))}
             </div>
           </div>
         </div>
       </section>
 
-      <section className="py-32 lg:py-48 bg-[var(--bg-alt)] relative overflow-hidden">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12 relative z-10">
-          <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-12 mb-20">
+      {/* Publications */}
+      <section className="py-16 lg:py-24 bg-[var(--bg-alt)]">
+        <div className="max-w-6xl mx-auto px-6">
+          <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6 mb-12">
             <div className="max-w-xl reveal">
-              <p className="section-label glow-voltage">Output</p>
-              <h2 className="mb-6">Scientific Contribution</h2>
-              <p className="text-xl text-[var(--text-secondary)] leading-relaxed">
-                Our latest findings published in high-impact journals across neuroscience and engineering.
+              <p className="section-label">{t(texts.publicationsLabel)}</p>
+              <p className="text-lg text-[var(--text-secondary)] leading-relaxed">
+                {t(texts.publicationsDesc)}
               </p>
             </div>
-            <Link href="/publications" className="btn-secondary group whitespace-nowrap">
-              View Publication List
-              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            <Link href="/publications" className="btn-secondary whitespace-nowrap reveal">
+              {t(texts.viewPublicationList)}
+              <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
 
-          <div className="grid gap-4">
-            {recentPubs.slice(0, 4).map((pub) => (
-              <div key={pub.id} className="group p-8 lg:p-10 glass hover:bg-[var(--accent-glow)]/5 transition-all flex flex-col md:flex-row gap-8 items-start md:items-center rounded-2xl">
-                <div className="font-mono text-sm text-[var(--accent)] bg-[var(--accent)]/10 px-4 py-2 rounded-full">
-                  {pub.year}
+          <div className="space-y-1 reveal">
+            {recentPubs.map((pub) => (
+              <article
+                key={pub.id}
+                className="p-6 bg-white rounded-lg border border-[var(--border)] hover:border-[var(--border-hover)] transition-colors"
+              >
+                <div className="flex flex-col md:flex-row md:items-start gap-4">
+                  <span className="text-sm font-mono text-[var(--accent)] font-semibold shrink-0">
+                    {pub.year}
+                  </span>
+                  <div className="flex-1 min-w-0">
+                    <h3 className="font-semibold text-[var(--text)] mb-2 leading-snug">
+                      {pub.title}
+                    </h3>
+                    <p className="text-sm text-[var(--text-secondary)] mb-1">
+                      {pub.authors.join(', ')}
+                    </p>
+                    <p className="text-sm text-[var(--text-muted)] italic">{pub.journal}</p>
+                  </div>
                 </div>
-                <div className="flex-1">
-                  <h3 className="text-xl lg:text-2xl mb-2 group-hover:text-[var(--accent)] transition-colors">{pub.title}</h3>
-                  <p className="text-[var(--text-secondary)] text-sm mb-1">{pub.authors.join(', ')}</p>
-                  <p className="text-[var(--accent)] font-mono text-[10px] uppercase tracking-widest">{pub.journal}</p>
-                </div>
-                <Link href="/publications" className="w-12 h-12 flex items-center justify-center glass-pill opacity-0 group-hover:opacity-100 transition-opacity">
-                  <ArrowUpRight className="w-5 h-5" />
-                </Link>
-              </div>
+              </article>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="py-32 lg:py-48 relative overflow-hidden">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12 relative z-10">
-          <div className="flex items-end justify-between mb-20">
+      {/* News */}
+      <section className="py-16 lg:py-24">
+        <div className="max-w-6xl mx-auto px-6">
+          <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
             <div className="reveal">
-              <p className="section-label glow-voltage">Updates</p>
-              <h2 className="text-4xl lg:text-5xl tracking-tight">Latest News</h2>
+              <p className="section-label">{t(texts.newsLabel)}</p>
             </div>
-            <Link href="/news" className="btn-secondary group">
-              News Archive
-              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+            <Link href="/news" className="btn-secondary reveal">
+              {t(texts.newsArchive)}
+              <ArrowRight className="w-4 h-4" />
             </Link>
           </div>
 
-          <div className="grid md:grid-cols-3 gap-10">
+          <div className="grid md:grid-cols-3 gap-8">
             {recentNews.map((item) => (
-              <article key={item.id} className="group glass p-10 rounded-[2rem] hover:bg-[var(--accent-glow)]/5 transition-all flex flex-col bio-pulse">
-                <div className="flex items-center gap-4 mb-8">
-                  <span className="text-[10px] font-mono uppercase tracking-[0.2em] text-[var(--accent)]">{item.category}</span>
-                  <div className="h-px flex-1 bg-[var(--border)]" />
-                  <span className="text-[10px] text-[var(--text-muted)] font-mono">
-                    {new Date(item.date).toLocaleDateString('en-US', {
+              <article key={item.id} className="card p-6 reveal">
+                <div className="flex items-center gap-3 mb-4">
+                  <span className="tag">
+                    {newsCategoryLabels[item.category]
+                      ? t(newsCategoryLabels[item.category])
+                      : item.category}
+                  </span>
+                  <span className="text-xs text-[var(--text-muted)]">
+                    {new Date(item.date).toLocaleDateString(language === 'en' ? 'en-US' : 'ja-JP', {
                       year: 'numeric',
                       month: 'short',
                     })}
                   </span>
                 </div>
-                <h3 className="text-xl font-bold mb-6 group-hover:text-[var(--accent)] transition-colors line-clamp-2 leading-snug">{item.title?.en || item.title?.ja || 'News'}</h3>
-                {item.excerpt && <p className="text-[var(--text-secondary)] line-clamp-3 leading-relaxed mb-auto">{item.excerpt.en || item.excerpt.ja}</p>}
+                <h3 className="font-semibold text-[var(--text)] mb-3 leading-snug line-clamp-2">
+                  {t(item.title)}
+                </h3>
+                {item.excerpt && (
+                  <p className="text-sm text-[var(--text-secondary)] line-clamp-3 leading-relaxed">
+                    {t(item.excerpt)}
+                  </p>
+                )}
               </article>
             ))}
           </div>
         </div>
       </section>
 
-      <section className="py-32 lg:py-48 bg-[var(--bg-alt)] relative overflow-hidden">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12 relative z-10">
-          <div className="flex items-end justify-between mb-20">
-            <div className="reveal">
-              <p className="section-label glow-calcium">Outreach</p>
-              <h2 className="text-4xl lg:text-5xl tracking-tight">Books & Media</h2>
+      {/* Books */}
+      {books.length > 0 && (
+        <section className="py-16 lg:py-24 bg-[var(--bg-alt)]">
+          <div className="max-w-6xl mx-auto px-6">
+            <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
+              <div className="reveal">
+                <p className="section-label">{t(texts.booksLabel)}</p>
+              </div>
+              <Link href="/media" className="btn-secondary reveal">
+                {t(texts.mediaHub)}
+                <ArrowRight className="w-4 h-4" />
+              </Link>
             </div>
-            <Link href="/media" className="btn-secondary group">
-              Media Hub
-              <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </Link>
-          </div>
 
-          <div className="grid md:grid-cols-3 gap-10">
-            {books.slice(0, 3).map((book) => (
-              <article key={book.id} className="card p-10 flex flex-col group bio-pulse bg-gradient-to-br from-[var(--bg-elevated)] to-[var(--bg-alt)]">
-                <div className="aspect-[3/4] mb-8 relative rounded-xl overflow-hidden glass shadow-2xl scale-95 group-hover:scale-100 transition-transform duration-500">
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img src={book.image || '/uploads/scraped/life-intelligence-book.jpg'} alt={book.title.en} className="w-full h-full object-cover" />
-                </div>
-                <div className="flex items-center gap-4 mb-4">
-                  <span className="tag glass-pill text-[10px]">{book.year}</span>
-                  <span className="text-xs text-[var(--text-muted)]">{book.publisher.en}</span>
-                </div>
-                <h3 className="text-xl font-bold mb-3 leading-snug group-hover:text-[var(--accent)] transition-colors">{book.title.en}</h3>
-                <p className="text-xs text-[var(--text-muted)] mb-6 line-clamp-1 italic">{book.title.ja}</p>
-                <div className="mt-auto">
+            <div className="grid md:grid-cols-3 gap-8">
+              {books.slice(0, 3).map((book) => (
+                <article key={book.id} className="card p-6 reveal">
+                  <div className="aspect-[3/4] mb-6 relative rounded overflow-hidden bg-[var(--bg-muted)]">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src={book.image || '/uploads/scraped/life-intelligence-book.jpg'}
+                      alt={t(book.title)}
+                      className="w-full h-full object-cover"
+                    />
+                  </div>
+                  <div className="flex items-center gap-3 mb-3">
+                    <span className="tag">{book.year}</span>
+                    <span className="text-xs text-[var(--text-muted)]">{t(book.publisher)}</span>
+                  </div>
+                  <h3 className="font-semibold text-[var(--text)] mb-2 leading-snug">
+                    {t(book.title)}
+                  </h3>
+                  <p className="text-sm text-[var(--text-muted)] mb-4 jp">
+                    {language === 'en' ? book.title.ja : book.title.en}
+                  </p>
                   {book.amazon && (
-                    <a href={book.amazon} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-sm font-bold text-[var(--accent)] group/link">
-                      Order Book <ArrowUpRight className="w-4 h-4 group-link/hover:translate-x-0.5 transition-transform" />
+                    <a
+                      href={book.amazon}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-2 text-sm font-medium text-[var(--accent)] hover:underline"
+                    >
+                      {t(texts.orderBook)}
+                      <ExternalLink className="w-3 h-3" />
                     </a>
                   )}
-                </div>
-              </article>
-            ))}
+                </article>
+              ))}
+            </div>
           </div>
+        </section>
+      )}
 
-          {/* YouTube Banner */}
-          {youtubeChannel && (
-            <div className="mt-20 p-12 glass rounded-[2rem] relative overflow-hidden group bio-pulse">
-              <div className="absolute top-0 right-0 w-64 h-64 bg-red-500/10 blur-[100px] rounded-full" />
-              <div className="flex flex-col md:flex-row md:items-center justify-between gap-10 relative z-10">
-                <div className="max-w-xl">
-                  <div className="flex items-center gap-3 mb-6">
-                    <div className="w-12 h-12 bg-red-600 rounded-full flex items-center justify-center text-white">
-                      <ArrowRight className="w-6 h-6 rotate-45" />
-                    </div>
-                    <h3 className="text-2xl font-bold">{youtubeChannel.name.en}</h3>
-                  </div>
-                  <p className="text-lg text-[var(--text-secondary)] leading-relaxed">{youtubeChannel.description.en}</p>
-                </div>
-                <a href={youtubeChannel.url} target="_blank" rel="noopener noreferrer" className="btn-primary py-5 px-10 text-lg">
-                  Watch on YouTube
-                </a>
-              </div>
-            </div>
-          )}
-        </div>
-      </section>
-
-      <section className="py-32 lg:py-64 bg-gradient-to-b from-[var(--bg)] to-[var(--bg-alt)] relative overflow-hidden">
-        <div className="absolute inset-0 opacity-30 pointer-events-none">
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-[var(--calcium)] blur-[180px] rounded-full mix-blend-screen opacity-20" />
-        </div>
-
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12 relative z-10 text-center">
-          <div className="max-w-4xl mx-auto reveal">
-            <p className="section-label glow-calcium justify-center">Join the Mission</p>
-            <h2 className="text-4xl lg:text-7xl mb-10 leading-[1.05] tracking-tight">
-              Decode the Future of <br />
-              <span className="text-gradient">Intelligence</span>
-            </h2>
-            <p className="text-xl lg:text-2xl text-[var(--text-secondary)] mb-12 leading-relaxed">
-              We are constantly looking for curious minds—engineers, biologists, and physicists—to join our journey into the heart of the brain.
-            </p>
-            <div className="flex flex-wrap justify-center gap-6">
-              <Link href="/contact" className="btn-primary py-5 px-10 text-lg">
-                Join our Lab
-                <ArrowRight className="w-6 h-6" />
-              </Link>
-              <Link href="/research" className="btn-secondary py-5 px-10 text-lg">
-                Explore our Work
-              </Link>
-            </div>
+      {/* Contact CTA */}
+      <section className="py-16 lg:py-24">
+        <div className="max-w-3xl mx-auto px-6 text-center reveal">
+          <p className="section-label">{t(texts.contactLabel)}</p>
+          <h2 className="mb-6">{t(texts.contactTitle)}</h2>
+          <p className="text-lg text-[var(--text-secondary)] leading-relaxed mb-8">
+            {t(texts.contactDesc)}
+          </p>
+          <div className="flex flex-wrap justify-center gap-4">
+            <Link href="/contact" className="btn-primary">
+              {t(texts.contactUs)}
+              <ArrowRight className="w-4 h-4" />
+            </Link>
+            <Link href="/research" className="btn-secondary">
+              {t(texts.exploreResearch)}
+            </Link>
           </div>
         </div>
       </section>
-
     </div>
   );
 }

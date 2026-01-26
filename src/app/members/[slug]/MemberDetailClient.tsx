@@ -22,6 +22,7 @@ export function MemberDetailClient({ member }: Props) {
     awards: { en: 'Awards', ja: '受賞歴' },
     contact: { en: 'Contact', ja: '連絡先' },
     links: { en: 'Links', ja: 'リンク' },
+    personalWebsite: { en: 'Personal Website', ja: '個人サイト' },
   };
 
   const categoryLabels: Record<string, { en: string; ja: string }> = {
@@ -35,8 +36,6 @@ export function MemberDetailClient({ member }: Props) {
 
   return (
     <div className="min-h-screen bg-[var(--bg)]">
-      <div className="grid-overlay" />
-
       {/* Hero */}
       <header className="pt-32 pb-16 lg:pt-40 lg:pb-24">
         <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
@@ -210,7 +209,7 @@ export function MemberDetailClient({ member }: Props) {
                   className="inline-flex items-center gap-2 px-4 py-2 border border-[var(--border)] hover:border-[var(--accent)] transition-colors"
                 >
                   <ExternalLink className="w-4 h-4" />
-                  {language === 'en' ? 'Personal Website' : '個人サイト'}
+                  {t(texts.personalWebsite)}
                 </a>
               )}
               {member.links.loop && (

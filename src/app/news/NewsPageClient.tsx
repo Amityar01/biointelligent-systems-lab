@@ -25,6 +25,7 @@ export function NewsPageClient({ news, categoryLabels, newsCategories }: Props) 
       en: 'Stay updated with our latest research publications, awards, events, and announcements.',
       ja: '最新の研究発表、受賞、イベント、お知らせをお届けします。'
     },
+    untitled: { en: 'Untitled', ja: 'タイトルなし' },
     noResults: {
       en: 'No news items found for the selected filters.',
       ja: '選択したフィルターに一致するニュースが見つかりませんでした。'
@@ -38,6 +39,7 @@ export function NewsPageClient({ news, categoryLabels, newsCategories }: Props) 
     youtubeChannel: { en: 'YouTube Channel', ja: 'YouTubeチャンネル' },
     all: { en: 'All', ja: 'すべて' },
     allYears: { en: 'All Years', ja: 'すべての年' },
+    readMore: { en: 'Read more', ja: '詳細を見る' },
   };
 
   const years = useMemo(() => {
@@ -65,35 +67,33 @@ export function NewsPageClient({ news, categoryLabels, newsCategories }: Props) 
 
   return (
     <div className="min-h-screen bg-[var(--bg)]">
-      <div className="grid-overlay" />
-
       {/* Hero */}
-      <header className="pt-32 pb-16 lg:pt-40 lg:pb-24">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
-          <Link href="/" className="inline-flex items-center gap-2 text-sm text-[var(--text-muted)] hover:text-[var(--accent)] transition-colors mb-8">
+      <header className="pt-24 pb-12 lg:pt-32 lg:pb-16">
+        <div className="max-w-6xl mx-auto px-6">
+          <Link href="/" className="inline-flex items-center gap-2 text-sm text-[var(--text-muted)] hover:text-[var(--accent)] transition-colors mb-6">
             <ArrowLeft className="w-4 h-4" />
             {t(texts.backToHome)}
           </Link>
           <p className="section-label">{t(texts.updates)}</p>
-          <h1 className="mb-6">{t(texts.news)}</h1>
-          <p className="text-xl lg:text-2xl text-[var(--text-secondary)] max-w-3xl leading-relaxed">
+          <h1 className="mb-4">{t(texts.news)}</h1>
+          <p className="text-lg text-[var(--text-secondary)] max-w-2xl leading-relaxed">
             {t(texts.description)}
           </p>
         </div>
       </header>
 
       {/* Filters */}
-      <section className="py-6 border-y border-[var(--border)]">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
+      <section className="py-4 border-y border-[var(--border)] bg-white">
+        <div className="max-w-6xl mx-auto px-6">
           <div className="flex flex-wrap gap-4 items-center">
             <div className="flex flex-wrap gap-2">
               {newsCategories.map((category) => (
                 <button
                   key={category}
                   onClick={() => setSelectedCategory(category)}
-                  className={`px-4 py-2 text-sm font-medium transition-all border ${selectedCategory === category
-                    ? 'bg-[var(--accent)] text-white border-[var(--accent)]'
-                    : 'bg-transparent text-[var(--text-secondary)] border-[var(--border)] hover:border-[var(--accent)]'
+                  className={`px-4 py-2 text-sm font-medium transition-all rounded ${selectedCategory === category
+                    ? 'bg-[var(--accent)] text-white'
+                    : 'bg-[var(--bg-muted)] text-[var(--text-secondary)] hover:bg-[var(--border)]'
                     }`}
                 >
                   {getCategoryLabel(category)}
@@ -104,7 +104,7 @@ export function NewsPageClient({ news, categoryLabels, newsCategories }: Props) 
             <select
               value={selectedYear}
               onChange={(e) => setSelectedYear(e.target.value)}
-              className="px-4 py-2 bg-[var(--bg-alt)] border border-[var(--border)] text-[var(--text)] focus:outline-none focus:border-[var(--accent)] transition-colors cursor-pointer"
+              className="px-4 py-2 bg-[var(--bg-alt)] border border-[var(--border)] rounded text-[var(--text)] focus:outline-none focus:border-[var(--accent)] transition-colors cursor-pointer"
             >
               <option value="all">{t(texts.allYears)}</option>
               {years.slice(1).map((year) => (
@@ -118,8 +118,8 @@ export function NewsPageClient({ news, categoryLabels, newsCategories }: Props) 
       </section>
 
       {/* News Grid */}
-      <section className="py-16">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
+      <section className="py-12">
+        <div className="max-w-6xl mx-auto px-6">
           {filteredNews.length === 0 ? (
             <div className="text-center py-16">
               <p className="text-[var(--text-secondary)]">
@@ -127,7 +127,7 @@ export function NewsPageClient({ news, categoryLabels, newsCategories }: Props) 
               </p>
             </div>
           ) : (
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {filteredNews.map((item) => (
                 <article key={item.id} className="card p-6">
                   <div className="flex items-center gap-3 mb-4">
@@ -142,7 +142,7 @@ export function NewsPageClient({ news, categoryLabels, newsCategories }: Props) 
                   </div>
 
                   <h2 className="text-lg font-semibold mb-3 line-clamp-2">
-                    {item.title ? t(item.title) : 'Untitled'}
+                    {item.title ? t(item.title) : t(texts.untitled)}
                   </h2>
 
                   {item.excerpt && (
@@ -164,7 +164,7 @@ export function NewsPageClient({ news, categoryLabels, newsCategories }: Props) 
                       rel="noopener noreferrer"
                       className="mt-4 inline-block text-sm text-[var(--accent)] hover:underline"
                     >
-                      {language === 'en' ? 'Read more' : '詳細を見る'} →
+                      {t(texts.readMore)} →
                     </a>
                   )}
                 </article>
@@ -175,12 +175,12 @@ export function NewsPageClient({ news, categoryLabels, newsCategories }: Props) 
       </section>
 
       {/* YouTube CTA */}
-      <section className="py-20 lg:py-32 bg-[var(--bg-alt)] border-y border-[var(--border)]">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
-          <div className="max-w-3xl">
+      <section className="py-16 bg-[var(--bg-alt)] border-t border-[var(--border)]">
+        <div className="max-w-6xl mx-auto px-6">
+          <div className="max-w-2xl">
             <p className="section-label">{t(texts.stayConnected)}</p>
-            <h2 className="mb-6">{t(texts.followResearch)}</h2>
-            <p className="text-lg text-[var(--text-secondary)] mb-8">
+            <h2 className="mb-4">{t(texts.followResearch)}</h2>
+            <p className="text-lg text-[var(--text-secondary)] mb-6 leading-relaxed">
               {t(texts.followDescription)}
             </p>
             <a

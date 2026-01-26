@@ -8,7 +8,7 @@ interface LanguageContextType {
   language: Language;
   setLanguage: (lang: Language) => void;
   toggleLanguage: () => void;
-  t: <T extends { en: string; ja: string }>(text: T) => string;
+  t: <T extends { en: string; ja: string }>(text?: T | null) => string;
 }
 
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
@@ -23,6 +23,8 @@ interface LanguageProviderProps {
 export function LanguageProvider({ children, defaultLanguage = 'en' }: LanguageProviderProps) {
   const [language, setLanguageState] = useState<Language>(defaultLanguage);
   const [mounted, setMounted] = useState(false);
+
+  const effectiveLanguage = mounted ? language : defaultLanguage;
 
   // Load saved language preference on mount
   useEffect(() => {
@@ -39,6 +41,13 @@ export function LanguageProvider({ children, defaultLanguage = 'en' }: LanguageP
     }
   }, []);
 
+  // Keep <html lang="..."> in sync for accessibility/SEO hints.
+  useEffect(() => {
+    if (typeof document === 'undefined') return;
+    document.documentElement.lang = effectiveLanguage;
+    document.documentElement.dataset.lang = effectiveLanguage;
+  }, [effectiveLanguage]);
+
   // Save language preference
   const setLanguage = (lang: Language) => {
     setLanguageState(lang);
@@ -51,13 +60,17 @@ export function LanguageProvider({ children, defaultLanguage = 'en' }: LanguageP
   };
 
   // Translation helper - extracts the correct language from a bilingual object
-  const t = <T extends { en: string; ja: string }>(text: T): string => {
-    return text[language];
+  const t = <T extends { en: string; ja: string }>(text?: T | null): string => {
+    if (!text) return '';
+    const primary = text[effectiveLanguage];
+    if (primary && primary.trim().length > 0) return primary;
+    const fallbackLang: Language = effectiveLanguage === 'en' ? 'ja' : 'en';
+    return text[fallbackLang] ?? '';
   };
 
   // Prevent hydration mismatch by rendering default during SSR
   const value: LanguageContextType = {
-    language: mounted ? language : defaultLanguage,
+    language: effectiveLanguage,
     setLanguage,
     toggleLanguage,
     t,

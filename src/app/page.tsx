@@ -25,6 +25,7 @@ export default function Home() {
   return (
     <HomePageClient
       members={faculty}
+      totalMembersCount={totalMembersCount}
       publications={publications.slice(0, 4)}
       news={news}
       books={books}

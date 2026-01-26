@@ -60,18 +60,16 @@ export function MembersPageClient({ faculty, staff, students, undergraduates, vi
 
   return (
     <div className="min-h-screen bg-[var(--bg)]">
-      <div className="grid-overlay" />
-
       {/* Hero */}
-      <header className="pt-32 pb-16 lg:pt-40 lg:pb-24">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
+      <header className="pt-24 pb-12 lg:pt-32 lg:pb-16">
+        <div className="max-w-6xl mx-auto px-6">
           <Link href="/" className="inline-flex items-center gap-2 text-sm text-[var(--text-muted)] hover:text-[var(--accent)] transition-colors mb-8">
             <ArrowLeft className="w-4 h-4" />
             {t(texts.backToHome)}
           </Link>
           <p className="section-label">{t(texts.ourTeam)}</p>
           <h1 className="mb-6">{t(texts.people)}</h1>
-          <p className="text-xl lg:text-2xl text-[var(--text-secondary)] max-w-3xl leading-relaxed">
+          <p className="text-lg text-[var(--text-secondary)] max-w-2xl leading-relaxed">
             {t(texts.description)}
           </p>
         </div>
@@ -79,7 +77,7 @@ export function MembersPageClient({ faculty, staff, students, undergraduates, vi
 
       {/* Faculty */}
       <section className="py-16 border-t border-[var(--border)]">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
+        <div className="max-w-6xl mx-auto px-6">
           <p className="section-label">{t(texts.leadership)}</p>
           <h2 className="mb-12">{t(texts.facultyLabel)}</h2>
 
@@ -184,7 +182,7 @@ export function MembersPageClient({ faculty, staff, students, undergraduates, vi
 
       {/* Staff */}
       <section className="py-16 bg-[var(--bg-alt)] border-y border-[var(--border)]">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
+        <div className="max-w-6xl mx-auto px-6">
           <p className="section-label">{t(texts.support)}</p>
           <h2 className="mb-12">{t(texts.staffLabel)}</h2>
 
@@ -213,7 +211,7 @@ export function MembersPageClient({ faculty, staff, students, undergraduates, vi
 
       {/* Graduate Students */}
       <section className="py-16">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
+        <div className="max-w-6xl mx-auto px-6">
           <p className="section-label">{t(texts.graduateSchool)}</p>
           <h2 className="mb-4">{t(texts.graduateStudents)}</h2>
           <p className="text-[var(--text-secondary)] mb-12">{students.length} {t(texts.members)}</p>
@@ -248,7 +246,7 @@ export function MembersPageClient({ faculty, staff, students, undergraduates, vi
 
       {/* Undergraduates */}
       <section className="py-16 bg-[var(--bg-alt)] border-y border-[var(--border)]">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
+        <div className="max-w-6xl mx-auto px-6">
           <p className="section-label">{t(texts.undergradResearch)}</p>
           <h2 className="mb-12">{t(texts.undergraduateStudents)}</h2>
 
@@ -271,7 +269,7 @@ export function MembersPageClient({ faculty, staff, students, undergraduates, vi
       {/* Visitors */}
       {visitors.length > 0 && (
         <section className="py-16">
-          <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
+          <div className="max-w-6xl mx-auto px-6">
             <p className="section-label">{t(texts.international)}</p>
             <h2 className="mb-12">{t(texts.visitingResearchers)}</h2>
 
@@ -295,7 +293,7 @@ export function MembersPageClient({ faculty, staff, students, undergraduates, vi
 
       {/* Join us CTA */}
       <section className="py-20 lg:py-32 border-t border-[var(--border)]">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
+        <div className="max-w-6xl mx-auto px-6">
           <div className="max-w-3xl">
             <p className="section-label">{t(texts.opportunities)}</p>
             <h2 className="mb-6">{t(texts.interestedInJoining)}</h2>

@@ -7,7 +7,12 @@ interface LanguageToggleProps {
 }
 
 export function LanguageToggle({ className = '' }: LanguageToggleProps) {
-  const { language, toggleLanguage } = useLanguage();
+  const { language, toggleLanguage, t } = useLanguage();
+
+  const ariaLabel = t({
+    en: 'Switch to Japanese',
+    ja: '英語に切り替え',
+  });
 
   return (
     <button
@@ -20,7 +25,7 @@ export function LanguageToggle({ className = '' }: LanguageToggleProps) {
         transition-colors duration-200
         ${className}
       `}
-      aria-label={language === 'en' ? 'Switch to Japanese' : 'Switch to English'}
+      aria-label={ariaLabel}
     >
       {language === 'en' ? '日本語' : 'EN'}
     </button>

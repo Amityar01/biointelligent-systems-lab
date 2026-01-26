@@ -135,6 +135,25 @@ function getFilesFromDirectory(dir: string, extension: string): string[] {
   return fs.readdirSync(fullPath).filter(file => file.endsWith(extension));
 }
 
+function sortMemberFiles(category: Member['category'], files: string[]): string[] {
+  const priorities: Partial<Record<Member['category'], string[]>> = {
+    // Ensure PI appears first in faculty lists (homepage + People page).
+    faculty: ['takahashi.yaml'],
+  };
+
+  const categoryPriorities = priorities[category] ?? [];
+  const getPriority = (file: string) => {
+    const index = categoryPriorities.indexOf(file);
+    return index === -1 ? Number.POSITIVE_INFINITY : index;
+  };
+
+  return [...files].sort((a, b) => {
+    const priorityDiff = getPriority(a) - getPriority(b);
+    if (priorityDiff !== 0) return priorityDiff;
+    return a.localeCompare(b);
+  });
+}
+
 function readYamlFile<T>(filePath: string): T | null {
   const fullPath = path.join(contentDirectory, filePath);
   if (!fs.existsSync(fullPath)) {
@@ -165,7 +184,7 @@ export function getAllMembers(): Member[] {
 
   for (const category of memberCategories) {
     const dir = `members/${category}`;
-    const files = getFilesFromDirectory(dir, '.yaml');
+    const files = sortMemberFiles(category, getFilesFromDirectory(dir, '.yaml'));
 
     for (const file of files) {
       const data = readYamlFile<Omit<Member, 'category'>>(`${dir}/${file}`);

@@ -1,17 +1,6 @@
 'use client';
 
-// Network node type
-export interface Node {
-    id: number;
-    x: number;
-    y: number;
-    vx: number;
-    vy: number;
-    connections: number[];
-    delay: number;
-}
-
-// Waveform Glyph Component
+// Waveform Glyph Component - static version
 export function WaveformGlyph({ color }: { color: string }) {
     const bars = [0.3, 0.6, 0.9, 0.5, 0.8, 0.4, 0.7, 0.5];
     return (
@@ -23,8 +12,6 @@ export function WaveformGlyph({ color }: { color: string }) {
                     style={{
                         height: `${height * 32}px`,
                         background: color,
-                        animation: `waveform 1.2s ease-in-out infinite`,
-                        animationDelay: `${i * 0.1}s`,
                     }}
                 />
             ))}

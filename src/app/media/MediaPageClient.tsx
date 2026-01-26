@@ -55,8 +55,6 @@ export function MediaPageClient({ books, mediaAppearances, youtubeChannel, seria
 
   return (
     <div className="min-h-screen bg-[var(--bg)]">
-      <div className="grid-overlay" />
-
       {/* Hero */}
       <header className="pt-32 pb-16 lg:pt-40 lg:pb-24">
         <div className="max-w-[1400px] mx-auto px-6 lg:px-12">

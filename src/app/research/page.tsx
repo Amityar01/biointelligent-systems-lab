@@ -1,9 +1,36 @@
-import Link from 'next/link';
-import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { getHomepageSettings } from '@/lib/content';
+import ResearchPageClient from './ResearchPageClient';
 
-// Research areas organized by scale
-function getResearchAreas(settings: ReturnType<typeof getHomepageSettings>) {
+interface BilingualText {
+  en: string;
+  ja: string;
+}
+
+interface Finding {
+  title: BilingualText;
+  desc: BilingualText;
+  paper: string;
+}
+
+interface ResearchArea {
+  id: string;
+  scale: BilingualText;
+  color: string;
+  title: BilingualText;
+  question: BilingualText;
+  image: string;
+  description: BilingualText;
+  findings: Finding[];
+  topics: BilingualText[];
+}
+
+interface Methodology {
+  title: BilingualText;
+  desc: BilingualText;
+  detail: BilingualText;
+}
+
+function getResearchAreas(settings: ReturnType<typeof getHomepageSettings>): ResearchArea[] {
   const researchImages = settings?.research_images || {
     cultures: { main: '/uploads/scraped/neuronal-culture.jpg', secondary: '/uploads/scraped/cmos-array.jpg' },
     auditory: { main: '/uploads/scraped/lab-visualization.jpg', secondary: '/uploads/scraped/waveform.jpg' },
@@ -13,158 +40,207 @@ function getResearchAreas(settings: ReturnType<typeof getHomepageSettings>) {
   return [
     {
       id: 'emergence',
-      scale: 'In Vitro',
-      color: 'var(--calcium)',
-      title: 'Emergent Computing',
-      titleJa: '創発計算',
-      question: 'How does intelligence emerge from self-organizing neurons?',
+      scale: { en: 'In Vitro', ja: '培養（in vitro）' },
+      color: 'var(--accent)',
+      title: { en: 'Emergent Computing', ja: '創発計算' },
+      question: {
+        en: 'How does intelligence emerge from self-organizing neurons?',
+        ja: '自己組織化する神経回路から知能はどのように創発するのか？',
+      },
       image: researchImages.cultures.main,
-      description:
-        'We study how living neuronal cultures perform computation. Using high-density CMOS arrays with 10,000+ recording sites, we observe how networks self-organize to the edge of criticality and implement reservoir computing.',
+      description: {
+        en: 'We study how living neuronal cultures perform computation. Using high-density CMOS arrays with 10,000+ recording sites, we observe how networks self-organize to the edge of criticality and implement reservoir computing.',
+        ja: '生きた培養神経回路がどのように計算を行うのかを研究します。10,000点以上の記録サイトを備えた高密度CMOSアレイを用い、ネットワークが臨界点の縁へ自己組織化し、リザバー計算を実装する過程を観測します。',
+      },
       findings: [
         {
-          title: 'Physical Reservoir Computing',
-          desc: 'Implemented FORCE learning in living neuronal cultures, demonstrating that biological neural networks can be trained as computational reservoirs.',
+          title: { en: 'Physical Reservoir Computing', ja: '物理リザバー計算' },
+          desc: {
+            en: 'Implemented FORCE learning in living neuronal cultures, demonstrating that biological neural networks can be trained as computational reservoirs.',
+            ja: '生きた培養神経回路にFORCE学習を実装し、生物神経ネットワークが計算リザバーとして訓練可能であることを示しました。',
+          },
           paper: 'Applied Physics Letters, 2021',
         },
         {
-          title: 'Self-Organized Criticality',
-          desc: 'Discovered that noise combined with spike-timing plasticity is sufficient for neural networks to reach criticality and E/I balance.',
+          title: { en: 'Self-Organized Criticality', ja: '自己組織化臨界性' },
+          desc: {
+            en: 'Discovered that noise combined with spike-timing plasticity is sufficient for neural networks to reach criticality and E/I balance.',
+            ja: 'ノイズとスパイクタイミング依存可塑性（STDP）の組み合わせだけで、ネットワークが臨界性と興奮/抑制バランスに到達することを明らかにしました。',
+          },
           paper: 'Applied Physics Letters, 2023',
         },
         {
-          title: 'Deviance Detection in Cultures',
-          desc: 'Found that even simple cultures show complex temporal processing—challenging the view that hierarchical networks are required.',
+          title: { en: 'Deviance Detection in Cultures', ja: '培養回路での逸脱検出' },
+          desc: {
+            en: 'Found that even simple cultures show complex temporal processing—challenging the view that hierarchical networks are required.',
+            ja: '単純な培養回路でも複雑な時間情報処理（逸脱検出）を示すことを発見し、階層ネットワークが必須という見方に一石を投じました。',
+          },
           paper: 'Frontiers in Neuroscience, 2025',
         },
       ],
       topics: [
-        'Reservoir computing with living neurons',
-        'Self-organized criticality',
-        'Information processing capacity',
-        'Bio-silicon hybrid sensors',
+        { en: 'Reservoir computing with living neurons', ja: '生きた神経回路によるリザバー計算' },
+        { en: 'Self-organized criticality', ja: '自己組織化臨界性' },
+        { en: 'Information processing capacity', ja: '情報処理容量' },
+        { en: 'Bio-silicon hybrid sensors', ja: 'バイオ・シリコンハイブリッドセンサー' },
       ],
     },
     {
       id: 'auditory',
-      scale: 'In Vivo',
-      color: 'var(--voltage)',
-      title: 'Auditory Processing',
-      titleJa: '聴覚情報処理',
-      question: 'How does the brain represent sound, music, and prediction?',
+      scale: { en: 'In Vivo', ja: '生体（in vivo）' },
+      color: 'var(--accent)',
+      title: { en: 'Auditory Processing', ja: '聴覚情報処理' },
+      question: {
+        en: 'How does the brain represent sound, music, and prediction?',
+        ja: '脳は音・音楽・予測をどのように表現するのか？',
+      },
       image: researchImages.auditory.main,
-      description:
-        'We investigate neural coding in the rodent thalamo-cortical auditory system—from basic tonotopy to complex phenomena like beat synchronization and predictive coding through mismatch negativity.',
+      description: {
+        en: 'We investigate neural coding in the rodent thalamo-cortical auditory system—from basic tonotopy to complex phenomena like beat synchronization and predictive coding through mismatch negativity.',
+        ja: 'げっ歯類の視床—皮質聴覚系における神経符号化を研究します。基本的な音のトノトピーから、ビート同期やミスマッチ陰性電位（MMN）による予測符号化までを扱います。',
+      },
       findings: [
         {
-          title: 'Beat Synchronization in Rats',
-          desc: 'First evidence of innate beat synchronization in animals. Rats bob their heads to music at 120-140 BPM—the same tempo humans prefer.',
+          title: { en: 'Beat Synchronization in Rats', ja: 'ラットのビート同期' },
+          desc: {
+            en: 'First evidence of innate beat synchronization in animals. Rats bob their heads to music at 120-140 BPM—the same tempo humans prefer.',
+            ja: '動物における生得的ビート同期の初めての証拠。ラットは人が好む120〜140 BPMのテンポで音楽に合わせて頭を振ります。',
+          },
           paper: 'Science Advances, 2022',
         },
         {
-          title: 'Negative Prediction Error Neurons',
-          desc: 'Identified neurons that encode prediction errors when expected sounds are omitted, revealing the neural basis of predictive coding.',
+          title: { en: 'Negative Prediction Error Neurons', ja: '負の予測誤差ニューロン' },
+          desc: {
+            en: 'Identified neurons that encode prediction errors when expected sounds are omitted, revealing the neural basis of predictive coding.',
+            ja: '予測された音が欠落したときの予測誤差を符号化するニューロンを同定し、予測符号化の神経基盤を明らかにしました。',
+          },
           paper: 'PLOS Biology, 2025',
         },
         {
-          title: 'Brain as Physical Reservoir',
-          desc: 'Quantified the information processing capacity of living auditory cortex, finding optimal computation at 10-18ms timescales.',
+          title: { en: 'Brain as Physical Reservoir', ja: '脳を物理リザバーとして捉える' },
+          desc: {
+            en: 'Quantified the information processing capacity of living auditory cortex, finding optimal computation at 10-18ms timescales.',
+            ja: '生きた聴覚皮質の情報処理容量を定量化し、10〜18 msの時間スケールで計算が最適になることを示しました。',
+          },
           paper: 'Applied Physics Letters, 2023',
         },
       ],
       topics: [
-        'Mismatch negativity & predictive coding',
-        'Beat synchronization & rhythm',
-        'Tonotopic organization',
-        'Auditory cortex plasticity',
+        { en: 'Mismatch negativity & predictive coding', ja: 'ミスマッチ陰性電位と予測符号化' },
+        { en: 'Beat synchronization & rhythm', ja: 'ビート同期とリズム' },
+        { en: 'Tonotopic organization', ja: 'トノトピー構造' },
+        { en: 'Auditory cortex plasticity', ja: '聴覚皮質の可塑性' },
       ],
     },
     {
       id: 'clinical',
-      scale: 'Clinical',
-      color: 'var(--activity)',
-      title: 'Neuromodulation',
-      titleJa: '神経変調',
-      question: 'Can we modulate brain function to treat disease?',
+      scale: { en: 'Clinical', ja: '臨床' },
+      color: 'var(--accent)',
+      title: { en: 'Neuromodulation', ja: '神経変調' },
+      question: {
+        en: 'Can we modulate brain function to treat disease?',
+        ja: '脳機能を変調して疾患を治療できるか？',
+      },
       image: researchImages.clinical.main,
-      description:
-        'We develop vagus nerve stimulation (VNS) approaches and study neural dynamics in epilepsy. Our work reveals how neuromodulation affects the balance between feedforward and feedback processing in the brain.',
+      description: {
+        en: 'We develop vagus nerve stimulation (VNS) approaches and study neural dynamics in epilepsy. Our work reveals how neuromodulation affects the balance between feedforward and feedback processing in the brain.',
+        ja: '迷走神経刺激（VNS）の手法を開発し、てんかんにおける神経ダイナミクスを研究します。神経変調が前向き（feedforward）/後向き（feedback）処理のバランスにどう影響するかを明らかにします。',
+      },
       findings: [
         {
-          title: 'VNS Frequency Effects',
-          desc: 'VNS increases gamma/beta (feedforward) via cholinergic pathways and decreases theta (feedback) via noradrenergic pathways.',
+          title: { en: 'VNS Frequency Effects', ja: 'VNS周波数の効果' },
+          desc: {
+            en: 'VNS increases gamma/beta (feedforward) via cholinergic pathways and decreases theta (feedback) via noradrenergic pathways.',
+            ja: 'VNSはコリン作動性経路を介してγ/β（前向き）成分を増加させ、ノルアドレナリン作動性経路を介してθ（後向き）成分を減少させます。',
+          },
           paper: 'Brain Stimulation, 2023',
         },
         {
-          title: 'Stochastic Resonance',
-          desc: 'Explained the paradox of why awake cortex has more noise but better weak signal detection through stochastic resonance.',
+          title: { en: 'Stochastic Resonance', ja: '確率共鳴' },
+          desc: {
+            en: 'Explained the paradox of why awake cortex has more noise but better weak signal detection through stochastic resonance.',
+            ja: '覚醒状態の皮質はノイズが多いにもかかわらず弱い信号検出が優れるという逆説を、確率共鳴により説明しました。',
+          },
           paper: 'Cerebral Cortex, 2024',
         },
       ],
       topics: [
-        'Vagus nerve stimulation',
-        'Epilepsy dynamics & prediction',
-        'Feedforward vs feedback processing',
-        'Clinical neural interfaces',
+        { en: 'Vagus nerve stimulation', ja: '迷走神経刺激（VNS）' },
+        { en: 'Epilepsy dynamics & prediction', ja: 'てんかんダイナミクスと予測' },
+        { en: 'Feedforward vs feedback processing', ja: '前向き/後向き処理のバランス' },
+        { en: 'Clinical neural interfaces', ja: '臨床神経インタフェース' },
       ],
     },
     {
       id: 'theory',
-      scale: 'Theoretical',
-      color: 'var(--warm)',
-      title: 'Neural Computation Theory',
-      titleJa: '神経計算理論',
-      question: 'What are the mathematical principles of brain function?',
+      scale: { en: 'Theoretical', ja: '理論' },
+      color: 'var(--accent)',
+      title: { en: 'Neural Computation Theory', ja: '神経計算理論' },
+      question: {
+        en: 'What are the mathematical principles of brain function?',
+        ja: '脳機能の数理原理とは何か？',
+      },
       image: '/uploads/scraped/research-diagram.png',
-      description:
-        'We develop theoretical frameworks to understand how physical neural dynamics translate into information processing. Our work bridges the gap between biological reality and computational theory.',
+      description: {
+        en: 'We develop theoretical frameworks to understand how physical neural dynamics translate into information processing. Our work bridges the gap between biological reality and computational theory.',
+        ja: '物理的な神経ダイナミクスが情報処理へ変換される仕組みを理解するための理論枠組みを構築します。生物学的実在と計算理論のギャップを橋渡しします。',
+      },
       findings: [
         {
-          title: 'Information Processing Capacity (IPC)',
-          desc: 'Quantified the "memory" and "computation" capacity of living neuronal networks, finding they operate at an optimal edge of chaos.',
+          title: { en: 'Information Processing Capacity (IPC)', ja: '情報処理容量（IPC）' },
+          desc: {
+            en: 'Quantified the "memory" and "computation" capacity of living neuronal networks, finding they operate at an optimal edge of chaos.',
+            ja: '生きた神経ネットワークの「記憶」と「計算」容量を定量化し、カオスの縁で最適に動作することを示しました。',
+          },
           paper: 'Applied Physics Letters, 2023',
         },
         {
-          title: 'Stochastic Resonance',
-          desc: 'Demonstrated how noise in the brain paradoxically improves the detection of weak signals, suggesting a functional role for spontaneous activity.',
+          title: { en: 'Stochastic Resonance', ja: '確率共鳴' },
+          desc: {
+            en: 'Demonstrated how noise in the brain paradoxically improves the detection of weak signals, suggesting a functional role for spontaneous activity.',
+            ja: '脳内ノイズが弱い信号の検出を逆説的に改善することを示し、自発活動の機能的役割を示唆しました。',
+          },
           paper: 'Cerebral Cortex, 2024',
         },
         {
-          title: 'Free Energy Principle & Autopoiesis',
-          desc: 'Exploring how neural networks maintain their own organization (autopoiesis) and minimize prediction error (free energy) to survive.',
+          title: { en: 'Free Energy Principle & Autopoiesis', ja: '自由エネルギー原理とオートポイエーシス' },
+          desc: {
+            en: 'Exploring how neural networks maintain their own organization (autopoiesis) and minimize prediction error (free energy) to survive.',
+            ja: '神経ネットワークが自己組織性（オートポイエーシス）を保ち、予測誤差（自由エネルギー）を最小化しながら生存する仕組みを探究しています。',
+          },
           paper: 'Artificial Life, 2020',
         },
       ],
       topics: [
-        'Reservoir Computing Theory',
-        'Information Processing Capacity',
-        'Stochastic Resonance',
-        'Free Energy Principle',
+        { en: 'Reservoir Computing Theory', ja: 'リザバー計算理論' },
+        { en: 'Information Processing Capacity', ja: '情報処理容量' },
+        { en: 'Stochastic Resonance', ja: '確率共鳴' },
+        { en: 'Free Energy Principle', ja: '自由エネルギー原理' },
       ],
     },
   ];
 }
 
-const methodologies = [
+const methodologies: Methodology[] = [
   {
-    title: 'CMOS Arrays',
-    desc: 'High-density recording with 10,000+ sites in 2×2mm²',
-    detail: 'Collaboration with ETH Zurich & Maxwell Biosystems',
+    title: { en: 'CMOS Arrays', ja: 'CMOSアレイ' },
+    desc: { en: 'High-density recording with 10,000+ sites in 2×2mm²', ja: '2×2mm²に10,000点以上の高密度記録' },
+    detail: { en: 'Collaboration with ETH Zurich & Maxwell Biosystems', ja: 'ETH Zurich・Maxwell Biosystemsとの共同開発' },
   },
   {
-    title: 'Information Theory',
-    desc: 'Transfer entropy, IPC, and neural coding analysis',
-    detail: 'Quantifying computation in neural systems',
+    title: { en: 'Information Theory', ja: '情報理論' },
+    desc: { en: 'Transfer entropy, IPC, and neural coding analysis', ja: '転送エントロピー、IPC、神経符号化解析' },
+    detail: { en: 'Quantifying computation in neural systems', ja: '神経系の計算を定量化' },
   },
   {
-    title: 'Machine Learning',
-    desc: 'Deep learning for seizure prediction and neural decoding',
-    detail: 'From neural data to clinical applications',
+    title: { en: 'Machine Learning', ja: '機械学習' },
+    desc: { en: 'Deep learning for seizure prediction and neural decoding', ja: 'てんかん予測・神経復号のための深層学習' },
+    detail: { en: 'From neural data to clinical applications', ja: '神経データから臨床応用へ' },
   },
   {
-    title: 'Mathematical Modeling',
-    desc: 'Dynamical systems and network models',
-    detail: 'Understanding neural computation theoretically',
+    title: { en: 'Mathematical Modeling', ja: '数理モデル' },
+    desc: { en: 'Dynamical systems and network models', ja: '力学系・ネットワークモデル' },
+    detail: { en: 'Understanding neural computation theoretically', ja: '神経計算を理論的に理解する' },
   },
 ];
 
@@ -172,189 +248,6 @@ export default function ResearchPage() {
   const settings = getHomepageSettings();
   const researchAreas = getResearchAreas(settings);
 
-  return (
-    <div className="min-h-screen bg-[var(--bg)]">
-      {/* Grid Overlay */}
-      <div className="grid-overlay" />
-
-
-      {/* Hero */}
-      <header className="pt-32 pb-16 lg:pt-40 lg:pb-24">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
-          <Link href="/" className="inline-flex items-center gap-2 text-sm text-[var(--text-muted)] hover:text-[var(--accent)] transition-colors mb-8">
-            <ArrowLeft className="w-4 h-4" />
-            Back to Home
-          </Link>
-          <p className="section-label">What We Study</p>
-          <h1 className="mb-6">
-            <span className="text-[var(--text)]">Three Scales,</span>
-            <br />
-            <span className="text-gradient">One Question</span>
-          </h1>
-          <p className="text-lg lg:text-xl text-[var(--text-secondary)] max-w-2xl leading-relaxed">
-            We approach the brain at multiple scales—from neurons in a dish to human clinical studies.
-            Each scale reveals different aspects of how neural computation emerges, processes information,
-            and can be modulated.
-          </p>
-        </div>
-      </header>
-
-      {/* Research Areas */}
-      <section className="py-16 lg:py-24">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
-          <div className="space-y-32">
-            {researchAreas.map((area, index) => (
-              <div key={area.id} id={area.id} className="scroll-mt-24">
-                {/* Scale indicator */}
-                <div className="flex items-center gap-4 mb-8">
-                  <span
-                    className={`tag tag-${area.id === 'emergence' ? 'cultures' : area.id}`}
-                  >
-                    {area.scale}
-                  </span>
-                  <div className="flex-1 h-px bg-[var(--border)]" />
-                </div>
-
-                <div className="grid lg:grid-cols-12 gap-12">
-                  {/* Main content */}
-                  <div className="lg:col-span-7">
-                    <p className="text-sm text-[var(--text-muted)] jp mb-2">{area.titleJa}</p>
-                    <h2 className="text-3xl lg:text-4xl font-semibold mb-4">{area.title}</h2>
-                    <p className="text-lg mb-6" style={{ color: area.color }}>
-                      {area.question}
-                    </p>
-                    <p className="text-[var(--text-secondary)] mb-8 leading-relaxed">
-                      {area.description}
-                    </p>
-
-                    {/* Research image */}
-                    <div className="aspect-[16/9] relative overflow-hidden border border-[var(--border)] mb-8">
-                      {/* eslint-disable-next-line @next/next/no-img-element */}
-                      <img
-                        src={area.image}
-                        alt={area.title}
-                        className="absolute inset-0 w-full h-full object-cover opacity-80"
-                      />
-                      <div className="absolute inset-0 bg-gradient-to-t from-[var(--bg)] via-transparent to-transparent opacity-60" />
-                    </div>
-
-                    {/* Topics */}
-                    <div className="mb-8">
-                      <p className="text-xs text-[var(--text-muted)] uppercase tracking-wider mb-4">Research Topics</p>
-                      <div className="flex flex-wrap gap-2">
-                        {area.topics.map((topic) => (
-                          <span key={topic} className="tag">
-                            {topic}
-                          </span>
-                        ))}
-                      </div>
-                    </div>
-                  </div>
-
-                  {/* Findings */}
-                  <div className="lg:col-span-5">
-                    <p className="text-xs text-[var(--text-muted)] uppercase tracking-wider mb-4">Key Findings</p>
-                    <div className="space-y-4">
-                      {area.findings.map((finding) => (
-                        <div
-                          key={finding.title}
-                          className="p-4 bg-[var(--bg-elevated)] border border-[var(--border)] hover:border-[var(--border-bright)] transition-colors"
-                        >
-                          <h4 className="font-medium mb-2">{finding.title}</h4>
-                          <p className="text-sm text-[var(--text-secondary)] mb-2">{finding.desc}</p>
-                          <p className="text-xs font-mono" style={{ color: area.color }}>{finding.paper}</p>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Core Philosophy */}
-      <section className="py-20 border-y border-[var(--border)] bg-[var(--bg-alt)]">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
-          <div className="max-w-3xl">
-            <p className="section-label">Philosophy</p>
-            <blockquote className="pullquote mb-6">
-              &quot;We aim to reverse engineer the brain—to understand what &apos;function&apos; a brain&apos;s
-              structure and neural activity patterns represent as a &apos;design solution.&apos;&quot;
-            </blockquote>
-            <p className="text-[var(--text-secondary)]">
-              Unlike AI which automates existing rules, biological intelligence creates new rules.
-              We seek to understand this difference through experiment and theory.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      {/* Methodologies */}
-      <section className="py-20 lg:py-32">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
-          <div className="mb-16">
-            <p className="section-label">Methods</p>
-            <h2 className="mb-4">How We Work</h2>
-            <p className="text-[var(--text-secondary)] max-w-2xl">
-              We combine cutting-edge recording technology with rigorous theoretical analysis
-              to understand neural computation.
-            </p>
-          </div>
-
-          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-            {methodologies.map((method) => (
-              <div key={method.title} className="card p-6">
-                <h3 className="text-lg font-semibold mb-2">{method.title}</h3>
-                <p className="text-sm text-[var(--text-secondary)] mb-3">{method.desc}</p>
-                <p className="text-xs text-[var(--text-muted)]">{method.detail}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Collaborations */}
-      <section className="py-20 lg:py-32 bg-[var(--bg-alt)] border-t border-[var(--border)]">
-        <div className="max-w-[1400px] mx-auto px-6 lg:px-12">
-          <div className="grid lg:grid-cols-2 gap-12 items-center">
-            <div>
-              <p className="section-label">Global Network</p>
-              <h2 className="mb-6">International Collaborations</h2>
-              <p className="text-[var(--text-secondary)] mb-6">
-                We work with leading researchers worldwide, particularly in neural recording
-                technology and computational neuroscience.
-              </p>
-              <ul className="space-y-3 text-sm text-[var(--text-secondary)]">
-                <li className="flex items-start gap-3">
-                  <span className="w-1.5 h-1.5 rounded-full bg-[var(--accent)] mt-2" />
-                  <span><strong className="text-[var(--text)]">ETH Zurich</strong> — CMOS array development (Hierlemann, Bakkum)</span>
-                </li>
-                <li className="flex items-start gap-3">
-                  <span className="w-1.5 h-1.5 rounded-full bg-[var(--accent)] mt-2" />
-                  <span><strong className="text-[var(--text)]">Maxwell Biosystems</strong> — High-density recording technology</span>
-                </li>
-                <li className="flex items-start gap-3">
-                  <span className="w-1.5 h-1.5 rounded-full bg-[var(--accent)] mt-2" />
-                  <span><strong className="text-[var(--text)]">Monash University</strong> — Consciousness and neural coding</span>
-                </li>
-                <li className="flex items-start gap-3">
-                  <span className="w-1.5 h-1.5 rounded-full bg-[var(--accent)] mt-2" />
-                  <span><strong className="text-[var(--text)]">Jichi Medical University</strong> — VNS clinical studies</span>
-                </li>
-              </ul>
-            </div>
-            <div className="flex justify-center">
-              <Link href="/contact" className="btn-primary">
-                Interested in Collaboration?
-                <ArrowUpRight className="w-4 h-4" />
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
-
-    </div>
-  );
+  return <ResearchPageClient researchAreas={researchAreas} methodologies={methodologies} />;
 }
+
