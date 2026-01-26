@@ -52,10 +52,10 @@ export default function Navigation() {
             {/* Logo */}
             <Link href="/" className="flex items-center gap-3 group">
               <div className="flex flex-col">
-                <span className="font-semibold text-[var(--text)] text-sm lg:text-base">
+                <span className="font-semibold text-[var(--text)] text-base lg:text-base">
                   Takahashi-Shiramatsu Lab
                 </span>
-                <span className="text-xs text-[var(--text-muted)] hidden sm:block">
+                <span className="text-sm text-[var(--text-muted)] hidden sm:block">
                   University of Tokyo
                 </span>
               </div>
@@ -79,7 +79,7 @@ export default function Navigation() {
               {/* Language Toggle */}
               <button
                 onClick={toggleLanguage}
-                className="text-xs text-[var(--text-muted)] font-medium hover:text-[var(--accent)] transition-colors px-2 py-1 rounded"
+                className="text-sm text-[var(--text-muted)] font-medium hover:text-[var(--accent)] transition-colors px-2 py-1 rounded"
               >
                 {language === 'en' ? '日本語' : 'EN'}
               </button>
@@ -110,7 +110,7 @@ export default function Navigation() {
                 <Link
                   key={item.href}
                   href={item.href}
-                  className={`block py-3 px-4 rounded text-base font-medium transition-colors ${
+                  className={`block py-4 px-4 rounded text-lg font-medium transition-colors ${
                     pathname === item.href
                       ? 'text-[var(--accent)] bg-[var(--bg-muted)]'
                       : 'text-[var(--text-secondary)] hover:text-[var(--text)] hover:bg-[var(--bg-muted)]'
