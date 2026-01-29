@@ -1,0 +1,14 @@
+id: 2025-amityaron-nothing-really-matters-what
+title: '"Nothing" Really Matters: What Omission Responses Reveal About the Predictive Brain'
+authors:
+  - Amit Yaron
+  - Tomoyo Isoguchi Shiramatsu
+  - Hirokazu Takahashi
+  - Zenas C. Chao
+year: 2025
+type: journal
+doi: 10.22541/au.175952324.41998054/v1
+tags:
+  - english
+  - domain:mismatch-negativity
+abstract: Understanding the brain's predictive machinery requires isolating endogenous activity from responses to external stimulation. Omission paradigms, which study neural responses when expected stimuli are absent, provide this unique window into internal computations. This review synthesizes omission research across species, modalities, and paradigms to reveal how the brain anticipates the world. Across diverse findings, the brain uses explicit learned models to generate detailed, feature-specific representations of expected content. This is evidenced by anticipatory signals in associative areas that peak at omission times, and by cortical responses carrying decodable information about missing stimulus features, creating "sensory ghosts" of absent events. These sophisticated computations are complemented by foundational responses emerging rapidly in isolated preparations, reflecting simpler local computations. We propose a framework where omission responses emerge from two cooperative computational systems spanning a mechanistic spectrum. Local Regularity Encoding (LRE) generates fast, automatic signals through intrinsic circuit dynamics like adaptation and rebound, operating within constrained temporal windows. Model-Based Inference (MBI) produces slower, flexible predictions via distributed networks that learn specific "what" and "when" expectations, often requiring attention and top-down control. We organize these findings using empirical signatures including timing constraints, attention-dependence, and content-specificity. Our synthesis includes a functional "Omission Atlas" mapping computations onto brain networks, from cerebellar timing scaffolds to hippocampal content predictions. Clinical applications reveal differential vulnerability of these systems in schizophrenia, autism, and neurodevelopmental disorders. This framework provides a unified account of mismatch negativity and related phenomena, offering both theoretical advancement and practical tools for future research into predictive processing mechanisms.
