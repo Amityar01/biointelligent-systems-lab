@@ -95,7 +95,7 @@ export interface Publication {
   pages?: string;
   doi?: string;
   pubmed?: string;
-  type: 'journal' | 'conference' | 'presentation' | 'poster' | 'thesis' | 'book' | 'review' | 'media' | 'grant' | 'report' | 'award';
+  type: 'journal' | 'preprint' | 'conference' | 'presentation' | 'poster' | 'thesis' | 'book' | 'review' | 'media' | 'grant' | 'report' | 'award';
   tags?: string[];
 }
 
