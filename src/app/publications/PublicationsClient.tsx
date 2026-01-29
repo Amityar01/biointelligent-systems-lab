@@ -15,7 +15,9 @@ import {
 
 const typeLabels: Record<string, { en: string; ja: string }> = {
   all: { en: 'All', ja: 'すべて' },
+  papers: { en: 'Papers', ja: '論文' },
   journal: { en: 'Journal', ja: '学術論文' },
+  preprint: { en: 'Preprint', ja: 'プレプリント' },
   conference: { en: 'Conference', ja: '国際会議' },
   presentation: { en: 'Presentation', ja: '発表' },
   poster: { en: 'Poster', ja: 'ポスター' },
@@ -59,7 +61,7 @@ export default function PublicationsClient({ publications, allTags }: Publicatio
   const { t, language } = useLanguage();
 
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedType, setSelectedType] = useState<string>('all');
+  const [selectedType, setSelectedType] = useState<string>('papers');
   const [selectedYear, setSelectedYear] = useState<string>('all');
   const [selectedTag, setSelectedTag] = useState<string>('all');
   const [selectedModel, setSelectedModel] = useState<string>('all');
@@ -72,7 +74,7 @@ export default function PublicationsClient({ publications, allTags }: Publicatio
   const [isSemanticEnabled, setIsSemanticEnabled] = useState(false);
   const [isLoadingEmbedding, setIsLoadingEmbedding] = useState(false);
 
-  const publicationTypes = ['all', 'journal', 'conference', 'presentation', 'poster', 'thesis', 'book', 'review', 'media', 'grant', 'report', 'award'];
+  const publicationTypes = ['all', 'papers', 'journal', 'preprint', 'conference', 'presentation', 'poster', 'thesis', 'book', 'review', 'media', 'grant', 'report', 'award'];
 
   const formatText = (text: { en: string; ja: string }, vars: Record<string, string | number>) => {
     let result = t(text);
@@ -164,7 +166,8 @@ export default function PublicationsClient({ publications, allTags }: Publicatio
   const filteredPublications = useMemo(() => {
     // First apply type/year/tag/category filters
     const preFiltered = publications.filter((pub) => {
-      const matchesType = selectedType === 'all' || pub.type === selectedType;
+      const matchesType = selectedType === 'all' ||
+        (selectedType === 'papers' ? (pub.type === 'journal' || pub.type === 'preprint') : pub.type === selectedType);
       const matchesYear = selectedYear === 'all' || (pub.year && pub.year.toString() === selectedYear);
       const matchesTag = selectedTag === 'all' || pub.tags?.includes(selectedTag);
       const matchesModel = selectedModel === 'all' || pub.tags?.includes(`model:${selectedModel}`);
@@ -351,13 +354,13 @@ export default function PublicationsClient({ publications, allTags }: Publicatio
           {/* Results count and clear filters */}
           <div className="mt-3 flex items-center gap-4 text-sm text-[var(--text-muted)]">
             <span>{formatText(texts.resultsCount, { shown: filteredPublications.length, total: publications.length })}</span>
-            {(selectedModel !== 'all' || selectedTechnique !== 'all' || selectedDomain !== 'all' || selectedType !== 'all' || selectedYear !== 'all' || selectedTag !== 'all') && (
+            {(selectedModel !== 'all' || selectedTechnique !== 'all' || selectedDomain !== 'all' || selectedType !== 'papers' || selectedYear !== 'all' || selectedTag !== 'all') && (
               <button
                 onClick={() => {
                   setSelectedModel('all');
                   setSelectedTechnique('all');
                   setSelectedDomain('all');
-                  setSelectedType('all');
+                  setSelectedType('papers');
                   setSelectedYear('all');
                   setSelectedTag('all');
                 }}
