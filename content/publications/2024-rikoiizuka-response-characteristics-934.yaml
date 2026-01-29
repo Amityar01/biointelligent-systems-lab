@@ -1,6 +1,5 @@
 id: 2024-rikoiizuka-response-characteristics-of-th-936
-title: Response characteristics of the nucleus accumbens dopamine to salient
-  stimuli in rats
+title: Response characteristics of the nucleus accumbens dopamine to salient stimuli in rats
 authors:
   - Riko Iizuka
   - Ryotaro Yamaki
@@ -13,3 +12,7 @@ year: 2024
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:behavior
+  - domain:plasticity
+  - domain:bmi

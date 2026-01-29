@@ -1,6 +1,5 @@
 id: 2022-tomoyoishiramat-cortical-mapping-of-auditory-v-358
-title: Cortical mapping of auditory, visual, and cross-modal mismatch negativity
-  in rat
+title: Cortical mapping of auditory, visual, and cross-modal mismatch negativity in rat
 authors:
   - Tomoyo I. Shiramatsu
   - Kanato Mori
@@ -10,3 +9,8 @@ year: 2022
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:mismatch-negativity
+  - domain:auditory

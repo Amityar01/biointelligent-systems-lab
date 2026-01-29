@@ -14,3 +14,9 @@ pages: 1625-1631
 doi: 10.1541/ieejeiss.127.1625
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:electrical-stim
+  - domain:auditory
+  - domain:plasticity
+abstract: Intrinsic plastic properties in the auditory cortex can cause dynamic remodeling of the functional organization according to trainings. Neurorehabilitation will therefore potentially benefit from electrical stimulation that can modify synaptic strength as desired. Here we show that the auditory cortex of rats can be modified by intracortical microstimulation (ICMS) associated with tone stimuli on the basis of the spike time-dependent plasticity (STDP). Two kinds of ICMS were applied; a pairing ICMS following a tone-induced excitatory synaptic input and an anti-paring ICMS preceding a tone-induced input. The pairing and anti-pairing ICMS produced potentiation and depression, respectively, in responses to the paired tones with a particular test frequency, and thereby modified the tuning property of the auditory cortical neurons. In addition, we demonstrated that our experimental setup has a potential to directly measure how anesthetic agents and pharmacological manipulation affect ICMS-induced plasticity, and thus will serve as a powerful platform to investigate the neural basis of the plasticity.

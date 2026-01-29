@@ -1,13 +1,15 @@
 id: 2018-naokiwake-neural-correlates-of-tinnitus--732
-title: "Neural Correlates of Tinnitus: Spontaneous Local Synchrony within Rat
-  Auditory Cortex"
+title: "Neural Correlates of Tinnitus: Spontaneous Local Synchrony within Rat Auditory Cortex"
 authors:
   - Naoki Wake
   - Tomoyo I. Shiramatsu
   - Hirokazu Takahashi
-conference: "Abstract of The 41th annual midwinter research meeting, Aoosication
-  for research in otolaryngology: p. 366-367, 2018"
+conference: "Abstract of The 41th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 366-367, 2018"
 year: 2018
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

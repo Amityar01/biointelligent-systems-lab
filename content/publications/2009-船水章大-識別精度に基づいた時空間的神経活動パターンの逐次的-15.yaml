@@ -15,3 +15,9 @@ awards:
   - 平成21年電気学会電子・情報システム部門誌奨励賞
 tags:
   - japanese
+  - model:human
+  - model:rat
+  - technique:spike
+  - technique:ecog
+  - domain:bmi
+abstract: Performance of a brain machine interface (BMI) critically depends on selection of input data because information embedded in the neural activities is highly redundant. In addition, properly selected input data with a reduced dimension leads to improvement of decoding generalization ability and decrease of computational efforts, both of which are significant advantages for the clinical applications. In the present paper, we propose an algorithm of sequential dimensionality reduction (SDR) that effectively extracts motor/sensory related spatio-temporal neural activities. The algorithm gradually reduces input data dimension by dropping neural data spatio-temporally so as not to undermine the decoding accuracy as far as possible. Support vector machine (SVM) was used as the decoder, and tone-induced neural activities in rat auditory cortices were decoded into the test tone frequencies. SDR reduced the input data dimension to a quarter and significantly improved the accuracy of decoding of novel data. Moreover, spatio-temporal neural activity patterns selected by SDR resulted in significantly higher accuracy than high spike rate patterns or conventionally used spatial patterns. These results suggest that the proposed algorithm can improve the generalization ability and decrease the computational effort of decoding.

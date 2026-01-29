@@ -1,6 +1,5 @@
 id: 2022-amityaron-assessing-the-effects-of-stimu-1406
-title: Assessing the effects of Stimulation on self-organized criticality in
-  developing dissociated neuronal cultures using high density electrodes
+title: Assessing the effects of Stimulation on self-organized criticality in developing dissociated neuronal cultures using high density electrodes
 authors:
   - Amit Yaron
   - Zhuo Zhang
@@ -13,3 +12,8 @@ type: poster
 pages: "#2P-297"
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - technique:spike
+  - domain:plasticity
+  - domain:bmi

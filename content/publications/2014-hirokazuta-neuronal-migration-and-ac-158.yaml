@@ -1,6 +1,5 @@
 id: 2014-hirokazutakahas-neuronal-migration-and-activit-158
-title: Neuronal Migration and Activity in Mature Primary Cultures on a
-  High-Density CMOS Array
+title: Neuronal Migration and Activity in Mature Primary Cultures on a High-Density CMOS Array
 authors:
   - Hirokazu Takahashi
   - Takeshi Mita
@@ -9,10 +8,12 @@ authors:
   - Urs Frey
   - Andreas Hierlemann
   - Douglas Bakkum
-conference: Proceedings of the 9th International Meeting on Substrate-Integrated
-  Microelectrode Arrays (MEA meeting 2014)
+conference: Proceedings of the 9th International Meeting on Substrate-Integrated Microelectrode Arrays (MEA meeting 2014)
 year: 2014
 type: conference
 pages: 166-167
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi

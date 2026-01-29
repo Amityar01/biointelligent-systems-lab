@@ -1,6 +1,5 @@
 id: 2009-douglasjbakkum-subcellular-resolution-electro-866
-title: Subcellular-resolution electronic recording and stimulation of cultured
-  cortical networks using an 11,011 electrode CMOS array
+title: Subcellular-resolution electronic recording and stimulation of cultured cortical networks using an 11,011 electrode CMOS array
 authors:
   - Douglas J Bakkum
   - Urs Frey
@@ -14,3 +13,7 @@ year: 2009
 type: presentation
 tags:
   - japanese
+  - model:culture
+  - model:rat
+  - technique:mea-culture
+  - domain:bmi

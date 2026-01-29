@@ -1,6 +1,5 @@
 id: 2019-naokiwake-enhancing-listening-capability-106
-title: Enhancing Listening Capability of Humanoid Robot by Reduction of
-  Stationary Ego-noise
+title: Enhancing Listening Capability of Humanoid Robot by Reduction of Stationary Ego-noise
 authors:
   - Naoki Wake
   - Masaaki Fukumoto
@@ -16,3 +15,5 @@ pages: 1815-1822
 doi: 10.1002/tee.23008
 tags:
   - english
+  - model:rat
+abstract: Speech interfaces for household robots utilizing third‐party automatic speech recognition (ASR) services face the challenge of overcoming stationary ego‐noise that decreases ASR accuracy. Previous studies on signal processing have proposed numerous noise reduction methods that increase the signal‐to‐noise ratio of speech audio and subjective speech clarity. However, severe limitations on the cost of hardware of household robots and the use of closed ‘black box’ ASR services require us to re‐examine the efficacy of noise reduction methods in this context. Here we compare the effect of several basic noise filters on the performance of ASR services when speech sounds include the stationary ego‐noise of a humanoid Pepper robot. The result revealed that a spectrum subtraction filter improves the accuracy of ASR services best. We also demonstrate that the filter improves ASR performance on an actual Pepper robot system. This study not only provides practical knowledge on the selection of noise filters for a robot system but also discusses further improvements to the listening capabilities of the robot utilizing ASR. © 2019 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.

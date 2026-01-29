@@ -9,3 +9,5 @@ funder: 科学研究費補助金 特定領域研究（公募）
 role: PI
 tags:
   - japanese
+  - model:rat
+  - domain:auditory

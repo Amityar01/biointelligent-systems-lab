@@ -1,6 +1,5 @@
 id: unknown-hexinxu-exploring-the-mechanism-of-mul-707
-title: Exploring the mechanism of multimodal integration using multimodal
-  illusion and EEG experiment
+title: Exploring the mechanism of multimodal integration using multimodal illusion and EEG experiment
 authors:
   - Hexin Xu
   - Yiyuan Huang
@@ -12,3 +11,9 @@ conference: 2024年電気学会電子・情報・システム部門大会講演�
 type: presentation
 tags:
   - japanese
+  - model:human
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:mismatch-negativity
+  - domain:bmi

@@ -6,3 +6,6 @@ conference: 第5回 脳神経外科BMI研究会
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory

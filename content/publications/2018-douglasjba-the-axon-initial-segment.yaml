@@ -1,0 +1,20 @@
+id: 2018-douglasjba-the-axon-initial-segment
+title: The axon initial segment drives the neuron’s extracellular action potential
+authors:
+  - Douglas J. Bakkum
+  - Miloš Radivojević
+  - Marie Engelene J. Obien
+  - David Jaeckel
+  - Urs Frey
+  - Hirokazu Takahashi
+  - Andreas Hierlemann
+year: 2018
+type: preprint
+doi: 10.1101/266734
+tags:
+  - english
+  - model:culture
+  - model:rat
+  - technique:spike
+  - technique:lfp
+abstract: Abstract Extracellular voltage fields produced by a neuron’s action potentials provide a primary means for studying neuron function, yet their biophysical sources remain ambiguous. The neuron’s soma and dendrites are thought to drive the extracellular action potential (EAP), while the axon is usually ignored. However, by recording voltages of single neurons in dissociated rat cortical cultures and Purkinje cells in acute mouse cerebellar slices at hundreds of sites, we find instead that the axon initial segment dominates the EAP, and, surprisingly, the soma shows little or no influence. As expected, this signal has negative polarity (charge entering the cell) and initiates at the distal end. Interestingly, signals with positive polarity (charge exiting the cell) occur near some but not all dendritic branches and occur after a delay. Such basic knowledge about which neuronal compartments contribute to the extracellular voltage field is important for interpreting results from all electrical readout schemes. Moreover, this finding shows that changes in the AIS position and function can be observed in high spatiotemporal detail by means of high-density extracellular electrophysiology. Key points summary The neuron’s soma and dendrites are thought to give rise to its extracellular voltage signal, while signals from the axon are usually considered negligible. Instead, we found that the largest amplitude of the extracellular signal originates from the axon initial segment, not from the soma. This finding shows that changes in the AIS position and function can be observed in high spatiotemporal detail by means of high-density extracellular electrophysiology. Abbreviations ACSF artificial cerebrospinal fluid AIS axon initial segment AnkG ankyrin-G CMOS complementary-metal-oxide-semiconductor DMEM Dulbecco’s modified eagle medium EAP extracellular action potential GAD67-GFP glutamic acid decarboxylase 67-green fluorescent protein MAP2 microtubule-associated protein 2.

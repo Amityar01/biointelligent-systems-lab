@@ -1,6 +1,5 @@
 id: 2020-atsushimasumori-neural-autopoiesis-organizing--107
-title: "Neural Autopoiesis: Organizing self-boundary by stimulus avoidance in
-  biological and artificial neural networks"
+title: "Neural Autopoiesis: Organizing self-boundary by stimulus avoidance in biological and artificial neural networks"
 authors:
   - Atsushi Masumori
   - Lana Sinapayen
@@ -18,3 +17,8 @@ issue: "1"
 pages: 130-151
 tags:
   - english
+  - model:culture
+  - domain:plasticity
+  - domain:reservoir-computing
+doi: 10.1162/artl_a_00314
+abstract: "Living organisms must actively maintain themselves in order to continue existing. Autopoiesis is a key concept in the study of living organisms, where the boundaries of the organism are not static but dynamically regulated by the system itself. To study the autonomous regulation of a self-boundary, we focus on neural homeodynamic responses to environmental changes using both biological and artificial neural networks. Previous studies showed that embodied cultured neural networks and spiking neural networks with spike-timing dependent plasticity (STDP) learn an action as they avoid stimulation from outside. In this article, as a result of our experiments using embodied cultured neurons, we find that there is also a second property allowing the network to avoid stimulation: If the agent cannot learn an action to avoid the external stimuli, it tends to decrease the stimulus-evoked spikes, as if to ignore the uncontrollable input. We also show such a behavior is reproduced by spiking neural networks with asymmetric STDP. We consider that these properties are to be regarded as autonomous regulation of self and nonself for the network, in which a controllable neuron is regarded as self, and an uncontrollable neuron is regarded as nonself. Finally, we introduce neural autopoiesis by proposing the principle of stimulus avoidance."

@@ -1,6 +1,5 @@
 id: 2017-takahironoda-stimulus-phase-locking-of-cort-93
-title: Stimulus phase locking of cortical oscillation for rhythmic tone sequence
-  in rats
+title: Stimulus phase locking of cortical oscillation for rhythmic tone sequence in rats
 authors:
   - Takahiro Noda
   - Tomoki Amemiya
@@ -11,3 +10,9 @@ type: journal
 doi: 10.3389/fncir.2017.00002
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory
+  - domain:mismatch-negativity
+abstract: Humans can rapidly detect regular patterns (i.e., within few cycles) without any special attention to the acoustic environment. This suggests that human sensory systems are equipped with a powerful mechanism for automatically predicting forthcoming stimuli to detect regularity. It has recently been hypothesized that the neural basis of sensory predictions exists for not only what happens (predictive coding) but also when a particular stimulus occurs (predictive timing). Here, we hypothesize that the phases of neural oscillations are critical in predictive timing, and these oscillations are modulated in a band-specific manner when acoustic patterns become predictable, i.e., regular. A high-density microelectrode array (10 × 10 within 4 × 4 mm2) was used to characterize spatial patterns of band-specific oscillations when a random-tone sequence was switched to a regular-tone sequence. Increasing the regularity of the tone sequence enhanced phase locking in a band-specific manner, notwithstanding the type of the regular sound pattern. Gamma-band phase locking increased immediately after the transition from random to regular sequences, while beta-band phase locking gradually evolved with time after the transition. The amplitude of the tone-evoked response, in contrast, increased with frequency separation with respect to the prior tone, suggesting that the evoked-response amplitude encodes sequence information on a local scale, i.e., the local order of tones. The phase locking modulation spread widely over the auditory cortex, while the amplitude modulation was confined around the activation foci. Thus, our data suggest that oscillatory phase plays a more important role than amplitude in the neuronal detection of tone sequence regularity, which is closely related to predictive timing. Furthermore, band-specific contributions may support recent theories that gamma oscillations encode bottom-up prediction errors, whereas beta oscillations are involved in top-down prediction.

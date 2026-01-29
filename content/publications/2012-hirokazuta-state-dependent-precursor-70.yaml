@@ -1,6 +1,5 @@
 id: 2012-hirokazutakahas-state-dependent-precursors-of--70
-title: State-dependent precursors of seizures in correlation-based functional
-  networks of electrocorticograms of patients with temporal lobe epilepsy
+title: State-dependent precursors of seizures in correlation-based functional networks of electrocorticograms of patients with temporal lobe epilepsy
 authors:
   - Hirokazu Takahashi
   - Shuhei Takahashi
@@ -15,3 +14,6 @@ pages: 1355-1364
 doi: 10.1007/s10072-012-0949-5
 tags:
   - english
+  - model:human
+  - technique:ecog
+  - domain:seizure

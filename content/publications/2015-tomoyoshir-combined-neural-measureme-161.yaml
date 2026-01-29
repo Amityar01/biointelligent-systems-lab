@@ -1,7 +1,5 @@
 id: 2015-tomoyoshiramats-combined-neural-measurement-wi-161
-title: Combined neural measurement with surface and depth microelectrode array
-  for topographic and layer-specific characterization in the auditory cortex and
-  thalamus
+title: Combined neural measurement with surface and depth microelectrode array for topographic and layer-specific characterization in the auditory cortex and thalamus
 authors:
   - Tomoyo Shiramatsu
   - Kazusa Takahashi
@@ -9,10 +7,15 @@ authors:
   - Ryohei Kanzaki
   - Haruka Nakahra
   - Hirokazu Takahashi
-conference: Proceedings of the 7th International IEEE EMBS Neural Engineering
-  Conference (NER'15)
+conference: Proceedings of the 7th International IEEE EMBS Neural Engineering Conference (NER'15)
 year: 2015
 type: conference
 pages: 446-449
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:auditory
+doi: 10.1109/ner.2015.7146655
+abstract: Interaction between bottom-up and top-down information processing between the auditory cortex (AC) and thalamus (medial geniculate body; MGB) has been considered important for auditory perception. In this study, we developed an experimental system consisting of a surface microelectrode array and depth microelectrode array to comprehensively investigate the thalamo-cortical system. The combined use of two types of electrode array was able to simultaneously characterize the superficial as well as layer-specific activities in AC. We measured tone-evoked local field potentials and multi-unit activities from anesthetized rats. First, we demonstrated that tonotopic maps from the surface and depth electrode array agreed with previous studies. Second, electrical stimulation to MGB induced deflection in local field potentials, both in AC and MGB. These results indicate the feasibility and efficacy of our experimental system to characterize the thalamo-cortical interaction in the auditory pathway.

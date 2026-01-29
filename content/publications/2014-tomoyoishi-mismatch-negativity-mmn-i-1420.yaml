@@ -4,10 +4,13 @@ authors:
   - Tomoyo I. Shiramatsu
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-journal: Abstract of The 37th annual midwinter research meeting, Aoosication for
-  research in otolaryngology
+journal: Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology
 year: 2014
 type: poster
 pages: "51"
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:mismatch-negativity

@@ -1,6 +1,5 @@
 id: 2018-douglasjbakkum-the-axon-initial-segment-is-th-99
-title: The axon initial segment is the dominant contributor to the neuron’s
-  extracellular electrical potential landscape
+title: The axon initial segment is the dominant contributor to the neuron’s extracellular electrical potential landscape
 authors:
   - Douglas J. Bakkum
   - Marie E. J. Obien
@@ -17,3 +16,7 @@ issue: "2"
 doi: 10.1002/adbi.201800308
 tags:
   - english
+  - model:culture
+  - technique:lfp
+  - technique:spike
+abstract: Extracellular voltage fields, produced by a neuron's action potentials, provide a widely used means for studying neuronal and neuronal‐network function. The neuron's soma and dendrites are thought to drive the extracellular action potential (EAP) landscape, while the axon's contribution is usually considered less important. However, by recording voltages of single neurons in dissociated rat cortical cultures and Purkinje cells in acute mouse cerebellar slices through hundreds of densely packed electrodes, it is found, instead, that the axon initial segment dominates the measured EAP landscape, and, surprisingly, the soma only contributes to a minor extent. As expected, the recorded dominant signal has negative polarity (charge entering the cell) and initiates at the distal end. Interestingly, signals with positive polarity (charge exiting the cell) occur near some but not all dendritic branches and occur after a delay. Such basic knowledge about which neuronal compartments contribute to the extracellular voltage landscape is important for interpreting results from all electrical readout schemes. Finally, initiation of the electrical activity at the distal end of the axon initial segment (AIS) and subsequent spreading into the axon proper and backward through the proximal AIS toward the soma are confirmed. The corresponding extracellular waveforms across different neuronal compartments could be tracked.

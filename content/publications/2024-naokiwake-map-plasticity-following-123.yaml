@@ -1,7 +1,5 @@
 id: 2024-naokiwake-map-plasticity-following-noise-123
-title: "Map plasticity following noise exposure in rat auditory cortex:
-  Implication for disentangling neural correlates of tinnitus and hyperacusis in
-  auditory cortex of rats"
+title: "Map plasticity following noise exposure in rat auditory cortex: Implication for disentangling neural correlates of tinnitus and hyperacusis in auditory cortex of rats"
 authors:
   - Naoki Wake
   - Tomoyo Isoguchi Shiramatsu
@@ -11,3 +9,6 @@ type: journal
 doi: 10.3389/fnins.2024.1385942
 tags:
   - english
+  - model:rat
+  - domain:auditory
+abstract: Introduction Both tinnitus and hyperacusis, likely triggered by hearing loss, can be attributed to maladaptive plasticity in auditory perception. However, owing to their co-occurrence, disentangling their neural mechanisms proves difficult. We hypothesized that the neural correlates of tinnitus are associated with neural activities triggered by low-intensity tones, while hyperacusis is linked to responses to moderate- and high-intensity tones. Methods To test these hypotheses, we conducted behavioral and electrophysiological experiments in rats 2 to 8 days after traumatic tone exposure. Results In the behavioral experiments, prepulse and gap inhibition tended to exhibit different frequency characteristics (although not reaching sufficient statistical levels), suggesting that exposure to traumatic tones led to acute symptoms of hyperacusis and tinnitus at different frequency ranges. When examining the auditory cortex at the thalamocortical recipient layer, we observed that tinnitus symptoms correlated with a disorganized tonotopic map, typically characterized by responses to low-intensity tones. Neural correlates of hyperacusis were found in the cortical recruitment function at the multi-unit activity (MUA) level, but not at the local field potential (LFP) level, in response to moderate- and high-intensity tones. This shift from LFP to MUA was associated with a loss of monotonicity, suggesting a crucial role for inhibitory synapses. Discussion Thus, in acute symptoms of traumatic tone exposure, our experiments successfully disentangled the neural correlates of tinnitus and hyperacusis at the thalamocortical recipient layer of the auditory cortex. They also suggested that tinnitus is linked to central noise, whereas hyperacusis is associated with aberrant gain control. Further interactions between animal experiments and clinical studies will offer insights into neural mechanisms, diagnosis and treatments of tinnitus and hyperacusis, specifically in terms of long-term plasticity of chronic symptoms.

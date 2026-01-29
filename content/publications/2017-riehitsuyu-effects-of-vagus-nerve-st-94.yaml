@@ -16,3 +16,7 @@ issue: "5"
 doi: 10.1002/ecj.11955
 tags:
   - english
+  - model:rat
+  - technique:electrical-stim
+  - domain:auditory
+abstract: SUMMARYVagus nerve stimulation (VNS) causes neuromodulatory effects in the cerebral cortex, which are useful not only for therapy on intractable epilepsy but also for enhancement of higher brain functions such as cognition and memory. Recently, it has been reported that VNS may also affect auditory‐evoked neutral activities. However, it remains to be elucidated how and where VNS modulates neutral activities in the auditory cortex. Here, we examined effects of VNS on adaptation of neutral activities in response to repeated stimuli in the rat auditory cortex. Both a surface and depth microelectrode array recorded auditory‐evoked potentials in response to click train and oddball stimuli. We quantified a repetition rate transfer function and common stimulus‐specific adaptation (SSA) index from the amplitude of middle‐latency response (PI). Consequently, VNS affected temporal response property and increased SSA in the layer 1 and 5/6 of auditory cortex. This result suggests that VNS strengthens adaptation in the auditory cortex in a layer‐specific manner.

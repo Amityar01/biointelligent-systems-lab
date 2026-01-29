@@ -1,6 +1,5 @@
 id: 2003-hirokazutakahas-microelectrode-array-on-foldin-40
-title: Microelectrode array on folding polyimide ribbon for epidural mapping of
-  functional evoked potentials
+title: Microelectrode array on folding polyimide ribbon for epidural mapping of functional evoked potentials
 authors:
   - Hirokazu Takahashi
   - Takayuki Ejiri
@@ -17,3 +16,9 @@ pages: 510-516
 doi: 10.1109/tbme.2003.809483
 tags:
   - english
+  - model:human
+  - model:rat
+  - technique:mea-culture
+  - technique:ecog
+  - domain:bmi
+abstract: This paper describes a flexible polyimide microelectrode ribbon with a bending structure for epidural recording. Bending the ribbon establishes good electro-mechanical contact of the electrodes to the cortex. Impedance spectroscopy and noise measurements in vitro were used to characterize the electrodes. Our in vivo experiments then successfully achieved synchronized neuronal activity and evoked potential patterns useful for understanding brain function and for finding cortical function.

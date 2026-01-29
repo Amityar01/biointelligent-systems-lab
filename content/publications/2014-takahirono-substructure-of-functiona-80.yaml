@@ -1,6 +1,5 @@
 id: 2014-takahironoda-substructure-of-functional-net-80
-title: Substructure of Functional Network for Auditory Stream Segregation in
-  Auditory Cortex
+title: Substructure of Functional Network for Auditory Stream Segregation in Auditory Cortex
 authors:
   - Takahiro Noda
   - Ryohei Kanzaki
@@ -11,3 +10,7 @@ pages: 38-48
 doi: 10.1002/ecj.11524
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+abstract: SUMMARYPerceptual integration and segregation of alternating tone sequences differing in frequency (ABA‐ABA‐...) depend on the frequency differences (ΔFs) between the A and B tones and the intertone intervals (ITIs) between successive tones. In the auditory cortex, tonotopic separation, forward suppression, and multisecond habituation have been considered as possible neural mechanisms of this perceptual phenomenon. These mechanisms, however, cannot completely account for van Noorden's perceptual boundary and the temporally continuous perception of auditory streaming. Here we examined the temporal changes of the functional network properties in the auditory cortex in response to tone sequences with different ΔFs and ITIs. Specifically, we recorded LFPs using microelectrode arrays from anesthetized rats and constructed the functional network based on phase synchrony in gamma‐band oscillation. Consequently, the networks consisted of subnetworks highly correlated with the place code of frequency, that is, a tonotopic map, and the subnetwork selective to B tones lasted for a prolonged period at large ΔF. Such characteristic substructures of the functional network are a possible candidate for the neural basis of auditory stream segregation.

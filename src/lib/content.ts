@@ -88,13 +88,14 @@ export interface Publication {
   id: string;
   title: string;
   authors: string[];
-  journal: string;
+  journal?: string;
+  conference?: string;
   year: number;
   volume?: string;
   pages?: string;
   doi?: string;
   pubmed?: string;
-  type: 'journal' | 'conference' | 'book' | 'review' | 'preprint';
+  type: 'journal' | 'conference' | 'presentation' | 'poster' | 'thesis' | 'book' | 'review' | 'media' | 'grant' | 'report' | 'award';
   tags?: string[];
 }
 
@@ -366,7 +367,7 @@ export function getAllPublicationTags(): string[] {
   return Array.from(allTags).sort();
 }
 
-export const publicationTypes = ['all', 'journal', 'conference', 'book', 'review', 'preprint'] as const;
+export const publicationTypes = ['all', 'journal', 'conference', 'presentation', 'poster', 'thesis', 'book', 'review', 'media', 'grant', 'report', 'award'] as const;
 
 // ========================================
 // TRANSLATIONS

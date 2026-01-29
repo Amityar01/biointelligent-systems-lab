@@ -1,6 +1,5 @@
 id: 2015-naokiwake-prediction-of-acoustic-trauma--1366
-title: Prediction of acoustic trauma based on the phase synchrony in the rat
-  auditory cortex
+title: Prediction of acoustic trauma based on the phase synchrony in the rat auditory cortex
 authors:
   - Naoki Wake
   - Tomoyo Isoguchi Shiramatsu
@@ -11,3 +10,6 @@ year: 2015
 type: poster
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory

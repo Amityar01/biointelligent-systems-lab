@@ -7,3 +7,8 @@ year: 2016
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory
+  - domain:mismatch-negativity

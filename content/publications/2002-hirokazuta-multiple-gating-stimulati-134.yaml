@@ -1,6 +1,5 @@
 id: 2002-hirokazutakahas-multiple-gating-stimulation-fo-134
-title: Multiple gating stimulation for selective activation of nerves in between
-  electrodes
+title: Multiple gating stimulation for selective activation of nerves in between electrodes
 authors:
   - Hirokazu Takahashi
   - Masayuki Nakao
@@ -8,9 +7,7 @@ authors:
   - Yusuke Yasuda
   - Sheykholeslami Kianoushi
   - Kimitaka Kaga
-conference: Proceedings of the International Federation for Medical and
-  Biological Engineering, 2nd European Medical & Biological Engineering
-  Conference 3
+conference: Proceedings of the International Federation for Medical and Biological Engineering, 2nd European Medical & Biological Engineering Conference 3
 year: 2002
 type: conference
 pages: 786-787
@@ -18,3 +15,7 @@ awards:
   - Young Investigators Award for the Best Oral Presentation受賞
 tags:
   - japanese
+  - model:human
+  - model:rat
+  - technique:electrical-stim
+  - domain:bmi

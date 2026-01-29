@@ -13,3 +13,8 @@ year: 2001
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:electrical-stim
+  - technique:ecog
+  - domain:auditory
+  - domain:bmi

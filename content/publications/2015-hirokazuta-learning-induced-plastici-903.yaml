@@ -3,9 +3,13 @@ title: Learning-induced plasticity of mismatch negativity in rats
 authors:
   - Hirokazu Takahashi
   - Tomoyo I. Shiramatsu
-conference: Abstract book of Error Signals from the Brain - 7th Mismatch
-  Negativity Conference
+conference: Abstract book of Error Signals from the Brain - 7th Mismatch Negativity Conference
 year: 2015
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:behavior
+  - technique:ecog
+  - domain:mismatch-negativity
+  - domain:plasticity

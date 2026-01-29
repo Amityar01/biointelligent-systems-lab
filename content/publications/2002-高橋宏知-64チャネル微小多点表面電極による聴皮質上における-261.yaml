@@ -12,3 +12,9 @@ year: 2002
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:ecog
+  - technique:scalp-eeg
+  - domain:auditory
+  - domain:mismatch-negativity

@@ -1,6 +1,5 @@
 id: 2007-junsuzurikawa-light-addressable-electrode-wi-49
-title: Light-addressable electrode with hydrogenated amorphous silicon and
-  low-conductive passivation layer for stimulation of cultured neurons
+title: Light-addressable electrode with hydrogenated amorphous silicon and low-conductive passivation layer for stimulation of cultured neurons
 authors:
   - Jun Suzurikawa
   - Hirokazu Takahashi
@@ -16,3 +15,7 @@ issue: "9"
 doi: 10.1063/1.2709627
 tags:
   - english
+  - model:culture
+  - technique:mea-culture
+  - technique:probe-invivo
+abstract: The authors propose a light-addressable planar electrode with a simple three-layer laminated structure that can induce pinpoint neuronal activation on the culture substrate. The structure consists of a tin oxide (SnO2), hydrogenated amorphous silicon (a-Si:H), and passivation layer. The passivation layer was a spin-coated low-conductive zinc antimonate (ZnOSb2O5)-dispersed epoxy, which was proved to be effective for preventing penetration of culture medium and thus avoiding deterioration of a-Si:H layer. Illumination to the electrode locally elevated the conductivity with 60-fold stimulus charge density. The fluo-4 calcium imaging of neurons cultured on the developed electrode showed that the neuronal activation was confined around the illuminated location, thus demonstrating the light-addressing capability of the proposed electrode.

@@ -1,6 +1,5 @@
 id: 2006-ryoyokota-auditory-cortical-plasticity-i-140
-title: Auditory cortical plasticity induced by intracortical microstimulation
-  under pharmacological blockage of inhibitory synapses
+title: Auditory cortical plasticity induced by intracortical microstimulation under pharmacological blockage of inhibitory synapses
 authors:
   - Ryo Yokota
   - Hirokazu Takahashi
@@ -8,10 +7,16 @@ authors:
   - Masanobu Uchihara
   - Jun Suzurikawa
   - Ryohei Kanzaki
-conference: Proceedings of 28th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 year: 2006
 type: conference
 pages: 4929-4932
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:electrical-stim
+  - domain:plasticity
+  - domain:auditory
+doi: 10.1109/iembs.2006.260281
+abstract: Electrical stimulation that can reorganize our neural system has a potential for promising neurorehabilitation. We previously demonstrated that temporally controlled intracortical microstimulation (ICMS) could induce the spike time-dependant plasticity and modify tuning properties of cortical neurons as desired. A 'pairing' ICMS following tone-induced excitatory post-synaptic potentials (EPSPs) produced potentiation in response to the paired tones, while an 'anti-pairing' ICMS preceding the tone-induced EPSPs resulted in depression. However, the conventional ICMS affected both excitatory and inhibitory synapses, and thereby could not quantify net excitatory synaptic effects. In the present work, we evaluated the ICMS effects under a pharmacological blockage of inhibitory inputs. The pharmacological blockage enhanced the ICMS effects, suggesting that inhibitory inputs determine a plastic degree of the neural system. Alternatively, the conventional ICMS had an inadequate timing to control excitatory synaptic inputs, because inhibitory synapse determined the latency of total neural inputs.

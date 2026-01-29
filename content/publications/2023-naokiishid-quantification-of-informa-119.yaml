@@ -1,6 +1,5 @@
 id: 2023-naokiishida-quantification-of-information--119
-title: Quantification of information processing capacity in living brain as
-  physical reservoir
+title: Quantification of information processing capacity in living brain as physical reservoir
 authors:
   - Naoki Ishida
   - Tomoyo I. Shiramatsu
@@ -12,3 +11,6 @@ type: journal
 doi: 10.1063/5.0152585
 tags:
   - english
+  - model:rat
+  - domain:reservoir-computing
+abstract: The information processing capacity (IPC) measure is gaining traction as a means of characterizing reservoir computing. This measure offers a comprehensive assessment of a dynamical system's linear and non-linear memory of past inputs by breaking down the system states into orthogonal polynomial bases of input series. In this study, we demonstrate that IPCs are experimentally measurable in the auditory cortex in response to a random sequence of clicks. In our experiment, each input series had a constant inter-step interval (ISI), and a click was delivered with a 50% probability at each time step. Click-evoked multi-unit activities in the auditory cortex were used as the state variables. We found that the total IPC was dependent on the test ISI and reached a maximum at around 10- and 18-ms ISI. This suggests that the IPC reaches a peak when the stimulus dynamics and intrinsic dynamics in the brain are matched. Moreover, we found that the auditory cortex exhibited non-linear mapping of past inputs up to the 6th degree. This finding indicates that IPCs can predict the performance of a physical reservoir when benchmark tasks are decomposed into orthogonal polynomials. Thus, IPCs can be useful in measuring how the living brain functions as a reservoir. These achievements have opened up future avenues for bridging the gap between theoretical and experimental studies of neural representation. By providing a means of quantifying a dynamical system's memory of past inputs, IPCs offer a powerful tool for understanding the inner workings of the brain.

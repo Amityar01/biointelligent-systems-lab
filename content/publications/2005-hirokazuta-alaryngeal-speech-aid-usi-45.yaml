@@ -1,6 +1,5 @@
 id: 2005-hirokazutakahas-alaryngeal-speech-aid-using-an-45
-title: Alaryngeal speech aid using an intra-oral electrolarynx and a miniature
-  fingertip switch
+title: Alaryngeal speech aid using an intra-oral electrolarynx and a miniature fingertip switch
 authors:
   - Hirokazu Takahashi
   - Masayuki Nakao
@@ -15,3 +14,5 @@ pages: 157-162
 doi: 10.1016/j.anl.2005.01.007
 tags:
   - english
+  - technique:electrical-stim
+  - domain:speech

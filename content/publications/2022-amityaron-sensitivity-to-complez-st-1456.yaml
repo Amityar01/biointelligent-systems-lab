@@ -12,3 +12,8 @@ type: poster
 pages: P95
 tags:
   - japanese
+  - model:culture
+  - model:rat
+  - technique:mea-culture
+  - technique:ecog
+  - domain:mismatch-negativity

@@ -1,6 +1,5 @@
 id: 2022-tomoyoisoguchis-oddball-irrelevant-visual-stim-116
-title: Oddball-irrelevant visual stimuli cross-modally attenuate auditory
-  mismatch negativity in rats
+title: Oddball-irrelevant visual stimuli cross-modally attenuate auditory mismatch negativity in rats
 authors:
   - Tomoyo Isoguchi Shiramatsu
   - Kanato Mori
@@ -12,3 +11,7 @@ pages: 363-368
 doi: 10.1097/WNR.0000000000001793
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - domain:mismatch-negativity
+abstract: Objective To elaborate the recent theory of prediction models of the brain in light of actual neural activities, it is important to investigate the cross-modal interactions in the context of prediction construction. To this end, in this study, we assessed whether cross-modal disturbances would result in the attenuation of mismatch negativity in anesthetized animal models. Methods A surface electrode array recorded neural activities from the visual and auditory cortices of rats under isoflurane anesthesia, during an auditory oddball paradigm over the course of three audiovisual sequences. In the audiovisual sequences, the visual stimuli were simultaneously presented with the first, second, or third standard before the deviants. Results The interrupting visual stimuli decrease the amplitude of mismatch negativity in the auditory and visual cortices. In addition, the correlation coefficients between the amplitude of middle-latency potential for the interrupting visual stimuli and the amplitude of mismatch negativity to the following auditory deviant stimuli were smaller when the visual stimuli were presented alongside the third standards from the deviants. Conclusion Such attenuation in mismatch negativity has been often associated with a top-down mechanism and the present anesthesia selectively attenuates top-down transmission. Taken together, our study’s findings indicate that the cross-modal disturbances on prediction and deviation detection may also be mediated by bottom-up mechanisms, as well as previously reported top-down mechanisms.

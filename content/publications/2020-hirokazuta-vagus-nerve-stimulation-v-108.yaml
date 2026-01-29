@@ -1,6 +1,5 @@
 id: 2020-hirokazutakahas-vagus-nerve-stimulation-vns-in-108
-title: Vagus nerve stimulation (VNS)-induced layer-specific modulation of evoked
-  responses in the sensory cortex of rats
+title: Vagus nerve stimulation (VNS)-induced layer-specific modulation of evoked responses in the sensory cortex of rats
 authors:
   - Hirokazu Takahashi
   - Tomoyo I. Shiramatsu
@@ -15,3 +14,7 @@ issue: "1"
 doi: 10.1038/s41598-020-65745-z
 tags:
   - english
+  - model:rat
+  - technique:electrical-stim
+  - domain:auditory
+abstract: "Neuromodulation achieved by vagus nerve stimulation (VNS) induces various neuropsychiatric effects whose underlying mechanisms of action remain poorly understood. Innervation of neuromodulators and a microcircuit structure in the cerebral cortex informed the hypothesis that VNS exerts layer-specific modulation in the sensory cortex and alters the balance between feedforward and feedback pathways. To test this hypothesis, we characterized laminar profiles of auditory-evoked potentials (AEPs) in the primary auditory cortex (A1) of anesthetized rats with an array of microelectrodes and investigated the effects of VNS on AEPs and stimulus specific adaptation (SSA). VNS predominantly increased the amplitudes of AEPs in superficial layers, but this effect diminished with depth. In addition, VNS exerted a stronger modulation of the neural responses to repeated stimuli than to deviant stimuli, resulting in decreased SSA across all layers of the A1. These results may provide new insights that the VNS-induced neuropsychiatric effects may be attributable to a sensory gain mechanism: VNS strengthens the ascending input in the sensory cortex and creates an imbalance in the strength of activities between superficial and deep cortical layers, where the feedfoward and feedback pathways predominantly originate, respectively."

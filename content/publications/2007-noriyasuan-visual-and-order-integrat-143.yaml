@@ -1,6 +1,5 @@
 id: 2007-noriyasuando-visual-and-order-integration-f-143
-title: Visual and order integration for high efficacy of odor searching tasks
-  based on the silkmoth
+title: Visual and order integration for high efficacy of odor searching tasks based on the silkmoth
 authors:
   - Noriyasu Ando
   - Atsushi Yamashita
@@ -14,3 +13,8 @@ type: conference
 pages: 227-230
 tags:
   - japanese
+  - model:insect
+  - technique:behavior
+  - technique:mea-culture
+  - domain:bmi
+  - domain:plasticity

@@ -20,3 +20,9 @@ pages: 338-344
 doi: 10.1541/ieejeiss.134.338
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - technique:mea-culture
+  - domain:plasticity
+  - domain:bmi
+abstract: Spatio-temporal neural patterns depend on the physical structure of neural circuits. Neural plasticity can thus be associated with changes in the circuit structure. For example, newborn neurons migrate towards existing, already matured neural networks in order to participate in neural computation. In the present study, we have conducted two experiments to investigate how neural migration is associated with the development of neural activity in primary dissociated cultures of neuronal cells. In Experiment 1, using a mature culture, a high-density CMOS micro-electrode array was used to continuously monitor neural migration and activity for more than two weeks. Consequently, we found that even in mature neuronal cultures neurons moved 2.0±1.0 µm a day and that the moving distance was negatively correlated with their firing rate, suggesting that neurons featuring low firing rates tend to migrate actively. In Experiment 2 using a co-culture of mature and immature neurons, we found that immature neurons moved more actively than matured neurons to achieve functional connections to other neurons. These findings suggest that neurons with low firing rates as well as newborn neurons actively migrate in order to establish their connections and function in a neuronal network.

@@ -5,9 +5,13 @@ authors:
   - Eisuke Suwa
   - Narumitsu Ikeda
   - Hirokazu Takahashi
-conference: Proceedings of 45th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 year: 2023
 type: conference
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - domain:reservoir-computing
+doi: 10.1109/embc40787.2023.10340168
+abstract: Whether artificial or living, neural networks perform tremendously diverse kinds of information processing, such as visual feature extraction, speech recognition, motor control, and so on. Some studies have evaluated the computational ability of living neural networks based on the performances of specific tasks, yet could not comprehensively grasp the versatile ability. In this study, we investigated dissociated culture of neurons as a physical reservoir, which generates diverse outputs through linear regression, or readout, of the dynamical states. Based on the theory of reservoir computing, the potential computational capabilities of neuronal culture were evaluated by the information processing capacity (IPC), which indicates how a target function can be achieved from the given dynamics. As a result, we found that the neuronal culture exhibited significant IPC and that IPC varied with the inter-step interval (ISI), the time step of reservoir computing. The cultures exhibited a memory capacity of 10 time steps for computation, and this memory capacity decayed at an ISI of 5 ms or shorter. In addition, the IPC had a significant positive correlation with the intensity of the evoked response relative to spontaneous activity. The multiple regression model with evoked response and ISI showed the positive effect of evoked response and 30 ms as the best ISI for IPC. These results suggest that the distinct evoked response and the optimal time step to interact with the neuronal culture are key factors to uncover computational resources from the neuronal system.

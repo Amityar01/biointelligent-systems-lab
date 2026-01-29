@@ -1,6 +1,5 @@
 id: 2017-naokiwake--the-fast-oscillations-in-rat--1390
-title: 「The Fast Oscillations in Rat Neocortex during Auditory-Induced Operant
-  Behavior」
+title: 「The Fast Oscillations in Rat Neocortex during Auditory-Induced Operant Behavior」
 authors:
   - Naoki Wake
   - Kotaro Ishizu
@@ -10,3 +9,7 @@ year: 2017
 type: poster
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:behavior
+  - domain:auditory

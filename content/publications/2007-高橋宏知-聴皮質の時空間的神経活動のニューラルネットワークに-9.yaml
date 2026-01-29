@@ -15,3 +15,8 @@ pages: 1632-1641
 doi: 10.1541/ieejeiss.127.1632
 tags:
   - japanese
+  - model:rat
+  - technique:spike
+  - technique:ecog
+  - domain:auditory
+abstract: The artificial neural network (ANN) can reconstruct spatio-temporal neural activities into the corresponding test stimuli. ANN with a simple structure and generalization ability has a potential to reflect a prominent feature of the mechanism of neural computation in the brain. In the present work, we test this hypothesis and propose a novel analysis by investigating input-output relationships of hidden layer neurons. We made ANN with neural activities in the primary auditory cortex serving as the inputs and time-series changes of test frequencies of tones serving as the targets. We then investigated the hidden layer neurons that played important roles in the reconstruction. Neurons that tuned the frequency preference by excitatory inputs had positive contribution from all frequency regions. On the other hand, neurons responsible for inhibitory frequency tuning had negative contribution from a low frequency region. These results suggest that neural activities in the primary auditory cortex form a frequency preference with excitatory inputs from all frequency pathways and inhibitory inputs from a low frequency pathway. This suggestion is consistent with physiological facts that pyramidal cells in the auditory cortex have widely tuned excitatory response area and inhibitory input domains that flank the excitatory areas, supporting our hypothesis and proving the feasibility of the proposed analysis.

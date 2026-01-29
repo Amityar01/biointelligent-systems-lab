@@ -5,9 +5,12 @@ authors:
   - Tomoyo I. Shiramatsu
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-conference: Proceedings of 38th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 type: conference
 pages: 2925-2928
 tags:
   - english
+  - model:rat
+  - technique:behavior
+doi: 10.1109/embc.2016.7591342
+abstract: Biased or too strong preference for a particular object is often problematic, resulting in addiction and phobia. In animal models, alternative forced-choice tasks have been routinely used, but such preference test is far from daily situations that addicts or phobic are facing. In the present study, we developed a behavioral assay to evaluate the preference of sounds in rodents. In the assay, several sounds were presented according to the position of free-moving rats, and quantified the sound preference based on the behavior. A particular tone was paired with microstimulation to the ventral tegmental area (VTA), which plays central roles in reward processing, to increase sound preference. The behaviors of rats were logged during the classical conditioning for six days. Consequently, some behavioral indices suggest that rats search for the conditioned sound. Thus, our data demonstrated that quantitative evaluation of preference in the behavioral assay is feasible.

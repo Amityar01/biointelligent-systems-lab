@@ -1,6 +1,5 @@
 id: 2014-harukanakahara-mismatch-negativity-like-respo-890
-title: Mismatch negativity-like responses in the rat auditory cortex and
-  thalamus in the oddball paradigm
+title: Mismatch negativity-like responses in the rat auditory cortex and thalamus in the oddball paradigm
 authors:
   - Haruka Nakahara
   - Kazusa Takahashi
@@ -8,9 +7,12 @@ authors:
   - Takahiro Noda
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-conference: "Abstract of The 37th annual midwinter research meeting, Aoosication
-  for research in otolaryngology: p. 47, 2014"
+conference: "Abstract of The 37th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 47, 2014"
 year: 2014
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:mismatch-negativity

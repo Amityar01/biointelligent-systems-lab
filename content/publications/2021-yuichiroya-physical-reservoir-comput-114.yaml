@@ -14,3 +14,9 @@ awards:
   - Selected as Editor’s pick
 tags:
   - english
+  - model:culture
+  - model:computational
+  - technique:mea-culture
+  - technique:probe-invivo
+  - domain:reservoir-computing
+abstract: Rich dynamics in a living neuronal system can be considered as a computational resource for physical reservoir computing (PRC). However, PRC that generates a coherent signal output from a spontaneously active neuronal system is still challenging. To overcome this difficulty, we here constructed a closed-loop experimental setup for PRC of a living neuronal culture, where neural activities were recorded with a microelectrode array and stimulated optically using caged compounds. The system was equipped with first-order reduced and controlled error learning to generate a coherent signal output from a living neuronal culture. Our embodiment experiments with a vehicle robot demonstrated that the coherent output served as a homeostasis-like property of the embodied system from which a maze-solving ability could be generated. Such a homeostatic property generated from the internal feedback loop in a system can play an important role in task solving in biological systems and enable the use of computational resources without any additional learning.

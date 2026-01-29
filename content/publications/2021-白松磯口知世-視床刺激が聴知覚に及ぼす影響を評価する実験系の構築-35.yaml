@@ -14,3 +14,8 @@ pages: 627-633
 doi: 10.1541/ieejeiss.141.627
 tags:
   - japanese
+  - model:rat
+  - technique:electrical-stim
+  - technique:ecog
+  - domain:auditory
+abstract: Electrical stimulation of the auditory nerves is well known to provide auditory perception, while it remains to be elucidated whether the microstimulation of the auditory thalamus generate or modulate auditory perception. Herein, we established a novel experimental system to evaluate effects of thalamic microstimulation on auditory perception in both behavioral and electrophysiological manners; we conditioned rats to report their auditory perception by pulling a lever, then recorded their behavior and cortical activities when we provided sound stimuli, or thalamic microstimulation, or co-stimulation of them. Consequently, one of the three tested animals reported a putative auditory perception by lever-pulling behavior in response to the thalamic microstimulation with strong pulse current. In addition, co-stimulation using microstimulation with strong or weak pulse current increased or decreased its lever-pulling activity, respectively. Finally, the microelectrode mapping revealed that the microstimulation with strong pulse current induced positive shift of the surface potential inside the auditory cortex. These results suggest that the microstimulation to thalamus affect auditory perception by modulating cortical activity, and that the present experimental system will contribute to elucidating neural mechanisms of auditory prosthesis.

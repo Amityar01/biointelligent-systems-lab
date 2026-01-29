@@ -12,3 +12,6 @@ type: poster
 pages: 135-136
 tags:
   - japanese
+  - model:rat
+  - domain:auditory
+  - domain:mismatch-negativity

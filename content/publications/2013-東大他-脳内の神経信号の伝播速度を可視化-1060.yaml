@@ -5,3 +5,8 @@ year: 2013
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:ecog
+  - technique:spike
+  - domain:bmi

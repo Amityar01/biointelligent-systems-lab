@@ -1,10 +1,12 @@
 id: 2004-realtimemultipo-real-time-multipoint-measureme-1115
-title: "Real-time multipoint measurement of brain functions using ultra-precise
-  electrodes: Development of auditory function recovering technology."
+title: "Real-time multipoint measurement of brain functions using ultra-precise electrodes: Development of auditory function recovering technology."
 authors:
-  - "“Real-time multipoint measurement of brain functions using ultra-precise
-    electrodes: Development of auditory function recovering technology.”"
+  - "“Real-time multipoint measurement of brain functions using ultra-precise electrodes: Development of auditory function recovering technology.”"
 year: 2004
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:bmi
+  - domain:auditory

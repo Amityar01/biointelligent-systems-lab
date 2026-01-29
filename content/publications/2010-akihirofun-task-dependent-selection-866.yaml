@@ -1,6 +1,5 @@
 id: 2010-akihirofunamizu-task-dependent-selection-of-mo-868
-title: Task-dependent selection of model-free and model-based strategies in rat
-  choice behaviors
+title: Task-dependent selection of model-free and model-based strategies in rat choice behaviors
 authors:
   - Akihiro Funamizu
   - Makoto Ito
@@ -11,3 +10,8 @@ year: 2010
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:computational
+  - technique:behavior
+  - domain:plasticity
+  - domain:bmi

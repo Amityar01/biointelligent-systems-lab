@@ -8,3 +8,5 @@ conference: 第4回MMN研究会
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - domain:mismatch-negativity

@@ -10,3 +10,7 @@ year: 2023
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:electrical-stim
+  - technique:ecog
+  - domain:auditory

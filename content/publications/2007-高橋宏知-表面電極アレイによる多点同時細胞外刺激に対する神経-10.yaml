@@ -13,3 +13,8 @@ pages: 1658-1666
 doi: 10.1541/ieejeiss.127.1658
 tags:
   - japanese
+  - model:rat
+  - technique:electrical-stim
+  - technique:mea-culture
+  - domain:bmi
+abstract: Neural prostheses for restoring lost functions can benefit from selective activation of nerves. We had previously proposed a multiple gating stimulation, which can selectively activate a desired portion of nerve bundle, irrespective of a density of the electrode. In this paper, we discuss the design of electrode array and effective strategies to determine the stimulus parameters. A large electrode was less affected by the relative location of electrodes and the node of Ranvier, suggesting that a rectangular electrode, whose long side along a nerve bundle is longer than the internodal distance, i.e., on the order of 1 mm, would be more effective rather than a disk electrode. We could estimate an appropriate current at each electrode was a blocking threshold. For the lateral gating stimulation, the gate current should be set above the threshold, while, for depth-wise gating stimulation, the gate current should be set below the threshold. The spatial resolution of lateral gating stimulation is theoretically estimated at least at 50 μm when the grid of array was 1.2 mm, and that of depth-wise gating stimulation at 50 μm.

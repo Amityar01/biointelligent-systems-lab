@@ -1,6 +1,5 @@
 id: 2015-rujikano-vagus-nerve-stimulation-induce-82
-title: Vagus Nerve Stimulation-Induced Synchrony Modulation of Local Field
-  Potential in the Rat Cerebral Cortex
+title: Vagus Nerve Stimulation-Induced Synchrony Modulation of Local Field Potential in the Rat Cerebral Cortex
 authors:
   - Ruji Kano
   - Kenichi Usami
@@ -18,3 +17,8 @@ pages: 47-56
 doi: 10.1002/ecj.11674
 tags:
   - english
+  - model:rat
+  - technique:electrical-stim
+  - domain:auditory
+  - domain:seizure
+abstract: SUMMARYVagus nerve stimulation (VNS) is a surgical treatment for intractable epilepsy. Although VNS has been used to treat more than 60,000 patients, the precise therapeutic mechanism of action has not been elucidated. Here, we hypothesize that VNS modulates the local synchronization of cortical activities and thus inhibits seizures. In order to verify this hypothesis, we mapped local field potentials (LFPs) with high‐spatial resolution using a microelectrode array from the temporal cortices of adult rats and analyzed VNS‐induced phase modulation at the local network level. VNS significantly increased the phase locking value (PLV), an index of synchronization, specifically at the gamma band. The optimal stimulation pulse of VNS was 0.5 mA delivered at 10 Hz. This PLV modulation was most effective when the interelectrode distance was about 1.6 mm. Gamma‐band PLVs within the auditory cortex increased more significantly than those between the auditory and nonauditory cortices, while alpha‐ and low‐beta PLV exhibited more synchronization between the auditory and nonauditory cortices. These results demonstrate that VNS modulates cortical synchronization in a band specific manner, and has some implications for the mechanism of action of VNS.

@@ -1,6 +1,5 @@
 id: 2005-junsuzurikawa-reorganization-of-auditory-cor-136
-title: Reorganization of Auditory Cortex by Pairing and Anti-Pairing
-  Intracortical Microstimulation
+title: Reorganization of Auditory Cortex by Pairing and Anti-Pairing Intracortical Microstimulation
 authors:
   - Jun Suzurikawa
   - Kohei Hisada
@@ -16,3 +15,9 @@ awards:
   - Excellence in Neural Engineering Award受賞
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory
+doi: 10.1109/cne.2005.1419694
+abstract: Intrinsic plastic properties in the auditory cortex can cause dynamic remodeling of topographic organization according to the experience. Here we show that the auditory cortex of rats can be modified by intracortical microstimulation (ICMS) with paired and anti-paired tone stimuli on the basis of the spike time-dependent plasticity rule found in recent single-cell experiments. Two kinds of ICMS were applied; a pairing ICMS following tone-induced excitatory post-synaptic potentials (EPSPs) and an anti-paring ICMS preceding the tone-induced EPSPs. The pairing and anti-pairing ICMS produced potentiation and depression, respectively, in responses to the paired tones with a particular test frequency. In addition, the combination of pairing and anti-pairing ICMS could modify the neural properties more precisely and drastically. The comparison between the pre- and post-ICMS frequency tuning properties suggested that the pairing and antipairing ICMS could reorganize the auditory cortex as desired

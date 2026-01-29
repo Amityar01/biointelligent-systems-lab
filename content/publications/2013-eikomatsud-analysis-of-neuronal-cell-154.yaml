@@ -1,6 +1,5 @@
 id: 2013-eikomatsuda-analysis-of-neuronal-cells-of--154
-title: Analysis of neuronal cells of dissociated primary culture on high-density
-  CMOS electrode array
+title: Analysis of neuronal cells of dissociated primary culture on high-density CMOS electrode array
 authors:
   - Eiko Matsuda
   - Takeshi Mita
@@ -10,10 +9,13 @@ authors:
   - Andreas Hierlemann
   - Hirokazu Takahashi
   - Takashi Ikegami
-conference: Proceedings of 35th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 year: 2013
 type: conference
 pages: 1045-1048
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+doi: 10.1109/embc.2013.6609683
+abstract: Spontaneous development of neuronal cells was recorded around 4-34 days in vitro (DIV) with high-density CMOS array, which enables detailed study of the spatio-temporal activity of neuronal culture. We used the CMOS array to characterize the evolution of the inter-spike interval (ISI) distribution from putative single neurons, and estimate the network structure based on transfer entropy analysis, where each node corresponds to a single neuron. We observed that the ISI distributions gradually obeyed the power law with maturation of the network. The amount of information transferred between neurons increased at the early stage of development, but decreased as the network matured. These results suggest that both ISI and transfer entropy were very useful for characterizing the dynamic development of cultured neural cells over a few weeks.

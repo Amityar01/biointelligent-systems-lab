@@ -1,6 +1,5 @@
 id: 2021-tomoyoisoguchis-auditory-visual-and-cross-moda-110
-title: Auditory, visual, and cross-modal mismatch negativities in the auditory
-  and visual cortex of rat
+title: Auditory, visual, and cross-modal mismatch negativities in the auditory and visual cortex of rat
 authors:
   - Tomoyo Isoguchi Shiramatsu
   - Kanato Mori
@@ -11,4 +10,8 @@ type: journal
 doi: 10.3389/fnhum.2021.721476
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - domain:mismatch-negativity
 pages: 92-107
+abstract: "When the brain tries to acquire an elaborate model of the world, multisensory integration should contribute to building predictions based on the various pieces of information, and deviance detection should repeatedly update these predictions by detecting “errors” from the actual sensory inputs. Accumulating evidence such as a hierarchical organization of the deviance-detection system indicates that the deviance-detection system can be interpreted in the predictive coding framework. Herein, we targeted mismatch negativity (MMN) as a type of prediction-error signal and investigated the relationship between multisensory integration and MMN. In particular, we studied whether and how cross-modal information processing affected MMN in rodents. We designed a new surface microelectrode array and simultaneously recorded visual and auditory evoked potentials from the visual and auditory cortices of rats under anesthesia. Then, we mapped MMNs for five types of deviant stimuli: single-modal deviants in (i) the visual oddball and (ii) auditory oddball paradigms, eliciting single-modal MMN; (iii) congruent audio-visual deviants, (iv) incongruent visual deviants, and (v) incongruent auditory deviants in the audio-visual oddball paradigm, eliciting cross-modal MMN. First, we demonstrated that visual MMN exhibited deviance detection properties and that the first-generation focus of visual MMN was localized in the visual cortex, as previously reported in human studies. Second, a comparison of MMN amplitudes revealed a non-linear relationship between single-modal and cross-modal MMNs. Moreover, congruent audio-visual MMN exhibited characteristics of both visual and auditory MMNs—its latency was similar to that of auditory MMN, whereas local blockage of N-methyl-D-aspartic acid receptors in the visual cortex diminished it as well as visual MMN. These results indicate that cross-modal information processing affects MMN without involving strong top-down effects, such as those of prior knowledge and attention. The present study is the first electrophysiological evidence of cross-modal MMN in animal models, and future studies on the neural mechanisms combining multisensory integration and deviance detection are expected to provide electrophysiological evidence to confirm the links between MMN and predictive coding theory."

@@ -1,6 +1,5 @@
 id: 2023-narumitsuikeda-noise-and-spike-time-dependent-120
-title: "Noise and spike-time-dependent plasticity drive self-organized
-  criticality in spiking neural network: Toward neuromorphic computing"
+title: "Noise and spike-time-dependent plasticity drive self-organized criticality in spiking neural network: Toward neuromorphic computing"
 authors:
   - Narumitsu Ikeda
   - Dai Akita
@@ -10,3 +9,8 @@ type: journal
 doi: 10.1063/5.0152633
 tags:
   - english
+  - model:rat
+  - technique:spike
+  - domain:plasticity
+  - domain:reservoir-computing
+abstract: Self-organized criticality (SoC) may optimize information transmission, encoding, and storage in the brain. Therefore, the underlying mechanism of the SoC provides significant insight for large-scale neuromorphic computing. We hypothesized that noise and stochastic spiking plays an essential role in SoC development in spiking neural networks (SNNs). We demonstrated that under appropriate noise levels and spike-time-dependent plasticity (STDP) parameters, an SNN evolves a SoC-like state characterized by a power-law distribution of neuronal avalanche size in a self-organized manner. Consistent with the physiological findings, the development of SNN was characterized by a transition from a subcritical state to a supercritical state and then to a critical state. Excitatory STDP with an asymmetric time window dominated the early phase of development; however, it destabilized the network and transitioned to the supercritical state. Synchronized bursts in the supercritical state enable inhibitory STDP with a symmetric time window, induce the development of inhibitory synapses, and stabilize the network toward the critical state. This sequence of transitions was observed when the appropriate noise level and STDP parameters were set to the initial conditions. Our results suggest that noise or stochastic spiking plays an essential role in SoC development and self-optimizes SNN for computation. Such neural mechanisms of noise harnessing would offer insight into the development of energy-efficient neuromorphic computing.

@@ -1,6 +1,5 @@
 id: 2016-yuichiroyada-state-dependent-feed-forward-p-88
-title: State-dependent feed-forward propagation of neuronal sub-population in
-  spontaneous synchronized bursts
+title: State-dependent feed-forward propagation of neuronal sub-population in spontaneous synchronized bursts
 authors:
   - Yuichiro Yada
   - Ryohei Kanzaki
@@ -10,3 +9,9 @@ type: journal
 doi: 10.3389/fnsys.2016.00028
 tags:
   - english
+  - model:culture
+  - technique:spike
+  - technique:mea-culture
+  - domain:reservoir-computing
+  - domain:plasticity
+abstract: Repeating stable spatiotemporal patterns emerge in synchronized spontaneous activity in neuronal networks. The repertoire of such patterns can serve as memory, or a reservoir of information, in a neuronal network; moreover, the variety of patterns may represent the network memory capacity. However, a neuronal substrate for producing a repertoire of patterns in synchronization remains elusive. We herein hypothesize that state-dependent propagation of a neuronal sub-population is the key mechanism. By combining high-resolution measurement with a 4096-channel complementary metal-oxide semiconductor (CMOS) microelectrode array (MEA) and dimensionality reduction with non-negative matrix factorization (NMF), we investigated synchronized bursts of dissociated rat cortical neurons at approximately 3 weeks in vitro. We found that bursts had a repertoire of repeating spatiotemporal patterns, and different patterns shared a partially similar sequence of sub-population, supporting the idea of sequential structure of neuronal sub-populations during synchronized activity. We additionally found that similar spatiotemporal patterns tended to appear successively and periodically, suggesting a state-dependent fluctuation of propagation, which has been overlooked in existing literature. Thus, such a state-dependent property within the sequential sub-population structure is a plausible neural substrate for performing a repertoire of stable patterns during synchronized activity.

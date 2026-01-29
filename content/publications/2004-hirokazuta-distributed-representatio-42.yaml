@@ -13,3 +13,8 @@ pages: 2061-2065
 doi: 10.1097/00001756-200409150-00013
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:lfp
+  - domain:auditory
+abstract: We epipially mapped tone-burst-evoked potentials over the rat auditory cortex, and investigated the representation of intensity information. The experiments were designed to elucidate how the auditory cortex represents a steady-state plateau sound pressure level (SPL) and dynamic onset temporal structure, i.e., the rate of pressure change (in Pa/s), and how the representations differ across the auditory fields. The anterior and ventral fields have spatial axes of the rate of pressure change. Characteristic frequency (CF) locations mainly handle the dynamic state, while off-CF locations have the potential to code the steady state. Each field represents the intensity information differently, particularly at the off-CF locations. These results suggest that intensity information is distributed in various aspects in the multiple auditory fields.

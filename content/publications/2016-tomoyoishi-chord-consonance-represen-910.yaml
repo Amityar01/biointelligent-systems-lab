@@ -1,6 +1,5 @@
 id: 2016-tomoyoishiramat-chord-consonance-represented-i-912
-title: Chord consonance represented in the long-lasting sustained activity in
-  rat auditory cortex
+title: Chord consonance represented in the long-lasting sustained activity in rat auditory cortex
 authors:
   - Tomoyo I. Shiramatsu
   - Hirokazu Takahashi
@@ -9,3 +8,7 @@ year: 2016
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:auditory

@@ -7,3 +7,5 @@ conference: 臨床神経生理学 44
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - domain:mismatch-negativity

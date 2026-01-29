@@ -8,3 +8,6 @@ year: 2017
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - domain:mismatch-negativity
+  - domain:auditory

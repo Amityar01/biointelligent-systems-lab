@@ -1,6 +1,5 @@
 id: 2015-yuichiroyada-coordinated-activation-of-neur-906
-title: Coordinated activation of neuronal patterns in synchrony of dissociated
-  cortical neurons
+title: Coordinated activation of neuronal patterns in synchrony of dissociated cortical neurons
 authors:
   - Yuichiro Yada
   - Ryohei Kanzaki
@@ -10,3 +9,8 @@ year: 2015
 type: presentation
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - technique:ecog
+  - domain:plasticity
+  - domain:bmi

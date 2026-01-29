@@ -17,3 +17,7 @@ pages: 1036-1042
 doi: 10.1541/ieejeiss.128.1036
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi
+abstract: Information transfer among neuronal populations has directional bias. Some past studies demonstrated that microstructure can bias a direction of information transfer at a cellular level. However the transfer at a population level has been hardly controlled to date. Here, in order to control the information transfer we attempt to bias direction of neurite outgrowth of cultured neurons with a three-dimensional asymmetric microstructure. The proposed microstructure is an embossed barrier with a rectangular-triangle cross section, namely an ascending slope and vertical wall. Because of the asymmetricity, a neurite growth rate from the wall-side to slope-side is expected to be suppressed as compared with that of slope-to-wall. We fabricated the microstructure on a polystyrene substrate by hot press, simultaneously embedding line-electrodes for probing stimulation. To confirm impact of the microstructure on neurite outgrowth, and thus signal transfer direction between neuronal populations separated by the structure, we stimulated cultured neurons on the both sides of the structure. There was difference in neuronal responses to wall-side stimulation and slope-side one, demonstrating the directional characteristic of information transfer.

@@ -7,3 +7,8 @@ year: 2015
 type: poster
 tags:
   - japanese
+  - model:rat
+  - technique:behavior
+  - technique:ecog
+  - domain:mismatch-negativity
+  - domain:plasticity

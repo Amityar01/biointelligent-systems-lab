@@ -1,15 +1,20 @@
 id: 2001-hirokazutakahas-model-analysis-and-independent-133
-title: Model analysis and independent component analysis of cortical data
-  acquired with surface microelectrode
+title: Model analysis and independent component analysis of cortical data acquired with surface microelectrode
 authors:
   - Hirokazu Takahashi
   - Masayuki Nakao
   - Kimitaka Kaga
   - Thierry Hervé
-conference: Proceedings of 23rd Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 23rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 year: 2001
 type: conference
 pages: "998"
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:ecog
+  - domain:mismatch-negativity
+  - domain:auditory
+doi: 10.1109/iembs.2001.1019122
+abstract: This paper shows usefulness of the independent component analysis (ICA) on neuronal data acquired with a multiple-site microelectrode. We examine multiple-site auditory evoked potentials measured on rat auditory cortex with our surface microelectrode. We first simulate extracellularly-recorded and grand-averaged signals with Maxwell's equation and Hodgkin & Huxley's model. Then, we apply ICA on experimental data and obtain three independent components. Two of them are considered to be near field potentials and the other far field one; furthermore, one of near field potentials is considered to be caused by firing and another by synaptic activities, because they coincide well with the simulated results.

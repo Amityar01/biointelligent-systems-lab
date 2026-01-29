@@ -1,0 +1,16 @@
+id: 2015-takahirono-correction-stimulus-phase-locking
+title: "Correction: Stimulus Phase Locking of Cortical Oscillation for Auditory Stream Segregation in Rats"
+authors:
+  - Takahiro Noda
+  - Ryohei Kanzaki
+  - Hirokazu Takahashi
+year: 2015
+type: journal
+doi: 10.1371/journal.pone.0146206
+tags:
+  - english
+  - model:rat
+  - technique:spike
+  - technique:ecog
+  - domain:auditory
+abstract: "[This corrects the article DOI: 10.1371/journal.pone.0083544.]."

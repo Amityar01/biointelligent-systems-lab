@@ -1,15 +1,20 @@
 id: 2024-tomoyoishiramat-putative-heartbeat-evoked-pote-178
-title: Putative heartbeat-evoked potentials in rats and its spatial distribution
-  in the temporal cortex
+title: Putative heartbeat-evoked potentials in rats and its spatial distribution in the temporal cortex
 authors:
   - Tomoyo I.Shiramatsu
   - Shinichi Kumagai
   - Karin Oshima
   - Hirokazu Takahashi
-conference: Proceedings of 46th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society：#B5P-24-144, 2024（Orland, USA,
-  2024年7月15日) (Poster presentation)
+conference: Proceedings of 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society：#B5P-24-144, 2024（Orland, USA, 2024年7月15日) (Poster presentation)
 year: 2024
 type: conference
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:ecog
+  - technique:mea-culture
+  - domain:auditory
+  - domain:bmi
+doi: 10.1109/embc53108.2024.10782837
+abstract: In recent years, much attention has been paid to the information processing of the brain for interoception. One such neural component is heartbeat-evoked potentials (HEPs), which have been reported to reflect cognition and emotion. To elucidate the neural mechanism of HEPs using invasive recording techniques in animal models, this study sought to identify candidate HEPs in rats. Two microelectrode arrays recorded HEPs in the insular cortex (IC) and auditory cortex (AC). We found a fluctuation over one cycle of the heartbeat, and the amplitude of this fluctuation was larger in the IC than in the AC. The results suggest that this component, or putative HEP in rats, appears predominantly in the IC as in humans, and a future investigation will further examine the homology between the putative HEP components reported in this study and the human HEP.

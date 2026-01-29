@@ -13,3 +13,9 @@ pages: 723-729
 doi: 10.1541/ieejeiss.140.723
 tags:
   - japanese
+  - model:rat
+  - technique:lfp
+  - technique:ecog
+  - domain:reservoir-computing
+  - domain:mismatch-negativity
+abstract: Neuronal systems are dynamical. In the dynamical system, the externally-driven responses, called transient dynamics, are stimulus-specific but reproducible. Under the assumption that the neuronal system is deterministic, we here hypothesized that such reproducible transient activities could produce computational capability in a chaotic dynamical system. To test this hypothesis, we estimated the maximal Lyapunov exponent of neuronal activities in the primary visual cortex (V1) of mice, and quantified their information processing capacity in the transient dynamics. Consequently, V1 was characterized as a chaotic system, where almost identical input time-series led to different trajectories. We also demonstrated that, when mice were visually stimulated with drifting gratings, the trajectories contained the input time-series information for at least 5.2 s after stimulation. These results suggest that computational capability in V1 emerges from reproducible transient activities in the chaotic system. Yet, the estimate information processing capacities in V1 were much lower than those in theoretical studies. Further verification is still required to elucidate the discrepancy between theoretical and experimental results.

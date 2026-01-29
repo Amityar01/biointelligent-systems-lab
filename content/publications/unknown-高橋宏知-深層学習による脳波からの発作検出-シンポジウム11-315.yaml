@@ -6,3 +6,6 @@ conference: 第53回日本てんかん学会学術集会
 type: presentation
 tags:
   - japanese
+  - model:human
+  - technique:ecog
+  - technique:scalp-eeg

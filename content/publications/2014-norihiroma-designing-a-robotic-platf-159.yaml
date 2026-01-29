@@ -14,3 +14,8 @@ type: conference
 pages: 769-770
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi
+doi: 10.1162/978-0-262-32621-6-ch124
+abstract: Robot experiments using real cultured neural cells as controllers are a way to explore the idea of embodied cognition. Real cultured neural cells have innate plasticity and a sensory motor coupling is expected to develop the neural circuit. We designed a system in which a robot moving in a real environment is controlled by cultured neural cells growing on a glass plate attached to a High-Density Microelectrode CMOS Array(HDMEA). The IR sensors on a robot will feedback onto the neural cells through HDMEA and the activity of the neural cells will be read again by HDMEA and sent back to determine the speed of the robot. Most of the previous works have used the relatively low-density multi-electrode array for recording and stimulating the neural assembly. Our system has the advantage of a high-density spatial and temporal array so that we can precisely detect which neurons get fired and suppressed. A preliminary finding from the experiment is that synchronized neural activation is retained in cultured neurons even after detached from a robot.

@@ -1,6 +1,5 @@
 id: 2012-takahironoda-oscillatory-neuronal-synchroni-1447
-title: Oscillatory Neuronal Synchronization for Auditory Stream Segregation in
-  Auditory Cortex of the Unanesthetized Rat.
+title: Oscillatory Neuronal Synchronization for Auditory Stream Segregation in Auditory Cortex of the Unanesthetized Rat.
 authors:
   - Takahiro Noda
   - Ryohei Kanzaki
@@ -10,3 +9,7 @@ year: 2012
 type: poster
 tags:
   - japanese
+  - model:rat
+  - technique:spike
+  - technique:ecog
+  - domain:auditory

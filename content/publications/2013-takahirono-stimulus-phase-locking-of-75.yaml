@@ -1,6 +1,5 @@
 id: 2013-takahironoda-stimulus-phase-locking-of-cort-75
-title: Stimulus phase locking of cortical oscillation for auditory stream
-  segregation in rats
+title: Stimulus phase locking of cortical oscillation for auditory stream segregation in rats
 authors:
   - Takahiro Noda
   - Ryohei Kanzaki
@@ -13,3 +12,8 @@ issue: "12"
 doi: 10.1371/journal.pone.0083544
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory
+abstract: The phase of cortical oscillations contains rich information and is valuable for encoding sound stimuli. Here we hypothesized that oscillatory phase modulation, instead of amplitude modulation, is a neural correlate of auditory streaming. Our behavioral evaluation provided compelling evidences for the first time that rats are able to organize auditory stream. Local field potentials (LFPs) were investigated in the cortical layer IV or deeper in the primary auditory cortex of anesthetized rats. In response to ABA- sequences with different inter-tone intervals and frequency differences, neurometric functions were characterized with phase locking as well as the band-specific amplitude evoked by test tones. Our results demonstrated that under large frequency differences and short inter-tone intervals, the neurometric function based on stimulus phase locking in higher frequency bands, particularly the gamma band, could better describe van Noorden’s perceptual boundary than the LFP amplitude. Furthermore, the gamma-band neurometric function showed a build-up-like effect within around 3 seconds from sequence onset. These findings suggest that phase locking and amplitude have different roles in neural computation, and support our hypothesis that temporal modulation of cortical oscillations should be considered to be neurophysiological mechanisms of auditory streaming, in addition to forward suppression, tonotopic separation, and multi-second adaptation.

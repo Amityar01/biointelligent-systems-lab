@@ -1,6 +1,5 @@
 id: 2001-hirokazutakahas-study-on-auditory-pathway-func-416
-title: Study on auditory pathway function with surface microelectrode & spike
-  microelectrode array
+title: Study on auditory pathway function with surface microelectrode & spike microelectrode array
 authors:
   - Hirokazu Takahashi
   - Takayuki Ejiri
@@ -14,3 +13,7 @@ year: 2001
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:mea-culture
+  - technique:ecog
+  - domain:auditory

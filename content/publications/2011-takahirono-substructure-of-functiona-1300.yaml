@@ -10,3 +10,7 @@ type: poster
 pages: "#P4-j02"
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

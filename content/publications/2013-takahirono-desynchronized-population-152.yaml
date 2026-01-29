@@ -1,14 +1,17 @@
 id: 2013-takahironoda-desynchronized-population-acti-152
-title: Desynchronized population activity in auditory cortex of the awake rat
-  revealed by recording with dense microelectrode array
+title: Desynchronized population activity in auditory cortex of the awake rat revealed by recording with dense microelectrode array
 authors:
   - Takahiro Noda
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-conference: Proceedings of 35th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 year: 2013
 type: conference
 pages: 1538-1541
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+doi: 10.1109/embc.2013.6609806
+abstract: Cortical mechanisms of auditory perception include temporal interaction between neuronal ensembles in a functional cortical structure such as a place code of frequency, or tonotopic map. To investigate the mechanism, a recording method is needed to densely map spatio-temporal activity pattern within the predefined tonotopic organization specifically in the awake condition. The present study has proposed and developed an experimental system that is capable of simultaneous neural recording with a grid array of 100 sites with 400-µm inter-electrode distance in the 4(th) layer of auditory cortex of awake rat. Both multiunit activities (MUA) and local field potentials (LFPs) confirmed the tonotopic map in the auditory cortex. In addition, spectral powers in higher frequency components (4-120 Hz) were enhanced and a lower frequency component (1-4 Hz) was reduced during waking. Phase synchronization between recording sites in the gamma-band oscillatory activity was generally smaller in the awake cortex than in the anesthetized cortex. These results have proven the feasibility of our recording and will open a new avenue to investigate neural activities in the functional map of awake cortex.

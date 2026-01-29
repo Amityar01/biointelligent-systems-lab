@@ -1,6 +1,5 @@
 id: 2019-naokiwake-tone-frequency-representation--103
-title: "Tone frequency representation beyond the tonotopic map:
-  Cross-correlation between ongoing activity in the rat auditory cortex"
+title: "Tone frequency representation beyond the tonotopic map: Cross-correlation between ongoing activity in the rat auditory cortex"
 authors:
   - Naoki Wake
   - Tomoyo I. Shiramatsu
@@ -11,3 +10,6 @@ pages: 35-42
 doi: 10.1016/j.neuroscience.2019.04.026
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - domain:auditory

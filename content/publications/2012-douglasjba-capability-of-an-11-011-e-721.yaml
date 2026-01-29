@@ -1,6 +1,5 @@
 id: 2012-douglasjbakkum-capability-of-an-11-011-electr-723
-title: Capability of an 11,011-electrode CMOS array to study action potential
-  propagation plasticity
+title: Capability of an 11,011-electrode CMOS array to study action potential propagation plasticity
 authors:
   - Douglas J Bakkum
   - Urs Frey
@@ -14,3 +13,8 @@ year: 2012
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi
+  - domain:plasticity

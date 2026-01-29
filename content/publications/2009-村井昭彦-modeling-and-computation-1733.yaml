@@ -1,6 +1,5 @@
 id: 2009--modeling-and-computation-of-hu-1843
-title: Modeling and computation of human neuromusculoskeletal system and their
-  application with visualization（人間の神経筋骨格系のモデリングと計算，ならびに可視化を伴う応用）
+title: Modeling and computation of human neuromusculoskeletal system and their application with visualization（人間の神経筋骨格系のモデリングと計算，ならびに可視化を伴う応用）
 authors:
   - 村井昭彦
 journal: 東京大学大学院情報理工学系研究科学位論文
@@ -8,3 +7,4 @@ year: 2009
 type: thesis
 tags:
   - japanese
+  - model:computational

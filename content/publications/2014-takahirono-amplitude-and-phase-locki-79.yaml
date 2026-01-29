@@ -1,6 +1,5 @@
 id: 2014-takahironoda-amplitude-and-phase-locking-ad-79
-title: Amplitude and phase-locking adaptation of neural oscillation in the rat
-  auditory cortex in response to tone sequence
+title: Amplitude and phase-locking adaptation of neural oscillation in the rat auditory cortex in response to tone sequence
 authors:
   - Takahiro Noda
   - Ryohei Kanzaki
@@ -11,3 +10,7 @@ pages: 52-60
 doi: 10.1016/j.neures.2013.11.002
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

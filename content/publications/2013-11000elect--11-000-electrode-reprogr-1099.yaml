@@ -1,6 +1,5 @@
 id: 2013-11000electroder--11-000-electrode-reprogrammab-1123
-title: 「11,000-electrode reprogrammable chip takes brain-computer interfaces to
-  a new level」
+title: 「11,000-electrode reprogrammable chip takes brain-computer interfaces to a new level」
 authors:
   - John Hewitt
 journal: Strategitic Social Initiative
@@ -8,3 +7,7 @@ year: 2013
 type: presentation
 tags:
   - japanese
+  - model:human
+  - technique:mea-culture
+  - technique:probe-invivo
+  - domain:bmi

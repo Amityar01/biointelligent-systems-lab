@@ -1,6 +1,5 @@
 id: 2022-yoshikiito-spontaneous-beat-synchronizati-117
-title: "Spontaneous beat synchronization in rats: Neural dynamics and motor
-  entrainment"
+title: "Spontaneous beat synchronization in rats: Neural dynamics and motor entrainment"
 authors:
   - Yoshiki Ito
   - Tomoyo Isoguchi Shiramatsu
@@ -18,3 +17,9 @@ doi: 10.1126/sciadv.abo7019
 publisher: American Association for the Advancement of Science (AAAS)
 tags:
   - english
+  - model:rat
+  - technique:spike
+  - technique:ecog
+  - domain:music
+  - domain:mismatch-negativity
+abstract: Beat perception and synchronization within 120 to 140 beats/min (BPM) are common in humans and frequently used in music composition. Why beat synchronization is uncommon in some species and the mechanism determining the optimal tempo are unclear. Here, we examined physical movements and neural activities in rats to determine their beat sensitivity. Close inspection of head movements and neural recordings revealed that rats displayed prominent beat synchronization and activities in the auditory cortex within 120 to 140 BPM. Mathematical modeling suggests that short-term adaptation underlies this beat tuning. Our results support the hypothesis that the optimal tempo for beat synchronization is determined by the time constant of neural dynamics conserved across species, rather than the species-specific time constant of physical movements. Thus, latent neural propensity for auditory motor entrainment may provide a basis for human entrainment that is much more widespread than currently thought. Further studies comparing humans and animals will offer insights into the origins of music and dancing.

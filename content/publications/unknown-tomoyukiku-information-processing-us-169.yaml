@@ -10,3 +10,9 @@ pages: 550-557
 doi: 10.1162/isal_a_00103
 tags:
   - japanese
+  - model:culture
+  - model:computational
+  - technique:spike
+  - domain:reservoir-computing
+  - domain:plasticity
+abstract: How does a single spiking neuron process information? This question is a long lasting one, which has been constantly posed and pursued by many researchers from different perspectives. In this paper...

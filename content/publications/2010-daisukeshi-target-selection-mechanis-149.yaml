@@ -1,6 +1,5 @@
 id: 2010-daisukeshiramat-target-selection-mechanism-for-149
-title: Target selection mechanism for collision-free navigation of robots based
-  on antennal tracking strategies of crickets
+title: Target selection mechanism for collision-free navigation of robots based on antennal tracking strategies of crickets
 authors:
   - Daisuke Shiramatsu
   - Noriyasu Ando
@@ -9,10 +8,11 @@ authors:
   - Susumu Fujita
   - Yasuhito Sano
   - Toshiyuki Andoh
-conference: Proceedings of the 2010 3rd IEEE RAS & EMBS International Conference
-  on Biomedical Robotics and Biomechatronics (IEEE BioRob 2010)
+conference: Proceedings of the 2010 3rd IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (IEEE BioRob 2010)
 year: 2010
 type: conference
 pages: 259-264
 tags:
   - japanese
+doi: 10.1109/biorob.2010.5627023
+abstract: The ability to detect local moving objects and trigger avoidance behaviors is important for autonomous mobile robots in order to operate reliably in dynamic environments. Such abilities are implemented in the relatively simple brains of insects and can be investigated through behavioral experiments. Here, we investigated an ability of crickets to detect moving objects prior initiating avoidance. Crickets are tracking moving objects by antennal movements (antennal tracking), which is controlled by visual information. We hypothesized that crickets select one or two objects based on a "target selection mechanism" for the antennal tracking, because they have two antennae and therefore cannot track more than two objects simultaneously. To develop a model of the mechanism, we analyzed the antennal tracking of crickets stimulated by computer-generated images of moving objects. Our results showed that upon the simultaneous display of objects with different sizes, the larger ones are preferentially tracked by the antennae. Antennal tracking responses to large stimuli did not decrease upon repeated presentations. In addition, upon the display of a large moving object, the threshold for the subsequent initiation of avoidance behaviors declined. We interpret these results in terms of the target selection mechanism operating in the cricket visually-guided antennal tracking system that increases the efficiency of antennal tracking behavior for moving objects. An advantage of the target selection mechanism is to be able to pick out objects that should be taken into account for proper avoidance, which leads to more feasible paths or behavioral choices without increasing the number of collisions, we then finally designed a model of the mechanism for robots and implemented it to a computer-simulated mobile robot and evaluated it.

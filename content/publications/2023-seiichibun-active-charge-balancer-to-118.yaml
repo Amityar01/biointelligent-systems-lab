@@ -1,6 +1,5 @@
 id: 2023-seiichibun-active-charge-balancer-towards-118
-title: Active Charge Balancer towards CMOS Integration of an Array of Neural
-  Stimulators
+title: Active Charge Balancer towards CMOS Integration of an Array of Neural Stimulators
 authors:
   - Seiichi Bun
   - Tomoyo I. Shiramatsu
@@ -15,3 +14,6 @@ pages: 319-333
 doi: 10.1587/nolta.14.319
 tags:
   - english
+  - technique:mea-culture
+  - domain:bmi
+abstract: Neuromorphic engineering, wherein the structure of a neural system is reconstructed and its applications are exploited on CMOS integrated circuits, presents various developments. This study focuses on interface technology that can adapt CMOS integrated circuits to a neural system. Existing neural stimulators are designed to accurately transmit signals and accurately stimulate the nerves; however, embedding them into the brain is challenging owing to their size and power [1]. One solution is to reduce the circuit area and power consumption at the expense of certain precision. This study successfully induces nerve activity using a designed circuit that is connected to the brain of rat; the proposed circuit demonstrates a good effect of charge balance. Moreover, this paper proposes CMOS neural stimulating circuits with low power consumption and a small area.

@@ -1,6 +1,5 @@
 id: 2019-naokiwake-synchronized-local-field-poten-920
-title: Synchronized Local Field Potentials Associated with Tinnitus in the Rat
-  Auditory Cortex
+title: Synchronized Local Field Potentials Associated with Tinnitus in the Rat Auditory Cortex
 authors:
   - Naoki Wake
   - Tomoyo I Shiramatsu
@@ -10,3 +9,7 @@ year: 2019
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:lfp
+  - technique:ecog
+  - domain:auditory

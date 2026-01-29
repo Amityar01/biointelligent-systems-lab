@@ -9,3 +9,5 @@ authors:
 type: conference
 tags:
   - japanese
+doi: 10.1109/iciccs51141.2021.9432241
+abstract: The paper introduces an advance to connect various current information retrieval (IR) techniques with change impact analysis (CIA) and Bag of Words, trying to recognize the possible results of a replacement or manage the required changes for affecting the necessary change. In this paper a neural network-based LSTM-RNN Algorithm is proposed to find the similarity document. Also, RMSprop Optimization model is used to reduce the vibrations in the upward path and it can improve our learning rate and precision rate. The experimental result shows that the proposed method performs better accuracy compared to the current methods.

@@ -6,7 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate-embeddings": "npx tsx scripts/generate-embeddings.ts",
+    "fetch-abstracts": "npx tsx scripts/fetch-abstracts.ts",
+    "find-dois": "npx tsx scripts/find-dois.ts",
+    "find-dois-journals": "npx tsx scripts/find-dois-journals.ts",
+    "health-check": "npx tsx scripts/health-check.ts"
   },
   "dependencies": {
     "framer-motion": "^12.27.0",

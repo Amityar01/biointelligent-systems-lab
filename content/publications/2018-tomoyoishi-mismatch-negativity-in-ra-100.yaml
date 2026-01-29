@@ -1,6 +1,5 @@
 id: 2018-tomoyoishiramat-mismatch-negativity-in-rat-aud-100
-title: Mismatch negativity in rat auditory cortex represents the empirical
-  salience of sounds
+title: Mismatch negativity in rat auditory cortex represents the empirical salience of sounds
 authors:
   - Tomoyo I. Shiramatsu
   - Hirokazu Takahashi
@@ -9,3 +8,6 @@ type: journal
 doi: 10.3389/fnins.2018.00924
 tags:
   - english
+  - model:rat
+  - domain:mismatch-negativity
+abstract: Mismatch negativity (MMN) is an N-methyl-D-aspartic acid-mediated component and thus has been widely considered a major candidate biomarker of schizophrenia. However, at present, no direct evidence has linked the MMN response and aberrant salience processing reported in schizophrenia patients, i.e., whether MMN represents empirical salience of the deviant stimulus. To test the eligibility of the MMN response as a biomarker of schizophrenia, we hypothesized and verified that the MMN in the rat auditory cortex encodes empirical salience, which depends on both empirical rarity of sound and association of sound with salient events through classical conditioning. We exposed rats to sound or appetitive or aversive classical conditioning and extinction training of aversive conditioning, then recorded MMN from the auditory cortex. We focused on the frequency-dependent asymmetry of the MMN amplitude; increment frequency changes elicit asymmetrically larger MMN amplitudes than do decremental frequency changes. We found that sound exposure reversed this asymmetry in rats, indicating that MMN encodes the empirical rarity of deviant sounds. The MMN amplitude was larger in the appetitive or aversive classical conditioning groups, and smaller after extinction training following aversive conditioning. These results indicate that the MMN response reflects the empirical salience of sound. The present work first linked MMN with empirical salience processing and expands the possibilities of MMN as a strong clinical biomarker of schizophrenia.

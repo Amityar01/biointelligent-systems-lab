@@ -9,3 +9,8 @@ pages: 52-62
 doi: 10.1016/j.neures.2018.03.007
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:behavior
+  - domain:auditory
+  - domain:mismatch-negativity

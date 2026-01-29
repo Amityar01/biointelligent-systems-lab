@@ -1,6 +1,5 @@
 id: 2022-eisukesuwa-critical-state-physical-reserv-735
-title: Critical-state physical reservoir computating with dissociate culture of
-  computing
+title: Critical-state physical reservoir computating with dissociate culture of computing
 authors:
   - Eisuke Suwa
   - Narumitsu Ikeda
@@ -12,3 +11,8 @@ year: 2022
 type: presentation
 tags:
   - japanese
+  - model:computational
+  - model:culture
+  - technique:mea-culture
+  - technique:lfp
+  - domain:reservoir-computing

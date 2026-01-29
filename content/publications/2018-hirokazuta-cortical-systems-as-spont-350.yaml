@@ -7,3 +7,8 @@ year: 2018
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:computational
+  - technique:spike
+  - technique:ecog
+  - domain:reservoir-computing

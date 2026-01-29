@@ -1,6 +1,5 @@
 id: 2001-fumiomase-selective-stimulation-and-meas-132
-title: Selective stimulation and measurement in the cochlear nucleus with the
-  spike microelectrode array
+title: Selective stimulation and measurement in the cochlear nucleus with the spike microelectrode array
 authors:
   - Fumio Mase
   - Hirokazu Takahashi
@@ -9,8 +8,7 @@ authors:
   - Naoya Nakamura
   - Kimitaka Kaga
   - Thierry Hervé
-conference: Proceedings of 23rd Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 23rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 year: 2001
 type: conference
 pages: "631"
@@ -18,3 +16,9 @@ awards:
   - IEEE EMBS Student Paper Competition Finalists受賞
 tags:
   - japanese
+  - model:rat
+  - technique:mea-culture
+  - technique:ecog
+  - domain:auditory
+doi: 10.1109/iembs.2001.1019014
+abstract: Current prosthetic devices to restore hearing sense of patients with bilateral acoustic neuromas aren't always effective, because we don't have sufficient knowledge of the auditory pathways and the cochlear nucleus (CN) functions to stimulate the cochlear nucleus functionally. Our goals are to enhance our understanding of such functions and to develop effective stimulating strategies of the CN. In this paper, we fabricate the spike microelectrode array with 16-sites in 1.3 mm-square area for stimulation and measurement of the CN and show its feasibility through rat experiments. In the experiments, spatiotemporal responses in the CN are recorded with the electrode. Electrical stimulation at different sites with different current amplitudes exhibits different spatiotemporal patterns on the auditory cortex. These results will provide useful information to study the auditory pathways and the CN functions and to develop stimulating strategies.

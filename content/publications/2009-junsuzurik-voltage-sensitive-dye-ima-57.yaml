@@ -1,6 +1,5 @@
 id: 2009-junsuzurikawa-voltage-sensitive-dye-imaging--57
-title: Voltage-sensitive-dye imaging of microstimulation-evoked neural activity
-  through intracortical horizontal and callosal connections in cat visual cortex
+title: Voltage-sensitive-dye imaging of microstimulation-evoked neural activity through intracortical horizontal and callosal connections in cat visual cortex
 authors:
   - Jun Suzurikawa
   - Toshiki Tani
@@ -15,3 +14,8 @@ issue: "6"
 doi: 10.1088/1741-2560/6/6/066002
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:imaging
+  - domain:bmi
+abstract: Recently, intrinsic signal optical imaging has been widely used as a routine procedure for visualizing cortical functional maps. We do not, however, have a well-established imaging method for visualizing cortical functional connectivity indicating spatio-temporal patterns of activity propagation in the cerebral cortex. In the present study, we developed a novel experimental setup for investigating the propagation of neural activities combining the intracortical microstimulation (ICMS) technique with voltage sensitive dye (VSD) imaging, and demonstrated the feasibility of this setup applying to the measurement of time-dependent intra- and inter-hemispheric spread of ICMS-evoked excitation in the cat visual cortices, areas 17 and 18. A microelectrode array for the ICMS was inserted with a specially designed easy-to-detach electrode holder around the 17/18 transition zones (TZs), where the left and right hemispheres were interconnected via the corpus callosum. The microelectrode array was stably anchored in agarose without any holder, which enabled us to visualize evoked activities even in the vicinity of penetration sites as well as in a wide recording region that covered a part of both hemispheres. The VSD imaging could successfully visualize ICMS-evoked excitation and subsequent propagation in the visual cortices contralateral as well as ipsilateral to the ICMS. Using the orientation maps as positional references, we showed that the activity propagation patterns were consistent with previously reported anatomical patterns of intracortical and interhemispheric connections. This finding indicates that our experimental system can serve for the investigation of cortical functional connectivity.

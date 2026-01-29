@@ -11,3 +11,7 @@ year: 2009
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

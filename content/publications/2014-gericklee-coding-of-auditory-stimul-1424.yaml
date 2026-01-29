@@ -11,3 +11,8 @@ type: poster
 pages: 12-13
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory
+  - domain:mismatch-negativity

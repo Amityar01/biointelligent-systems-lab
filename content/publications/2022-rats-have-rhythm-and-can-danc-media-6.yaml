@@ -1,11 +1,12 @@
 id: media-2022-rats-have-rhythm-and-can-danc-7750
 authors: []
-title: Rats 'have rhythm and can dance to Lady Gaga' The rodent has innate tempo
-  in the brain, scientists discover
+title: Rats 'have rhythm and can dance to Lady Gaga' The rodent has innate tempo in the brain, scientists discover
 type: media
 year: 2022
 source: The Telegraph
-date: 2022-11-14
+date: "2022-11-14"
 url: https://www.telegraph.co.uk/news/2022/11/11/rats-have-rhythm-can-dance-lady-gaga/
 tags:
   - media-coverage
+  - model:rat
+  - domain:music

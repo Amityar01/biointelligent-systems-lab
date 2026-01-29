@@ -1,6 +1,5 @@
 id: 2012-tomoyoisoguchi-sound-associated-emotions-repr-1448
-title: Sound-associated emotions represented in phase synchrony pattern in
-  auditory cortex of rats
+title: Sound-associated emotions represented in phase synchrony pattern in auditory cortex of rats
 authors:
   - Tomoyo Isoguchi
   - Takahiro Noda
@@ -13,3 +12,6 @@ type: poster
 pages: p. xx-xx
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory

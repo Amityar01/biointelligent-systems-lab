@@ -1,0 +1,18 @@
+id: 2021-kotaroishi-information-flow-of-spontaneous
+title: Information flow of spontaneous and auditory-evoked neural activity in the rat thalamo-cortical system
+authors:
+  - Kotaro Ishizu
+  - Tomoyo Isoguchi Shiramatsu
+  - Rie Hitsuyu
+  - Masafumi Oizumi
+  - Naotsugu Tsuchiya
+  - Hirokazu Takahashi
+year: 2021
+type: preprint
+doi: 10.21203/rs.3.rs-422286/v1
+tags:
+  - english
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+abstract: Abstract The interaction between the thalamus and sensory cortex plays critical roles in sensory processing. Previous studies have revealed pathway-specific synaptic properties of thalamo-cortical connections. However, few studies to date have investigated how each pathway routes moment-to-moment information. Here, we simultaneously recorded neural activity in the auditory thalamus (or ventral division of the medial geniculate body; MGv) and primary auditory cortex (A1) with a laminar resolution in anesthetized rats. Transfer entropy (TE) was used as an information theoretic measure to operationalize “information flow”. Our analyses confirmed that communication between the thalamus and cortex was strengthened during presentation of auditory stimuli. In the resting state, thalamo-cortical communications almost disappeared, whereas cortico-cortical communications were strengthened. The predominant source of information was the MGv at the onset of stimulus presentation and layer 5 during spontaneous activity. In turn, MGv was the major recipient of information from layer 6. TE suggested that a small but significant population of MGv-to-A1 pairs was “information-bearing,” whereas A1-to-MGv pairs typically exhibiting small effects played modulatory roles. These results highlight the capability of TE analyses to unlock novel avenues for bridging the gap between well-established anatomical knowledge of canonical microcircuits and physiological correlates via the concept of dynamic information flow.

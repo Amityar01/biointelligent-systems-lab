@@ -11,3 +11,6 @@ conference: "第39回日本神経科学大会: #P3-082, 2016"
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:electrical-stim
+  - domain:auditory

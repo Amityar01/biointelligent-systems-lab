@@ -13,3 +13,8 @@ pages: 845-856
 doi: 10.1016/j.neuroscience.2007.07.023
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory
+  - domain:mismatch-negativity

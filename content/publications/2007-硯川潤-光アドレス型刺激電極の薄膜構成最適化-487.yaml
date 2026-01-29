@@ -13,5 +13,8 @@ awards:
   - 平成19年電気学会電子・情報・システム部門大会 奨励賞
 tags:
   - japanese
+  - technique:optogenetics
+  - technique:mea-culture
 doi: 10.1541/ieejeiss.128.1043
 pages: 1043-1049
+abstract: Light addressing is an emerging technique to optically address a virtual electrode on a photoconductive substrate. A thinner photoconductive layer of a light-addressable planar electrode can improve the spatial resolution of the light-addressed electrode. Voltage application to the electrode, however, causes strong electric field across the thin photoconductive layer with a significant avalanche effect, which induces undesired increase of dark current. Here, in order to overcome this problem, we investigated how photoconductive-layer thickness and passivation-layer conductivity impact on voltage-application-induced bright and dark charge densities. Consequently, suppression of dark charge density with thick photoconductive layer and low-conductive passivation layer is a key factor for optimization of light-addressable electrode. With this designing strategy, we developed a novel light-addressable electrode using titanium dioxide as photoconductor. To suppress avalanche effect, the thickness of the titanium-dioxide layer was designed to be 1.5 μm. The fabricated electrode turned out to have a sufficient photoelectric property; the bright charge density reached up to 70 μC/cm2 and the bright to dark charge density ratio, over 10, which can realize stimulation to cultured dissociated neurons.

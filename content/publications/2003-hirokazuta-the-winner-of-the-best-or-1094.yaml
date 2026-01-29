@@ -1,9 +1,11 @@
 id: 2003-hirokazutakahas-the-winner-of-the-best-oral-pr-1114
-title: "The winner of the best oral presentation at EMBEC’02 (YIC). Topic:
-  Functional Electrostimulation"
+title: "The winner of the best oral presentation at EMBEC’02 (YIC). Topic: Functional Electrostimulation"
 authors:
   - Hirokazu Takahashi
 year: 2003
 type: presentation
 tags:
   - english
+  - technique:electrical-stim
+  - technique:mea-culture
+  - domain:bmi

@@ -8,3 +8,9 @@ year: 2014
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:culture
+  - technique:spike
+  - technique:ecog
+  - domain:plasticity
+  - domain:reservoir-computing

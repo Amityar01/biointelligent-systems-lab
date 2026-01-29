@@ -10,3 +10,9 @@ type: journal
 pages: 229-234
 tags:
   - japanese
+  - model:culture
+  - model:rat
+  - technique:spike
+  - technique:ecog
+  - domain:reservoir-computing
+  - domain:bmi

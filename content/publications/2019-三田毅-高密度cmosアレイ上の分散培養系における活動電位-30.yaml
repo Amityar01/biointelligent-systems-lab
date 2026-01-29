@@ -16,3 +16,9 @@ pages: 615-624
 doi: 10.1541/ieejeiss.139.615
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - technique:spike
+  - domain:mismatch-negativity
+  - domain:bmi
+abstract: Electrophysiological data from in vivo and slice preparations show that inhibitory neurons had shorter duration action potentials (AP) than excitatory neurons. However, this criterion has not yet been established in dissociated cultured neurons. In the present study, we used a high-density CMOS microelectrode array to extracellularly investigate neural signals in primary dissociated cultures of rat neocortex, and we characterized AP waveforms to discriminate excitatory and inhibitory neurons. The CMOS array offers the possibility to acquire comprehensive spatio-temporal neural activity patterns with 11,011 electrodes in about 2×1.75 mm2 area at 20-kHz sampling rate. The waveforms of APs were investigated around cell bodies of neurons, which were classified into either excitatory neurons or inhibitory neurons on the basis of MAP2 and GABA immunostaining images. Consistent with previous in vivo and slice studies, we demonstrated that AP waveforms of inhibitory neurons had shorter durations and recovery time than those of excitatory neurons. The discrimination accuracy was around 0.9 in the receiver-operating characteristics (ROC) analyses. Additionally, taking advantage of non-invasive CMOS recording, we investigated AP waveforms throughout development of cultures. We confirmed that APs were classified into two classes, i.e., putative excitatory and inhibitory neurons, regardless of developmental stages, and found that the duration and recovery time of AP shortened in matured cultures. Thus, AP waveforms have rich information about cell types and developmental stages, which are of worth to elucidate underlying mechanisms of neuronal dynamics in spatio-temporal patterns.

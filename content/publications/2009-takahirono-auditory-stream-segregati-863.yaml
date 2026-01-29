@@ -1,6 +1,5 @@
 id: 2009-takahironoda-auditory-stream-segregation-ti-865
-title: "Auditory stream segregation: Time-frequency filtering and response
-  variability in the auditory cortex"
+title: "Auditory stream segregation: Time-frequency filtering and response variability in the auditory cortex"
 authors:
   - Takahiro Noda
   - Ryohei Kanzaki
@@ -10,3 +9,7 @@ year: 2009
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:spike
+  - technique:ecog
+  - domain:auditory

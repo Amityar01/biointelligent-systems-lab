@@ -1,6 +1,5 @@
 id: 2015-yuichiroyada-age-dependent-diversity-of-spo-1361
-title: Age-dependent diversity of spontaneous synchrony in dissociated cortical
-  network
+title: Age-dependent diversity of spontaneous synchrony in dissociated cortical network
 authors:
   - Yuichiro Yada
   - Takeshi Mita
@@ -11,3 +10,7 @@ year: 2015
 type: poster
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - domain:plasticity
+  - domain:mismatch-negativity

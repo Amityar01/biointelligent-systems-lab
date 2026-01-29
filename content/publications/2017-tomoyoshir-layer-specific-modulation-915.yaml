@@ -1,6 +1,5 @@
 id: 2017-tomoyoshiramats-layer-specific-modulation-of-v-917
-title: Layer-specific modulation of vagus nerve stimulation on information
-  representation of the sustained activities in rat auditory cortex
+title: Layer-specific modulation of vagus nerve stimulation on information representation of the sustained activities in rat auditory cortex
 authors:
   - Tomoyo Shiramatsu
   - Kenji Ibayashi
@@ -11,3 +10,6 @@ year: 2017
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:electrical-stim
+  - domain:auditory

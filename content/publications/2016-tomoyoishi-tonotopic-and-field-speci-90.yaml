@@ -1,6 +1,5 @@
 id: 2016-tomoyoishiramat-tonotopic-and-field-specific-r-90
-title: Tonotopic and field-specific representation of long-lasting sustained
-  activity in rat auditory cortex
+title: Tonotopic and field-specific representation of long-lasting sustained activity in rat auditory cortex
 authors:
   - Tomoyo I. Shiramatsu
   - Takahiro Noda
@@ -11,3 +10,7 @@ type: journal
 doi: 10.3389/fncir.2016.00059
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+abstract: Cortical information processing of the onset, offset, and continuous plateau of an acoustic stimulus should play an important role in acoustic object perception. To date, transient activities responding to the onset and offset of a sound have been well investigated and cortical subfields and topographic representation in these subfields, such as place code of sound frequency, have been well characterized. However, whether these cortical subfields with tonotopic representation are inherited in the sustained activities that follow transient activities and persist during the presentation of a long-lasting stimulus remains unknown, because sustained activities do not exhibit distinct, reproducible, and time-locked responses in their amplitude to be characterized by grand averaging. To address this gap in understanding, we attempted to decode sound information from densely mapped sustained activities in the rat auditory cortex using a sparse parameter estimation method called sparse logistic regression (SLR), and investigated whether and how these activities represent sound information. A microelectrode array with a grid of 10 × 10 recording sites within an area of 4.0 mm × 4.0 mm was implanted in the fourth layer of the auditory cortex in rats under isoflurane anesthesia. Sustained activities in response to long-lasting constant pure tones were recorded. SLR then was applied to discriminate the sound-induced band-specific power or phase-locking value from those of spontaneous activities. The highest decoding performance was achieved in the high-gamma band, indicating that cortical inhibitory interneurons may contribute to the sparse tonotopic representation in sustained activities by mediating synchronous activities. The estimated parameter in the SLR decoding revealed that the informative recording site had a characteristic frequency close to the test frequency. In addition, decoding of the four test frequencies demonstrated that the decoding performance of the SLR deteriorated when the test frequencies were close, supporting the hypothesis that the sustained activities were organized in a tonotopic manner. Finally, unlike transient activities, sustained activities were more informative in the belt than in the core region, indicating that higher-order auditory areas predominate over lower-order areas during sustained activities. Taken together, our results indicate that the auditory cortex processes sound information tonotopically and in a hierarchical manner.

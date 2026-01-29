@@ -1,6 +1,5 @@
 id: 2012-ryoyokota-analysis-of-temporal-coherence-880
-title: Analysis of Temporal Coherence in Rat Auditory Cortex at Different
-  Learning Stages
+title: Analysis of Temporal Coherence in Rat Auditory Cortex at Different Learning Stages
 authors:
   - Ryo Yokota
   - Kazuyuki Aihara
@@ -11,3 +10,7 @@ year: 2012
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

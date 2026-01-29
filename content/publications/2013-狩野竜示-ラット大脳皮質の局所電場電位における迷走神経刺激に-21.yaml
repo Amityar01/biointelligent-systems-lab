@@ -17,3 +17,9 @@ pages: 1493-1500
 doi: 10.1541/ieejeiss.133.1493
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:electrical-stim
+  - domain:bmi
+  - domain:seizure
+abstract: Vagus Nerve Stimulation (VNS) is a surgical treatment for intractable epilepsy. Although VNS has treated more than 60,000 patients, the precise therapeutic mechanism of action have not been elucidated. Here we hypothesize that VNS modulates the local synchronization of cortical activities and thus inhibits a seizure. In order to verify this hypothesis, we mapped local field potentials (LFPs) with high-spatial resolution using a microelectrode array from the temporal cortices of adult rats and analyzed VNS-induced phase modulation at a local network level. VNS significantly increased phase locking value (PLV), an index of synchronization, specifically at the gamma band. The optimal stimulation pulse of VNS was 0.5 mA and delivered at 10 Hz. This PLV modulation was most effective when the inter-electrode distance was about 1.6 mm. Gamma-band PLVs within the auditory cortex increased more significantly than those between the auditory and non-auditory cortices, while alpha- and low-beta PLV exhibited more synchronization between the auditory and non-auditory cortices. These results demonstrate that VNS modulates cortical synchronization in a band specific manner, and have some implications for the mechanism of action of VNS.

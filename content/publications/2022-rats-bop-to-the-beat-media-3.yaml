@@ -4,7 +4,11 @@ title: Rats bop to the beat
 type: media
 year: 2022
 source: EurekAlert
-date: 2022-11-11
+date: "2022-11-11"
 url: https://www.eurekalert.org/news-releases/970876
 tags:
   - media-coverage
+  - model:rat
+  - technique:behavior
+  - technique:ecog
+  - domain:music

@@ -7,3 +7,6 @@ year: 2011
 type: thesis
 tags:
   - japanese
+  - model:human
+  - model:rat
+  - technique:ecog

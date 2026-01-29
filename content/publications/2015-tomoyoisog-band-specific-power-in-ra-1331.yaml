@@ -1,6 +1,5 @@
 id: 2015-tomoyoisoguchis-band-specific-power-in-rat-aud-1368
-title: Band-specific power in rat auditory cortex modulates the mismatch
-  negativity amplitude in single trial
+title: Band-specific power in rat auditory cortex modulates the mismatch negativity amplitude in single trial
 authors:
   - Tomoyo Isoguchi Shiramatsu
   - Hirokazu Takahashi
@@ -10,3 +9,8 @@ type: poster
 volume: "#1P198"
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:mismatch-negativity
+  - domain:auditory

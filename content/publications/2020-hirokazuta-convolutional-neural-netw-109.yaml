@@ -1,6 +1,5 @@
 id: 2020-hirokazutakahas-convolutional-neural-network-w-109
-title: Convolutional neural network with autoencoder-assisted multiclass
-  labelling for seizure detection from scalp electroencephalography
+title: Convolutional neural network with autoencoder-assisted multiclass labelling for seizure detection from scalp electroencephalography
 authors:
   - Hirokazu Takahashi
   - Ali Emami
@@ -13,3 +12,8 @@ type: journal
 doi: 10.1016/j.compbiomed.2020.104016
 tags:
   - english
+  - model:human
+  - technique:ecog
+  - technique:scalp-eeg
+  - domain:seizure
+abstract: A label of "non-seizure-but-abnormal" offers practical benefits for seizure detection. The modification of a CNN with an AE is worth considering because AEs can automatically assign "non-seizure-but-abnormal" labels in an unsupervised manner with no additional demands on the time of the epileptologist.

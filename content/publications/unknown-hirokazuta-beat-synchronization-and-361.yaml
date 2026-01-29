@@ -6,3 +6,8 @@ conference: 東京大学AIセンター連続シンポジウム 第16回，2024
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:music
+  - domain:mismatch-negativity

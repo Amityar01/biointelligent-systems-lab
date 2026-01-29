@@ -8,10 +8,15 @@ authors:
   - Tomoyo Isoguchi
   - Nobuhito Saito
   - Hirokazu Takahashi
-conference: Proceedings of 35th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 year: 2013
 type: conference
 pages: 5348-5351
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:electrical-stim
+  - domain:seizure
+doi: 10.1109/embc.2013.6610757
+abstract: Vagus nerve stimulation (VNS) is a palliative treatment for intractable epilepsy. Therapeutic mechanisms of VNS have not been elucidated. In this study, we measured the local field potential (LFP) with high-spatial resolution using a microelectrode array in adult rats, and analyzed VNS-evoked phase modulation at a local network level. Eight adult Wistar rats (270 - 330 g) were used. Each rat underwent implantation of VNS system (Cyberonics, Houston, TX., USA) under 1.5% isoflurane anesthesia. One week after implantation, right temporal craniotomy was performed under the same as previous anesthesia. Subsequently, a microelectrode array was placed in the temporal lobe cortex, and LFP was recorded with sampling rate of 1000 Hz. Phase-locking value (PLV) between all pairs of electrodes in varied frequency bands was calculated in order to evaluate the effect of VNS in terms of synchrony of neuronal activities. PLV was calculated both in a normal state and in an epileptic state induced by kainic acid. VNS increased PLV in a normal state, particularly in high-γ band. In an epileptic state, VNS increased PLV in high-γ band, and decreased in d and low-β bands. VNS modulates synchrony in a band-specific and state-dependent manner. VNS might keep cortical synchrony within the optimal state.

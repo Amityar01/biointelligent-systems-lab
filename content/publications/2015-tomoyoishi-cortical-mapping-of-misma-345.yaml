@@ -3,9 +3,12 @@ title: Cortical mapping of mismatch negativity in rat
 authors:
   - Tomoyo I. Shiramatsu
   - Hirokazu Takahashi
-conference: Abstract book of Error Signals from the Brain - 7th Mismatch
-  Negativity Conference
+conference: Abstract book of Error Signals from the Brain - 7th Mismatch Negativity Conference
 year: 2015
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:mismatch-negativity

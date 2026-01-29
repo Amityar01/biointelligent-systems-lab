@@ -1,7 +1,5 @@
 id: 2013---cmos-estimation-of-neuronal-s-1349
-title: 高密度CMOSアレイ上の神経回路網の解析へ向けた分散培養神経細胞の細胞体位置の推定及び手法 (Estimation of Neuronal
-  Somata Location and Methods toward Neuronal Network Analysis of Dissociated
-  Cultured Neurons on High-density CMOS Microelectrode Arrays)
+title: 高密度CMOSアレイ上の神経回路網の解析へ向けた分散培養神経細胞の細胞体位置の推定及び手法 (Estimation of Neuronal Somata Location and Methods toward Neuronal Network Analysis of Dissociated Cultured Neurons on High-density CMOS Microelectrode Arrays)
 authors:
   - 三田毅
   - Douglas Bakkum
@@ -15,3 +13,6 @@ type: poster
 pages: "#P3-2-248"
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi

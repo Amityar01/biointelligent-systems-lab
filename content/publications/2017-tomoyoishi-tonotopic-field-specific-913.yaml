@@ -1,13 +1,15 @@
 id: 2017-tomoyoishiramat-tonotopic-field-specific-and-l-915
-title: Tonotopic, Field-specific and Layer-specific Information Processing of
-  Long-lasting Sustained Activity in Rat Auditory Cortex
+title: Tonotopic, Field-specific and Layer-specific Information Processing of Long-lasting Sustained Activity in Rat Auditory Cortex
 authors:
   - Tomoyo I. Shiramatsu
   - Kenji Ibayashi
   - Hirokazu Takahashi
-conference: "Abstract of The 40th annual midwinter research meeting, Aoosication
-  for research in otolaryngology: p. 318, 2017"
+conference: "Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 318, 2017"
 year: 2017
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:lfp
+  - domain:auditory

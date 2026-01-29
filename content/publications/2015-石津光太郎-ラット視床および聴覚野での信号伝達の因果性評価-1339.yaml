@@ -12,3 +12,7 @@ type: poster
 pages: 141-144
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:lfp
+  - domain:auditory

@@ -1,6 +1,5 @@
 id: 2007-junsuzurikawa-light-addressed-stimulation-an-142
-title: Light-addressed stimulation and simultaneous calcium imaging for probing
-  spatio-temporal activity of cultured neural network
+title: Light-addressed stimulation and simultaneous calcium imaging for probing spatio-temporal activity of cultured neural network
 authors:
   - Jun Suzurikawa
   - Masayuki Nakao
@@ -13,3 +12,8 @@ type: conference
 pages: 57-60
 tags:
   - japanese
+  - model:culture
+  - model:rat
+  - technique:imaging
+  - domain:bmi
+  - domain:reservoir-computing

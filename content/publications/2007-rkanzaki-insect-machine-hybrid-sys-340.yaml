@@ -8,9 +8,13 @@ authors:
   - D. Kurabayashi
   - N. Ando
   - H. Takahashi
-conference: "Comparative biochemistry and physiology. Part A, Molecular &
-  Integrative Physiology 148 Suppl. 1: S32, 2007"
+conference: "Comparative biochemistry and physiology. Part A, Molecular & Integrative Physiology 148 Suppl. 1: S32, 2007"
 year: 2007
 type: presentation
 tags:
   - japanese
+  - model:insect
+  - model:computational
+  - technique:behavior
+  - technique:mea-culture
+  - domain:bmi

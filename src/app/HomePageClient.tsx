@@ -5,15 +5,7 @@ import Image from 'next/image';
 import { ArrowRight, ExternalLink } from 'lucide-react';
 import { useEffect } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
-import type { Member, NewsItem, Book, YouTubeChannel, HomepageSettings } from '@/lib/content';
-
-interface Publication {
-  id: string;
-  title: string;
-  authors: string[];
-  journal: string;
-  year: number;
-}
+import type { Member, NewsItem, Book, YouTubeChannel, HomepageSettings, Publication } from '@/lib/content';
 
 interface HomePageClientProps {
   members: Member[];

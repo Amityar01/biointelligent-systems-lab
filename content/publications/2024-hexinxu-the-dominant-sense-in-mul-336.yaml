@@ -1,6 +1,5 @@
 id: 2024-hexinxu-the-dominant-sense-in-multimod-338
-title: "The Dominant Sense in Multimodal Integration: An Audiovisual Illusion
-  Test and EEG Study"
+title: "The Dominant Sense in Multimodal Integration: An Audiovisual Illusion Test and EEG Study"
 authors:
   - Hexin Xu
   - Yiyuan Teresa Huang
@@ -13,3 +12,8 @@ year: 2024
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:mismatch-negativity
+  - domain:auditory

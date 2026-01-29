@@ -1,7 +1,5 @@
 id: 2022-tomoyoishiramat-a-new-functional-role-of-mmn-l-360
-title: "A new functional role of MMN-like response beyond simple deviance
-  detection: using animal models to elucidate the underlying neural mechanisms
-  of schizophrenia"
+title: "A new functional role of MMN-like response beyond simple deviance detection: using animal models to elucidate the underlying neural mechanisms of schizophrenia"
 authors:
   - Tomoyo I. Shiramatsu
   - Hirokazu Takahashi
@@ -10,3 +8,8 @@ year: 2022
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:ecog
+  - technique:behavior
+  - domain:mismatch-negativity

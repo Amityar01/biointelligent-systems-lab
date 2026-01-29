@@ -13,3 +13,6 @@ issue: "4"
 pages: 436-443
 tags:
   - english
+  - model:insect
+doi: 10.20965/jrm.2007.p0436
+abstract: Insects can adapt to various environments and perform adaptive behaviors with their simple nervous system. Understanding of the mechanisms underlying these adaptive behaviors has been expected to lead to novel control systems in robotics. In this study, we proposed and developed a robot controlled by an insect in order to evaluate the adaptability of insects. This robot reproduced the behavior of a male silkmoth (Bombyx mori) tethered on it with high precision, and was successful in reproducing the pheromone-oriented behavior that is an adaptive behavior of the male silkmoth. When we changed the forward motor gain of the robot, its speed changed based on the manipulation. However, the manipulated robot performed the same ability for the sex-pheromone orientation as existed before the manipulation. This implied that the programmed behavior pattern of the pheromone-oriented behavior was robust and important for successful orientation, which did not depend on the speed of movement. This robot exhibits a new method to manipulate interaction between the body and the environment and is expected to prove useful as a new experimental platform for analyzing adaptability.

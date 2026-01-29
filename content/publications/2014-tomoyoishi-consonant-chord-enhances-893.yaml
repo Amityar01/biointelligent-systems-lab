@@ -4,9 +4,12 @@ authors:
   - Tomoyo I. Shiramatsu
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-conference: "Abstract of the 2nd International Workshop of Ultrasonic
-  Communication in Rodents: p. 24, 2014"
+conference: "Abstract of the 2nd International Workshop of Ultrasonic Communication in Rodents: p. 24, 2014"
 year: 2014
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

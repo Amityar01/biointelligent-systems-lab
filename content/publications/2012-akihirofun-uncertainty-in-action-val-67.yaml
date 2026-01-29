@@ -1,6 +1,5 @@
 id: 2012-akihirofunamizu-uncertainty-in-action-value-es-67
-title: Uncertainty in action-value estimation affects both action choice and
-  learning rate of the choice behaviors of rats
+title: Uncertainty in action-value estimation affects both action choice and learning rate of the choice behaviors of rats
 authors:
   - Akihiro Funamizu
   - Makoto Ito
@@ -16,3 +15,7 @@ pages: 1180-1189
 doi: 10.1111/j.1460-9568.2012.08025.x
 tags:
   - english
+  - model:rat
+  - technique:behavior
+  - domain:plasticity
+abstract: The estimation of reward outcomes for action candidates is essential for decision making. In this study, we examined whether and how the uncertainty in reward outcome estimation affects the action choice and learning rate. We designed a choice task in which rats selected either the left‐poking or right‐poking hole and received a reward of a food pellet stochastically. The reward probabilities of the left and right holes were chosen from six settings (high, 100% vs. 66%; mid, 66% vs. 33%; low, 33% vs. 0% for the left vs. right holes, and the opposites) in every 20–549 trials. We used Bayesian Q‐learning models to estimate the time course of the probability distribution of action values and tested if they better explain the behaviors of rats than standard Q‐learning models that estimate only the mean of action values. Model comparison by cross‐validation revealed that a Bayesian Q‐learning model with an asymmetric update for reward and non‐reward outcomes fit the choice time course of the rats best. In the action‐choice equation of the Bayesian Q‐learning model, the estimated coefficient for the variance of action value was positive, meaning that rats were uncertainty seeking. Further analysis of the Bayesian Q‐learning model suggested that the uncertainty facilitated the effective learning rate. These results suggest that the rats consider uncertainty in action‐value estimation and that they have an uncertainty‐seeking action policy and uncertainty‐dependent modulation of the effective learning rate.

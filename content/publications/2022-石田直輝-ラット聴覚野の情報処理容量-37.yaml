@@ -16,3 +16,9 @@ pages: 569-577
 doi: 10.1541/ieejeiss.142.569
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:reservoir-computing
+  - domain:auditory
+abstract: The rich dynamics of spatio-temporal activities in the neural system could be considered a computational resource. In this work, we attempted to quantify the capacity of information processing in the rat auditory cortex by applying a reservoir computing framework. Click-evoked multi-unit activities in the auditory cortex of rats were measured and considered as a reservoir, in which information processing capacity (IPC) was quantified. IPC was then compared with the performances of two benchmark tasks; shift register and logical calculation (AND, OR and XOR). Consequently, we found the first and second order IPC in the auditory cortex, which were positively correlated with the score of the benchmark tasks. These results suggest that IPC provides a new strategy to investigate sensory information processing in the brain.

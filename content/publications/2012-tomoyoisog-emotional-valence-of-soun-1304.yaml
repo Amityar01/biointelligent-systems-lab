@@ -1,6 +1,5 @@
 id: 2012-tomoyoisoguchi-emotional-valence-of-sound-rep-1341
-title: Emotional valence of sound represented in phase locking value of local
-  field potentials in rat auditory cortex
+title: Emotional valence of sound represented in phase locking value of local field potentials in rat auditory cortex
 authors:
   - Tomoyo Isoguchi
   - Takahiro Noda
@@ -12,3 +11,7 @@ type: poster
 pages: "#P4-f06"
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:lfp
+  - domain:auditory

@@ -6,10 +6,13 @@ authors:
   - Tomoyo I. Shiramatsu
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-journal: The 40th annual midwinter research meeting, Aoosication for research in
-  otolaryngology
+journal: The 40th annual midwinter research meeting, Aoosication for research in otolaryngology
 year: 2017
 type: poster
 pages: 117-118
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:auditory

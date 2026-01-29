@@ -5,9 +5,12 @@ authors:
   - Hiroyuki Nagata
   - Tomoyo I. Shiramatsu
   - Ryohei Kanzaki
-conference: "Abstract of The 38th annual midwinter research meeting, Aoosication
-  for research in otolaryngology: p. 436, 2015"
+conference: "Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 436, 2015"
 year: 2015
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:imaging
+  - domain:auditory

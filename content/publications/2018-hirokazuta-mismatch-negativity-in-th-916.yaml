@@ -1,6 +1,5 @@
 id: 2018-hirokazutakahas-mismatch-negativity-in-the-rat-918
-title: Mismatch negativity in the rat auditory cortex encodes empirical salience
-  of sounds
+title: Mismatch negativity in the rat auditory cortex encodes empirical salience of sounds
 authors:
   - Hirokazu Takahashi
   - Tomoyo I. Shiramatsu
@@ -9,3 +8,7 @@ year: 2018
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:mismatch-negativity

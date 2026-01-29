@@ -1,6 +1,5 @@
 id: 2013---modulation-of-the-chord-conso-1347
-title: 和音の協和度がラット聴皮質の位相同期に及ぼす影響 (Modulation of the chord consonance on phase
-  synchrony in the rat auditory cortex)
+title: 和音の協和度がラット聴皮質の位相同期に及ぼす影響 (Modulation of the chord consonance on phase synchrony in the rat auditory cortex)
 authors:
   - 白松–磯口知世
   - 野田貴大
@@ -12,3 +11,5 @@ type: poster
 pages: "#P1-1-120"
 tags:
   - japanese
+  - model:rat
+  - domain:auditory

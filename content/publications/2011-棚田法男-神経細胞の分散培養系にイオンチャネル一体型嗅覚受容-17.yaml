@@ -16,3 +16,8 @@ pages: 35-41
 doi: 10.1541/ieejeiss.131.35
 tags:
   - japanese
+  - model:culture
+  - model:rat
+  - technique:optogenetics
+  - technique:mea-culture
+abstract: "We propose a highly sensitive and real-time odor biosensor by expressing ionotropic odorant receptors of insects into dissociated cultures of neurons of rats. The odorant-gated ion channel structure of insect odorant receptor is expected to allow easy functional expression into cells. The neuronal dissociated cultures of rats have two significant advantages: a long lifetime comparable to rats, i.e., a few years; and amplification ability from weak ionic currents of odorant receptors into easily detectable action potentials of neurons. In the present work, in order to show the feasibility of the proposed sensor, we attempt to express the pheromone receptors of silkmoth, Bombyx mori, into cultured neurons of rats. We demonstrate that 10% of neuronal cells transfected using Lipofectamine successfully expressed pheromone receptors, and that these cells showed significant increase of calcium signals by 50% at the presentation of pheromone."

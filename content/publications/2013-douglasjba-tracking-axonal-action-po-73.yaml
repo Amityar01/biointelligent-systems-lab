@@ -1,6 +1,5 @@
 id: 2013-douglasjbakkum-tracking-axonal-action-potenti-73
-title: Tracking axonal action potential propagation on a high-density
-  microelectrode array across hundreds of sites
+title: Tracking axonal action potential propagation on a high-density microelectrode array across hundreds of sites
 authors:
   - Douglas J. Bakkum
   - Urs Frey
@@ -15,3 +14,8 @@ type: journal
 doi: 10.1038/ncomms3181
 tags:
   - english
+  - model:culture
+  - model:rat
+  - technique:spike
+  - technique:mea-culture
+  - domain:bmi

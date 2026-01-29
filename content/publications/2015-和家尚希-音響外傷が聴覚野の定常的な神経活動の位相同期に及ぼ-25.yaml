@@ -14,3 +14,7 @@ pages: 832-838
 doi: 10.1541/ieejeiss.135.832
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+abstract: Exposure to a high intensity sound damages the inner ear, leading to hearing loss and tinnitus. Previous studies have found that such acoustic trauma also changes neural activities in the auditory cortex. However, to the best of our knowledge, no study investigated the effect of acoustic trauma on the synchrony of steady-state activities in the auditory cortex. In this study, at pre- and post-exposure of an intense sound (16 kHz pure tone; 96 dB SPL; 90 minutes), we investigated Phase Locking Value (PLV) to measure the synchrony of the activities in the auditory cortex of anesthetized rats. Acoustic trauma was confirmed by the auditory brainstem responses (ABR) exhibiting reduced amplitude and prolonged latency. Consequently, we found decreased PLV during presentation of continuous pure tones. In addition, we found an increased contrast of θ-band PLV between silence and tone presentation conditions. These results suggest that an acoustic trauma changes the representation of sound in the auditory cortex in terms of the steady-state phase synchrony.

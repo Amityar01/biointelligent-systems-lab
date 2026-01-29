@@ -9,3 +9,7 @@ type: poster
 pages: "55"
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

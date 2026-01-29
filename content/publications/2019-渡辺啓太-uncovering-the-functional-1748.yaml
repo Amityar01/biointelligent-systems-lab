@@ -1,6 +1,5 @@
 id: 2019--uncovering-the-functional-impl-1859
-title: Uncovering the functional implication of spatiotemporal neural activity
-  patterns
+title: Uncovering the functional implication of spatiotemporal neural activity patterns
 authors:
   - 渡辺啓太
 journal: 東京大学大学院新領域創成科学研究科学位論文
@@ -8,3 +7,6 @@ year: 2019
 type: thesis
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike

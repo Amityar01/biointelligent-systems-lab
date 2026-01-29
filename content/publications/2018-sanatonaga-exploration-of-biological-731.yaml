@@ -1,6 +1,5 @@
 id: 2018-sanatonagata-exploration-of-biological-olfa-733
-title: Exploration of biological olfactory mechanism using randomly mixed
-  receptor signals decoded by reservoir computing
+title: Exploration of biological olfactory mechanism using randomly mixed receptor signals decoded by reservoir computing
 authors:
   - Sanato Nagata
   - Norifumi Kameshiro
@@ -16,3 +15,8 @@ year: 2018
 type: presentation
 tags:
   - japanese
+  - model:computational
+  - model:rat
+  - technique:mea-culture
+  - technique:spike
+  - domain:reservoir-computing

@@ -1,6 +1,5 @@
 id: 2014--research-of-processing-methods-1850
-title: Research of processing methods for overlapped neural spikes using
-  Bayesian statistics（ベイズ推論を用いたオーバーラップを含む神経信号の処理手法に関する研究）
+title: Research of processing methods for overlapped neural spikes using Bayesian statistics（ベイズ推論を用いたオーバーラップを含む神経信号の処理手法に関する研究）
 authors:
   - 芳賀達也
 journal: 東京大学大学院情報理工学系研究科学位論文
@@ -8,3 +7,7 @@ year: 2014
 type: thesis
 tags:
   - japanese
+  - model:rat
+  - technique:spike
+  - domain:bmi
+  - domain:mismatch-negativity

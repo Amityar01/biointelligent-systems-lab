@@ -6,9 +6,11 @@ authors:
   - Y. Jimbo
   - R. Kanzaki
   - H. Takahashi
-conference: "Proceedings of 22nd SICE Symposium on Biological and Physiological
-  Engineering: pp. 155-158, 2008"
+conference: "Proceedings of 22nd SICE Symposium on Biological and Physiological Engineering: pp. 155-158, 2008"
 year: 2008
 type: presentation
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi

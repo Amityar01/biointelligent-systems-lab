@@ -1,6 +1,5 @@
 id: 2015-yuichiroyada-characterization-of-synchrony--730
-title: Characterization of Synchrony Repertory Diversification during Maturation
-  of Cortical Cultures
+title: Characterization of Synchrony Repertory Diversification during Maturation of Cortical Cultures
 authors:
   - Yuichiro Yada
   - Hirokazu Takahashi
@@ -8,3 +7,7 @@ year: 2015
 type: presentation
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - technique:ecog
+  - domain:plasticity

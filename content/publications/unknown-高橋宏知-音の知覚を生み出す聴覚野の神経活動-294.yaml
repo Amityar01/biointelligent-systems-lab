@@ -6,3 +6,5 @@ conference: 情報処理学会研究報告音楽情報科学
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - domain:auditory

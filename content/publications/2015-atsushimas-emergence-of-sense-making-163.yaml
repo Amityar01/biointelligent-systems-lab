@@ -1,6 +1,5 @@
 id: 2015-atsushimasumori-emergence-of-sense-making-beha-163
-title: "Emergence of Sense-Making Behavior by the Stimulus Avoidance Principle:
-  Experiments on a Robot Behavior Controlled by Cultured Neuronal Cells."
+title: "Emergence of Sense-Making Behavior by the Stimulus Avoidance Principle: Experiments on a Robot Behavior Controlled by Cultured Neuronal Cells."
 authors:
   - Atsushi Masumori
   - Norihiro Maruyama
@@ -16,3 +15,7 @@ pages: 373-380
 doi: 10.7551/978-0-262-33027-5-ch067
 tags:
   - japanese
+  - model:culture
+  - domain:bmi
+  - domain:plasticity
+abstract: "Robot experiments using real cultured neuronal cells as controllers are a way to explore the idea of embodied cognition. Real cultured neuronal cells have innate plasticity, and a sensorimotor coupling is expected to develop a neural circuit. Previous studies have suggested that a dissociated neuronal culture has two properties: i) modifiability of connection between neurons by external stimuli and ii) stability of the connection without external stimuli. If cultured neuronal cells are embodied by coupling to an environment, they learn to avoid external stimulation. We call this mechanism a “learning by stimulation avoidance” principle. We try to demonstrate that adaptive behavior, like wall avoidance, can emerge spontaneously from embodied cultured neuronal cells. In this study, we developed a system in which a robot moves in a real environment and is controlled by cultured neuronal cells growing on a glass plate. We used a high-density complementary metal-oxide-semiconductor array to monitor the neural dynamics. We then conducted a robotic experiment using this platform. The results showed that wall-avoidance behavior by a robot can be enhanced spontaneously without giving any reward from the external environment."

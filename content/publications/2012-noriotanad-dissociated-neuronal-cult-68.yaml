@@ -1,6 +1,5 @@
 id: 2012-noriotanada-dissociated-neuronal-culture-e-68
-title: Dissociated neuronal culture expressing ionotropic odorant receptors as a
-  hybrid odorant biosensor –proof-of-concept study–
+title: Dissociated neuronal culture expressing ionotropic odorant receptors as a hybrid odorant biosensor –proof-of-concept study–
 authors:
   - Norio Tanada
   - Takeshi Sakurai
@@ -17,3 +16,8 @@ pages: 3452-3458
 doi: 10.1039/c2an35058k
 tags:
   - english
+  - model:culture
+  - model:rat
+  - technique:mea-culture
+  - technique:optogenetics
+abstract: Artificial odorant sensors generally perform poorer than olfactory systems in living organisms. The excellent performances of living odorant systems are achieved by the molecular recognition abilities of odorant receptors and the neuronal information processing that follows. To take advantages of this, here we propose a novel hybrid odorant biosensor by means of expressing ionotropic odorant receptors of insects into dissociated neuronal cultures of rodents. This combination of materials brings significant advantages such as easy functional expression, prolonged lifetime, and an ability to amplify the weak ionic currents of odorant receptors. In the present work, pheromone receptors and co-receptors of silkmoth, i.e., BmOR1 and BmorOrco, were expressed in neuronal cultures via liposome transfection. Consequently, BmOR1 and BmorOrco were co-expressed in 8% of neuronal cells, and both receptors were co-localized on a cell membrane. In Ca++ imaging experiments, synchronous increase of calcium signals at the presentation of BOL was found in both transfected cells and non-transfected cells in a dose-dependent manner. These results provide the proof-of-concept of the proposed hybrid odorant biosensor.

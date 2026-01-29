@@ -13,3 +13,5 @@ issue: "6"
 doi: 10.1007/s10905-017-9645-x
 tags:
   - english
+  - model:insect
+  - technique:behavior

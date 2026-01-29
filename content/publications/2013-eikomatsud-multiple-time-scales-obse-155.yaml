@@ -1,6 +1,5 @@
 id: 2013-eikomatsuda-multiple-time-scales-observed--155
-title: Multiple Time Scales Observed in Spontaneously Evolved Neurons on
-  High-density CMOS Electrode Array
+title: Multiple Time Scales Observed in Spontaneously Evolved Neurons on High-density CMOS Electrode Array
 authors:
   - Eiko Matsuda
   - Takeshi Mita
@@ -15,3 +14,7 @@ type: conference
 pages: 1075-1082
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+doi: 10.1162/978-0-262-31709-2-ch161
+abstract: Spontaneous evolution of neural cells was recorded around 4-34 days in vitro (DIV) with high-density CMOS microelectrode array, which enables detailed study of the spatiotemporal activity of cultured neurons. We used the CMOS array to characterize 1) the evolution of activation patterns of each putative neurons, 2) the developmental change in cell-cell interactions, and finally, 3) emergence of multiple timescales for neurons to exchange information with each other. The results revealed not only the topology of the physical connectivity of the neurons but also the functional connectivity of the neurons within different time scales. We finally argued the relationship of the results with “functional networks”, which interact with each other to support multiple cognitive functions in the mature human brain.

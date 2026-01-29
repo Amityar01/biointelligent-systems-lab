@@ -1,6 +1,5 @@
 id: 2015-takahironoda-anesthetic-effects-of-isoflura-87
-title: Anesthetic effects of isoflurane on the topographic map and neuronal
-  population activity in the rat auditory cortex
+title: Anesthetic effects of isoflurane on the topographic map and neuronal population activity in the rat auditory cortex
 authors:
   - Takahiro Noda
   - Hirokazu Takahashi
@@ -13,3 +12,7 @@ pages: 2298-2311
 doi: 10.1111/ejn.13007
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+abstract: AbstractSince its discovery nearly four decades ago, sequential microelectrode mapping using hundreds of recording sites has been able to reveal a precise tonotopic organization of the auditory cortex. Despite concerns regarding the effects that anesthesia might have on neuronal responses to tones, anesthesia was essential for these experiments because such dense mapping was elaborate and time‐consuming. Here, taking an ‘all‐at‐once’ approach, we investigated how isoflurane modifies spatiotemporal activities by using a dense microelectrode array. The array covered the entire auditory cortex in rats, including the core and belt cortices. By comparing neuronal activity in the awake state with activity under isoflurane anesthesia, we made four observations. First, isoflurane anesthesia did not modify the tonotopic topography within the auditory cortex. Second, in terms of general response properties, isoflurane anesthesia decreased the number of active single units and increased their response onset latency. Third, in terms of tuning properties, isoflurane anesthesia shifted the response threshold without changing the shape of the frequency response area and decreased the response quality. Fourth, in terms of population activities, isoflurane anesthesia increased the noise correlations in discharges and phase synchrony in local field potential (LFP) oscillations, suggesting that the anesthesia made neuronal activities redundant at both single‐unit and LFP levels. Thus, while isoflurane anesthesia had little effect on the tonotopic topography, its profound effects on neuronal activities decreased the encoding capacity of the auditory cortex.

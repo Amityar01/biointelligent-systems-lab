@@ -1,6 +1,5 @@
 id: 2021-tomoyukikubota-polynomial-chaos-expansion-for-115
-title: "Polynomial Chaos Expansion for Temporal Information Processing:
-  Extending the Reservoir Computing Paradigm"
+title: "Polynomial Chaos Expansion for Temporal Information Processing: Extending the Reservoir Computing Paradigm"
 authors:
   - Tomoyuki Kubota
   - Hirokazu Takahashi
@@ -10,3 +9,5 @@ type: journal
 doi: 10.1103/PhysRevResearch.3.043135
 tags:
   - english
+  - domain:reservoir-computing
+abstract: A dynamical system is an information processing apparatus that encodes input streams from the external environment to its state and processes them through state transitions. The information processing capacity (IPC) is an excellent tool that comprehensively evaluates these processed inputs, providing details of unknown information processing in black box systems; however, this measure can be applied only to time-invariant systems. This paper extends the applicable range to time-variant systems and further reveals that the IPC is equivalent to coefficients of polynomial chaos (PC) expansion in more general dynamical systems. To achieve this objective, we tackle three issues. First, we establish a connection between the IPC for time-invariant systems and PC expansion, which is a type of polynomial expansion using orthogonal functions of input history as bases. We prove that the IPC corresponds to the squared norm of the coefficient vector of the basis in the PC expansion. Second, we show that an input following an arbitrary distribution can be used for the IPC, removing previous restrictions to specific input distributions. Third, we extend the conventional orthogonal bases to functions of both time and input history and propose the IPC for time-variant systems. To show the significance of our approach, we demonstrate that our measure can reveal information representations in not only machine learning networks but also a real, cultured neural network. Our generalized measure paves the way for unveiling the information processing capabilities of a wide variety of physical dynamics which have been left behind in nature.

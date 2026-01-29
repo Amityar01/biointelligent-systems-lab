@@ -7,3 +7,5 @@ conference: 日本音響学会 秋季研究発表会
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - domain:auditory

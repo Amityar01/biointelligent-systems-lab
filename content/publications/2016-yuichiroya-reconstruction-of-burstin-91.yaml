@@ -1,6 +1,5 @@
 id: 2016-yuichiroyada-reconstruction-of-bursting-act-91
-title: Reconstruction of Bursting Activity in Cultured Neuronal Network from
-  State-Space Model and Leader Spatial Activity Pattern
+title: Reconstruction of Bursting Activity in Cultured Neuronal Network from State-Space Model and Leader Spatial Activity Pattern
 authors:
   - Yuichiro Yada
   - Ryohei Kanzaki
@@ -14,3 +13,7 @@ pages: 98-106
 doi: 10.1002/ecj.11905
 tags:
   - english
+  - model:culture
+  - technique:spike
+  - domain:reservoir-computing
+abstract: SUMMARYA small subset of neurons, called “leader neurons”, has been assumed as the sources of network bursts in dissociated neuronal cultures. In this paper, we proposed a network burst generation model that a network burst is considered as a sequential transition of spatial activity patterns lead by a “leader pattern”. We recorded spontaneous activities of cultured cortical networks with high‐density CMOS‐based microelectrode arrays. Spatial patterns were extracted from the high‐dimensional recorded data using nonnegative matrix factorization. Then, we hypothesized the state‐space model where the leader pattern served as input and the others served as states, respectively. After estimating the model parameters from the learning data, we attempted to restore the activities of test data with the estimated model. As a result, the spatio‐temporal patterns in network bursts were successfully reconstructed from the model, suggesting that the leader pattern is a crucial predictor of the network burst.

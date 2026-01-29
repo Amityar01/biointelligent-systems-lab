@@ -13,5 +13,12 @@ type: journal
 volume: "122"
 issue: "9"
 pages: 1459-1468
+doi: 10.1541/ieejeiss1987.122.9_1459
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:bmi
+  - domain:auditory
+abstract: High spatial resolution mapping of cortical evoked-potentials may offer efficient and less-invasive recording of overall neu-ronal activities. because the signals involve population of neurons' activities. This paper proposes and develops the multiple-site surface microelectrode that maps cortical evoked potentials with high spatial resolution, 32 recording sites over a 2-mm-square area, and each size of the sites is 100-μm-square. With lithographic technologies, the conductive gold layer is sandwiched between an insulating polyimide layer and a polyimide substrate. Unlike conventional silicon microelectrodes, the flexible polyimide substrate can follow the convex and pulsative cortical surface, and realize less-invasive epidural recording. The impedance of each site is around 75 kΩ at 1 kHz, proved small enough to detect reliable cortical signals. Through in vivo experiments on the rat auditory cortex, the electrode achieves significant auditory-evoked potential maps, which are useful for examining cortical functions and varieties of evoked potentials.

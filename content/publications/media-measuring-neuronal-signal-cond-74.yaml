@@ -7,3 +7,9 @@ type: media
 source: Medical News Today
 tags:
   - english
+  - model:culture
+  - model:rat
+  - technique:spike
+  - technique:lfp
+  - domain:plasticity
+  - domain:bmi

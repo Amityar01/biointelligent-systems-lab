@@ -9,3 +9,5 @@ volume: "2"
 pages: "43"
 tags:
   - japanese
+  - model:rat
+  - domain:auditory

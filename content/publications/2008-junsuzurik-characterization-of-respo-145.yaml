@@ -1,16 +1,19 @@
 id: 2008-junsuzurikawa-characterization-of-response-p-145
-title: Characterization of Response Patterns Evoked by Light Addressed
-  Electrical Stimulation in Cultured Neuronal Networks
+title: Characterization of Response Patterns Evoked by Light Addressed Electrical Stimulation in Cultured Neuronal Networks
 authors:
   - Jun Suzurikawa
   - Masayuki Nakao
   - Kanzaki Ryohei
   - Yasuhiko Jimbo
   - Hirokazu Takahashi
-conference: Proceedings of the 6th International Meeting on Substrate-Integrated
-  Micro Electrode Arrays
+conference: Proceedings of the 6th International Meeting on Substrate-Integrated Micro Electrode Arrays
 year: 2008
 type: conference
 pages: 243-246
 tags:
   - japanese
+  - model:culture
+  - model:human
+  - technique:electrical-stim
+  - technique:mea-culture
+  - domain:bmi

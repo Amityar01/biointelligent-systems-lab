@@ -1,9 +1,5 @@
 id: 2002-hirokazutakahas--auditory-evoked-potential-map-1426
-title: "“Auditory evoked-potential mappings unravel functional organizations of
-  rat auditory cortex; both the primary auditory field (AI) and anterior
-  auditory field (AAF) show tonotopic organization and the latter has extreme
-  loudness-dependence.” Abstract of 3rd Forum of European Neuroscience: #184.18
-  (CD-ROM)"
+title: "“Auditory evoked-potential mappings unravel functional organizations of rat auditory cortex; both the primary auditory field (AI) and anterior auditory field (AAF) show tonotopic organization and the latter has extreme loudness-dependence.” Abstract of 3rd Forum of European Neuroscience: #184.18 (CD-ROM)"
 authors:
   - Hirokazu Takahashi
   - Takayuki Ejiri
@@ -15,3 +11,7 @@ year: 2002
 type: poster
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:lfp
+  - domain:auditory

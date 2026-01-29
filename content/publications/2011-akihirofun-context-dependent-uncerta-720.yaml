@@ -6,12 +6,14 @@ authors:
   - Kenji Doya
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-conference: Proceedings of the 21st Annual Conference of the Japanese Neural
-  Network Society
+conference: Proceedings of the 21st Annual Conference of the Japanese Neural Network Society
 year: 2011
 type: presentation
 awards:
   - 平成23年日本神経回路学会大会奨励賞
 tags:
   - japanese
+  - model:rat
+  - technique:behavior
+  - domain:plasticity
 pages: "#P1-13"

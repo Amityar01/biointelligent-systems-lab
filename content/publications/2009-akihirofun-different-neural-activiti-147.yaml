@@ -10,3 +10,9 @@ type: conference
 pages: 287-290
 tags:
   - japanese
+  - model:rat
+  - technique:spike
+  - domain:mismatch-negativity
+  - domain:bmi
+doi: 10.1109/ner.2009.5109289
+abstract: In this study, we attempted to identify the most influential features of input data for neural decoding across different decoders. For the example of decoders, we used support vector machine (SVM), k-nearest neighbor method (KNN) and canonical discriminate analysis (CDA) and decoded the tone-induced neural activities in a rat auditory cortex into the test tone frequencies. We proposed an algorithm of sequential dimensionality reduction (SDR) to identify the neural activity pattern which increases the prediction accuracy of each decoder. The algorithm reduced input data one by one without deteriorating the prediction accuracy as far as possible. The accuracy of SVM and KNN improved when neural activities had high spike rates and high dispersiveness. On the other hand, CDA performed better on sparse neural activities. Thus, according to spike rates and dispersiveness of neural activities, an efficient decoder can change. Moreover, considering the different algorithms between SVM - KNN and CDA, we hypothesized that disperse and sparse neural activities have an advantage in discrimination and memory, respectively.

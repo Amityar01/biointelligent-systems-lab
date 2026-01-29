@@ -1,0 +1,14 @@
+id: 2025-terukimaya-bridging-integrated-information-theory
+title: Bridging integrated information theory and the free-energy principle in living neuronal networks
+authors:
+  - Teruki Mayama
+  - Shoichi Shimizu
+  - Yaoko Takano
+  - Dai Akita
+  - Hirokazu Takahashi
+year: 2025
+type: preprint
+doi: 10.48550/arxiv.2510.04084
+tags:
+  - english
+abstract: "The relationship between Integrated Information Theory (IIT) and the Free-Energy Principle (FEP) remains unresolved, particularly with respect to how integrated information, proposed as the intrinsic substrate of consciousness, behaves within variational Bayesian inference. We investigated this issue using dissociated neuronal cultures, previously shown to perform perceptual inference consistent with the FEP. Repeated stimulation from hidden sources induced robust source selectivity: variational free energy (VFE) decreased across sessions, whereas accuracy and Bayesian surprise (complexity) increased. Network-level analyses revealed that a proxy measure of integrated information and the size of the main complex followed a hill-shaped trajectory, with informational cores organizing diverse neuronal activity. Across experiments, integrated information correlated strongly and positively with Bayesian surprise, modestly and heterogeneously with accuracy, and showed no significant relationship with VFE. The positive coupling between Φ and Bayesian surprise likely reflects the diversity of activity observed in critical dynamics. These findings suggest that integrated information increases specifically during belief updating, when sensory inputs are most informative, rather than tracking model efficiency. The hill-shaped trajectory of Φ during inference can be functionally interpreted as a transition from exploration to exploitation. This work provides empirical evidence linking the physical account of consciousness advanced by IIT with the functional perspective offered by the FEP, contributing to a unified framework for the mechanisms and adaptive roles of phenomenology."

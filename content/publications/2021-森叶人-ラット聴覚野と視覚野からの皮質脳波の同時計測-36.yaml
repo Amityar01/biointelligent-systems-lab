@@ -14,3 +14,8 @@ pages: 614-619
 doi: 10.1541/ieejeiss.141.614
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+  - domain:mismatch-negativity
+abstract: In the mammalian cerebral cortex, each sensory cortex plays a central role in the information processing of each sensory modality, yet the cross-modal interactions between sensory cortices remains to be elucidated. Herein, we designed a surface electrode array with 32 recording sites and established a novel electrophysiological technique to record neural activities simultaneously from the auditory and visual cortices of anesthetized rats. We evaluated our mapping in two ways; first, the middle-latency potentials in the auditory evoked potentials and visual evoked potentials were localized in the auditory and visual cortex, respectively. Second, the microelectrode array successfully recorded auditory and visual mismatch negativity (aMMN and vMMN), which is one of the neural activities reported to reflect cross-modal interactions in previous human studies. In addition, we demonstrated that MMN distributed beyond the border between these sensory cortices, suggesting cross-modal interactions between these areas. Taken together, the present recording technique will contribute to elucidating cross-modality information processing in sensory cortices.

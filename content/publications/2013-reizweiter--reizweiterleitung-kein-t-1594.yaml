@@ -1,8 +1,13 @@
 id: 2013-reizweiterleitu--reizweiterleitung-kein-tempol-1690
-title: 「Reizweiterleitung, Kein Tempolimit im Kopf, Neurone leiten Signale mit
-  unterschiedlicher Geschwindigkeit」
+title: 「Reizweiterleitung, Kein Tempolimit im Kopf, Neurone leiten Signale mit unterschiedlicher Geschwindigkeit」
 authors: []
 year: 2013
 type: media
 tags:
   - japanese
+  - model:rat
+  - model:culture
+  - technique:spike
+  - technique:lfp
+  - domain:plasticity
+  - domain:bmi

@@ -1,6 +1,5 @@
 id: 2015-yuichiroyada-functional-sub-network-of-lead-1367
-title: Functional sub-network of leader neurons in self-organized dissociated
-  cortical network
+title: Functional sub-network of leader neurons in self-organized dissociated cortical network
 authors:
   - Yuichiro Yada
   - Akihiro Sanada
@@ -11,3 +10,6 @@ year: 2015
 type: poster
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - domain:plasticity

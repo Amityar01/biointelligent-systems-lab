@@ -10,3 +10,7 @@ type: journal
 doi: 10.1038/s41598-021-98167-6
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+abstract: Auditory studies in animals benefit from quick and accurate audiometry. The auditory brainstem response (ABR) and prepulse inhibition (PPI) have been widely used for hearing assessment in animals, but how well these assessments predict subjective audiometry still remains unclear. Human studies suggest that subjective audiometry is consistent with the ABR-based audiogram, not with the PPI-based audiogram, likely due to top-down processing in the cortex that inhibits PPI. Here, we challenged this view in Wistar rats, as rodents exhibit less complexity of cortical activities and thereby less influence of the cerebral cortex on PPI compared to humans. To test our hypothesis, we investigated whether subjective audiometry correlates with ABR- or PPI-based audiograms across the range of audible frequencies in Wistar rats. The subjective audiogram was obtained through pure-tone audiometry based on operant conditioning. Our results demonstrated that both the ABR-based and PPI-based audiograms significantly correlated to the subjective audiogram. We also found that ASR strength was information-rich, and adequate interpolation of this data offered accurate audiometry. Thus, unlike in humans, PPI could be used to predict subjective audibility in rats.

@@ -2,9 +2,12 @@ id: 2017-hirokazutakahas-neural-correlates-of-perceptua-351
 title: Neural correlates of perceptual organization in the auditory cortex
 authors:
   - Hirokazu Takahashi
-conference: "Conference proceedings of the 4th annual meeting of the Society for
-  Bioacoustic: pp. 12-13, 2017"
+conference: "Conference proceedings of the 4th annual meeting of the Society for Bioacoustic: pp. 12-13, 2017"
 year: 2017
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

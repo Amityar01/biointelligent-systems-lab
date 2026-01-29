@@ -12,3 +12,5 @@ type: poster
 pages: "#P2-7"
 tags:
   - japanese
+  - model:culture
+  - domain:reservoir-computing

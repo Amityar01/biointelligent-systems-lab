@@ -1,6 +1,5 @@
 id: 2008-noriyasuando-adaptability-of-pheromone-trac-716
-title: Adaptability of pheromone tracking behavior of the silkmoth revealed by
-  the insect-controlled robot
+title: Adaptability of pheromone tracking behavior of the silkmoth revealed by the insect-controlled robot
 authors:
   - Noriyasu Ando
   - Shuhei Emoto
@@ -11,3 +10,7 @@ year: 2008
 type: presentation
 tags:
   - japanese
+  - model:insect
+  - technique:behavior
+  - technique:mea-culture
+  - domain:bmi

@@ -1,6 +1,5 @@
 id: 2009-hirokazutakahas-simulation-of-nerve-bundle-act-53
-title: Simulation of nerve bundle activation by simultaneous multipoint
-  extracellular stimulation with surface electrodes
+title: Simulation of nerve bundle activation by simultaneous multipoint extracellular stimulation with surface electrodes
 authors:
   - Hirokazu Takahashi
   - Masayuki Nakao
@@ -14,3 +13,7 @@ pages: 31-40
 doi: 10.1002/ecj.10064
 tags:
   - english
+  - technique:electrical-stim
+  - technique:mea-culture
+  - domain:bmi
+abstract: "AbstractNeural prostheses for restoring lost functions can benefit from selective activation of nerves. We previously proposed a multipoint gating stimulation, which can selectively activate a desired portion of a nerve bundle, regardless of the density of the electrode. In this paper, we discuss the design of an electrode array and effective strategies to determine the stimulus parameters. Large electrodes were less affected by the relative location of the electrodes and the nodes of Ranvier, suggesting that a rectangular electrode, whose long side along a nerve bundle is longer than the internodal distance (i.e., on the order of 1 mm), would be more effective than a disk electrode. We were able to estimate an appropriate current at each electrode on the basis of a blocking threshold, above which no spike propagation was permitted. For lateral gating stimulation, the gate current should be set above the threshold, while for depthwise gating stimulation, the gate current should be set below the threshold. The spatial resolutions of lateral and depthwise gating stimulation were theoretically estimated to be at least 50 μm when the grid spacing of the array was 1.2 mm. © 2009 Wiley Periodicals, Inc. Electron Comm Jpn, 92(6): 31–40, 2009; Published online in Wiley InterScience (www.interscience.wiley.com). DOI 10.1002/ecj.10064"

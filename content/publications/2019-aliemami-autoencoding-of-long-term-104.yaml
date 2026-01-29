@@ -1,6 +1,5 @@
 id: 2019-aliemami-autoencoding-of-long-term-scal-104
-title: Autoencoding of long-term scalp electroencephalogram to detect epileptic
-  seizure for diagnosis support system
+title: Autoencoding of long-term scalp electroencephalogram to detect epileptic seizure for diagnosis support system
 authors:
   - Ali Emami
   - Naoto Kunii
@@ -14,3 +13,9 @@ pages: 227-233
 doi: 10.1016/j.compbiomed.2019.05.025
 tags:
   - english
+  - model:human
+  - technique:ecog
+  - technique:scalp-eeg
+  - domain:seizure
+  - domain:bmi
+abstract: "INTRODUCTION: Epileptologists could benefit from a diagnosis support system that automatically detects seizures because visual inspection of long-term electroencephalograms (EEGs) is extremely time-consuming. However, the diversity of seizures among patients makes it difficult to develop universal features that are applicable for automatic seizure detection in all cases, and the rarity of seizures results in a lack of sufficient training data for classifiers. METHODS: To overcome these problems, we utilized an autoencoder (AE), which is often used for anomaly detection in the field of machine learning, to perform seizure detection. We hypothesized that multichannel EEG signals are compressible by AE owing to their spatio-temporal coupling and that the AE should be able to detect seizures as anomalous events from an interictal EEG. RESULTS: Through experiments, we found that the AE error was able to classify seizure and nonseizure states with a sensitivity of 100% in 22 out of 24 available test subjects and that the AE was better than the commercially available software BESA and Persyst for half of the test subjects. CONCLUSIONS: These results suggest that the AE error is a feasible candidate for a universal seizure detection feature."

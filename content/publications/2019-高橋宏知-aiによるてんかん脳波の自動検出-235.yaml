@@ -14,3 +14,7 @@ awards:
   - 招待論文
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+abstract: ": Place codes of frequency, or tonotopic maps, are commonly found in the auditory pathway, from the cochlea to the auditory cortex, and thus, are believed to play substantial roles in auditory computation. In contrast, in the auditory cortex, tonotopic activation is clearly observed at the onset responses within 50-ms post-stimulus latency but rapidly decays to long-lasting suboptimal stimuli, suggesting that neural representation is made beyond the tonotopic map. We recently demonstrated in the rat auditory cortex that the degree of response variance is closely correlated with the size of its representational area, suggesting that place coding is an eﬀective strategy to generate diverse response properties within a neural population. We also demonstrated long-lasting sound-induced steady-state local synchrony within the auditory cortex, where neural representation might be made in a diﬀerent manner from transient tonotopic activation at stimulus onset. These results support the idea of Darwinian computation, where the tonotopic map eﬀectively creates a response variance, while the steady-state synchrony gradually selects the neural population beyond the tonotopic map."

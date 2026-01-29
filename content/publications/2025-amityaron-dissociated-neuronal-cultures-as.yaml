@@ -1,0 +1,16 @@
+id: 2025-amityaron-dissociated-neuronal-cultures-as
+title: Dissociated Neuronal Cultures as Model Systems for Self-Organized Prediction
+authors:
+  - Amit Yaron
+  - Zhuo Zhang
+  - Dai Akita
+  - Tomoyo Isoguchi Shiramatsu
+  - Zenas C. Chao
+  - Hirokazu Takahashi
+year: 2025
+type: preprint
+doi: 10.48550/arxiv.2501.18772
+tags:
+  - english
+  - model:culture
+abstract: Dissociated neuronal cultures provide a simplified yet effective model system for investigating self-organized prediction and information processing in neural networks. This review consolidates current research demonstrating that these in vitro networks display fundamental computational capabilities, including predictive coding, adaptive learning, goal-directed behavior, and deviance detection. We examine how these cultures develop critical dynamics optimized for information processing, detail the mechanisms underlying learning and memory formation, and explore the relevance of the free energy principle within these systems. Building on these insights, we discuss how findings from dissociated neuronal cultures inform the design of neuromorphic and reservoir computing architectures, with the potential to enhance energy efficiency and adaptive functionality in artificial intelligence. The reduced complexity of neuronal cultures allows for precise manipulation and systematic investigation, bridging theoretical frameworks with practical implementations in bio-inspired computing. Finally, we highlight promising future directions, emphasizing advancements in three-dimensional culture techniques, multi-compartment models, and brain organoids that deepen our understanding of hierarchical and predictive processes in both biological and artificial systems. This review aims to provide a comprehensive overview of how dissociated neuronal cultures contribute to neuroscience and artificial intelligence, ultimately paving the way for biologically inspired computing solutions.

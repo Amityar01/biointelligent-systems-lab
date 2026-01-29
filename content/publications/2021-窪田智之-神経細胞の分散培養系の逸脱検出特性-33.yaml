@@ -14,3 +14,9 @@ pages: 661-667
 doi: 10.1541/ieejeiss.141.661
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - technique:mea-culture
+  - domain:mismatch-negativity
+  - domain:predictive-coding
+abstract: Evoked activities in the neural systems often depend on the event probabilities, suggesting that the neural systems have prediction capability based on the memory of stimulus history. Such prediction capability is often characterized as deviance detection property, which is not explained by the mere effect of stimulus specific adaptation. We here investigate whether neuronal dissociate culture, i.e., one of the most primitive neural circuits, exhibits deviance detection property as found in the higher-order sensory and association cortices. A high-dense CMOS electrode array measured neural activity patterns evoked by patterned electrical stimuli under either an oddball condition or many standards control (MSC) condition. Our results demonstrated the deviant-evoked neural activities were larger than the standard-evoked neural activities in the oddball condition and that the deviant stimulus evoked significantly larger activities in the oddball condition than in the MSC condition. Furthermore, these trends were more obvious in the late responses, which were mediated by a number of synapses, than in the early responses that were directly elicited by microstimulation. Thus, the present study showed the first evidence that the neuronal dissociate culture exhibits the deviance detection property, or the primitive intelligence.

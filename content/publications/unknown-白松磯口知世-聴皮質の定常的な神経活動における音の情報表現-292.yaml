@@ -7,3 +7,5 @@ conference: 生体医工学 54
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - domain:auditory

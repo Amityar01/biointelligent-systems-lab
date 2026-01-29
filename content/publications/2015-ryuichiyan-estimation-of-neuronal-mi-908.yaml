@@ -1,6 +1,5 @@
 id: 2015-ryuichiyano-estimation-of-neuronal-migrati-910
-title: Estimation of Neuronal Migration Distance in Dissociated Culture on High
-  Density CMOS Micro-Electrode Array
+title: Estimation of Neuronal Migration Distance in Dissociated Culture on High Density CMOS Micro-Electrode Array
 authors:
   - Ryuichi Yano
   - Takeshi Mita
@@ -13,3 +12,6 @@ year: 2015
 type: presentation
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi

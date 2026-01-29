@@ -1,6 +1,5 @@
 id: 2014-tomoyoishiramat-decoding-of-auditory-informati-78
-title: Decoding of Auditory Information from Steady-state Neural Activity in Rat
-  Auditory Cortex
+title: Decoding of Auditory Information from Steady-state Neural Activity in Rat Auditory Cortex
 authors:
   - Tomoyo I. Shiramatsu
   - Kan Akutsu
@@ -13,3 +12,7 @@ pages: 17-27
 doi: 10.1002/ecj.11572
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+abstract: SummaryIn the auditory cortex, auditory‐evoked onset activities have been extensively investigated as a cortical representation of sound information and the emotional information that is associated with sound. However, less attention has been paid to date to steady‐state activities following onset activities. In this study, we used machine learning to investigate whether steady‐state neural activities in the presence of continuous sound represented the sound frequency and the emotion that was associated with the sound. A microelectrode array with a grid of 96 sites recorded local field potentials (LFPs) in the fourth layer of the auditory cortex of anesthetized rats, and sparse logistic regression (SLR) decoded the sound frequency from the steady‐state neural activities of the LFPs. The band‐specific power at every recording site and the phase locking values between every pair of recording sites served as the input vectors for SLR. In addition, we investigated how these decoding accuracies depended on either aversive or appetitive auditory classical conditioning. We found that the SLR was able to decode the sound frequency from the steady‐state neural activities as well as the onset activities and that the decoding accuracy in particular bands either significantly improved or worsened in a conditioning‐dependent manner. These results demonstrated that the steady‐state neural activities contained rich information about not only test sounds but also the emotions that were associated with the sounds.

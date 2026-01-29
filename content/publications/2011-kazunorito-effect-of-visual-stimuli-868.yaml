@@ -1,6 +1,5 @@
 id: 2011-kazunoritokue-effect-of-visual-stimuli-on-th-870
-title: Effect of visual stimuli on the air-puff evoked escape behavior of the
-  cricket Gryllus bimaculatus
+title: Effect of visual stimuli on the air-puff evoked escape behavior of the cricket Gryllus bimaculatus
 authors:
   - Kazunori Tokue
   - Noriyasu Ando
@@ -13,3 +12,6 @@ year: 2011
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:insect
+  - technique:behavior

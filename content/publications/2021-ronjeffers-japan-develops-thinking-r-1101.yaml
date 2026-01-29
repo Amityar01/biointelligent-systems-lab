@@ -1,6 +1,5 @@
 id: 2021-ronjefferson-japan-develops-thinking-robot--1128
-title: Japan Develops 'Thinking Robot' Through Physical Reservoir Computing;
-  Learns and Moves by Artifical Neurons
+title: Japan Develops 'Thinking Robot' Through Physical Reservoir Computing; Learns and Moves by Artifical Neurons
 authors:
   - Ron Jefferson
 journal: The Science Times
@@ -8,3 +7,4 @@ year: 2021
 type: presentation
 tags:
   - japanese
+  - domain:reservoir-computing

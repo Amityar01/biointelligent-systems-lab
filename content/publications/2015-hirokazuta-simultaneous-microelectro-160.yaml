@@ -1,6 +1,5 @@
 id: 2015-hirokazutakahas-simultaneous-microelectrode-re-160
-title: Simultaneous microelectrode recording of layered structure of cortex and
-  tonotopic structure of thalamus in the auditory pathway
+title: Simultaneous microelectrode recording of layered structure of cortex and tonotopic structure of thalamus in the auditory pathway
 authors:
   - Hirokazu Takahashi
   - Tomoyo Shiramatsu
@@ -8,10 +7,15 @@ authors:
   - Takahiro Noda
   - Ryohei Kanzaki
   - Haruka Nakahra
-conference: Proceedings of the 7th International IEEE EMBS Neural Engineering
-  Conference (NER'15)
+conference: Proceedings of the 7th International IEEE EMBS Neural Engineering Conference (NER'15)
 year: 2015
 type: conference
 pages: 434-437
 tags:
   - japanese
+  - model:rat
+  - technique:mea-culture
+  - technique:ecog
+  - domain:auditory
+doi: 10.1109/ner.2015.7146652
+abstract: Simultaneous characterization of layer-specific activation in the cortex and topographically organized activation in the thalamus brings substantial benefits to advance the understanding of the sensory/motor functions. We designed a silicon-probe microelectrode array to simultaneously characterize the primary auditory cortex (A1) and thalamus (medial geniculate body; MGB), which are aligned in the dosro-lateral to ventro-medial axis perpendicular to the cortical surface of A1. The array had 3 shanks with 6-mm length. On each shank, 15 recording sites were made at the tip for MGB and 17 sites were made at the bottom for A1. A laser displacement meter was proved useful to make appropriate insertion of the array probe at a right angle with respect to the cortical surface. Our experiments in vivo demonstrated the capability of the designed array to investigate the thalamo-cortical interaction between tonotopically organized activities in the thalamus and layer-specific activities in the cortex.

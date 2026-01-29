@@ -1,6 +1,5 @@
 id: 2015-kenichiusami-state-dependent-modulation-of--85
-title: State-Dependent Modulation of Cortical Synchrony by Vagus Nerve
-  Stimulation in Adult Rats
+title: State-Dependent Modulation of Cortical Synchrony by Vagus Nerve Stimulation in Adult Rats
 authors:
   - Kenichi Usami
   - Ryuji Kano
@@ -18,3 +17,9 @@ pages: 44-50
 doi: 10.1002/ecj.11735
 tags:
   - english
+  - model:rat
+  - model:human
+  - technique:electrical-stim
+  - domain:seizure
+  - domain:bmi
+abstract: SUMMARYVagus nerve stimulation (VNS) is a palliative treatment for intractable epilepsy. Therapeutic mechanisms of VNS have not been elucidated. In this study, we measured the local field potential (LFP) with high‐spatial resolution using a microelectrode array in adult rats, and analyzed VNS‐induced phase modulation at a local network level. Eight adult Wistar rats (270–330 g) were used. Each rat underwent implantation of a VNS system under 1.5% isoflurane anesthesia. One week after implantation, right temporal craniotomy was performed under the same anesthesia as previously. Subsequently, a microelectrode array was placed in the temporal lobe cortex, and the LFP was recorded with a sampling rate of 1000 Hz. Phase‐locking values (PLV) between all pairs of electrodes in varied frequency bands were calculated in order to evaluate the effect of VNS in terms of synchrony of neuronal activities. The PLV was calculated both in a normal state and in an epileptic state induced by kainic acid. VNS increased the PLV in a normal state, particularly in the high‐γ band. In an epileptic state, on the other hand, VNS increased the PLV in the high‐γ band and decreased the PLV in the δ and low‐β bands. These results suggest that VNS modulates neural activities in a band‐specific and state‐dependent manner so as to keep cortical synchrony within the optimal state.

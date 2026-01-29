@@ -4,10 +4,11 @@ authors:
   - Karin Oshima
   - Tomoyo Shiramatsu
   - Hirokazu Takahashi
-conference: Proceedings of 45th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society：#T6-PH.Th_1100 444，2023 (Sydney,
-  Australia, 2023年7月27日) (Poster presentation)
+conference: Proceedings of 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society：#T6-PH.Th_1100 444，2023 (Sydney, Australia, 2023年7月27日) (Poster presentation)
 year: 2023
 type: conference
 tags:
   - japanese
+  - model:rat
+doi: 10.1109/embc40787.2023.10340762
+abstract: "Interpersonal synchronization of movement induced by music is believed to facilitate social bonding between human beings, but it is unknown whether it also works in animals. We allowed rats to interact and develop social bonding with a specific subject for four weeks under one of the three acoustic conditions: playback of K.448 at its original tempo, playback at its double-tempo, and silence. The strength of social bonding between each pair of rats was then measured. The results showed an increase in preference for rats that had interacted under the original tempo playback compared to the other acoustic conditions. Considering that rats move in synchrony with the beat more robustly and consistently between subjects under the original tempo playback than under the double-tempo playback, this result suggests that motor synchronization between subjects through music may facilitate social bonding between rats."

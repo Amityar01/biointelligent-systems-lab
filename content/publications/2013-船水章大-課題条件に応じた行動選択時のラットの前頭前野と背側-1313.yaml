@@ -1,6 +1,5 @@
 id: 2013---role-of-prefrontal-and-striat-1350
-title: 課題条件に応じた行動選択時のラットの前頭前野と背側線条体の役割 (Role of prefrontal and striatal neurons
-  in task-condition-dependent action selection of rat)
+title: 課題条件に応じた行動選択時のラットの前頭前野と背側線条体の役割 (Role of prefrontal and striatal neurons in task-condition-dependent action selection of rat)
 authors:
   - 船水章大
   - 伊藤真
@@ -13,3 +12,5 @@ type: poster
 pages: "#P3-2-64"
 tags:
   - japanese
+  - model:rat
+  - technique:behavior

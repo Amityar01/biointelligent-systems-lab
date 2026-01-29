@@ -1,6 +1,5 @@
 id: 2010-douglasjbakkum-novel-neuronal-cellular-and-ne-148
-title: Novel neuronal cellular and network measurements enabled by a
-  high-density 11,011-electrode CMOS array
+title: Novel neuronal cellular and network measurements enabled by a high-density 11,011-electrode CMOS array
 authors:
   - Douglas J Bakkum
   - Urs Frey
@@ -8,10 +7,12 @@ authors:
   - Michele Fiscella
   - Hirokazu Takahashi
   - Andreas Hierlemann
-conference: Proceedings of the 7th International Meeting on Substrate-Integrated
-  Micro Electrode Arrays
+conference: Proceedings of the 7th International Meeting on Substrate-Integrated Micro Electrode Arrays
 year: 2010
 type: conference
 pages: 324-326
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi

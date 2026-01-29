@@ -1,6 +1,5 @@
 id: 2011-djbakkum-advancing-neuronal-cellular-an-875
-title: Advancing neuronal cellular and network analysis using a high-density
-  11,011-microelectrode CMOS array
+title: Advancing neuronal cellular and network analysis using a high-density 11,011-microelectrode CMOS array
 authors:
   - D. J. Bakkum
   - U. Frey
@@ -13,3 +12,7 @@ year: 2011
 type: presentation
 tags:
   - japanese
+  - model:culture
+  - model:rat
+  - technique:mea-culture
+  - domain:bmi

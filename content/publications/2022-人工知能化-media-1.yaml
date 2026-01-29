@@ -3,7 +3,12 @@ authors: []
 title: 人工知能化
 type: media
 year: 2022
-date: 2022-01-12
+date: "2022-01-12"
 url: https://gendai.ismedia.jp/articles/-/91200
 tags:
   - media-coverage
+  - model:computational
+  - model:human
+  - technique:mea-culture
+  - domain:bmi
+  - domain:reservoir-computing

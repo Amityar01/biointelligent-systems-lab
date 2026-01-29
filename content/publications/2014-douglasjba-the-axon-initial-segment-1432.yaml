@@ -1,6 +1,5 @@
 id: 2014-douglasjbakkum-the-axon-initial-segment-contr-1469
-title: The axon initial segment contributes strongly to the neuron’s
-  extracellular field potential.
+title: The axon initial segment contributes strongly to the neuron’s extracellular field potential.
 authors:
   - Douglas J. Bakkum
   - Milos Radivojevic
@@ -14,3 +13,8 @@ year: 2014
 type: poster
 tags:
   - japanese
+  - model:culture
+  - model:rat
+  - technique:lfp
+  - domain:bmi
+  - domain:plasticity

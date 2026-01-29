@@ -1,6 +1,5 @@
 id: 2023-shinichikumagai-frequency-specific-modulation--121
-title: Frequency-specific modulation of oscillatory activity in the rat auditory
-  cortex by vagus nerve stimulation
+title: Frequency-specific modulation of oscillatory activity in the rat auditory cortex by vagus nerve stimulation
 authors:
   - Shinichi Kumagai
   - Tomoyo Isoguchi Shiramatsu
@@ -15,3 +14,7 @@ type: journal
 doi: 10.1016/j.brs.2023.09.019
 tags:
   - english
+  - model:rat
+  - technique:electrical-stim
+  - domain:auditory
+abstract: VNS might strengthen the FF pathway through the cholinergic system and attenuate the FB pathway through the noradrenergic system in the auditory cortex. Cortical gain modulation through the VNS-induced neuromodulatory system provides new mechanistic insights into the effect of VNS on auditory processing.

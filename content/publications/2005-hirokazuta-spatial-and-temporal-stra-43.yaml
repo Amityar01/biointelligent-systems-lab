@@ -13,3 +13,8 @@ pages: 137-140
 doi: 10.1097/00001756-200502080-00013
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:lfp
+  - domain:auditory
+abstract: Prevailing studies of auditory systems pay most attention to the dynamic temporal changes of sound intensity, but poorly enlighten the encoding of steady-state aspects. Using tone bursts as test stimuli, we epipially map auditory evoked potentials over the rat auditory cortex and investigate how the cortex represents the dynamic and steady states. Our results demonstrate that all of the auditory fields investigated potentially have at least two strategies to represent the two states; a temporal combination of early and late components of the potentials, and a spatial combination of an arbitrary component. In addition, the optimal combination that can distinguish between the two states differs across auditory fields, suggesting robust analyses of sound intensity in the auditory cortex.

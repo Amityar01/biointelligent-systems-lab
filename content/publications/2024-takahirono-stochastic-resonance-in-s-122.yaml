@@ -1,7 +1,5 @@
 id: 2024-takahironoda-stochastic-resonance-in-sparse-122
-title: "Stochastic resonance in sparse neuronal network: functional role of
-  spontaneous activity to detect weak sensory input in awake auditory cortex of
-  rat"
+title: "Stochastic resonance in sparse neuronal network: functional role of spontaneous activity to detect weak sensory input in awake auditory cortex of rat"
 authors:
   - Takahiro Noda
   - Hirokazu Takahashi
@@ -10,3 +8,9 @@ type: journal
 doi: 10.1093/cercor/bhad428
 tags:
   - english
+  - model:rat
+  - technique:spike
+  - technique:ecog
+  - domain:auditory
+  - domain:mismatch-negativity
+abstract: Abstract The awake cortex is characterized by a higher level of ongoing spontaneous activity, but it has a better detectability of weak sensory inputs than the anesthetized cortex. However, the computational mechanism underlying this paradoxical nature of awake neuronal activity remains to be elucidated. Here, we propose a hypothetical stochastic resonance, which improves the signal-to-noise ratio (SNR) of weak sensory inputs through nonlinear relations between ongoing spontaneous activities and sensory-evoked activities. Prestimulus and tone-evoked activities were investigated via in vivo extracellular recording with a dense microelectrode array covering the entire auditory cortex in rats in both awake and anesthetized states. We found that tone-evoked activities increased supralinearly with the prestimulus activity level in the awake state and that the SNR of weak stimulus representation was optimized at an intermediate level of prestimulus ongoing activity. Furthermore, the temporally intermittent firing pattern, but not the trial-by-trial reliability or the fluctuation of local field potential, was identified as a relevant factor for SNR improvement. Since ongoing activity differs among neurons, hypothetical stochastic resonance or “sparse network stochastic resonance” might offer beneficial SNR improvement at the single-neuron level, which is compatible with the sparse representation in the sensory cortex.

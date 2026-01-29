@@ -15,3 +15,8 @@ pages: 2660-2665
 doi: 10.1109/tbme.2009.2024314
 tags:
   - english
+  - model:culture
+  - technique:mea-culture
+  - technique:imaging
+  - domain:bmi
+abstract: "Light addressing is an emerging and sophisticated technique that can induce pinpoint and/or patterned neuronal activation in cultured neurons. We previously developed a light-addressable electrode using hydrogenated amorphous silicon (a-Si:H), which was sandwiched between a tin oxide (SnO(2)) substrate and a passivation layer of zinc antimonate (ZnOSb(2)O(5)) dispersed epoxy. This research developed an experimental system that simultaneously implemented light-addressed stimulation and Ca(2+) imaging of neuronal activities. The translucent and thin laminated structure of our electrode permitted optical accesses from two directions: Ca(2+) imaging from above and light addressing from beneath. The submillisecond bright/dark switching property of our electrode offered light-addressed stimulation without causing interference with Ca(2+) imaging. To provide patterned illumination for light addressing, a digital micromirror device was installed in the system as an active photomask. The system could induce pinpoint neuronal activation at a cellular level."

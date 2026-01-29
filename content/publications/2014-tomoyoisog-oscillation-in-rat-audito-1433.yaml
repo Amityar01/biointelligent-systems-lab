@@ -3,10 +3,13 @@ title: Oscillation in rat auditory cortex representing texture of chord
 authors:
   - Tomoyo Isoguchi Shiramatsu
   - Hirokazu Takahashi
-journal: Abstract of the 1st annual meeting of the society for bioacoustics and
-  the 19th auditory reseach forum
+journal: Abstract of the 1st annual meeting of the society for bioacoustics and the 19th auditory reseach forum
 year: 2014
 type: poster
 pages: "13"
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:auditory

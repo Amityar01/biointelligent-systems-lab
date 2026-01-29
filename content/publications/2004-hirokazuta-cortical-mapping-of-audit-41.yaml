@@ -13,3 +13,8 @@ pages: 1565-1569
 doi: 10.1097/01.wnr.0000134848.63755.5c
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory
+abstract: We characterized the auditory-evoked offset responses of the rat auditory cortex by multiple-site surface microelectrode recording. Tone bursts served as test stimuli. Offset responses did not appear tonotopically, but at the fringe of tonotopic onset distributions. Offset amplitude was significantly sensitive to sound intensity, fall time at tone termination, and duration. These results suggest that offset responses are associated with inhibitory responses surrounding excitatory onset responses, and offset responses become large when inhibition becomes strong and long or terminates synchronously. Thus, the rebound after the inhibition in the presence of a stimulus is likely to be a major cause of offset responses in the auditory cortex.

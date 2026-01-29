@@ -1,6 +1,5 @@
 id: 2016-atsushikayama-inhibitory-neurons-increase-th-1382
-title: Inhibitory neurons increase their firing rate prior to recurring spike
-  sequences in cultured neurons（培養神経ネットワークのスパイクパターン生成における抑制性ニューロンの役割）
+title: Inhibitory neurons increase their firing rate prior to recurring spike sequences in cultured neurons（培養神経ネットワークのスパイクパターン生成における抑制性ニューロンの役割）
 authors:
   - Atsushi Kayama
   - Yuichiro Yada
@@ -13,3 +12,5 @@ type: poster
 pages: p. 99
 tags:
   - japanese
+  - model:culture
+  - technique:spike

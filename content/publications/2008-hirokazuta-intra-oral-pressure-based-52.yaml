@@ -1,6 +1,5 @@
 id: 2008-hirokazutakahas-intra-oral-pressure-based-voic-52
-title: Intra-oral pressure based voicing control of electrolaryngeal speech with
-  intra-oral vibrator
+title: Intra-oral pressure based voicing control of electrolaryngeal speech with intra-oral vibrator
 authors:
   - Hirokazu Takahashi
   - Masayuki Nakao
@@ -15,3 +14,5 @@ pages: 420-429
 doi: 10.1016/j.jvoice.2006.10.004
 tags:
   - english
+  - technique:electrical-stim
+  - domain:speech

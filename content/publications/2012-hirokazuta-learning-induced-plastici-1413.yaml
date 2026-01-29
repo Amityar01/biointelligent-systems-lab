@@ -1,6 +1,5 @@
 id: 2012-hirokazutakahas-learning-induced-plasticity-of-1450
-title: Learning-induced plasticity of response variability of tone-evoked
-  multi-unit activities on the tonotopic map in the auditory cortex
+title: Learning-induced plasticity of response variability of tone-evoked multi-unit activities on the tonotopic map in the auditory cortex
 authors:
   - Hirokazu Takahashi
   - Ryo Yokota
@@ -11,3 +10,7 @@ type: poster
 pages: p. xx-xx
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

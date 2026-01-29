@@ -1,6 +1,5 @@
 id: 2013-akihirofunamizu-pre-attentive-context-specific-71
-title: Pre-attentive, context-specific representation of fear memory in the
-  auditory cortex of rat
+title: Pre-attentive, context-specific representation of fear memory in the auditory cortex of rat
 authors:
   - Akihiro Funamizu
   - Ryohei Kanzaki
@@ -13,3 +12,6 @@ issue: "5"
 doi: 10.1371/journal.pone.0063655
 tags:
   - english
+  - model:rat
+  - domain:auditory
+abstract: Neural representation in the auditory cortex is rapidly modulated by both top-down attention and bottom-up stimulus properties, in order to improve perception in a given context. Learning-induced, pre-attentive, map plasticity has been also studied in the anesthetized cortex; however, little attention has been paid to rapid, context-dependent modulation. We hypothesize that context-specific learning leads to pre-attentively modulated, multiplex representation in the auditory cortex. Here, we investigate map plasticity in the auditory cortices of anesthetized rats conditioned in a context-dependent manner, such that a conditioned stimulus (CS) of a 20-kHz tone and an unconditioned stimulus (US) of a mild electrical shock were associated only under a noisy auditory context, but not in silence. After the conditioning, although no distinct plasticity was found in the tonotopic map, tone-evoked responses were more noise-resistive than pre-conditioning. Yet, the conditioned group showed a reduced spread of activation to each tone with noise, but not with silence, associated with a sharpening of frequency tuning. The encoding accuracy index of neurons showed that conditioning deteriorated the accuracy of tone-frequency representations in noisy condition at off-CS regions, but not at CS regions, suggesting that arbitrary tones around the frequency of the CS were more likely perceived as the CS in a specific context, where CS was associated with US. These results together demonstrate that learning-induced plasticity in the auditory cortex occurs in a context-dependent manner.

@@ -10,3 +10,8 @@ year: 2024
 type: poster
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:behavior
+  - domain:auditory
+  - domain:mismatch-negativity

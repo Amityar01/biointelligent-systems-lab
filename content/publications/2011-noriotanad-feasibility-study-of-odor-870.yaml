@@ -1,6 +1,5 @@
 id: 2011-noriotanada-feasibility-study-of-odor-bios-872
-title: Feasibility study of odor biosensor using dissociate neuronal culture
-  with gene expression of ionotropic odorant receptors
+title: Feasibility study of odor biosensor using dissociate neuronal culture with gene expression of ionotropic odorant receptors
 authors:
   - Norio Tanada
   - Takeshi Sakurai
@@ -13,3 +12,8 @@ year: 2011
 type: presentation
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - technique:optogenetics
+  - domain:bmi
+  - domain:reservoir-computing

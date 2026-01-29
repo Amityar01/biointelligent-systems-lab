@@ -9,3 +9,8 @@ awards:
   - Keynote (special invited speaker)
 tags:
   - japanese
+  - model:rat
+  - model:computational
+  - technique:spike
+  - technique:ecog
+  - domain:reservoir-computing

@@ -14,3 +14,7 @@ awards:
   - Brain keynote lecture
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

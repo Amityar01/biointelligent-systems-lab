@@ -1,6 +1,5 @@
 id: unknown-atsushimasumori-autonomous-regulation-of-self--170
-title: Autonomous Regulation of Self and Non-Self in Embodied Neural Networks by
-  Stimulation Avoidance Principle
+title: Autonomous Regulation of Self and Non-Self in Embodied Neural Networks by Stimulation Avoidance Principle
 authors:
   - Atsushi Masumori
   - Lana Sinapayen
@@ -16,3 +15,10 @@ pages: 163-170
 doi: 10.1162/isal_a_00037
 tags:
   - japanese
+  - model:culture
+  - model:computational
+  - technique:spike
+  - technique:ecog
+  - domain:plasticity
+  - domain:bmi
+abstract: Our previous study showed that embodied cultured neural networks and spiking neural networks with spike-timing dependent plasticity (STDP) can learn a behavior as they avoid stimulation from outsid...

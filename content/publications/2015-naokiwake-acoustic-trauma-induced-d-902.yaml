@@ -1,14 +1,16 @@
 id: 2015-naokiwake-acoustic-trauma-induced-desync-904
-title: Acoustic-trauma-induced Desynchronization of Steadystate Activities in
-  the Auditory Cortex in Rats
+title: Acoustic-trauma-induced Desynchronization of Steadystate Activities in the Auditory Cortex in Rats
 authors:
   - Naoki Wake
   - Tomoyo I. Shiramatsu
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-conference: "Abstract of The 38th annual midwinter research meeting, Aoosication
-  for research in otolaryngology: p. 455, 2015"
+conference: "Abstract of The 38th annual midwinter research meeting, Aoosication for research in otolaryngology: p. 455, 2015"
 year: 2015
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:imaging
+  - domain:auditory

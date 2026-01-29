@@ -1,6 +1,5 @@
 id: 2003-hirokazutakahas-accessing-cortical-tonotopic-o-135
-title: Accessing cortical tonotopic organization by microstimulation of cochlear
-  nucleus
+title: Accessing cortical tonotopic organization by microstimulation of cochlear nucleus
 authors:
   - Hirokazu Takahashi
   - Fumio Mase
@@ -16,3 +15,9 @@ type: conference
 pages: 161-164
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:auditory
+doi: 10.1109/cne.2003.1196782
+abstract: Auditory brainstem implant (ABI) that electrically stimulates the cochlear nucleus has been clinically used for rehabilitation of deaf patients with bilateral acoustic neuromas. A current prosthetic device, however, cannot evoke even pitch sensation and thus brings few benefits. The present work purposes to verify ABI capability by physiological experiments using rats. Our experimental system includes a spike microelectrode array for cochlear nucleus microstimulation and a surface microelectrode array for mapping evoked-potentials over the auditory cortex. We compare pure-tone-evoked cortical potential patterns with those evoked by cochlear nucleus microstimulation. Our experimental results strongly suggest the microstimulation on the dorsal and ventral nuclei can access the cortical tonotopic organization, as acoustic stimuli do, possibly indicating the stimulation can evoke pitch sensation and thus substantially promising ABI capability.

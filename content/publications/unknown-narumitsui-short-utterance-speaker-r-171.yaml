@@ -9,3 +9,6 @@ type: conference
 pages: 1073-1077
 tags:
   - japanese
+  - domain:reservoir-computing
+doi: 10.1109/slt.2018.8639570
+abstract: Short utterances cause performance degradation in conventional speaker recognition systems based on i-vector, which relies on the statistics of spectral features. To overcome this difficulty, we propose a novel method that utilizes the dynamics of the spectral features as well as their distribution. Our model integrates echo state network (ESN), a type of reservoir computing architecture, and self-organizing map (SOM), a competitive learning network. The ESN consists of a single-hidden-layer recurrent neural network with randomly fixed weights, which extracts temporal patterns of the spectral features. The input weights of our model are trained using the unsupervised competitive learning algorithm of the SOM, before enrollment, to extract the intrinsic structure of the spectral features, whereas the input weights are fixed randomly in the original ESN. In enrollment, the output weights are trained in a supervised manner to recognize an individual in a group of speakers. Our experiment demonstrates that the proposed method outperforms or is comparable to a baseline i-vector system for text-independent speaker identification on short utterances.

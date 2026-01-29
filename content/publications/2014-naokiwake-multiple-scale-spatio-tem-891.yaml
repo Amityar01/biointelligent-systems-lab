@@ -1,6 +1,5 @@
 id: 2014-naokiwake-multiple-scale-spatio-temporal-893
-title: Multiple scale spatio-temporal synchrony pattern underlying perception
-  and memory function
+title: Multiple scale spatio-temporal synchrony pattern underlying perception and memory function
 authors:
   - Naoki Wake
   - Tomoyo Shiramatsu-Isoguchi
@@ -13,3 +12,9 @@ year: 2014
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:ecog
+  - technique:spike
+  - domain:mismatch-negativity
+  - domain:plasticity

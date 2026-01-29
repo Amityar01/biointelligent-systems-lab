@@ -9,9 +9,13 @@ authors:
   - Michele Fiscella
   - Hirokazu Takahashi
   - Andreas Hierlemann
-conference: "Abstract of 3rd International Symposium on Frontiers in
-  Neurophotonics International Symposium: p. 25 2013"
+conference: "Abstract of 3rd International Symposium on Frontiers in Neurophotonics International Symposium: p. 25 2013"
 year: 2013
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:ecog
+  - technique:imaging
+  - domain:bmi

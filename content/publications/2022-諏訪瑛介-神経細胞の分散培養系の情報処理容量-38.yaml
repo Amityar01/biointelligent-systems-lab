@@ -14,3 +14,9 @@ pages: 578-585
 doi: 10.1541/ieejeiss.142.578
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - technique:ecog
+  - domain:reservoir-computing
+  - domain:bmi
+abstract: The rich dynamics of spatio-temporal activity patterns in the brain might be exploited in the neuronal information processing. In dissociated cultures of neurons, we attempted to evaluate information processing capacity (IPC), a comprehensive measure of computational ability of input-driven dynamical systems. We found that dissociated cortical cultures had not only the 1st-order IPC, i.e., a linear memory of past inputs, but also the 2nd-order IPC, i.e., the product of past inputs. These IPC indicated that the dissociated culture was able to execute arithmetic operations and logical operations of past inputs by linearly reading out the state of spatio-temporal neural activities. These results indicate that a living neuronal culture can be considered and quantified as a computational resource.

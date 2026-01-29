@@ -1,16 +1,21 @@
 id: 2015-yuichroyada-identification-of-diverse-sync-162
-title: Identification of diverse synchrony pattern in dissociated cortical
-  culture using Bayesian non-negative matrix factorization
+title: Identification of diverse synchrony pattern in dissociated cortical culture using Bayesian non-negative matrix factorization
 authors:
   - Yuichro Yada
   - Takeshi Mita
   - Ryohei Kanzaki
   - Douglas Bakkum
   - Hirokazu Takahashi
-conference: Proceedings of the 7th International IEEE EMBS Neural Engineering
-  Conference (NER'15)
+conference: Proceedings of the 7th International IEEE EMBS Neural Engineering Conference (NER'15)
 year: 2015
 type: conference
 pages: 344-347
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - technique:ecog
+  - domain:mismatch-negativity
+  - domain:plasticity
+doi: 10.1109/ner.2015.7146630
+abstract: Synchrony in a neuronal network is not just a spontaneous event but rather a representation of inner information. In this point of view, the variety of synchrony patterns is considered to be related to inner capacity of the network. However, evaluating and comparing the variety of synchrony patterns, especially between different samples or different times, is difficult. In this paper, we proposed to identify the variety of synchrony based on Bayesian model selection. Hypothesizing that globally synchronized activity consists of partial synchrony, we attempted to identify reproducible-spatial pattern bases in spontaneous bursting activities of dissociated cortical cultures using Bayesian non-negative matrix factorization. Neuronal activity was recorded with high-density CMOS electrode arrays. Bayesian treatment provides evidence for selection of the number of bases based on marginal likelihood. We compared model evidence of the activity in juvenile and matured cultures. Our results suggested that the variety of synchrony patterns diversify through maturation.

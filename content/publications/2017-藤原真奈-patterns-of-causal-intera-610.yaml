@@ -1,6 +1,5 @@
 id: 2017--patterns-of-causal-interaction-612
-title: Patterns of causal interactions among neurons in the rat auditory cortex
-  under wakeful and anesthetized states
+title: Patterns of causal interactions among neurons in the rat auditory cortex under wakeful and anesthetized states
 authors:
   - 藤原真奈
   - 石津光太郎
@@ -14,3 +13,7 @@ year: 2017
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

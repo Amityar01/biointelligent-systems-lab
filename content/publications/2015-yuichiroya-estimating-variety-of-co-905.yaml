@@ -1,6 +1,5 @@
 id: 2015-yuichiroyada-estimating-variety-of-co-activ-907
-title: Estimating variety of co-active neuronal group in living neuronal network
-  with model selection approach
+title: Estimating variety of co-active neuronal group in living neuronal network with model selection approach
 authors:
   - Yuichiro Yada
   - Ryohei Kanzaki
@@ -10,3 +9,9 @@ year: 2015
 type: presentation
 tags:
   - japanese
+  - model:culture
+  - model:computational
+  - technique:spike
+  - technique:ecog
+  - domain:plasticity
+  - domain:reservoir-computing

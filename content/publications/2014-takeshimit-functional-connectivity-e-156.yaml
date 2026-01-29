@@ -1,7 +1,5 @@
 id: 2014-takeshimita-functional-connectivity-estima-156
-title: Functional Connectivity Estimate from Spontaneous and Stimulus Evoked
-  Activities in Dissociated Cultured Neurons on a High-Density CMOS
-  Microelectrode Array
+title: Functional Connectivity Estimate from Spontaneous and Stimulus Evoked Activities in Dissociated Cultured Neurons on a High-Density CMOS Microelectrode Array
 authors:
   - Takeshi Mita
   - Douglas J. Bakkum
@@ -9,10 +7,12 @@ authors:
   - Andreas Hierlemann
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-conference: Proceedings of the 9th International Meeting on Substrate-Integrated
-  Microelectrode Arrays (MEA meeting 2014)
+conference: Proceedings of the 9th International Meeting on Substrate-Integrated Microelectrode Arrays (MEA meeting 2014)
 year: 2014
 type: conference
 pages: 147-148
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi

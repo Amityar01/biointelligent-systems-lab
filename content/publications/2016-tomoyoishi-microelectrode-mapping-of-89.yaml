@@ -1,6 +1,5 @@
 id: 2016-tomoyoishiramat-microelectrode-mapping-of-tono-89
-title: Microelectrode mapping of tonotopic, laminar, and field-specific
-  organization of thalamo-cortical pathway in rat
+title: Microelectrode mapping of tonotopic, laminar, and field-specific organization of thalamo-cortical pathway in rat
 authors:
   - Tomoyo I. Shiramatsu
   - Kazusa Takahashi
@@ -14,3 +13,7 @@ pages: 38-52
 doi: 10.1016/j.neuroscience.2016.06.024
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:auditory

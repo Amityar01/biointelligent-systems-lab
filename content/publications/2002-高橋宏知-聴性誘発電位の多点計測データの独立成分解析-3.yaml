@@ -11,5 +11,12 @@ type: journal
 volume: "122"
 issue: "9"
 pages: 1469-1480
+doi: 10.1541/ieejeiss1987.122.9_1469
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:mismatch-negativity
+  - domain:auditory
+abstract: "We employ the independent component analysis (ICA) for multiple-site grand-averaged auditory-evoked-potentials and show its feasibility to interpret the data physiologically. We first simulate near field potential at auditory cortex to examine how ensemble firing activities and synaptic activities generate the potential: both arise biphasic potential and firing activities are followed by synaptic activities by a few millisecond. We then implement ICA to our multiple-site auditory-evoked middle latency responses (MLR). The simulation and previous reports suggest that ICA successfully extract from the data three significant components, that are cortical firing activities, cortical synaptic activities, and far activities. ICA also shows how these compo-nents contribute to MLR waveforms and suggests how typical MLRs are generated: MLR only with Na-Pa-Nb appears when both synaptic activities and firing activities are sufficiently large: the No-Po-Na-Pa-Nh complex appears when both are not so large; and the NA-PA-NB-PB-NC complex appears when both are sufficiently small."

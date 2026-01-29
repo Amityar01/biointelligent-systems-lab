@@ -13,3 +13,8 @@ pages: 21-28
 doi: 10.1002/ecj.10060
 tags:
   - english
+  - model:rat
+  - technique:mea-culture
+  - technique:probe-invivo
+  - domain:bmi
+abstract: "AbstractThis paper proposes a penetration‐type tungsten microelectrode array on a flexible silicone rubber substrate for neural recording from a desired cortical layer. Our evaluation experiments confirmed that the flexible substrate keeps the penetration depth of each electrode constant and allows simultaneous multipoint recording of spike potentials from a desired neocortical layer. Penetration of the stiff and flexible arrays into agarose specimens with a curvature comparable to that of the rat brain, revealed that the electrodes at the edge of the stiff array had up to 150 μm error in penetration depth, while the penetration depth of the flexible array was approximately constant across the electrodes (ANOVA, p=0.835). Electrophysiological experiments in the rat auditory cortex demonstrated that simultaneous multipoint recording of the acoustically evoked spike potentials was feasible with the flexible array. A series of penetration trials and characteristic frequency estimations successfully identified the primary auditory cortex by assuring a gradual increase in the characteristic frequencies from caudal to rostral. This result suggests that the proposed electrode is suitable for acute experiments requiring repeated penetration and precision positioning of penetration sites. © 2009 Wiley Periodicals, Inc. Electron Comm Jpn, 92(7): 21–28, 2009; Published online in Wiley InterScience (www.interscience.wiley.com). DOI 10.1002/ecj.10060"

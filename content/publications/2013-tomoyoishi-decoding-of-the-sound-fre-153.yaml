@@ -1,15 +1,18 @@
 id: 2013-tomoyoishiramat-decoding-of-the-sound-frequenc-153
-title: Decoding of the Sound Frequency from the Steady-state Neural Activities
-  in Rat Auditory Cortex
+title: Decoding of the Sound Frequency from the Steady-state Neural Activities in Rat Auditory Cortex
 authors:
   - Tomoyo I. Shiramatsu
   - Takahiro Noda
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-conference: Proceedings of 35th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 year: 2013
 type: conference
 pages: 5598-5601
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+doi: 10.1109/embc.2013.6610819
+abstract: In the auditory cortex, onset activities have been extensively investigated as a cortical representation of sound information such as sound frequency. Yet, less attention has been paid to date to steady-state activities following the onset activities. In this study, we used machine learning to investigate whether steady-state activities in the presence of continuous sounds represent the sound frequency. Sparse Logistic Regression (SLR) decoded the sound frequency from band specific power or phase locking value (PLV) of local field potentials (LFP) from the fourth layer of the auditory cortex of anesthetized rats. Consequently, we found that SLR was able to decode the sound frequency from steady-state neural activities as well as onset activities. This result demonstrates that the steady-state activities contain information about the sound such as sound frequency.

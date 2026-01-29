@@ -1,6 +1,5 @@
 id: 2010-dbakkum-subcellular-resolution-recordi-344
-title: Subcellular-Resolution Recording of Electrical Activity Using a
-  CMOS-Microelectrode System
+title: Subcellular-Resolution Recording of Electrical Activity Using a CMOS-Microelectrode System
 authors:
   - D. Bakkum
   - U. Frey
@@ -11,3 +10,7 @@ year: 2010
 type: presentation
 tags:
   - japanese
+  - model:human
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi

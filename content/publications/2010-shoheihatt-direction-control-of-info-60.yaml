@@ -1,6 +1,5 @@
 id: 2010-shoheihattori-direction-control-of-informati-60
-title: Direction control of information transfer between neuronal populations
-  with asymmetric three-dimensional microstructure
+title: Direction control of information transfer between neuronal populations with asymmetric three-dimensional microstructure
 authors:
   - Shohei Hattori
   - Jun Suzurikawa
@@ -17,3 +16,7 @@ issue: "12"
 doi: 10.1002/ecj.10240
 tags:
   - english
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi
+abstract: "AbstractInformation transfer among neuronal populations has a directional bias. Some past studies demonstrated that microstructure could bias the direction of information transfer at a cellular level. However, the transfer at a population level has hardly been controlled to date. In order to control the information transfer, we attempt to bias the direction of neurite outgrowth of cultured neurons using a three‐dimensional asymmetric microstructure. The proposed microstructure is an embossed barrier with a right‐triangle cross section, namely, an ascending slope and vertical wall. Because of the asymmetricity, the neurite growth rate from the wall‐side to the slope‐side is expected to be lower than that of the slope‐to‐wall. We fabricated the microstructure on a polystyrene substrate by hot pressing, simultaneously embedding line electrodes for probing stimulation. To confirm the impact of the microstructure on neurite outgrowth, and thus the signal transfer direction between neuronal populations separated by the structure, we stimulated cultured neurons on both sides of the structure. There was a difference in neuronal responses to wall‐side stimulation and slope‐side stimulation, demonstrating the directional characteristic of information transfer. © 2010 Wiley Periodicals, Inc. Electron Comm Jpn, 93(12): 17–25, 2010; Published online in Wiley Online Library (wileyonlinelibrary.com). DOI 10.1002/ecj.10240"

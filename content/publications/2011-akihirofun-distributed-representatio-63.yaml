@@ -1,6 +1,5 @@
 id: 2011-akihirofunamizu-distributed-representation-of--63
-title: Distributed representation of tone frequency in highly decodable
-  spatio-temporal activity in the auditory cortex
+title: Distributed representation of tone frequency in highly decodable spatio-temporal activity in the auditory cortex
 authors:
   - Akihiro Funamizu
   - Ryohei Kanzaki
@@ -14,3 +13,7 @@ pages: 321-332
 doi: 10.1016/j.neunet.2010.12.010
 tags:
   - english
+  - model:rat
+  - technique:spike
+  - technique:ecog
+  - domain:auditory

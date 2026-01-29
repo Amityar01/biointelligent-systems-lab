@@ -1,6 +1,5 @@
 id: 2014-tomoyoisoguchis-trial-to-trial-variation-of-au-898
-title: Trial-to-trial variation of auditory evoked potentials and mismatch
-  negativity in rat auditory cortex
+title: Trial-to-trial variation of auditory evoked potentials and mismatch negativity in rat auditory cortex
 authors:
   - Tomoyo Isoguchi Shiramatsu
   - Hirokazu Takahashi
@@ -9,3 +8,6 @@ year: 2014
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:mismatch-negativity

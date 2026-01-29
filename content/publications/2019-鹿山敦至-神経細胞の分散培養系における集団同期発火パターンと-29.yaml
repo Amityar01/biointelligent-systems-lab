@@ -13,3 +13,8 @@ pages: 570-578
 doi: 10.1541/ieejeiss.139.570
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - technique:mea-culture
+  - domain:plasticity
+abstract: Spatio-temporal patterns of neural activities develop repeatability, diversity, and hierarchy. In the present study, we attempted to elucidate how these dynamical properties are associated with a network structure in primary cultures of dissociated neurons. High-density CMOS electrode array investigated spatio-temporal activity patterns of dissociate neuronal cultures throughout development. Additionally, based on the spatio-temporal patterns in each test culture, a structure of functional network was estimated with transfer entropy in a pairwise manner. Consequently, repeatability increased with connection strength, dispersity, and clustering at the early developmental stage. Subsequently, hierarchy developed with connection strength and dispersity. These results demonstrated that a repertoire of activity patterns developed with some characteristics of network structure.

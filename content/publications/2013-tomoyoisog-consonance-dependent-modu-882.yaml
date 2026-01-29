@@ -1,14 +1,16 @@
 id: 2013-tomoyoisoguchi-consonance-dependent-modulatio-884
-title: Consonance-dependent modulation of phase synchrony in the auditory cortex
-  of rats
+title: Consonance-dependent modulation of phase synchrony in the auditory cortex of rats
 authors:
   - Tomoyo Isoguchi
   - Takahiro Noda
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-conference: "Abstract of The 36th annual midwinter research meeting, Aoosication
-  for research in otolaryngology: pp. 39-40, 2013"
+conference: "Abstract of The 36th annual midwinter research meeting, Aoosication for research in otolaryngology: pp. 39-40, 2013"
 year: 2013
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:imaging
+  - domain:auditory

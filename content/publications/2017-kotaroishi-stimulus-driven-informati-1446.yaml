@@ -7,10 +7,12 @@ authors:
   - Ryohei Kanzaki
   - Naotsugu Tsuchiya
   - Hirokazu Takahashi
-journal: Abstract of The 40th annual midwinter research meeting, Aoosication for
-  research in otolaryngology
+journal: Abstract of The 40th annual midwinter research meeting, Aoosication for research in otolaryngology
 year: 2017
 type: poster
 pages: 281-282
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory

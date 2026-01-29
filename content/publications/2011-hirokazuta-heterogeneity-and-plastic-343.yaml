@@ -6,3 +6,7 @@ year: 2011
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:lfp
+  - domain:auditory

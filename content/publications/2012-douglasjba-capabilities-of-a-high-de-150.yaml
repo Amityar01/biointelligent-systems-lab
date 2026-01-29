@@ -1,6 +1,5 @@
 id: 2012-douglasjbakkum-capabilities-of-a-high-density-150
-title: Capabilities of a High-Density CMOS Microelectrode Array to Identify,
-  Record, and Stimulate Individual Neurons in Cultured Networks
+title: Capabilities of a High-Density CMOS Microelectrode Array to Identify, Record, and Stimulate Individual Neurons in Cultured Networks
 authors:
   - Douglas J Bakkum
   - Urs Frey
@@ -9,10 +8,12 @@ authors:
   - Branka Roscic
   - Hirokazu Takahashi
   - Andreas Hierlemann
-conference: Proceedings of the 8th International Meeting on Substrate-Integrated
-  Micro Electrode Arrays
+conference: Proceedings of the 8th International Meeting on Substrate-Integrated Micro Electrode Arrays
 year: 2012
 type: conference
 pages: 206-207
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi

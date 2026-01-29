@@ -12,3 +12,8 @@ issue: "8"
 doi: 10.1002/ecj.10327
 tags:
   - english
+  - model:rat
+  - technique:mea-culture
+  - technique:probe-invivo
+  - domain:bmi
+abstract: "AbstractMicroelectrode arrays are commonly used to measure neural activities in the brain, and arrays with some 100 electrodes are commercially available to date. However, insertion of a dense grid array deforms the brain, resulting in deterioration of the measurements. In order to overcome this problem, we propose a piezo‐driven vibrating insertion device to reduce the insertion‐induced deformation of the brain. We attempted under various conditions to insert the array into an agarose substrate, whose hardness was adjusted to that of the cerebral cortex of rats. Our experiments demonstrated that inverse‐sawtooth vibration reduced the insertion‐induced deformation of the substrate in proportion to the logarithm of the upstroke velocity when the velocity was higher than 10 mm/s, and vibrating insertion of the maximum velocity at 36.7 mm/s reduced the deformation by up to 40% as compared to insertion without vibration. In addition, we tested the vibrating insertion device in an electrophysiological experiment in the rat auditory cortex in vivo, and successfully measured tone‐evoked neural activities. © 2011 Wiley Periodicals, Inc. Electron Comm Jpn, 94(8): 37–46, 2011; Published online in Wiley Online Library (wileyonlinelibrary.com). DOI 10.1002/ecj.10327"

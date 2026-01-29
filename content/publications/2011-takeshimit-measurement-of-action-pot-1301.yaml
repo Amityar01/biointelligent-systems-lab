@@ -1,6 +1,5 @@
 id: 2011-takeshimita-measurement-of-action-potentia-1338
-title: Measurement of Action Potentials of Dissociated Cultured Neurons by High
-  Density CMOS Array and Network Analysis
+title: Measurement of Action Potentials of Dissociated Cultured Neurons by High Density CMOS Array and Network Analysis
 authors:
   - Takeshi Mita
   - Douglas Bakkum
@@ -14,3 +13,7 @@ type: poster
 pages: "#P4-v08"
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - domain:bmi
+  - domain:mismatch-negativity

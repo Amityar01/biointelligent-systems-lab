@@ -15,3 +15,6 @@ pages: 952-956
 doi: 10.1109/tbme.2005.845224
 tags:
   - english
+  - technique:mea-culture
+  - technique:probe-invivo
+abstract: This paper provides a detailed process flow for fabricating an easy-to-prepare, inexpensive, dense array of tungsten microelectrodes. We designed the process flow to minimize routine tasks by separating an initial preparation of a master mold from a routine preparation of substrate replication, array assembly and tip processing. Sandblast processing first produced a glass mold with a pattern of a series of protruding lines at a requested interval of a few hundred micrometers. Copying the groove pattern onto polystyrene mass-produced a replica substrate. Tungsten probes were then aligned on the substrate, and the tips of probes were finely processed in the block.

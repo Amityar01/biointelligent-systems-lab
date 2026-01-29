@@ -7,3 +7,5 @@ conference: "日本学術振興会 分子系の複合電子機能第181委員会
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - domain:auditory

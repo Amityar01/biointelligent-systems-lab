@@ -12,3 +12,8 @@ pages: 654-660
 doi: 10.1541/ieejeiss.141.654
 tags:
   - japanese
+  - model:culture
+  - technique:lfp
+  - technique:spike
+  - domain:plasticity
+abstract: High-frequency stimulation that induces long-term potentiation (LTP), rather than low-frequency stimulation that induces long-term depression (LTD), is usually used to induce stimulus-specific plasticity in neural systems. Here, we demonstrated in dissociated neuronal cultures that low-frequency stimulation induced stimulus-specific plasticity with a longer time scale than high-frequency stimulation. In the training session, 1-Hz low-frequency electrical stimulation with specific spatial patterns was applied for 1 h to induce plasticity in dissociated neurons on a high-density microelectrode array. Evoked discharges of neurons reduced immediately after the training session, corroborating that low-frequency stimulation induced LTD. However, the neuronal activity 24 hours after the training session exhibited higher discharge rates and became more stimulus specific than that in the pre-training session. These results imply that the spontaneous activity of dissociated neurons after LTD induces LTP and learning.

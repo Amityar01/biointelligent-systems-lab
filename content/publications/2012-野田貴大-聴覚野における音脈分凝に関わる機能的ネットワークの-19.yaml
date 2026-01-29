@@ -15,3 +15,9 @@ awards:
   - 平成24年電気学会電子・情報・システム部門大会論文奨励賞
 tags:
   - japanese
+  - model:rat
+  - technique:lfp
+  - technique:ecog
+  - domain:auditory
+  - domain:mismatch-negativity
+abstract: Perceptual integration and segregation of alternating tone sequence differing in frequency (ABA-ABA-…) depend on the frequency differences (ΔFs) between A and B tones and the inter-tone intervals (ITIs) between successive tones. In the auditory cortex, tonotopic separation, forward suppression and multisecond habituation have been considered as possible neural mechanisms of this perceptual phenomenon. These mechanisms, however, cannot completely account for the van Noorden's perceptual boundary and the temporally continuous perception of auditory streaming. Here we examined the temporal changes of the functional network properties in the auditory cortex in response to tone sequences with different ΔFs and ITIs. Specifically, we recorded local field potentials using microelectrode arrays from anesthetized rats and constructed the functional network based on phase synchrony in gamma-band oscillation. Consequently, the networks consisted of sub-networks highly correlated with the place code of frequency, i.e., tonotopic map, and the sub-network selective to B tones lasted for a prolonged period at large ΔF. Such characteristic substructures of functional network are a possible candidate of neural basis of auditory stream segregation.

@@ -1,15 +1,18 @@
 id: 2006-akihirofunamizu-learning-induced-context-depen-1429
-title: Learning-induced context-dependent spatio-temporal plasticity in the
-  primary, anterior and ventral fields of the rats auditory cortex
+title: Learning-induced context-dependent spatio-temporal plasticity in the primary, anterior and ventral fields of the rats auditory cortex
 authors:
   - Akihiro Funamizu
   - Masanobu Uchihara
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-journal: Proceedings of the International Conference on Auditory Cortex – The
-  Listening Brain
+journal: Proceedings of the International Conference on Auditory Cortex – The Listening Brain
 year: 2006
 type: poster
 pages: "65"
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:lfp
+  - domain:auditory
+  - domain:plasticity

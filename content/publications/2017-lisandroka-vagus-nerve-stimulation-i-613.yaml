@@ -1,6 +1,5 @@
 id: 2017-lisandrokaunitz-vagus-nerve-stimulation-increa-615
-title: Vagus Nerve Stimulation Increases Multi-unit Activity in Superficial
-  Layers of Rat Auditory Cortex
+title: Vagus Nerve Stimulation Increases Multi-unit Activity in Superficial Layers of Rat Auditory Cortex
 authors:
   - Lisandro Kaunitz
   - Tomoyo I. Shiramatsu
@@ -13,3 +12,6 @@ year: 2017
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:electrical-stim
+  - domain:auditory

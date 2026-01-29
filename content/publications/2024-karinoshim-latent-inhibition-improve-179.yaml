@@ -1,15 +1,15 @@
 id: 2024-karinoshima-latent-inhibition-improves-dis-179
-title: Latent inhibition improves discriminative fear conditioning in rat model
-  for schizophrenia
+title: Latent inhibition improves discriminative fear conditioning in rat model for schizophrenia
 authors:
   - Karin Oshima
   - Shinichi Kumagai
   - Tomoyo I. Shiramatsu
   - Hirokazu Takahashi
-conference: Proceedings of 46th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society：#A4P-25-168, 2024（Orland, USA,
-  2024年7月15日) (Poster presentation)
+conference: Proceedings of 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society：#A4P-25-168, 2024（Orland, USA, 2024年7月15日) (Poster presentation)
 year: 2024
 type: conference
 tags:
   - japanese
+  - model:rat
+doi: 10.1109/embc53108.2024.10781955
+abstract: The aberrant salience hypothesis is a well-known framework that explains symptoms of schizophrenia. However, no studies have directly examined the relationship between this hypothesis and impaired discrimination learning between neutral (CS-) and aversive (CS+) sound stimuli in a rat model of schizophrenia. The present study aimed to examine the relationship between aberrant salience and the discrimination learning deficits in a rat model of schizophrenia. Rats were subjected to classical discriminative fear conditioning which follows latent inhibition to reduce the saliency of CS. Duration of freezing behavior demonstrated that schizophrenia model rats succeeded in the discriminative conditioning. Moreover, the magnitude of auditory evoked response revealed altered tonotopic map in these rats, supporting the successful learning. These results indicate that the decrease in saliency helps discriminative learning of the schizophrenia model rats, supporting that the deficits in discrimination in the schizophrenia can be discussed within the framework of the aberrant salience hypothesis for this disease.

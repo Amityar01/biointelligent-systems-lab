@@ -1,6 +1,5 @@
 id: 2015-kotaroishizu-causality-evaluation-of-signal-1365
-title: Causality Evaluation of Signal Transfer between Thalamus and Cortex using
-  Transfer Entropy
+title: Causality Evaluation of Signal Transfer between Thalamus and Cortex using Transfer Entropy
 authors:
   - Kotaro Ishizu
   - Hiroyuki Nagata
@@ -13,3 +12,8 @@ type: poster
 pages: "#2P179"
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:ecog
+  - domain:bmi
+  - domain:mismatch-negativity

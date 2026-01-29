@@ -15,3 +15,9 @@ pages: 55-65
 doi: 10.1016/j.neuroscience.2016.11.031
 tags:
   - english
+  - model:culture
+  - model:rat
+  - technique:spike
+  - technique:lfp
+  - domain:plasticity
+  - domain:bmi

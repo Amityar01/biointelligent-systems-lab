@@ -1,6 +1,5 @@
 id: 2025-tomoyoisoguchis-vagus-nerve-stimulation-modula-127
-title: Vagus nerve stimulation modulates information representation of sustained
-  activity in layer specific manner in the rat auditory cortex
+title: Vagus nerve stimulation modulates information representation of sustained activity in layer specific manner in the rat auditory cortex
 authors:
   - Tomoyo Isoguchi Shiramatsu
   - Kenji Ibayashi
@@ -11,3 +10,7 @@ type: journal
 doi: 10.1101/2025.02.08.637217
 tags:
   - english
+  - model:rat
+  - technique:electrical-stim
+  - domain:auditory
+abstract: Abstract The brain of a living organism enables stable information processing in response to constantly changing external environments and internal states. As one of such cortical modulation, the present study focused on the effect of vagus nerve stimulation (VNS) therapy on information representation of the auditory cortex. By quantifying sound representation using machine learning, we investigated whether VNS alters cortical information representation in a layer-specific and frequency band-specific manner. A microelectrode array meticulously mapped the band-specific power and phase-locking value of sustained activities in every layer of the rat auditory cortex. Sparse logistic regression was used to decode the test frequency from these neural characteristics. The comparison of decoding accuracy before and after the application of VNS indicated that sound representation of the high-gamma band activity was impaired in the deeper layers, i.e., layers 5 and 6, while it was slightly improved in the superficial layers, i.e., layers 2, 3, and 4. Moreover, there was an improvement of sound representation in theta band activity in the deeper layers, demonstrating the layer-specific and frequency band-specific effect of VNS. Given that the cortical laminar structure and oscillatory activity in multiple frequency bands helps the auditory cortex to act as a hub for feed-forward and feed-back pathways in various information processing, the current findings support the possibility that VNS provide complex effects on brain function by altering the balance of cortical activity between layers and frequency bands.

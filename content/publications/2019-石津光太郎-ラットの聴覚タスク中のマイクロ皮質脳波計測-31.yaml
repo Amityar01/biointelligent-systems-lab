@@ -14,3 +14,8 @@ pages: 625-631
 doi: 10.1541/ieejeiss.139.625
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+  - domain:mismatch-negativity
+abstract: We designed an experimental system to measure micro-electrocorticograms (µECoG) with 4×4 epi-dura electrodes implanted in the temporal cortex in a head-fix preparation of awake rats. During measurement, rats were allowed to pull a lever voluntarily, which was associated with delivery of water reward. With the setup, we trained rats to report conscious perception of tone and mapped the auditory evoked potentials (AEP) around the audible threshold. We demonstrated that conscious perception was associated with P3 wave rather than the middle latency AEP. Thus, our experimental setup was able to characterize µECoG during auditory tasks, opening a new avenue to investigate the neural correlates of consciousness.

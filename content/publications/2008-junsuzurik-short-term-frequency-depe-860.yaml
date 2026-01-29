@@ -1,6 +1,5 @@
 id: 2008-junsuzurikawa-short-term-frequency-dependent-862
-title: Short-term frequency-dependent plasticity of in-vitro neuronal
-  aggregation responses induced by light-addressed electrical stimulation
+title: Short-term frequency-dependent plasticity of in-vitro neuronal aggregation responses induced by light-addressed electrical stimulation
 authors:
   - Jun Suzurikawa
   - Masayuki Nakao
@@ -12,3 +11,8 @@ year: 2008
 type: presentation
 tags:
   - english
+  - model:rat
+  - model:culture
+  - technique:optogenetics
+  - technique:electrical-stim
+  - domain:plasticity

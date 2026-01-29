@@ -1,6 +1,5 @@
 id: 2024-amityaron-negative-prediction-error-neur-935
-title: "Negative Prediction-Error Neurons in Rat Auditory Cortex: Response
-  Properties and Implications for Predictive Coding Circuits"
+title: "Negative Prediction-Error Neurons in Rat Auditory Cortex: Response Properties and Implications for Predictive Coding Circuits"
 authors:
   - Amit Yaron
   - Tomoyo I Shiramatsu
@@ -11,3 +10,7 @@ year: 2024
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

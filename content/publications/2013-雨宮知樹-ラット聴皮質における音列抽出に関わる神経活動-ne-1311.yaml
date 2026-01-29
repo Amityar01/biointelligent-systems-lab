@@ -1,6 +1,5 @@
 id: 2013---neural-correlates-of-perceptu-1348
-title: ラット聴皮質における音列抽出に関わる神経活動 (Neural correlates of perceptual grouping of tone
-  sequences in rat auditory cortex)
+title: ラット聴皮質における音列抽出に関わる神経活動 (Neural correlates of perceptual grouping of tone sequences in rat auditory cortex)
 authors:
   - 雨宮知樹
   - 野田貴大
@@ -13,3 +12,6 @@ type: poster
 pages: "#P1-1-132"
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory

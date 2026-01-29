@@ -1,6 +1,5 @@
 id: 2015-ryoyokota-learning-stage-dependent-plast-83
-title: Learning-stage-dependent plasticity of temporal coherence in the auditory
-  cortex of rats
+title: Learning-stage-dependent plasticity of temporal coherence in the auditory cortex of rats
 authors:
   - Ryo Yokota
   - Ryohei Kanzaki
@@ -15,3 +14,7 @@ pages: 401-410
 doi: 10.1007/s10548-014-0359-5
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

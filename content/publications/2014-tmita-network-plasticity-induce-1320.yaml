@@ -1,6 +1,5 @@
 id: 2014-tmita-network-plasticity-induced-by--1357
-title: Network plasticity induced by tatanic stimulation on a single axon in
-  dissociated neuronal culture
+title: Network plasticity induced by tatanic stimulation on a single axon in dissociated neuronal culture
 authors:
   - T. Mita
   - D. J. Bakkum
@@ -14,3 +13,7 @@ type: poster
 pages: P3-380
 tags:
   - japanese
+  - model:culture
+  - technique:spike
+  - technique:mea-culture
+  - domain:plasticity

@@ -1,14 +1,19 @@
 id: 2006-hirokazutakahas-separation-of-subcortical-comp-138
-title: Separation of subcortical component from cortical auditory evoked
-  potential by independent component analysis
+title: Separation of subcortical component from cortical auditory evoked potential by independent component analysis
 authors:
   - Hirokazu Takahashi
   - Masayuki Nakao
   - Kimitaka Kaga
-conference: Proceedings of 28th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 year: 2006
 type: conference
 pages: 2284-2287
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory
+  - domain:mismatch-negativity
+doi: 10.1109/iembs.2006.259915
+abstract: Auditory evoked potentials (AEPs) in the temporal cortex have typical slow positive/negative (P1/N1) biphasic waves, which are occasionally associated with an additional earlier small deflection (P0/N0). In the present paper, we attempted to address the neural origin of P0/N0 deflection by the independent component analysis (ICA) of densely mapped cortical AEPs of rats. The ICA results suggest that the deflection appears when subcortical contribution to AEP is equal to or larger than cortical contribution.

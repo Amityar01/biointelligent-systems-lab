@@ -7,3 +7,7 @@ year: 2019
 type: presentation
 tags:
   - japanese
+  - model:human
+  - technique:ecog
+  - technique:scalp-eeg
+  - domain:bmi

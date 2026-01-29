@@ -1,6 +1,5 @@
 id: 2024-hexinxi-audiovisual-rabbit-illusion-an-937
-title: "Audiovisual Rabbit Illusion and multimodal Mismatch Negativity: A Dual
-  Approach to Investigate Multisensory Integration"
+title: "Audiovisual Rabbit Illusion and multimodal Mismatch Negativity: A Dual Approach to Investigate Multisensory Integration"
 authors:
   - Hexin Xi
   - Yiyuan Teresa Huang
@@ -13,3 +12,7 @@ year: 2024
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:behavior
+  - domain:mismatch-negativity

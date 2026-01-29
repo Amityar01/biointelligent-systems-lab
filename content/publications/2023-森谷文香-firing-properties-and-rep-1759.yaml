@@ -1,6 +1,5 @@
 id: 2023--firing-properties-and-represen-1870
-title: Firing properties and representation for information of hippocampal
-  neurons（海馬における神経細胞の発火特性と情報表現）
+title: Firing properties and representation for information of hippocampal neurons（海馬における神経細胞の発火特性と情報表現）
 authors:
   - 森谷文香
 journal: 東京大学大学院情報理工学系研究科学位論文
@@ -8,3 +7,4 @@ year: 2023
 type: thesis
 tags:
   - japanese
+  - model:culture

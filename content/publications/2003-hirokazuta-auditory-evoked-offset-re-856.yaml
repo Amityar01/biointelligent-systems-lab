@@ -1,6 +1,5 @@
 id: 2003-hirokazutakahas-auditory-evoked-offset-respons-858
-title: Auditory evoked offset responses of rat auditory cortices reflect
-  synchronous post-stimulus resumption of spontaneous discharges
+title: Auditory evoked offset responses of rat auditory cortices reflect synchronous post-stimulus resumption of spontaneous discharges
 authors:
   - Hirokazu Takahashi
   - Masayuki Nakao
@@ -11,3 +10,7 @@ year: 2003
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:spike
+  - domain:auditory

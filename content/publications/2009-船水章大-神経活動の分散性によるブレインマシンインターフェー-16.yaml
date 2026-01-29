@@ -13,3 +13,9 @@ pages: 1801-1807
 doi: 10.1541/ieejeiss.129.1801
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:spike
+  - technique:ecog
+  - domain:bmi
+abstract: In this study, we attempted to identify influential characteristics of input data for neural decoding across different decoders. Support vector machine (SVM), k-nearest neighbor method (KNN) and canonical discriminant analysis (CDA) were used as decoders to predict test tone frequencies from tone-induced neural activities in the rat auditory cortices. The sequential dimensionality reduction (SDR) that we had previously proposed reduced input data dimension one by one without deteriorating the prediction accuracy in order to identify the neural activity pattern that led to the best prediction accuracy for each decoder. We found that the accuracy of SVM and KNN improved when neural activities had high spike rates and high dispersiveness, while CDA performed better on sparse neural activities. These results suggest that the best decoder can change according to the spike rates and dispersiveness of neural activities. Since these characteristics of neural activities change depending on brain regions or test stimuli, the selection of proper decoder would be important for efficient neural decoding.

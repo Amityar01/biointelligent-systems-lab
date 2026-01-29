@@ -1,6 +1,5 @@
 id: 2013---extraction-of-functional-subn-1346
-title: 音脈分凝にかかわる聴覚野の機能的サブネットワーク構造の抽出 (Extraction of functional subnetwork
-  structure for auditory stream segregation in auditory cortex)
+title: 音脈分凝にかかわる聴覚野の機能的サブネットワーク構造の抽出 (Extraction of functional subnetwork structure for auditory stream segregation in auditory cortex)
 authors:
   - 野田貴大
   - 神崎亮平
@@ -11,3 +10,6 @@ type: poster
 pages: "#P1-1-115"
 tags:
   - japanese
+  - model:rat
+  - technique:lfp
+  - domain:auditory

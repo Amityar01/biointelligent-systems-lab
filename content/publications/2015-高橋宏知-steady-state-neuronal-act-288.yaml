@@ -1,6 +1,5 @@
 id: 2015--steady-state-neuronal-activity-290
-title: Steady-state neuronal activity pattern in response to long-lasting
-  continuous tone in the auditory cortex of rat
+title: Steady-state neuronal activity pattern in response to long-lasting continuous tone in the auditory cortex of rat
 authors:
   - 高橋宏知
 conference: 第120回日本解剖学会総会・全国学術集会・第92回日本生理学会大会合同大会，2015
@@ -8,3 +7,6 @@ year: 2015
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory

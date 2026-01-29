@@ -1,6 +1,5 @@
 id: 2024-amityaron-omission-responsive-neurons-en-125
-title: Omission-responsive neurons encode negative prediction error and
-  probability in the auditory cortex
+title: Omission-responsive neurons encode negative prediction error and probability in the auditory cortex
 authors:
   - Amit Yaron
   - Tomoyo I Shirmatsu
@@ -13,3 +12,6 @@ type: journal
 doi: 10.1101/2024.09.09.612166
 tags:
   - english
+  - model:rat
+  - domain:auditory
+abstract: Abstract Predictive coding posits the brain predicts incoming sensory information and signals prediction errors when actual input differs from expectations. Positive prediction errors occur when input exceeds predictions, while negative prediction errors arise when input falls short. Specific neurons are theorized to encode negative prediction errors, linked to responses to omitted expected inputs. However, the information encoded in omission responses remains unclear. We recorded single-unit activity in rat auditory cortex during an omission paradigm with varying tone probabilities. We identified neurons selectively responding to omissions, with responses increasing with evidence accumulation and correlating with tone predictability—key characteristics of negative prediction-error neurons. Interestingly, these neurons showed selective omission responses but broad tone responses, revealing an asymmetry in error signaling. We propose a circuit model with laterally interconnected prediction-error neurons reproducing this asymmetry. Our model demonstrates that lateral connections enhance precision and efficiency of prediction encoding, supported by the free energy principle.

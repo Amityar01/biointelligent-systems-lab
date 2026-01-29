@@ -15,3 +15,7 @@ pages: 1537-1543
 doi: 10.1541/ieejeiss.127.1537
 tags:
   - japanese
+  - technique:ecog
+  - technique:mea-culture
+  - domain:bmi
+abstract: A less-invasive recording technique capable of simultaneously monitoring the activity of significant number (103 ∼ 104) of neurons is a vital step in developing an effective brain-machine interface. Although there are many excellent techniques for recording activities of a single neuron or a group of neurons, there is no methodology for accessing large number of cells in a behaving experimental animal or human individual. Brain vascular parenchyma offers the promising candidate to solve this problem. We have proposed the use of myriad of nano-wire-electrodes that are introduced into the Central Nervous System through the vascular system to address any brain area. In this study we design a microcatheter for ex vivo experiments. Using a Wollaston platinum wire we design a submicron-scale electrode, and develop the fabrication method. We then evaluate the mechanical property of the electrode to flow into the intricacies of the capillary bed in ex vivo Xenopus laevis. Furthermore, we demonstrate the feasibility of intravascular recording in the spinal cord of Xenopus laevis.

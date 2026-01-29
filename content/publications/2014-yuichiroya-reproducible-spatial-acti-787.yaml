@@ -1,7 +1,5 @@
 id: 2014-yuichiroyada-reproducible-spatial-activity--789
-title: "Reproducible spatial activity pattern in cortical network burst:
-  characterization with non-negative matrix factorization
-  (皮質神経回路のバースト活動が再現する空間活動パターン：非負値行列因子分解によるアプローチ)"
+title: "Reproducible spatial activity pattern in cortical network burst: characterization with non-negative matrix factorization (皮質神経回路のバースト活動が再現する空間活動パターン：非負値行列因子分解によるアプローチ)"
 authors:
   - Yuichiro Yada
   - Akihiro Sanada
@@ -12,3 +10,9 @@ year: 2014
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - model:human
+  - technique:spike
+  - technique:ecog
+  - domain:reservoir-computing
+  - domain:mismatch-negativity

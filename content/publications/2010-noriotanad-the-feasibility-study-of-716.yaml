@@ -1,6 +1,5 @@
 id: 2010-noriotanada-the-feasibility-study-of-novel-718
-title: The feasibility study of novel odor biosensor using dissociate neuronal
-  culture expressing ion channel built-in odor receptors
+title: The feasibility study of novel odor biosensor using dissociate neuronal culture expressing ion channel built-in odor receptors
 authors:
   - Norio Tanada
   - Takeshi Sakurai
@@ -14,3 +13,8 @@ year: 2010
 type: presentation
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+  - technique:optogenetics
+  - domain:bmi
+  - domain:reservoir-computing

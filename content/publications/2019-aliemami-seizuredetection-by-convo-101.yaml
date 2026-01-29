@@ -1,6 +1,5 @@
 id: 2019-aliemami-seizuredetection-by-convolutio-101
-title: Seizuredetection by convolutional neural network-based analysis of scalp
-  electroencephalographyplot images
+title: Seizuredetection by convolutional neural network-based analysis of scalp electroencephalographyplot images
 authors:
   - Ali Emami
   - Naoto Kunii
@@ -12,3 +11,7 @@ year: 2019
 type: journal
 tags:
   - english
+  - model:human
+  - technique:scalp-eeg
+  - technique:ecog
+  - domain:seizure

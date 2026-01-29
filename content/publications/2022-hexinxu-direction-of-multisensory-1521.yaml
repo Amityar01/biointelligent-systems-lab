@@ -5,9 +5,14 @@ authors:
   - Amit Yaron
   - Tomoyo Isoguchi Shiramatsu
   - Hirokazu Takahashi
-journal: 2022年電気学会電子・情報・システム部門大会講演論文集
+conference: 2022年電気学会電子・情報・システム部門大会
 year: 2022
-type: journal
+type: poster
 pages: PS1-14
 tags:
   - japanese
+  - model:rat
+  - technique:mea-culture
+  - technique:lfp
+  - domain:mismatch-negativity
+  - domain:auditory

@@ -1,6 +1,5 @@
 id: 2006-junsuzurikawa-light-addressable-planar-elect-139
-title: Light-addressable planar electrode with hydrogenated amorphous silicon
-  and low-conductive passivation layer for stimulation of cultured neurons
+title: Light-addressable planar electrode with hydrogenated amorphous silicon and low-conductive passivation layer for stimulation of cultured neurons
 authors:
   - Jun Suzurikawa
   - Hirokazu Takahashi
@@ -9,13 +8,15 @@ authors:
   - Mamoru Mitsuishi
   - Masayuki Nakao
   - Yasuhiko Jimbo
-conference: Proceedings of 28th Annual International Conference of the IEEE
-  Engineering in Medicine and Biology Society
+conference: Proceedings of 28th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
 year: 2006
 type: conference
 pages: 648-651
 awards:
-  - The 3rd Prize of IEEE EMBS Japan Young Investigators Competition for EMBS
-    2006受賞
+  - The 3rd Prize of IEEE EMBS Japan Young Investigators Competition for EMBS 2006受賞
 tags:
   - japanese
+  - model:culture
+  - technique:mea-culture
+doi: 10.1109/iembs.2006.259828
+abstract: Conventional multielectrode arrays (MEAs) cannot always access desired neurons due to low electrode density and small number of electrode. To overcome this problem, we propose a light-addressable planar electrode on a glass substrate. The electrode has a 3-layer structure, namely a transparent SnO2 layer, an hydrogenated amorphous silicon (a-Si:H) layer, and a passivation layer. Illumination to the a-Si:H layer increases the conductivity of a-Si:H and creates a virtual electrode at the surface of the illuminated site. In the present study, we developed a low-conductive zinc antimonate-dispersed epoxy layer. This layer could successfully prevent penetration of culture medium and thus deterioration of a-Si:H layer. A fluo-4 calcium imaging demonstrated that, when the whole area of electrode was illuminated, negative-monophasic voltage-controlled pulses could also successfully activate neurons cultured on the electrode. Moreover, the focused illumination to the electrode resulted in the selective activation of neurons around the illuminated area.

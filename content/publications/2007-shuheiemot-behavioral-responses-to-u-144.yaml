@@ -1,6 +1,5 @@
 id: 2007-shuheiemoto-behavioral-responses-to-uninte-144
-title: Behavioral responses to unintentional body movements in insects analyzed
-  by an insect-controlled robot
+title: Behavioral responses to unintentional body movements in insects analyzed by an insect-controlled robot
 authors:
   - Shuhei Emoto
   - Noriyasu Ando
@@ -12,3 +11,7 @@ type: conference
 pages: 231-234
 tags:
   - japanese
+  - model:insect
+  - technique:behavior
+  - technique:ecog
+  - domain:bmi

@@ -1,6 +1,5 @@
 id: 2011-junsuzurikawa-optimization-of-thin-film-conf-61
-title: Optimization of thin-film configuration for light-addressable stimulation
-  electrode
+title: Optimization of thin-film configuration for light-addressable stimulation electrode
 authors:
   - Jun Suzurikawa
   - Ryohei Kanzaki
@@ -15,3 +14,6 @@ issue: "1"
 doi: 10.1002/ecj.10241
 tags:
   - english
+  - technique:mea-culture
+  - technique:optogenetics
+abstract: "AbstractLight addressing is an emerging technique to optically address a virtual electrode on a photoconductive substrate. A thinner photoconductive layer of a light‐addressable planar electrode can improve the spatial resolution of the light‐addressed electrode. Voltage application to the electrode, however, causes a strong electric field across the thin photoconductive layer with a significant avalanche effect, which induces an undesired increase of dark current. In order to overcome this problem, we investigated how photoconductive‐layer thickness and passivation‐layer conductivity affect voltage‐application‐induced bright and dark charge densities. Suppression of the dark charge density with a thick photoconductive layer and a low‐conductive passivation layer is found to be a key factor for optimization of the light‐addressable electrode. With this design strategy, we developed a novel light‐addressable electrode using titanium dioxide as a photoconductor. To suppress the avalanche effect, the thickness of the titanium‐dioxide layer was designed to be 1.5 μm. The fabricated electrode turned out to have sufficient photoelectric properties: the bright charge density reached 70 μC/cm2 and the bright‐to‐dark charge density ratio was greater than 10, which allows stimulation to cultured dissociated neurons. © 2010 Wiley Periodicals, Inc. Electron Comm Jpn, 94(1): 61–68, 2011; Published online in Wiley Online Library (wileyonlinelibrary.com). DOI 10.1002/ecj.10241"

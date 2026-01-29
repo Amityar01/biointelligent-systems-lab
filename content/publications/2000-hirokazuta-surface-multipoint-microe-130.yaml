@@ -1,6 +1,5 @@
 id: 2000-hirokazutakahas-surface-multipoint-microelectr-130
-title: Surface multipoint microelectrode for direct recording of auditory evoked
-  potentials on the auditory cortex of a rat
+title: Surface multipoint microelectrode for direct recording of auditory evoked potentials on the auditory cortex of a rat
 authors:
   - Hirokazu Takahashi
   - Takayuki Ejiri
@@ -11,10 +10,15 @@ authors:
   - Thierry Hervé
   - Naoya Nakamura
   - Kimitaka Kaga
-conference: Proceedings of 1st Annual International IEEE-EMBS Special Topic
-  Conference on Microtechnologies in Medicine & Biology
+conference: Proceedings of 1st Annual International IEEE-EMBS Special Topic Conference on Microtechnologies in Medicine & Biology
 year: 2000
 type: conference
 pages: 512-517
 tags:
   - japanese
+  - model:rat
+  - technique:mea-culture
+  - technique:ecog
+  - domain:auditory
+doi: 10.1109/mmb.2000.893837
+abstract: Stimulation of the cochlear nucleus has been used for rehabilitation of deafened patients with bilateral acoustic neuromas, but current prosthetic devices bring few benefits. The goals of the authors' study are to develop such a system that could provide neuronal data with a high spatiotemporal resolution, reveal auditory pathway functions, and develop efficient guidelines for designing prostheses. Here, the authors propose and fabricate the surface microelectrode for direct cortical recordings, which is flexible enough to stick onto the cortex and consists of 32 recording sites on 2-mm square area. In addition, the spike microelectrode array, in which four microelectrodes are aligned at even intervals of 400 /spl mu/m, was developed, and used for micro-stimulation of the cochlear nucleus. The system using these electrodes was developed and its feasibility was shown on rats' animal experiments. In the experiments, the authors show that the surface electrode can provide high-resolution data of cortical activities elicited by both acoustic and electrical stimulation and can demonstrate the functional stimulation of the spike microelectrode array.

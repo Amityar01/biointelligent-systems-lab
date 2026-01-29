@@ -11,3 +11,7 @@ type: poster
 pages: "#2Pm-029"
 tags:
   - japanese
+  - model:rat
+  - technique:electrical-stim
+  - technique:ecog
+  - domain:auditory

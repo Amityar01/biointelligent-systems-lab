@@ -4,11 +4,13 @@ authors:
   - Takahiro Noda
   - Ryohei Kanzaki
   - Hirokazu Takahashi
-conference: Proceedings of Joint 4th International Conference on Soft Computing
-  and Intelligent Systems and 9th International Symposium on advanced
-  Intelligent Systems
+conference: Proceedings of Joint 4th International Conference on Soft Computing and Intelligent Systems and 9th International Symposium on advanced Intelligent Systems
 year: 2008
 type: conference
 pages: 257-262
 tags:
   - japanese
+  - model:rat
+  - technique:mea-culture
+  - technique:probe-invivo
+  - domain:bmi

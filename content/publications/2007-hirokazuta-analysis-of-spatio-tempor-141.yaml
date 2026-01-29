@@ -12,3 +12,9 @@ type: conference
 pages: 623-626
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - domain:auditory
+  - domain:mismatch-negativity
+doi: 10.1109/cne.2007.369749
+abstract: The artificial neural network (ANN) can translate spatio-temporal neural activities into the corresponding test stimuli. ANN with a simple structure and generalization ability has a potential to reflect a prominent feature of the computation mechanism in the brain. In the present work, we propose a novel analysis using ANN. In the constructed ANN, neural activities in the primary auditory cortex (A1) served as the inputs, and time-series changes of test frequencies of tones served as the targets. We then investigated input-output relationships of hidden layer neurons. Consequently, we found that some hidden layer neurons tuned the frequency preference by excitatory inputs from all frequency regions, while others tuned with inhibitory inputs from a low frequency region. These results suggest that neural activities in A1 form the frequency preference with excitatory inputs from all frequency pathways and inhibitory inputs from a low frequency pathway. This suggestion is consistent with physiological facts, thus proving the feasibility of the proposed analysis.

@@ -1,6 +1,5 @@
 id: 2024-shinichikumagai-cortical-entrainment-to-the-pe-938
-title: Cortical entrainment to the periodic auditory signals modulated by vagus
-  nerve stimulation
+title: Cortical entrainment to the periodic auditory signals modulated by vagus nerve stimulation
 authors:
   - Shinichi Kumagai
   - Tomoyo I Shiramatsu
@@ -12,3 +11,7 @@ year: 2024
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:electrical-stim
+  - domain:auditory
+  - domain:bmi

@@ -1,6 +1,5 @@
 id: 2024-amityaron-neural-dynamics-of-predictive--1418
-title: "Neural Dynamics of Predictive Coding in Rat Auditory Cortex: Insights
-  from Omission Responses"
+title: "Neural Dynamics of Predictive Coding in Rat Auditory Cortex: Insights from Omission Responses"
 authors:
   - Amit Yaron
   - Tomoyo I Shiramatsu
@@ -12,3 +11,7 @@ type: poster
 pages: "#2P-097"
 tags:
   - japanese
+  - model:rat
+  - technique:spike
+  - technique:ecog
+  - domain:auditory

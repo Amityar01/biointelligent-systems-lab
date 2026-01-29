@@ -1,0 +1,17 @@
+id: 2017-hayatotsun-modulating-memory-of-neuronal
+title: Modulating memory of neuronal network with repetitive evoking of synchronized burst
+authors:
+  - Hayato Tsunoda
+  - Yuichiro Yada
+  - Ryohei Kanzaki
+  - Hirokazu Takahashi
+year: 2017
+type: journal
+tags:
+  - english
+  - model:rat
+  - model:culture
+  - technique:spike
+  - technique:ecog
+  - domain:plasticity
+  - domain:reservoir-computing

@@ -1,6 +1,5 @@
 id: 2016-ryosoga-manipulation-of-tone-preferenc-1385
-title: Manipulation of tone preference using classical
-  conditioning（古典的条件付けを用いた音嗜好性の操作）
+title: Manipulation of tone preference using classical conditioning（古典的条件付けを用いた音嗜好性の操作）
 authors:
   - Ryo Soga
   - Tomoyo I. Shiramatsu
@@ -12,3 +11,5 @@ type: poster
 pages: 131-133
 tags:
   - japanese
+  - model:rat
+  - technique:behavior

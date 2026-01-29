@@ -1,6 +1,5 @@
 id: 2003-hirokazutakahas-mapping-auditory-cortical-evok-417
-title: Mapping auditory cortical evoked potentials with the surface
-  microelectrode array
+title: Mapping auditory cortical evoked potentials with the surface microelectrode array
 authors:
   - Hirokazu Takahashi
 conference: The Cog Neuro Meeting
@@ -8,3 +7,7 @@ year: 2003
 type: presentation
 tags:
   - japanese
+  - model:rat
+  - technique:ecog
+  - technique:mea-culture
+  - domain:auditory

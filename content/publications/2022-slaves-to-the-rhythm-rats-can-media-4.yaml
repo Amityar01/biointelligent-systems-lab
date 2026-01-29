@@ -4,7 +4,11 @@ title: "Slaves to the rhythm: rats can’t resist a good beat, researchers say"
 type: media
 year: 2022
 source: The Guardian
-date: 2022-11-14
+date: "2022-11-14"
 url: https://www.theguardian.com/science/2022/nov/11/rat-instictively-move-time-music-ability-previously-thought-uniquely-human-study
 tags:
   - media-coverage
+  - model:rat
+  - technique:behavior
+  - technique:ecog
+  - domain:music

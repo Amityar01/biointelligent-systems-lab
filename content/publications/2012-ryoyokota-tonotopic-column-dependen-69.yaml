@@ -1,6 +1,5 @@
 id: 2012-ryoyokota-tonotopic-column-dependent-var-69
-title: Tonotopic-column-dependent variability of neural encoding in the auditory
-  cortex of rats
+title: Tonotopic-column-dependent variability of neural encoding in the auditory cortex of rats
 authors:
   - Ryo Yokota
   - Kazuyuki Aihara
@@ -12,3 +11,7 @@ pages: 377-387
 doi: 10.1016/j.neuroscience.2012.07.051
 tags:
   - english
+  - model:rat
+  - technique:ecog
+  - technique:lfp
+  - domain:auditory

@@ -12,3 +12,6 @@ issue: "7"
 doi: 10.1371/journal.pone.0068705
 tags:
   - english
+  - model:rat
+  - domain:plasticity
+abstract: The mechanisms by which functional maps and map plasticity contribute to cortical computation remain controversial. Recent studies have revisited the theory of neural Darwinism to interpret the learning-induced map plasticity and neuronal heterogeneity observed in the cortex. Here, we hypothesize that the Darwinian principle provides a substrate to explain the relationship between neuron heterogeneity and cortical functional maps. We demonstrate in the rat auditory cortex that the degree of response variance is closely correlated with the size of its representational area. Further, we show that the response variance within a given population is altered through training. These results suggest that larger representational areas may help to accommodate heterogeneous populations of neurons. Thus, functional maps and map plasticity are likely to play essential roles in Darwinian computation, serving as effective, but not absolutely necessary, structures to generate diverse response properties within a neural population.

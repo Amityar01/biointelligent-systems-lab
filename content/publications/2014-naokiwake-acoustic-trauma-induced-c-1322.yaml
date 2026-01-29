@@ -1,6 +1,5 @@
 id: 2014-naokiwake-acoustic-trauma-induced-change-1359
-title: Acoustic-trauma-induced changes in phase synchrony of neuron population
-  in rat auditory cortex (音響外傷が聴皮質のニューロン集団の位相同期に及ぼす影響)
+title: Acoustic-trauma-induced changes in phase synchrony of neuron population in rat auditory cortex (音響外傷が聴皮質のニューロン集団の位相同期に及ぼす影響)
 authors:
   - Naoki Wake
   - Tomoyo Shiramatsu-Isoguchi
@@ -12,3 +11,5 @@ type: poster
 pages: P3-138
 tags:
   - japanese
+  - model:rat
+  - domain:auditory
