@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useEffect, useCallback } from 'react';
 import Link from 'next/link';
-import { ArrowLeft, Search, ExternalLink, Sparkles } from 'lucide-react';
+import { ArrowLeft, Search, ExternalLink, Sparkles, ChevronDown, ChevronUp } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
 import type { Publication } from '@/lib/content';
 import {
@@ -37,6 +37,36 @@ const categoryColors: Record<string, string> = {
   domain: 'bg-purple-50 text-purple-700 border-purple-200',
 };
 
+// Type badge colors
+const typeBadgeColors: Record<string, string> = {
+  journal: 'bg-emerald-100 text-emerald-800',
+  preprint: 'bg-amber-100 text-amber-800',
+  conference: 'bg-sky-100 text-sky-800',
+  presentation: 'bg-indigo-100 text-indigo-800',
+  poster: 'bg-violet-100 text-violet-800',
+  thesis: 'bg-rose-100 text-rose-800',
+  book: 'bg-orange-100 text-orange-800',
+  review: 'bg-teal-100 text-teal-800',
+  media: 'bg-pink-100 text-pink-800',
+  grant: 'bg-lime-100 text-lime-800',
+  report: 'bg-slate-100 text-slate-800',
+  award: 'bg-yellow-100 text-yellow-800',
+};
+
+// Helper to extract venue from DOI for preprints
+function getVenueFromDoi(doi?: string): string | null {
+  if (!doi) return null;
+  const doiLower = doi.toLowerCase();
+  if (doiLower.includes('biorxiv')) return 'bioRxiv';
+  if (doiLower.includes('medrxiv')) return 'medRxiv';
+  if (doiLower.includes('arxiv')) return 'arXiv';
+  if (doiLower.includes('chemrxiv')) return 'ChemRxiv';
+  if (doiLower.includes('ssrn')) return 'SSRN';
+  if (doiLower.includes('researchsquare')) return 'Research Square';
+  if (doiLower.includes('authorea')) return 'Authorea';
+  return null;
+}
+
 const categoryLabels: Record<string, { en: string; ja: string }> = {
   model: { en: 'Model', ja: 'モデル' },
   technique: { en: 'Technique', ja: '技術' },
@@ -67,6 +97,19 @@ export default function PublicationsClient({ publications, allTags }: Publicatio
   const [selectedModel, setSelectedModel] = useState<string>('all');
   const [selectedTechnique, setSelectedTechnique] = useState<string>('all');
   const [selectedDomain, setSelectedDomain] = useState<string>('all');
+  const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set());
+
+  const toggleExpanded = (id: string) => {
+    setExpandedIds(prev => {
+      const next = new Set(prev);
+      if (next.has(id)) {
+        next.delete(id);
+      } else {
+        next.add(id);
+      }
+      return next;
+    });
+  };
 
   // Semantic search state
   const [embeddings, setEmbeddings] = useState<Map<string, number[]>>(new Map());
@@ -401,21 +444,49 @@ export default function PublicationsClient({ publications, allTags }: Publicatio
 
                   {/* Publications for this year */}
                   <div className="space-y-4">
-                    {yearPubs.map((pub) => (
+                    {yearPubs.map((pub) => {
+                      const isExpanded = expandedIds.has(pub.id);
+                      const venue = pub.journal || pub.conference || getVenueFromDoi(pub.doi);
+                      const hasAbstract = !!pub.abstract;
+
+                      return (
                       <article key={pub.id} className="p-6 bg-white border border-[var(--border)] rounded-lg hover:border-[var(--border-hover)] transition-colors">
-                        {/* Title */}
-                        <h3 className="font-semibold text-[var(--text)] mb-2 leading-snug">{pub.title}</h3>
+                        {/* Header row: Type badge + Title */}
+                        <div className="flex items-start gap-3 mb-2">
+                          <span className={`shrink-0 px-2 py-0.5 text-xs font-medium rounded ${typeBadgeColors[pub.type] || 'bg-gray-100 text-gray-800'}`}>
+                            {t(typeLabels[pub.type] || { en: pub.type, ja: pub.type })}
+                          </span>
+                          <h3 className="font-semibold text-[var(--text)] leading-snug">{pub.title}</h3>
+                        </div>
 
                         {/* Authors */}
                         <p className="text-sm text-[var(--text-secondary)] mb-2">{pub.authors?.join(', ')}</p>
 
-                        {/* Journal info */}
+                        {/* Venue and publication details */}
                         <p className="text-sm text-[var(--text-muted)] mb-3">
-                          <span className="italic">{pub.journal}</span>
-                          {pub.volume && `, ${pub.volume}`}
-                          {pub.pages && `, ${pub.pages}`}
-                          {year > 0 ? '' : ` (${pub.year})`}
+                          {venue && <span className="italic">{venue}</span>}
+                          {pub.volume && <span>, vol. {pub.volume}</span>}
+                          {pub.pages && <span>, pp. {pub.pages}</span>}
+                          {year > 0 ? '' : <span> ({pub.year})</span>}
                         </p>
+
+                        {/* Abstract (expandable) */}
+                        {hasAbstract && (
+                          <div className="mb-3">
+                            <button
+                              onClick={() => toggleExpanded(pub.id)}
+                              className="flex items-center gap-1 text-xs text-[var(--accent)] hover:underline"
+                            >
+                              {isExpanded ? <ChevronUp className="w-3 h-3" /> : <ChevronDown className="w-3 h-3" />}
+                              {isExpanded ? 'Hide abstract' : 'Show abstract'}
+                            </button>
+                            {isExpanded && (
+                              <p className="mt-2 text-sm text-[var(--text-secondary)] leading-relaxed bg-[var(--bg-alt)] p-4 rounded-lg">
+                                {pub.abstract}
+                              </p>
+                            )}
+                          </div>
+                        )}
 
                         {/* Auto-labels */}
                         {pub.tags?.some(t => t.includes(':')) && (
@@ -482,7 +553,7 @@ export default function PublicationsClient({ publications, allTags }: Publicatio
                           )}
                         </div>
                       </article>
-                    ))}
+                    );})}
                   </div>
                 </div>
               ))}

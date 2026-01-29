@@ -97,6 +97,7 @@ export interface Publication {
   pubmed?: string;
   type: 'journal' | 'preprint' | 'conference' | 'presentation' | 'poster' | 'thesis' | 'book' | 'review' | 'media' | 'grant' | 'report' | 'award';
   tags?: string[];
+  abstract?: string;
 }
 
 export interface Translations {
